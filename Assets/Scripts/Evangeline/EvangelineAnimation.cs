@@ -3,6 +3,7 @@ using UnityEngine;
 public class EvangelineAnimation : MonoBehaviour
 {
     [SerializeField] private EvangelineMovement movementScript;
+    [SerializeField] private LineAttack wandAttack;
     [SerializeField] private Animator animator;
 
     private void OnEnable()
@@ -10,6 +11,11 @@ public class EvangelineAnimation : MonoBehaviour
         if (movementScript != null)
         {
             movementScript.OnMoveVectorChanged += HandleMovementChanged;
+        }
+
+        if (wandAttack != null)
+        {
+            wandAttack.OnAttackStarted += HandleWandAttackStarted;
         }
     }
 
@@ -19,6 +25,18 @@ public class EvangelineAnimation : MonoBehaviour
         {
             movementScript.OnMoveVectorChanged -= HandleMovementChanged;
         }
+
+        if (wandAttack != null)
+        {
+            wandAttack.OnAttackStarted -= HandleWandAttackStarted;
+        }
+    }
+
+    private void HandleWandAttackStarted(Vector2 direction)
+    {
+        if (animator == null) return;
+
+        animator.SetTrigger("Cast");
     }
 
     private void HandleMovementChanged(Vector2 moveInput)

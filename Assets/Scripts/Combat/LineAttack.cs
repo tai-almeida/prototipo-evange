@@ -1,33 +1,34 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// aplica dano em todo Health dentro do raio do cone, ao receber o evento de ataque
-public class ConeAttack : MonoBehaviour
+
+public class LineAttack : MonoBehaviour
 {
     [SerializeField] private EvangelineActions actions;
     [SerializeField] private EvangelineMovement movement;
     [SerializeField] private Transform origin;
 
-    [SerializeField] private float range = 3f;
-    [SerializeField, Range(1f, 360f)] private float angle = 90f;
-    [SerializeField] private int damage = 1;
-    [SerializeField] private float cooldown = 0.5f;
+    [SerializeField] private float range = 8f;
+    [SerializeField] private float width = 0.2f;
+    [SerializeField] private int damage = 3;
+    [SerializeField] private float cooldown = 0.7f;
+    [SerializeField] private float castDelay = 0.6f;
     [SerializeField] private LayerMask targetLayers = ~0;
 
+    public event Action<Vector2> OnAttackStarted;
     public event Action<Vector2> OnAttackPerformed;
     public event Action<Health> OnTargetHit;
 
     public float Range => range;
-    public float Angle => angle;
+    public float Width => width;
 
     private Vector2 facing = Vector2.down;
     private float nextAttackTime;
 
-
-    // garantir que cada alvo leve dano so uma vez por ataque usando hash set
+    // garante que cada alvo leve dano so uma vez por ataque
     private readonly HashSet<Health> hitThisAttack = new HashSet<Health>();
-    
 
     private Vector2 Origin => origin != null ? origin.position : transform.position;
 
@@ -35,9 +36,9 @@ public class ConeAttack : MonoBehaviour
     {
         if (actions != null)
         {
-            actions.OnAttackTriggered += HandleAttack;
+            actions.OnCastTriggered += HandleCast;
         }
-        
+
         if (movement != null)
         {
             movement.OnMoveVectorChanged += HandleMovementChanged;
@@ -48,14 +49,13 @@ public class ConeAttack : MonoBehaviour
     {
         if (actions != null)
         {
-            actions.OnAttackTriggered -= HandleAttack;
+            actions.OnCastTriggered -= HandleCast;
         }
-        
+
         if (movement != null)
         {
             movement.OnMoveVectorChanged -= HandleMovementChanged;
         }
-        
     }
 
     private void HandleMovementChanged(Vector2 moveInput)
@@ -67,26 +67,31 @@ public class ConeAttack : MonoBehaviour
         }
     }
 
-    private void HandleAttack()
+    private void HandleCast()
     {
         if (Time.time < nextAttackTime) return;
         nextAttackTime = Time.time + cooldown;
 
-        OnAttackPerformed?.Invoke(facing);
+        // a direcao fica travada no momento do clique
+        StartCoroutine(Cast(facing));
+    }
+
+    private IEnumerator Cast(Vector2 direction)
+    {
+        OnAttackStarted?.Invoke(direction);
+        yield return new WaitForSeconds(castDelay);
+
+        OnAttackPerformed?.Invoke(direction);
+
+        Vector2 center = Origin + direction * range * 0.5f;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
         hitThisAttack.Clear();
-        foreach (var hit in Physics2D.OverlapCircleAll(Origin, range, targetLayers))
+        foreach (var hit in Physics2D.OverlapBoxAll(center, new Vector2(range, width), angle, targetLayers))
         {
-            /*
-            ataca todos os healths no rnange selecionado
-            verifica se a saude ja eh nula ou se eh filha de outro elemento
-            adiciona o ataque ao hashset para nao causar dano de novo no mesmo elemento em um mesmo ataque
-            */
             var health = hit.GetComponentInParent<Health>();
             if (health == null || health.transform.IsChildOf(transform)) continue;
             if (!hitThisAttack.Add(health)) continue;
-            Vector2 toTarget = hit.ClosestPoint(Origin) - Origin;
-            if (Vector2.Angle(facing, toTarget) > angle * 0.5f) continue;
 
             health.TakeDamage(damage);
             OnTargetHit?.Invoke(health);
@@ -96,21 +101,11 @@ public class ConeAttack : MonoBehaviour
     private void OnDrawGizmosSelected()
     {
         Vector2 dir = Application.isPlaying ? facing : Vector2.down;
-        Vector3 center = Origin;
-        Vector3 left = Quaternion.Euler(0, 0, angle * 0.5f) * dir * range;
-        Vector3 right = Quaternion.Euler(0, 0, -angle * 0.5f) * dir * range;
+        Vector3 center = Origin + dir * range * 0.5f;
+        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
 
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawLine(center, center + left);
-        Gizmos.DrawLine(center, center + right);
-
-        const int segments = 16;
-        Vector3 previous = center + right;
-        for (int i = 1; i <= segments; i++)
-        {
-            Vector3 point = center + Quaternion.Euler(0, 0, -angle * 0.5f + angle * i / segments) * dir * range;
-            Gizmos.DrawLine(previous, point);
-            previous = point;
-        }
+        Gizmos.color = Color.cyan;
+        Gizmos.matrix = Matrix4x4.TRS(center, Quaternion.Euler(0, 0, angle), Vector3.one);
+        Gizmos.DrawWireCube(Vector3.zero, new Vector3(range, width, 0f));
     }
 }
