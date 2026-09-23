@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 022387dbab6a34803b4c71cadbcbfe0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5645813354961733768
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_0
+  - first:
+      213: 5185054514784717935
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_1
+  - first:
+      213: -539726572124843286
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_2
+  - first:
+      213: 6764675252337167459
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_3
+  - first:
+      213: 2061819740782736882
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_4
+  - first:
+      213: 3579113819428473833
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_5
+  - first:
+      213: 6519072764443924856
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_6
+  - first:
+      213: -1291816407870518215
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_7
+  - first:
+      213: 8769356032620223795
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_8
+  - first:
+      213: 1786306374618533258
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_9
+  - first:
+      213: -5234254546757896668
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_10
+  - first:
+      213: -2684057260891548899
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_11
+  - first:
+      213: -4532084761079189231
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_12
+  - first:
+      213: 1629601071895255674
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_13
+  - first:
+      213: 6845218781789099045
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_14
+  - first:
+      213: 3476041779665536884
+    second: Minifantasy_MagicAndSorceryHumanProjectileThrowing_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877795d9aaa06a1b0800000000000000
+      internalID: -5645813354961733768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c47ce0c9305f740800000000000000
+      internalID: 5185054514784717935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d8a0da818288f0800000000000000
+      internalID: -539726572124843286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cce6c1d44f0ed50800000000000000
+      internalID: 6764675252337167459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f53e38512e0d9c10800000000000000
+      internalID: 2061819740782736882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebc9b94e019ba130800000000000000
+      internalID: 3579113819428473833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799a95c326687a50800000000000000
+      internalID: 6519072764443924856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c4bd542db821ee0800000000000000
+      internalID: -1291816407870518215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dd14189d203b970800000000000000
+      internalID: 8769356032620223795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4727fe2c3ac810800000000000000
+      internalID: 1786306374618533258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b584d8313c57b0800000000000000
+      internalID: -5234254546757896668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1350c7542050cad0800000000000000
+      internalID: -2684057260891548899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f9ebfbecca11c0800000000000000
+      internalID: -4532084761079189231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a99e77a818d9610800000000000000
+      internalID: 1629601071895255674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5241f5ae63a1ffe50800000000000000
+      internalID: 6845218781789099045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileThrowing_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477816de4916d3030800000000000000
+      internalID: 3476041779665536884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_0: -5645813354961733768
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_1: 5185054514784717935
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_10: -5234254546757896668
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_11: -2684057260891548899
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_12: -4532084761079189231
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_13: 1629601071895255674
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_14: 6845218781789099045
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_15: 3476041779665536884
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_2: -539726572124843286
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_3: 6764675252337167459
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_4: 2061819740782736882
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_5: 3579113819428473833
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_6: 6519072764443924856
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_7: -1291816407870518215
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_8: 8769356032620223795
+      Minifantasy_MagicAndSorceryHumanProjectileThrowing_9: 1786306374618533258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

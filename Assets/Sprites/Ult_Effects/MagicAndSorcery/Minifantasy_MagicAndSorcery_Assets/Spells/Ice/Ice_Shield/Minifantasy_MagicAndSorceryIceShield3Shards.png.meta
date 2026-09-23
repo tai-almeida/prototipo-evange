@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 8f2ae514f61d74424b58ab1abf0ef14b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8102074310522099156
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_0
+  - first:
+      213: 1703516217506397222
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_1
+  - first:
+      213: -416700003012247315
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_2
+  - first:
+      213: 1501533224029817299
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_3
+  - first:
+      213: -6309693019435484466
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_4
+  - first:
+      213: 8741846493792113720
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_5
+  - first:
+      213: 8987555291448926713
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_6
+  - first:
+      213: -7755298793805610835
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_7
+  - first:
+      213: 308496352832855136
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_8
+  - first:
+      213: 8644486541008665475
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_9
+  - first:
+      213: 8049042131799109132
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_10
+  - first:
+      213: 2452894767045303189
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_11
+  - first:
+      213: 462924775238836152
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_12
+  - first:
+      213: -8227022926410262129
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_13
+  - first:
+      213: 8624909337097085417
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_14
+  - first:
+      213: -614534399598563720
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_15
+  - first:
+      213: -317802260976944869
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_16
+  - first:
+      213: -3596321857971139295
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_17
+  - first:
+      213: -3916483988513320489
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_18
+  - first:
+      213: -8679107005821629621
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_19
+  - first:
+      213: 426411612161968813
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_20
+  - first:
+      213: 964516329093860368
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_21
+  - first:
+      213: -2771756339549639433
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_22
+  - first:
+      213: -1614460532466936844
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_23
+  - first:
+      213: -8018751850486792210
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_24
+  - first:
+      213: 2154413740629834607
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_25
+  - first:
+      213: 1458818707703106413
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_26
+  - first:
+      213: 4225515028857106714
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_27
+  - first:
+      213: -7058706646423698885
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_28
+  - first:
+      213: 2080898518584758254
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_29
+  - first:
+      213: -8552028494346452027
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_30
+  - first:
+      213: -4153799808165784456
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_31
+  - first:
+      213: 8492862388377776091
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_32
+  - first:
+      213: -7830951360782975688
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_33
+  - first:
+      213: 1667134780865793572
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_34
+  - first:
+      213: -5713131383417515627
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_35
+  - first:
+      213: -15847778004390942
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_36
+  - first:
+      213: 522461093762801191
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_37
+  - first:
+      213: 2585578903275204900
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_38
+  - first:
+      213: 7222880973800538050
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_39
+  - first:
+      213: 2191060169631440262
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_40
+  - first:
+      213: -5633733394322887379
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_41
+  - first:
+      213: 6633576815251339385
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_42
+  - first:
+      213: -2000709763939075955
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_43
+  - first:
+      213: -4707142743422284875
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_44
+  - first:
+      213: -4426875437036604027
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_45
+  - first:
+      213: -2849552127223340301
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_46
+  - first:
+      213: -2629954095835487790
+    second: Minifantasy_MagicAndSorceryIceShield3Shards_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5dc76a8a9507070800000000000000
+      internalID: 8102074310522099156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf59569fa14a710800000000000000
+      internalID: 1703516217506397222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de00d861e85973af0800000000000000
+      internalID: -416700003012247315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98eb4038486d410800000000000000
+      internalID: 1501533224029817299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca39c601a77f68a0800000000000000
+      internalID: -6309693019435484466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834197fd117415970800000000000000
+      internalID: 8741846493792113720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1eef16be53abc70800000000000000
+      internalID: 8987555291448926713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0833c16d4af5490800000000000000
+      internalID: -7755298793805610835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1b156ccff74400800000000000000
+      internalID: 308496352832855136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b777665b267f770800000000000000
+      internalID: 8644486541008665475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ee9085c21f3bf60800000000000000
+      internalID: 8049042131799109132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b562d6bce6a0220800000000000000
+      internalID: 2452894767045303189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf96d161a3ac6600800000000000000
+      internalID: 462924775238836152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f895250bc3eb3dd80800000000000000
+      internalID: -8227022926410262129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e12f996855d1b770800000000000000
+      internalID: 8624909337097085417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e6ba1383cb877f0800000000000000
+      internalID: -614534399598563720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1937a50780f69bf0800000000000000
+      internalID: -317802260976944869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d48a5035c471ec0800000000000000
+      internalID: -3596321857971139295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d19828109ad5a9c0800000000000000
+      internalID: -3916483988513320489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bc56e792e9d8780800000000000000
+      internalID: -8679107005821629621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_20
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa040f1a1beae500800000000000000
+      internalID: 426411612161968813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c04b7bd76a26d00800000000000000
+      internalID: 964516329093860368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce4396b4eb889d0800000000000000
+      internalID: -2771756339549639433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f39b6213b84899e0800000000000000
+      internalID: -1614460532466936844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef7ab95daba7b090800000000000000
+      internalID: -8018751850486792210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b367de1e306ed10800000000000000
+      internalID: 2154413740629834607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b8650b2e3ce3410800000000000000
+      internalID: 1458818707703106413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a113a10f78b04aa30800000000000000
+      internalID: 4225515028857106714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b320a3624bf6a0e90800000000000000
+      internalID: -7058706646423698885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef81e57d26d0ec10800000000000000
+      internalID: 2080898518584758254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3067d1567115980800000000000000
+      internalID: -8552028494346452027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874513e051dba56c0800000000000000
+      internalID: -4153799808165784456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf68895855bcd570800000000000000
+      internalID: 8492862388377776091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d3b2f3a3fd25390800000000000000
+      internalID: -7830951360782975688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e4436104ad22710800000000000000
+      internalID: 1667134780865793572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5915348b641e6b0b0800000000000000
+      internalID: -5713131383417515627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eba195a782b7cff0800000000000000
+      internalID: -15847778004390942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e91beb897204700800000000000000
+      internalID: 522461093762801191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42176744052d1e320800000000000000
+      internalID: 2585578903275204900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cffe4a2af3dc3460800000000000000
+      internalID: 7222880973800538050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d93649d95386e10800000000000000
+      internalID: 2191060169631440262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de020a355f0d1b0800000000000000
+      internalID: -5633733394322887379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978b25f97f23f0c50800000000000000
+      internalID: 6633576815251339385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8871c5e11d0c34e0800000000000000
+      internalID: -2000709763939075955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_44
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc1474d9edcaeb0800000000000000
+      internalID: -4707142743422284875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585f78e9e349092c0800000000000000
+      internalID: -4426875437036604027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2e4e7107b5478d0800000000000000
+      internalID: -2849552127223340301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryIceShield3Shards_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d164261fa6808bd0800000000000000
+      internalID: -2629954095835487790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryIceShield3Shards_0: 8102074310522099156
+      Minifantasy_MagicAndSorceryIceShield3Shards_1: 1703516217506397222
+      Minifantasy_MagicAndSorceryIceShield3Shards_10: 8049042131799109132
+      Minifantasy_MagicAndSorceryIceShield3Shards_11: 2452894767045303189
+      Minifantasy_MagicAndSorceryIceShield3Shards_12: 462924775238836152
+      Minifantasy_MagicAndSorceryIceShield3Shards_13: -8227022926410262129
+      Minifantasy_MagicAndSorceryIceShield3Shards_14: 8624909337097085417
+      Minifantasy_MagicAndSorceryIceShield3Shards_15: -614534399598563720
+      Minifantasy_MagicAndSorceryIceShield3Shards_16: -317802260976944869
+      Minifantasy_MagicAndSorceryIceShield3Shards_17: -3596321857971139295
+      Minifantasy_MagicAndSorceryIceShield3Shards_18: -3916483988513320489
+      Minifantasy_MagicAndSorceryIceShield3Shards_19: -8679107005821629621
+      Minifantasy_MagicAndSorceryIceShield3Shards_2: -416700003012247315
+      Minifantasy_MagicAndSorceryIceShield3Shards_20: 426411612161968813
+      Minifantasy_MagicAndSorceryIceShield3Shards_21: 964516329093860368
+      Minifantasy_MagicAndSorceryIceShield3Shards_22: -2771756339549639433
+      Minifantasy_MagicAndSorceryIceShield3Shards_23: -1614460532466936844
+      Minifantasy_MagicAndSorceryIceShield3Shards_24: -8018751850486792210
+      Minifantasy_MagicAndSorceryIceShield3Shards_25: 2154413740629834607
+      Minifantasy_MagicAndSorceryIceShield3Shards_26: 1458818707703106413
+      Minifantasy_MagicAndSorceryIceShield3Shards_27: 4225515028857106714
+      Minifantasy_MagicAndSorceryIceShield3Shards_28: -7058706646423698885
+      Minifantasy_MagicAndSorceryIceShield3Shards_29: 2080898518584758254
+      Minifantasy_MagicAndSorceryIceShield3Shards_3: 1501533224029817299
+      Minifantasy_MagicAndSorceryIceShield3Shards_30: -8552028494346452027
+      Minifantasy_MagicAndSorceryIceShield3Shards_31: -4153799808165784456
+      Minifantasy_MagicAndSorceryIceShield3Shards_32: 8492862388377776091
+      Minifantasy_MagicAndSorceryIceShield3Shards_33: -7830951360782975688
+      Minifantasy_MagicAndSorceryIceShield3Shards_34: 1667134780865793572
+      Minifantasy_MagicAndSorceryIceShield3Shards_35: -5713131383417515627
+      Minifantasy_MagicAndSorceryIceShield3Shards_36: -15847778004390942
+      Minifantasy_MagicAndSorceryIceShield3Shards_37: 522461093762801191
+      Minifantasy_MagicAndSorceryIceShield3Shards_38: 2585578903275204900
+      Minifantasy_MagicAndSorceryIceShield3Shards_39: 7222880973800538050
+      Minifantasy_MagicAndSorceryIceShield3Shards_4: -6309693019435484466
+      Minifantasy_MagicAndSorceryIceShield3Shards_40: 2191060169631440262
+      Minifantasy_MagicAndSorceryIceShield3Shards_41: -5633733394322887379
+      Minifantasy_MagicAndSorceryIceShield3Shards_42: 6633576815251339385
+      Minifantasy_MagicAndSorceryIceShield3Shards_43: -2000709763939075955
+      Minifantasy_MagicAndSorceryIceShield3Shards_44: -4707142743422284875
+      Minifantasy_MagicAndSorceryIceShield3Shards_45: -4426875437036604027
+      Minifantasy_MagicAndSorceryIceShield3Shards_46: -2849552127223340301
+      Minifantasy_MagicAndSorceryIceShield3Shards_47: -2629954095835487790
+      Minifantasy_MagicAndSorceryIceShield3Shards_5: 8741846493792113720
+      Minifantasy_MagicAndSorceryIceShield3Shards_6: 8987555291448926713
+      Minifantasy_MagicAndSorceryIceShield3Shards_7: -7755298793805610835
+      Minifantasy_MagicAndSorceryIceShield3Shards_8: 308496352832855136
+      Minifantasy_MagicAndSorceryIceShield3Shards_9: 8644486541008665475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

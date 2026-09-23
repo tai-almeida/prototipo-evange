@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 0fdec5c926f4f4435ad86ac6a7d5b3b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4711859745568213150
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_0
+  - first:
+      213: -2476207947888744852
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_1
+  - first:
+      213: -849308715611464982
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_2
+  - first:
+      213: 7028685270103579042
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_3
+  - first:
+      213: -7824829509136895244
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_4
+  - first:
+      213: 3857404094972236018
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_5
+  - first:
+      213: -4733092585513046175
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_6
+  - first:
+      213: -1056875659896485878
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_7
+  - first:
+      213: 7175175028602622604
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_8
+  - first:
+      213: -2952258745641731567
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_9
+  - first:
+      213: -2480284491561093812
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_10
+  - first:
+      213: 4641851384671222141
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_11
+  - first:
+      213: 5351866683296445357
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_12
+  - first:
+      213: -7685055260344231651
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_13
+  - first:
+      213: -8866008236174876717
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_14
+  - first:
+      213: -3161435996085464356
+    second: Minifantasy_MagicAndSorceryGoblinProjectileHolding_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267b1f1a68c1c9eb0800000000000000
+      internalID: -4711859745568213150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a71cadfdb2add0800000000000000
+      internalID: -2476207947888744852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aead5551936a634f0800000000000000
+      internalID: -849308715611464982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a95b8a7308ea8160800000000000000
+      internalID: 7028685270103579042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2b6e7e40f986390800000000000000
+      internalID: -7824829509136895244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f015f34690488530800000000000000
+      internalID: 3857404094972236018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fa577de5da05eb0800000000000000
+      internalID: -4733092585513046175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080d18df293551f0800000000000000
+      internalID: -1056875659896485878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82dc1d3ca7539360800000000000000
+      internalID: 7175175028602622604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afbf400587707d0800000000000000
+      internalID: -2952258745641731567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4537926562449dd0800000000000000
+      internalID: -2480284491561093812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79bb73ad3b2b6040800000000000000
+      internalID: 4641851384671222141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f12f9466a54a40800000000000000
+      internalID: 5351866683296445357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d195fe735f2395590800000000000000
+      internalID: -7685055260344231651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfdb1bbb7c95f480800000000000000
+      internalID: -8866008236174876717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileHolding_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2513926b25024d0800000000000000
+      internalID: -3161435996085464356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_0: -4711859745568213150
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_1: -2476207947888744852
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_10: -2480284491561093812
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_11: 4641851384671222141
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_12: 5351866683296445357
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_13: -7685055260344231651
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_14: -8866008236174876717
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_15: -3161435996085464356
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_2: -849308715611464982
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_3: 7028685270103579042
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_4: -7824829509136895244
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_5: 3857404094972236018
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_6: -4733092585513046175
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_7: -1056875659896485878
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_8: 7175175028602622604
+      Minifantasy_MagicAndSorceryGoblinProjectileHolding_9: -2952258745641731567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

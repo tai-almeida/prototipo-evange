@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: a9ed660d6c8b64b5a9916fe182b78cd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3012820246683683559
+    second: Fire_Wave_W_0
+  - first:
+      213: -8114882867319688058
+    second: Fire_Wave_W_1
+  - first:
+      213: 7102470070676332048
+    second: Fire_Wave_W_2
+  - first:
+      213: 9197868625234449673
+    second: Fire_Wave_W_3
+  - first:
+      213: -1080815120353753446
+    second: Fire_Wave_W_4
+  - first:
+      213: 2649307155637354415
+    second: Fire_Wave_W_5
+  - first:
+      213: -3292122255018066033
+    second: Fire_Wave_W_6
+  - first:
+      213: 5517654435090363920
+    second: Fire_Wave_W_7
+  - first:
+      213: -7455981885439308866
+    second: Fire_Wave_W_8
+  - first:
+      213: -7323656760488421301
+    second: Fire_Wave_W_9
+  - first:
+      213: -175243299489703391
+    second: Fire_Wave_W_10
+  - first:
+      213: -1494711712794676214
+    second: Fire_Wave_W_11
+  - first:
+      213: 1335407556975849480
+    second: Fire_Wave_W_12
+  - first:
+      213: 2617950951652928679
+    second: Fire_Wave_W_13
+  - first:
+      213: -1509870589702346420
+    second: Fire_Wave_W_14
+  - first:
+      213: -5529454686639819508
+    second: Fire_Wave_W_15
+  - first:
+      213: 174304213344452343
+    second: Fire_Wave_W_16
+  - first:
+      213: 8486839371923994823
+    second: Fire_Wave_W_17
+  - first:
+      213: 2854726890695923093
+    second: Fire_Wave_W_18
+  - first:
+      213: -1494521320476121563
+    second: Fire_Wave_W_19
+  - first:
+      213: -2642366184838916073
+    second: Fire_Wave_W_20
+  - first:
+      213: 1272107541460781050
+    second: Fire_Wave_W_21
+  - first:
+      213: 2054532151251810349
+    second: Fire_Wave_W_22
+  - first:
+      213: -1940883481801028323
+    second: Fire_Wave_W_23
+  - first:
+      213: -5699134619721954676
+    second: Fire_Wave_W_24
+  - first:
+      213: 413418369056527507
+    second: Fire_Wave_W_25
+  - first:
+      213: 2369342097426824161
+    second: Fire_Wave_W_26
+  - first:
+      213: 4406717941509320772
+    second: Fire_Wave_W_27
+  - first:
+      213: 8605652353909657837
+    second: Fire_Wave_W_28
+  - first:
+      213: 2012851058092146989
+    second: Fire_Wave_W_29
+  - first:
+      213: 3578453182102467855
+    second: Fire_Wave_W_30
+  - first:
+      213: 9094718109147272799
+    second: Fire_Wave_W_31
+  - first:
+      213: -5177049756460645649
+    second: Fire_Wave_W_32
+  - first:
+      213: 4983784079810984715
+    second: Fire_Wave_W_33
+  - first:
+      213: 7394118041694192231
+    second: Fire_Wave_W_34
+  - first:
+      213: -1952379773120724168
+    second: Fire_Wave_W_35
+  - first:
+      213: 2208359576413531921
+    second: Fire_Wave_W_36
+  - first:
+      213: -3801246078896170304
+    second: Fire_Wave_W_37
+  - first:
+      213: 6045596304700719648
+    second: Fire_Wave_W_38
+  - first:
+      213: 3642602804234403230
+    second: Fire_Wave_W_39
+  - first:
+      213: -2312476867325857605
+    second: Fire_Wave_W_40
+  - first:
+      213: 7566365945553992531
+    second: Fire_Wave_W_41
+  - first:
+      213: 7427758399459572982
+    second: Fire_Wave_W_42
+  - first:
+      213: -4504938368945758006
+    second: Fire_Wave_W_43
+  - first:
+      213: 4688708149465322424
+    second: Fire_Wave_W_44
+  - first:
+      213: -1069151763250548458
+    second: Fire_Wave_W_45
+  - first:
+      213: -4643210400403011254
+    second: Fire_Wave_W_46
+  - first:
+      213: 9102733865618811659
+    second: Fire_Wave_W_47
+  - first:
+      213: 5508206331319841148
+    second: Fire_Wave_W_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Wave_W_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 170
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157050c2ff4036d0800000000000000
+      internalID: -3012820246683683559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b183d605226f80800000000000000
+      internalID: -8114882867319688058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e918616ea019260800000000000000
+      internalID: 7102470070676332048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9055fc148c465af70800000000000000
+      internalID: 9197868625234449673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96817bdf5c2001f0800000000000000
+      internalID: -1080815120353753446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf3aa842da34c420800000000000000
+      internalID: 2649307155637354415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f7d7060480052d0800000000000000
+      internalID: -3292122255018066033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0167be49975a29c40800000000000000
+      internalID: 5517654435090363920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb84aa8af7078890800000000000000
+      internalID: -7455981885439308866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48133e8af42d5a90800000000000000
+      internalID: -7323656760488421301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a16a8c529619df0800000000000000
+      internalID: -175243299489703391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04f145dd97b14be0800000000000000
+      internalID: -1494711712794676214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800fae70912588210800000000000000
+      internalID: 1335407556975849480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac2ba02584d45420800000000000000
+      internalID: 2617950951652928679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c496bf3c2bcdb0be0800000000000000
+      internalID: -1509870589702346420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f631424e6343b0800000000000000
+      internalID: -5529454686639819508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feff3f22c04b6200800000000000000
+      internalID: 174304213344452343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8345d817f47c570800000000000000
+      internalID: 8486839371923994823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5959faa6bf60e9720800000000000000
+      internalID: 2854726890695923093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e5cff6c4624be0800000000000000
+      internalID: -1494521320476121563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7181c2a64fd645bd0800000000000000
+      internalID: -2642366184838916073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78ddca11f67a110800000000000000
+      internalID: 1272107541460781050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_22
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28bbfe2b1a238c10800000000000000
+      internalID: 2054532151251810349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_23
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d83dca1c89015e0800000000000000
+      internalID: -1940883481801028323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_24
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8758324b98e0b0800000000000000
+      internalID: -5699134619721954676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_25
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945c37f0d1ccb500800000000000000
+      internalID: 413418369056527507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_26
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb3184951891e020800000000000000
+      internalID: 2369342097426824161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_27
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440f009be9ec72d30800000000000000
+      internalID: 4406717941509320772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_28
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de01a4f983b6d6770800000000000000
+      internalID: 8605652353909657837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_29
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d210a5f6f551feb10800000000000000
+      internalID: 2012851058092146989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_30
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05759ca53839a130800000000000000
+      internalID: 3578453182102467855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_31
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5619043fede63e70800000000000000
+      internalID: 9094718109147272799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_32
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe204a9fcac6728b0800000000000000
+      internalID: -5177049756460645649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_33
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b71622735f92540800000000000000
+      internalID: 4983784079810984715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_34
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7624d76ee2f2d9660800000000000000
+      internalID: 7394118041694192231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_35
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8334b74c0f0c7e4e0800000000000000
+      internalID: -1952379773120724168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_36
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 7
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe578955ba5ae10800000000000000
+      internalID: 2208359576413531921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_37
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1c83c4d24f3bc0800000000000000
+      internalID: -3801246078896170304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_38
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022c915eec546e350800000000000000
+      internalID: 6045596304700719648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_39
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dbb3c73ff1d8230800000000000000
+      internalID: 3642602804234403230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_40
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0fbbb8a8e68efd0800000000000000
+      internalID: -2312476867325857605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_41
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bbb593db1210960800000000000000
+      internalID: 7566365945553992531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_42
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc363d09e2b41760800000000000000
+      internalID: 7427758399459572982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_43
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e5ffeb6e3b71c0800000000000000
+      internalID: -4504938368945758006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_44
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b31c585833a11140800000000000000
+      internalID: 4688708149465322424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_45
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f77cc22c9921f0800000000000000
+      internalID: -1069151763250548458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_46
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49449addb0009fb0800000000000000
+      internalID: -4643210400403011254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_47
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 4
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba021f838635e70800000000000000
+      internalID: 9102733865618811659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Wave_W_48
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7170ef7974117c40800000000000000
+      internalID: 5508206331319841148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Wave_W_0: -3012820246683683559
+      Fire_Wave_W_1: -8114882867319688058
+      Fire_Wave_W_10: -175243299489703391
+      Fire_Wave_W_11: -1494711712794676214
+      Fire_Wave_W_12: 1335407556975849480
+      Fire_Wave_W_13: 2617950951652928679
+      Fire_Wave_W_14: -1509870589702346420
+      Fire_Wave_W_15: -5529454686639819508
+      Fire_Wave_W_16: 174304213344452343
+      Fire_Wave_W_17: 8486839371923994823
+      Fire_Wave_W_18: 2854726890695923093
+      Fire_Wave_W_19: -1494521320476121563
+      Fire_Wave_W_2: 7102470070676332048
+      Fire_Wave_W_20: -2642366184838916073
+      Fire_Wave_W_21: 1272107541460781050
+      Fire_Wave_W_22: 2054532151251810349
+      Fire_Wave_W_23: -1940883481801028323
+      Fire_Wave_W_24: -5699134619721954676
+      Fire_Wave_W_25: 413418369056527507
+      Fire_Wave_W_26: 2369342097426824161
+      Fire_Wave_W_27: 4406717941509320772
+      Fire_Wave_W_28: 8605652353909657837
+      Fire_Wave_W_29: 2012851058092146989
+      Fire_Wave_W_3: 9197868625234449673
+      Fire_Wave_W_30: 3578453182102467855
+      Fire_Wave_W_31: 9094718109147272799
+      Fire_Wave_W_32: -5177049756460645649
+      Fire_Wave_W_33: 4983784079810984715
+      Fire_Wave_W_34: 7394118041694192231
+      Fire_Wave_W_35: -1952379773120724168
+      Fire_Wave_W_36: 2208359576413531921
+      Fire_Wave_W_37: -3801246078896170304
+      Fire_Wave_W_38: 6045596304700719648
+      Fire_Wave_W_39: 3642602804234403230
+      Fire_Wave_W_4: -1080815120353753446
+      Fire_Wave_W_40: -2312476867325857605
+      Fire_Wave_W_41: 7566365945553992531
+      Fire_Wave_W_42: 7427758399459572982
+      Fire_Wave_W_43: -4504938368945758006
+      Fire_Wave_W_44: 4688708149465322424
+      Fire_Wave_W_45: -1069151763250548458
+      Fire_Wave_W_46: -4643210400403011254
+      Fire_Wave_W_47: 9102733865618811659
+      Fire_Wave_W_48: 5508206331319841148
+      Fire_Wave_W_5: 2649307155637354415
+      Fire_Wave_W_6: -3292122255018066033
+      Fire_Wave_W_7: 5517654435090363920
+      Fire_Wave_W_8: -7455981885439308866
+      Fire_Wave_W_9: -7323656760488421301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

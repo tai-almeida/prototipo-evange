@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 7038d037e6d2a4478903738f97ec239b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -435067355200569663
+    second: Aura_Ice_0
+  - first:
+      213: -3832866342261899142
+    second: Aura_Ice_1
+  - first:
+      213: -950762966198683862
+    second: Aura_Ice_2
+  - first:
+      213: 8983835340362601807
+    second: Aura_Ice_3
+  - first:
+      213: 6342921533509447089
+    second: Aura_Ice_4
+  - first:
+      213: 1838370427092591099
+    second: Aura_Ice_5
+  - first:
+      213: -8189934684081035658
+    second: Aura_Ice_6
+  - first:
+      213: 7801477881061339969
+    second: Aura_Ice_7
+  - first:
+      213: -8767214346050293313
+    second: Aura_Ice_8
+  - first:
+      213: -1963055060217354278
+    second: Aura_Ice_9
+  - first:
+      213: 4241095665474805279
+    second: Aura_Ice_10
+  - first:
+      213: -6642875266586269019
+    second: Aura_Ice_11
+  - first:
+      213: -1929670692732890747
+    second: Aura_Ice_12
+  - first:
+      213: 3914843230974210649
+    second: Aura_Ice_13
+  - first:
+      213: -3936911695401297110
+    second: Aura_Ice_14
+  - first:
+      213: 6941767326285313546
+    second: Aura_Ice_15
+  - first:
+      213: 4065636766389643494
+    second: Aura_Ice_16
+  - first:
+      213: -7818937427133064397
+    second: Aura_Ice_17
+  - first:
+      213: 8178113994183198548
+    second: Aura_Ice_18
+  - first:
+      213: 4564251650093100390
+    second: Aura_Ice_19
+  - first:
+      213: 8324407918133693788
+    second: Aura_Ice_20
+  - first:
+      213: -6040045647605917441
+    second: Aura_Ice_21
+  - first:
+      213: -972740976357685595
+    second: Aura_Ice_22
+  - first:
+      213: -1353599938215326514
+    second: Aura_Ice_23
+  - first:
+      213: -6892295701129634611
+    second: Aura_Ice_24
+  - first:
+      213: -1097887068384311779
+    second: Aura_Ice_25
+  - first:
+      213: 8084890802511299648
+    second: Aura_Ice_26
+  - first:
+      213: -3686195352158420920
+    second: Aura_Ice_27
+  - first:
+      213: -6315371655180513370
+    second: Aura_Ice_28
+  - first:
+      213: -946523767388193263
+    second: Aura_Ice_29
+  - first:
+      213: 7855586916247121904
+    second: Aura_Ice_30
+  - first:
+      213: -2199733369431222895
+    second: Aura_Ice_31
+  - first:
+      213: 5303456014168855093
+    second: Aura_Ice_32
+  - first:
+      213: 5434785582173671439
+    second: Aura_Ice_33
+  - first:
+      213: -8845700329443601371
+    second: Aura_Ice_34
+  - first:
+      213: -7331740482325901535
+    second: Aura_Ice_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_Ice_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceb6e7ab8456f9f0800000000000000
+      internalID: -435067355200569663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70cded7e5ceecac0800000000000000
+      internalID: -3832866342261899142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27712e9e163ec2f0800000000000000
+      internalID: -950762966198683862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 75
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d9e6c4aefcac70800000000000000
+      internalID: 8983835340362601807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 75
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda10b4785960850800000000000000
+      internalID: 6342921533509447089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1ef60d924338910800000000000000
+      internalID: 1838370427092591099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 71
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e2b50cc1875e80800000000000000
+      internalID: -8189934684081035658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 72
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1437abf7cca644c60800000000000000
+      internalID: 7801477881061339969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b6f1c009945680800000000000000
+      internalID: -8767214346050293313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7263dc2d3d1c4e0800000000000000
+      internalID: -1963055060217354278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e131799066bda30800000000000000
+      internalID: 4241095665474805279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 41
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa5e7f324cfc3a0800000000000000
+      internalID: -6642875266586269019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 41
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819c229abe6835e0800000000000000
+      internalID: -1929670692732890747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9527f854d21545630800000000000000
+      internalID: 3914843230974210649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 39
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5683fba74d59c0800000000000000
+      internalID: -3936911695401297110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 39
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0636acaa9c165060800000000000000
+      internalID: 6941767326285313546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 40
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e82c6e291b0c6830800000000000000
+      internalID: 4065636766389643494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 39
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b1ab626dd8d7390800000000000000
+      internalID: -7818937427133064397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 39
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457c0f3295f7e7170800000000000000
+      internalID: 8178113994183198548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 39
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2a4d71ba775f30800000000000000
+      internalID: 4564251650093100390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 40
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dcecd95ec368370800000000000000
+      internalID: 8324407918133693788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 41
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff81e4b2c727d2ca0800000000000000
+      internalID: -6040045647605917441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6cbbd5c312082f0800000000000000
+      internalID: -972740976357685595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4fa2270c073de0800000000000000
+      internalID: -1353599938215326514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc5737a395a950a0800000000000000
+      internalID: -6892295701129634611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d164575378583c0f0800000000000000
+      internalID: -1097887068384311779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044428b695d433070800000000000000
+      internalID: 8084890802511299648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840c6e58bd008dcc0800000000000000
+      internalID: -3686195352158420920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af056c90fa4b58a0800000000000000
+      internalID: -6315371655180513370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebc5106a54dd2f0800000000000000
+      internalID: -946523767388193263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 7
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffad1dfda6a40d60800000000000000
+      internalID: 7855586916247121904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1959a7ab72af871e0800000000000000
+      internalID: -2199733369431222895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532917e5529a99940800000000000000
+      internalID: 5303456014168855093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0050e731bc3c6b40800000000000000
+      internalID: 5434785582173671439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52455f9ba62cd3580800000000000000
+      internalID: -8845700329443601371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Ice_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f0d9560ec604a90800000000000000
+      internalID: -7331740482325901535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_Ice_0: -435067355200569663
+      Aura_Ice_1: -3832866342261899142
+      Aura_Ice_10: 4241095665474805279
+      Aura_Ice_11: -6642875266586269019
+      Aura_Ice_12: -1929670692732890747
+      Aura_Ice_13: 3914843230974210649
+      Aura_Ice_14: -3936911695401297110
+      Aura_Ice_15: 6941767326285313546
+      Aura_Ice_16: 4065636766389643494
+      Aura_Ice_17: -7818937427133064397
+      Aura_Ice_18: 8178113994183198548
+      Aura_Ice_19: 4564251650093100390
+      Aura_Ice_2: -950762966198683862
+      Aura_Ice_20: 8324407918133693788
+      Aura_Ice_21: -6040045647605917441
+      Aura_Ice_22: -972740976357685595
+      Aura_Ice_23: -1353599938215326514
+      Aura_Ice_24: -6892295701129634611
+      Aura_Ice_25: -1097887068384311779
+      Aura_Ice_26: 8084890802511299648
+      Aura_Ice_27: -3686195352158420920
+      Aura_Ice_28: -6315371655180513370
+      Aura_Ice_29: -946523767388193263
+      Aura_Ice_3: 8983835340362601807
+      Aura_Ice_30: 7855586916247121904
+      Aura_Ice_31: -2199733369431222895
+      Aura_Ice_32: 5303456014168855093
+      Aura_Ice_33: 5434785582173671439
+      Aura_Ice_34: -8845700329443601371
+      Aura_Ice_35: -7331740482325901535
+      Aura_Ice_4: 6342921533509447089
+      Aura_Ice_5: 1838370427092591099
+      Aura_Ice_6: -8189934684081035658
+      Aura_Ice_7: 7801477881061339969
+      Aura_Ice_8: -8767214346050293313
+      Aura_Ice_9: -1963055060217354278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

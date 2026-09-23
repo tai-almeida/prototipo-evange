@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 41251bd3a26424a428bd5282843f3efd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3802985433457737087
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_0
+  - first:
+      213: -9128436196403044380
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_1
+  - first:
+      213: -392457085739361142
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_2
+  - first:
+      213: -7424514066531118170
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_3
+  - first:
+      213: -9206166808088036918
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_4
+  - first:
+      213: -2690784059626486743
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_5
+  - first:
+      213: -7661717563194334151
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_6
+  - first:
+      213: 1368139428327925298
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_7
+  - first:
+      213: 5957922061103791619
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_8
+  - first:
+      213: 2541968332518877413
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_9
+  - first:
+      213: 8704047997126856351
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_10
+  - first:
+      213: -4582093567618032744
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_11
+  - first:
+      213: -563533738233609784
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_12
+  - first:
+      213: 5780972734198507412
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_13
+  - first:
+      213: 8104959175455328937
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_14
+  - first:
+      213: 4108491815424700170
+    second: Minifantasy_MagicAndSorceryHalflingProjectileHolding_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dbb374a1be6c430800000000000000
+      internalID: 3802985433457737087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef1496d4a7415180800000000000000
+      internalID: -9128436196403044380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9bee1c56bd8af0800000000000000
+      internalID: -392457085739361142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a395821bc3d6f890800000000000000
+      internalID: -7424514066531118170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9bbec70102d3080800000000000000
+      internalID: -9206166808088036918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9240ea6772a68aad0800000000000000
+      internalID: -2690784059626486743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342e64487c1ca590800000000000000
+      internalID: -7661717563194334151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23621b4bf8b9cf210800000000000000
+      internalID: 1368139428327925298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30efd835c8acea250800000000000000
+      internalID: 5957922061103791619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e864120bb2e64320800000000000000
+      internalID: 2541968332518877413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e42b0998dfac870800000000000000
+      internalID: 8704047997126856351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b568e5d222960c0800000000000000
+      internalID: -4582093567618032744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c143a10d0ded28f0800000000000000
+      internalID: -563533738233609784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ee16a2142a3050800000000000000
+      internalID: 5780972734198507412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aace0c9d699a7070800000000000000
+      internalID: 8104959175455328937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHalflingProjectileHolding_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2df4d98b440930800000000000000
+      internalID: 4108491815424700170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_0: 3802985433457737087
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_1: -9128436196403044380
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_10: 8704047997126856351
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_11: -4582093567618032744
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_12: -563533738233609784
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_13: 5780972734198507412
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_14: 8104959175455328937
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_15: 4108491815424700170
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_2: -392457085739361142
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_3: -7424514066531118170
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_4: -9206166808088036918
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_5: -2690784059626486743
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_6: -7661717563194334151
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_7: 1368139428327925298
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_8: 5957922061103791619
+      Minifantasy_MagicAndSorceryHalflingProjectileHolding_9: 2541968332518877413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

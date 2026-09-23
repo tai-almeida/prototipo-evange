@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 85de4d74597e1496eb311e311f545744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -650758764635330411
+    second: Arcane_Pulse_0
+  - first:
+      213: 5857686783504518042
+    second: Arcane_Pulse_1
+  - first:
+      213: -1079933425736887281
+    second: Arcane_Pulse_2
+  - first:
+      213: 2882814070537157817
+    second: Arcane_Pulse_3
+  - first:
+      213: 6655590647070052532
+    second: Arcane_Pulse_4
+  - first:
+      213: 3703595170487465050
+    second: Arcane_Pulse_5
+  - first:
+      213: 5309546717882177710
+    second: Arcane_Pulse_6
+  - first:
+      213: -1130906151679634775
+    second: Arcane_Pulse_7
+  - first:
+      213: 5087228672254974191
+    second: Arcane_Pulse_8
+  - first:
+      213: -4951003446873624708
+    second: Arcane_Pulse_9
+  - first:
+      213: -7310572988229406965
+    second: Arcane_Pulse_10
+  - first:
+      213: 6959345534642909894
+    second: Arcane_Pulse_11
+  - first:
+      213: -5154180682592351918
+    second: Arcane_Pulse_12
+  - first:
+      213: -1892347214160229717
+    second: Arcane_Pulse_13
+  - first:
+      213: 3486666089222320807
+    second: Arcane_Pulse_14
+  - first:
+      213: 7538293576370843810
+    second: Arcane_Pulse_15
+  - first:
+      213: -1271475041122682066
+    second: Arcane_Pulse_16
+  - first:
+      213: 7437858032516606602
+    second: Arcane_Pulse_17
+  - first:
+      213: -4229891305744397633
+    second: Arcane_Pulse_18
+  - first:
+      213: 5996396231016320179
+    second: Arcane_Pulse_19
+  - first:
+      213: -3287184471135828918
+    second: Arcane_Pulse_20
+  - first:
+      213: -3135789060839029241
+    second: Arcane_Pulse_21
+  - first:
+      213: -2718249971713976891
+    second: Arcane_Pulse_22
+  - first:
+      213: -5693793539515081040
+    second: Arcane_Pulse_23
+  - first:
+      213: 8741595768127783599
+    second: Arcane_Pulse_24
+  - first:
+      213: 1277708657202187741
+    second: Arcane_Pulse_25
+  - first:
+      213: -6461339755897160548
+    second: Arcane_Pulse_26
+  - first:
+      213: 3873993140139812247
+    second: Arcane_Pulse_27
+  - first:
+      213: 336195186479513115
+    second: Arcane_Pulse_28
+  - first:
+      213: 4177445518536512818
+    second: Arcane_Pulse_29
+  - first:
+      213: -8686760796804470392
+    second: Arcane_Pulse_30
+  - first:
+      213: 8889201881837295461
+    second: Arcane_Pulse_31
+  - first:
+      213: -6947322428495186549
+    second: Arcane_Pulse_32
+  - first:
+      213: -427839592335132170
+    second: Arcane_Pulse_33
+  - first:
+      213: -7877048049634453200
+    second: Arcane_Pulse_34
+  - first:
+      213: 8468869894846298026
+    second: Arcane_Pulse_35
+  - first:
+      213: 179972340694601929
+    second: Arcane_Pulse_36
+  - first:
+      213: 3568574955535566632
+    second: Arcane_Pulse_37
+  - first:
+      213: -8422630860054733333
+    second: Arcane_Pulse_38
+  - first:
+      213: 5978518202817862319
+    second: Arcane_Pulse_39
+  - first:
+      213: 2931203100623467415
+    second: Arcane_Pulse_40
+  - first:
+      213: 7259715374595817471
+    second: Arcane_Pulse_41
+  - first:
+      213: 298641160908761730
+    second: Arcane_Pulse_42
+  - first:
+      213: -5708375195420897230
+    second: Arcane_Pulse_43
+  - first:
+      213: -2973558504377672676
+    second: Arcane_Pulse_44
+  - first:
+      213: -1190256565183496893
+    second: Arcane_Pulse_45
+  - first:
+      213: 6289722211579327384
+    second: Arcane_Pulse_46
+  - first:
+      213: 1442192907612601621
+    second: Arcane_Pulse_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane_Pulse_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986077f95a08f6f0800000000000000
+      internalID: -650758764635330411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 116
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8940281faa4150800000000000000
+      internalID: 5857686783504518042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 116
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d1e1654e4301f0800000000000000
+      internalID: -1079933425736887281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 115
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc7dd39f10d10820800000000000000
+      internalID: 2882814070537157817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 115
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d5014e686d5c50800000000000000
+      internalID: 6655590647070052532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54f1c06f20d56330800000000000000
+      internalID: 3703595170487465050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea855b5db9c4fa940800000000000000
+      internalID: 5309546717882177710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 115
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2d4dac8d63e40f0800000000000000
+      internalID: -1130906151679634775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe890fc2687799640800000000000000
+      internalID: 5087228672254974191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 115
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fec5bb8908a4bb0800000000000000
+      internalID: -4951003446873624708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 46
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f250ca990ab8a90800000000000000
+      internalID: -7310572988229406965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 117
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2779d34ef849060800000000000000
+      internalID: 6959345534642909894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 115
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25907e92afba878b0800000000000000
+      internalID: -5154180682592351918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 114
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa874c1c380db5e0800000000000000
+      internalID: -1892347214160229717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 65
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a23f72c550236030800000000000000
+      internalID: 3486666089222320807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_15
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 65
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0713071166d9860800000000000000
+      internalID: 7538293576370843810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 7
+        width: 38
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7b19cf20da5ee0800000000000000
+      internalID: -1271475041122682066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_17
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a20fd1974983760800000000000000
+      internalID: 7437858032516606602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 86
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8792b4486c45c0800000000000000
+      internalID: -4229891305744397633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc08321a9a773350800000000000000
+      internalID: 5996396231016320179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44c4c6c3239162d0800000000000000
+      internalID: -3287184471135828918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 75
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706422a96707b74d0800000000000000
+      internalID: -3135789060839029241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d5497d06d64ad0800000000000000
+      internalID: -2718249971713976891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be1acc51f49bf0b0800000000000000
+      internalID: -5693793539515081040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa280514903605970800000000000000
+      internalID: 8741595768127783599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd4afe01455bb110800000000000000
+      internalID: 1277708657202187741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 54
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cf3a4c9b5b456a0800000000000000
+      internalID: -6461339755897160548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 39
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79565545c3033c530800000000000000
+      internalID: 3873993140139812247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ebe49adb76aa400800000000000000
+      internalID: 336195186479513115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359ae8e09449f930800000000000000
+      internalID: 4177445518536512818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8892ea9641d627780800000000000000
+      internalID: -8686760796804470392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 43
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56755a7b30acc5b70800000000000000
+      internalID: 8889201881837295461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85b07d4f07269f90800000000000000
+      internalID: -6947322428495186549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f934065822001af0800000000000000
+      internalID: -427839592335132170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039dad2888a1fa290800000000000000
+      internalID: -7877048049634453200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa73053ac48778570800000000000000
+      internalID: 8468869894846298026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05f7ce3e36f7200800000000000000
+      internalID: 179972340694601929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 25
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278d03d300268130800000000000000
+      internalID: 3568574955535566632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd1389bddcc1b80800000000000000
+      internalID: -8422630860054733333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 22
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa5a2241a6f7f250800000000000000
+      internalID: 5978518202817862319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_40
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7937f2990b9bda820800000000000000
+      internalID: 2931203100623467415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffb9396ba0bfb460800000000000000
+      internalID: 7259715374595817471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ae647bd8cf42400800000000000000
+      internalID: 298641160908761730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23059480107c7c0b0800000000000000
+      internalID: -5708375195420897230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c1abb7b4ccbb6d0800000000000000
+      internalID: -2973558504377672676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d39a0d5fb5b7fe0800000000000000
+      internalID: -1190256565183496893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f11de605994750800000000000000
+      internalID: 6289722211579327384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Pulse_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d36d3fec2b30410800000000000000
+      internalID: 1442192907612601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcane_Pulse_0: -650758764635330411
+      Arcane_Pulse_1: 5857686783504518042
+      Arcane_Pulse_10: -7310572988229406965
+      Arcane_Pulse_11: 6959345534642909894
+      Arcane_Pulse_12: -5154180682592351918
+      Arcane_Pulse_13: -1892347214160229717
+      Arcane_Pulse_14: 3486666089222320807
+      Arcane_Pulse_15: 7538293576370843810
+      Arcane_Pulse_16: -1271475041122682066
+      Arcane_Pulse_17: 7437858032516606602
+      Arcane_Pulse_18: -4229891305744397633
+      Arcane_Pulse_19: 5996396231016320179
+      Arcane_Pulse_2: -1079933425736887281
+      Arcane_Pulse_20: -3287184471135828918
+      Arcane_Pulse_21: -3135789060839029241
+      Arcane_Pulse_22: -2718249971713976891
+      Arcane_Pulse_23: -5693793539515081040
+      Arcane_Pulse_24: 8741595768127783599
+      Arcane_Pulse_25: 1277708657202187741
+      Arcane_Pulse_26: -6461339755897160548
+      Arcane_Pulse_27: 3873993140139812247
+      Arcane_Pulse_28: 336195186479513115
+      Arcane_Pulse_29: 4177445518536512818
+      Arcane_Pulse_3: 2882814070537157817
+      Arcane_Pulse_30: -8686760796804470392
+      Arcane_Pulse_31: 8889201881837295461
+      Arcane_Pulse_32: -6947322428495186549
+      Arcane_Pulse_33: -427839592335132170
+      Arcane_Pulse_34: -7877048049634453200
+      Arcane_Pulse_35: 8468869894846298026
+      Arcane_Pulse_36: 179972340694601929
+      Arcane_Pulse_37: 3568574955535566632
+      Arcane_Pulse_38: -8422630860054733333
+      Arcane_Pulse_39: 5978518202817862319
+      Arcane_Pulse_4: 6655590647070052532
+      Arcane_Pulse_40: 2931203100623467415
+      Arcane_Pulse_41: 7259715374595817471
+      Arcane_Pulse_42: 298641160908761730
+      Arcane_Pulse_43: -5708375195420897230
+      Arcane_Pulse_44: -2973558504377672676
+      Arcane_Pulse_45: -1190256565183496893
+      Arcane_Pulse_46: 6289722211579327384
+      Arcane_Pulse_47: 1442192907612601621
+      Arcane_Pulse_5: 3703595170487465050
+      Arcane_Pulse_6: 5309546717882177710
+      Arcane_Pulse_7: -1130906151679634775
+      Arcane_Pulse_8: 5087228672254974191
+      Arcane_Pulse_9: -4951003446873624708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

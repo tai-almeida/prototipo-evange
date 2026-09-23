@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 25a1e1e98088b45488dcc1714b3b7bec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3928138396975091626
+    second: Orb_Only_Ray_0
+  - first:
+      213: 2455810108470206069
+    second: Orb_Only_Ray_1
+  - first:
+      213: 8825102245143685909
+    second: Orb_Only_Ray_2
+  - first:
+      213: -3820161375414813065
+    second: Orb_Only_Ray_3
+  - first:
+      213: -7053531663018384709
+    second: Orb_Only_Ray_4
+  - first:
+      213: -5835826693906370878
+    second: Orb_Only_Ray_5
+  - first:
+      213: 7317789984338581298
+    second: Orb_Only_Ray_6
+  - first:
+      213: 7500254501898981557
+    second: Orb_Only_Ray_7
+  - first:
+      213: 1734465866432886277
+    second: Orb_Only_Ray_8
+  - first:
+      213: -8370446530792044028
+    second: Orb_Only_Ray_9
+  - first:
+      213: 1759284339275742554
+    second: Orb_Only_Ray_10
+  - first:
+      213: -1725163142418336546
+    second: Orb_Only_Ray_11
+  - first:
+      213: -1988944208295673114
+    second: Orb_Only_Ray_12
+  - first:
+      213: -5457140804479519094
+    second: Orb_Only_Ray_13
+  - first:
+      213: 6155100780500452104
+    second: Orb_Only_Ray_14
+  - first:
+      213: 7850347026291843136
+    second: Orb_Only_Ray_15
+  - first:
+      213: -7249407802445952289
+    second: Orb_Only_Ray_16
+  - first:
+      213: 7816328688569882714
+    second: Orb_Only_Ray_17
+  - first:
+      213: 8482260859273060109
+    second: Orb_Only_Ray_18
+  - first:
+      213: 1952702986873216237
+    second: Orb_Only_Ray_19
+  - first:
+      213: 1983874199406038056
+    second: Orb_Only_Ray_20
+  - first:
+      213: -5205343813980180538
+    second: Orb_Only_Ray_21
+  - first:
+      213: -633774524854425179
+    second: Orb_Only_Ray_22
+  - first:
+      213: 9088988952162659579
+    second: Orb_Only_Ray_23
+  - first:
+      213: -2057023862981195193
+    second: Orb_Only_Ray_24
+  - first:
+      213: -2556702669979454512
+    second: Orb_Only_Ray_25
+  - first:
+      213: 7416580681853512102
+    second: Orb_Only_Ray_26
+  - first:
+      213: 2754117805533098350
+    second: Orb_Only_Ray_27
+  - first:
+      213: -8277250433983138022
+    second: Orb_Only_Ray_28
+  - first:
+      213: -8475931318116903239
+    second: Orb_Only_Ray_29
+  - first:
+      213: 2582374364343325164
+    second: Orb_Only_Ray_30
+  - first:
+      213: 1482392786974066686
+    second: Orb_Only_Ray_31
+  - first:
+      213: -4853870949490405807
+    second: Orb_Only_Ray_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb_Only_Ray_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6503abba0f27c79c0800000000000000
+      internalID: -3928138396975091626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e1e2f384ac41220800000000000000
+      internalID: 2455810108470206069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51baa4c0cbf097a70800000000000000
+      internalID: 8825102245143685909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 78
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e7bb9187f0cfac0800000000000000
+      internalID: -3820161375414813065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 78
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2a1ddd252dc1e90800000000000000
+      internalID: -7053531663018384709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 74
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee7fa9a8af20fa0800000000000000
+      internalID: -5835826693906370878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 69
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237996d28330e8560800000000000000
+      internalID: 7317789984338581298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 65
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b096be3bb1461860800000000000000
+      internalID: 7500254501898981557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 64
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b5c3148f021810800000000000000
+      internalID: 1734465866432886277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 31
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a4db09a3336db80800000000000000
+      internalID: -8370446530792044028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d307519cb3a6810800000000000000
+      internalID: 1759284339275742554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4fe84234dfe08e0800000000000000
+      internalID: -1725163142418336546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 37
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2477ac7c9d564e0800000000000000
+      internalID: -1988944208295673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8675bbf9575444b0800000000000000
+      internalID: -5457140804479519094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 46
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803857a7c8f4b6550800000000000000
+      internalID: 6155100780500452104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 46
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0406ba9070902fc60800000000000000
+      internalID: 7850347026291843136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 48
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda834f330ee46b90800000000000000
+      internalID: -7249407802445952289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5817e1978d297c60800000000000000
+      internalID: 7816328688569882714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 46
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9b218f4b07b570800000000000000
+      internalID: 8482260859273060109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 46
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec1c6c4505691b10800000000000000
+      internalID: 1952702986873216237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_20
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 44
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cc8a6c213288b10800000000000000
+      internalID: 1983874199406038056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 37
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf2fe95167e2c7b0800000000000000
+      internalID: -5205343813980180538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 32
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92c527d616437f0800000000000000
+      internalID: -633774524854425179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 31
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcea15eb43922e70800000000000000
+      internalID: 9088988952162659579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a0188f1bbf373e0800000000000000
+      internalID: -2057023862981195193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3f497b774c48cd0800000000000000
+      internalID: -2556702669979454512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a927edd5dcfce660800000000000000
+      internalID: 7416580681853512102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f06c5d87983620800000000000000
+      internalID: 2754117805533098350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17bc75c59c412d80800000000000000
+      internalID: -8277250433983138022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 14
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69803af517f5a80800000000000000
+      internalID: -8475931318116903239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce152c76dcf66d320800000000000000
+      internalID: 2582374364343325164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 16
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7c03db264829410800000000000000
+      internalID: 1482392786974066686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Ray_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e490e961693acb0800000000000000
+      internalID: -4853870949490405807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb_Only_Ray_0: -3928138396975091626
+      Orb_Only_Ray_1: 2455810108470206069
+      Orb_Only_Ray_10: 1759284339275742554
+      Orb_Only_Ray_11: -1725163142418336546
+      Orb_Only_Ray_12: -1988944208295673114
+      Orb_Only_Ray_13: -5457140804479519094
+      Orb_Only_Ray_14: 6155100780500452104
+      Orb_Only_Ray_15: 7850347026291843136
+      Orb_Only_Ray_16: -7249407802445952289
+      Orb_Only_Ray_17: 7816328688569882714
+      Orb_Only_Ray_18: 8482260859273060109
+      Orb_Only_Ray_19: 1952702986873216237
+      Orb_Only_Ray_2: 8825102245143685909
+      Orb_Only_Ray_20: 1983874199406038056
+      Orb_Only_Ray_21: -5205343813980180538
+      Orb_Only_Ray_22: -633774524854425179
+      Orb_Only_Ray_23: 9088988952162659579
+      Orb_Only_Ray_24: -2057023862981195193
+      Orb_Only_Ray_25: -2556702669979454512
+      Orb_Only_Ray_26: 7416580681853512102
+      Orb_Only_Ray_27: 2754117805533098350
+      Orb_Only_Ray_28: -8277250433983138022
+      Orb_Only_Ray_29: -8475931318116903239
+      Orb_Only_Ray_3: -3820161375414813065
+      Orb_Only_Ray_30: 2582374364343325164
+      Orb_Only_Ray_31: 1482392786974066686
+      Orb_Only_Ray_32: -4853870949490405807
+      Orb_Only_Ray_4: -7053531663018384709
+      Orb_Only_Ray_5: -5835826693906370878
+      Orb_Only_Ray_6: 7317789984338581298
+      Orb_Only_Ray_7: 7500254501898981557
+      Orb_Only_Ray_8: 1734465866432886277
+      Orb_Only_Ray_9: -8370446530792044028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 054d70825147242e2a0503860e9f2f13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3518986574325680117
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_0
+  - first:
+      213: 5203575048631614585
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_1
+  - first:
+      213: 7709244195320796457
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_2
+  - first:
+      213: 4510479640087629679
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_3
+  - first:
+      213: 8284559404289912916
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_4
+  - first:
+      213: -4026590277501214600
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_5
+  - first:
+      213: -8337557338106785548
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_6
+  - first:
+      213: 6353269634239915048
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_7
+  - first:
+      213: -5106670065245305969
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_8
+  - first:
+      213: -6266693555130175262
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_9
+  - first:
+      213: -1013404744088870933
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_10
+  - first:
+      213: 2103258625684642891
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_11
+  - first:
+      213: -3062451570205680552
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_12
+  - first:
+      213: 7417947983697743240
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_13
+  - first:
+      213: 119638095863839924
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_14
+  - first:
+      213: 1346799389710918371
+    second: Minifantasy_MagicAndSorceryOrcProjectileThrowing_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08f2f3ea5c0a2fc0800000000000000
+      internalID: -3518986574325680117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf5cfdfefc63840800000000000000
+      internalID: 5203575048631614585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92596d410ccbcfa60800000000000000
+      internalID: 7709244195320796457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0e0ac551789e30800000000000000
+      internalID: 4510479640087629679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450725d72eaa8f270800000000000000
+      internalID: 8284559404289912916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870af75f97dae18c0800000000000000
+      internalID: -4026590277501214600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f091b776cb0b4c80800000000000000
+      internalID: -8337557338106785548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824652f32195b2850800000000000000
+      internalID: 6353269634239915048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83cee7c1a67129b0800000000000000
+      internalID: -5106670065245305969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07c3af96b3809a0800000000000000
+      internalID: -6266693555130175262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef13e621c9afe1f0800000000000000
+      internalID: -1013404744088870933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c95b69396403d10800000000000000
+      internalID: 2103258625684642891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c9d00c58cff75d0800000000000000
+      internalID: -3062451570205680552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d01a2a368d1f660800000000000000
+      internalID: 7417947983697743240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc719dd63a09a100800000000000000
+      internalID: 119638095863839924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcProjectileThrowing_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2ae67c8eac0b210800000000000000
+      internalID: 1346799389710918371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_0: -3518986574325680117
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_1: 5203575048631614585
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_10: -1013404744088870933
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_11: 2103258625684642891
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_12: -3062451570205680552
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_13: 7417947983697743240
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_14: 119638095863839924
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_15: 1346799389710918371
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_2: 7709244195320796457
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_3: 4510479640087629679
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_4: 8284559404289912916
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_5: -4026590277501214600
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_6: -8337557338106785548
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_7: 6353269634239915048
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_8: -5106670065245305969
+      Minifantasy_MagicAndSorceryOrcProjectileThrowing_9: -6266693555130175262
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

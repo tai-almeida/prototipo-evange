@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 31c71e724c5e84bf09199bc192d4085f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 304661583906510969
+    second: Ice_Lance_N_0
+  - first:
+      213: -5134320083859216345
+    second: Ice_Lance_N_1
+  - first:
+      213: -305179868634009869
+    second: Ice_Lance_N_2
+  - first:
+      213: -3396228865234703262
+    second: Ice_Lance_N_3
+  - first:
+      213: 4891376192413225948
+    second: Ice_Lance_N_4
+  - first:
+      213: -6419325528497428120
+    second: Ice_Lance_N_5
+  - first:
+      213: 1898311009856447467
+    second: Ice_Lance_N_6
+  - first:
+      213: -2610140941476357251
+    second: Ice_Lance_N_7
+  - first:
+      213: 5769209167662761397
+    second: Ice_Lance_N_8
+  - first:
+      213: 2644655621552392013
+    second: Ice_Lance_N_9
+  - first:
+      213: -4191837006385244166
+    second: Ice_Lance_N_10
+  - first:
+      213: 5404777883086023555
+    second: Ice_Lance_N_11
+  - first:
+      213: 683816837903666652
+    second: Ice_Lance_N_12
+  - first:
+      213: 5474111457572477326
+    second: Ice_Lance_N_13
+  - first:
+      213: -2667200914890892368
+    second: Ice_Lance_N_14
+  - first:
+      213: 4808469162074916849
+    second: Ice_Lance_N_15
+  - first:
+      213: 4516619327066736213
+    second: Ice_Lance_N_16
+  - first:
+      213: -690423606465360491
+    second: Ice_Lance_N_17
+  - first:
+      213: 5092356650133799299
+    second: Ice_Lance_N_18
+  - first:
+      213: -4185511782760495248
+    second: Ice_Lance_N_19
+  - first:
+      213: 6851881596016339402
+    second: Ice_Lance_N_20
+  - first:
+      213: 3222459977814435279
+    second: Ice_Lance_N_21
+  - first:
+      213: -8482316684667849174
+    second: Ice_Lance_N_22
+  - first:
+      213: 2848722197859232535
+    second: Ice_Lance_N_23
+  - first:
+      213: 385110171120086329
+    second: Ice_Lance_N_24
+  - first:
+      213: -6071907776285494082
+    second: Ice_Lance_N_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Lance_N_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 345
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978947da8106a3400800000000000000
+      internalID: 304661583906510969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ea66261b3fb8b0800000000000000
+      internalID: -5134320083859216345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe2871c688c3cbf0800000000000000
+      internalID: -305179868634009869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ce1cf47db2ed0d0800000000000000
+      internalID: -3396228865234703262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d79b3bb8a1e340800000000000000
+      internalID: 4891376192413225948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 32
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86960506179f9e6a0800000000000000
+      internalID: -6419325528497428120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e4b74ec7285a10800000000000000
+      internalID: 1898311009856447467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b199194aae6cbd0800000000000000
+      internalID: -2610140941476357251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54771eb29501050800000000000000
+      internalID: 5769209167662761397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_9
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 48
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47cedb9644b3b420800000000000000
+      internalID: 2644655621552392013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af71216b37a93d5c0800000000000000
+      internalID: -4191837006385244166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bea3359d0a10b40800000000000000
+      internalID: 5404777883086023555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddcda28ac76d7900800000000000000
+      internalID: 683816837903666652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d0891e53f7fb40800000000000000
+      internalID: 5474111457572477326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbd45b36e23cfad0800000000000000
+      internalID: -2667200914890892368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_15
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 23
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f745eef93d1bb240800000000000000
+      internalID: 4808469162074916849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560a7f09514eae30800000000000000
+      internalID: 4516619327066736213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d8610536f1b66f0800000000000000
+      internalID: -690423606465360491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 32
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c2d0946faba640800000000000000
+      internalID: 5092356650133799299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077495995331ae5c0800000000000000
+      internalID: -4185511782760495248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9279d3206c61f50800000000000000
+      internalID: 6851881596016339402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_21
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 32
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5ea88c64a78bc20800000000000000
+      internalID: 3222459977814435279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26f002aae1c84a80800000000000000
+      internalID: -8482316684667849174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b6b2beeb1b88720800000000000000
+      internalID: 2848722197859232535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da00509af285500800000000000000
+      internalID: 385110171120086329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Lance_N_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4329d3c004cbba0800000000000000
+      internalID: -6071907776285494082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Lance_N_0: 304661583906510969
+      Ice_Lance_N_1: -5134320083859216345
+      Ice_Lance_N_10: -4191837006385244166
+      Ice_Lance_N_11: 5404777883086023555
+      Ice_Lance_N_12: 683816837903666652
+      Ice_Lance_N_13: 5474111457572477326
+      Ice_Lance_N_14: -2667200914890892368
+      Ice_Lance_N_15: 4808469162074916849
+      Ice_Lance_N_16: 4516619327066736213
+      Ice_Lance_N_17: -690423606465360491
+      Ice_Lance_N_18: 5092356650133799299
+      Ice_Lance_N_19: -4185511782760495248
+      Ice_Lance_N_2: -305179868634009869
+      Ice_Lance_N_20: 6851881596016339402
+      Ice_Lance_N_21: 3222459977814435279
+      Ice_Lance_N_22: -8482316684667849174
+      Ice_Lance_N_23: 2848722197859232535
+      Ice_Lance_N_24: 385110171120086329
+      Ice_Lance_N_25: -6071907776285494082
+      Ice_Lance_N_3: -3396228865234703262
+      Ice_Lance_N_4: 4891376192413225948
+      Ice_Lance_N_5: -6419325528497428120
+      Ice_Lance_N_6: 1898311009856447467
+      Ice_Lance_N_7: -2610140941476357251
+      Ice_Lance_N_8: 5769209167662761397
+      Ice_Lance_N_9: 2644655621552392013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

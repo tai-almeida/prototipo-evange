@@ -1,0 +1,5200 @@
+fileFormatVersion: 2
+guid: 592017e35d6604ee29584a15d6847b82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6459501383190816400
+    second: Electric_Simple_AOE_0
+  - first:
+      213: -1186414568507305443
+    second: Electric_Simple_AOE_1
+  - first:
+      213: 4354126345827883185
+    second: Electric_Simple_AOE_2
+  - first:
+      213: 9159821529015872926
+    second: Electric_Simple_AOE_3
+  - first:
+      213: -5706903314129551687
+    second: Electric_Simple_AOE_4
+  - first:
+      213: 5328771142305711929
+    second: Electric_Simple_AOE_5
+  - first:
+      213: -2777568718126452557
+    second: Electric_Simple_AOE_6
+  - first:
+      213: 3492371395207022499
+    second: Electric_Simple_AOE_7
+  - first:
+      213: -7155436224569163701
+    second: Electric_Simple_AOE_8
+  - first:
+      213: -2121915769191962902
+    second: Electric_Simple_AOE_9
+  - first:
+      213: -1203860321577226833
+    second: Electric_Simple_AOE_10
+  - first:
+      213: 4686435712997637899
+    second: Electric_Simple_AOE_11
+  - first:
+      213: -2721204965052991258
+    second: Electric_Simple_AOE_12
+  - first:
+      213: -5930831023856436572
+    second: Electric_Simple_AOE_13
+  - first:
+      213: 1371501203646932801
+    second: Electric_Simple_AOE_14
+  - first:
+      213: -5767823523598498513
+    second: Electric_Simple_AOE_15
+  - first:
+      213: 8878126168872962852
+    second: Electric_Simple_AOE_16
+  - first:
+      213: -3055992365560030754
+    second: Electric_Simple_AOE_17
+  - first:
+      213: -6194901922232368015
+    second: Electric_Simple_AOE_18
+  - first:
+      213: 8857216809259949513
+    second: Electric_Simple_AOE_19
+  - first:
+      213: 9120698445890592602
+    second: Electric_Simple_AOE_20
+  - first:
+      213: 5387168835966111819
+    second: Electric_Simple_AOE_21
+  - first:
+      213: -4488279792128736902
+    second: Electric_Simple_AOE_22
+  - first:
+      213: 331312411166195923
+    second: Electric_Simple_AOE_23
+  - first:
+      213: 2577669196862289621
+    second: Electric_Simple_AOE_24
+  - first:
+      213: 3108034262749124874
+    second: Electric_Simple_AOE_25
+  - first:
+      213: 5115026200568343846
+    second: Electric_Simple_AOE_26
+  - first:
+      213: 834686953741626222
+    second: Electric_Simple_AOE_27
+  - first:
+      213: 442540954900215666
+    second: Electric_Simple_AOE_28
+  - first:
+      213: 8305217415599710371
+    second: Electric_Simple_AOE_29
+  - first:
+      213: 1509284721641474072
+    second: Electric_Simple_AOE_30
+  - first:
+      213: -1021483775225284853
+    second: Electric_Simple_AOE_31
+  - first:
+      213: -2887794282314141178
+    second: Electric_Simple_AOE_32
+  - first:
+      213: -7161539495748001041
+    second: Electric_Simple_AOE_33
+  - first:
+      213: -7370414780135948870
+    second: Electric_Simple_AOE_34
+  - first:
+      213: 7116940487009167923
+    second: Electric_Simple_AOE_35
+  - first:
+      213: -2539602284609547469
+    second: Electric_Simple_AOE_36
+  - first:
+      213: -5803134652009134025
+    second: Electric_Simple_AOE_37
+  - first:
+      213: 4325255006783422723
+    second: Electric_Simple_AOE_38
+  - first:
+      213: 7542423113333420336
+    second: Electric_Simple_AOE_39
+  - first:
+      213: 4906868241775633043
+    second: Electric_Simple_AOE_40
+  - first:
+      213: 8931032735379890809
+    second: Electric_Simple_AOE_41
+  - first:
+      213: 8899428903874365742
+    second: Electric_Simple_AOE_42
+  - first:
+      213: 2381875784552254997
+    second: Electric_Simple_AOE_43
+  - first:
+      213: -5521097614059596103
+    second: Electric_Simple_AOE_44
+  - first:
+      213: -4766266464002292400
+    second: Electric_Simple_AOE_45
+  - first:
+      213: 2985517309038894828
+    second: Electric_Simple_AOE_46
+  - first:
+      213: -8925869359965095970
+    second: Electric_Simple_AOE_47
+  - first:
+      213: -1698640839697034647
+    second: Electric_Simple_AOE_48
+  - first:
+      213: -6017254299221908761
+    second: Electric_Simple_AOE_49
+  - first:
+      213: -2137702013507024434
+    second: Electric_Simple_AOE_50
+  - first:
+      213: -6616415838565184363
+    second: Electric_Simple_AOE_51
+  - first:
+      213: -1629759236069906610
+    second: Electric_Simple_AOE_52
+  - first:
+      213: 2588809776689167995
+    second: Electric_Simple_AOE_53
+  - first:
+      213: 1770428113828246626
+    second: Electric_Simple_AOE_54
+  - first:
+      213: 2147299042925231295
+    second: Electric_Simple_AOE_55
+  - first:
+      213: 5879399391711903873
+    second: Electric_Simple_AOE_56
+  - first:
+      213: -1938932991698957605
+    second: Electric_Simple_AOE_57
+  - first:
+      213: -3667938595271132334
+    second: Electric_Simple_AOE_58
+  - first:
+      213: 827919631688328275
+    second: Electric_Simple_AOE_59
+  - first:
+      213: -319317125609945037
+    second: Electric_Simple_AOE_60
+  - first:
+      213: 5281681021871234625
+    second: Electric_Simple_AOE_61
+  - first:
+      213: 4054918185597627141
+    second: Electric_Simple_AOE_62
+  - first:
+      213: 1777708774697016300
+    second: Electric_Simple_AOE_63
+  - first:
+      213: -4561346759641706225
+    second: Electric_Simple_AOE_64
+  - first:
+      213: -2404270702200202852
+    second: Electric_Simple_AOE_65
+  - first:
+      213: 407437004828505657
+    second: Electric_Simple_AOE_66
+  - first:
+      213: 6099302026761674489
+    second: Electric_Simple_AOE_67
+  - first:
+      213: 3151152725603824285
+    second: Electric_Simple_AOE_68
+  - first:
+      213: 4781084211090280692
+    second: Electric_Simple_AOE_69
+  - first:
+      213: 5976657979345409667
+    second: Electric_Simple_AOE_70
+  - first:
+      213: 8115091762778407547
+    second: Electric_Simple_AOE_71
+  - first:
+      213: -2411640804881175510
+    second: Electric_Simple_AOE_72
+  - first:
+      213: -8825247338374307469
+    second: Electric_Simple_AOE_73
+  - first:
+      213: 1735307469501108904
+    second: Electric_Simple_AOE_74
+  - first:
+      213: -2096138185490985866
+    second: Electric_Simple_AOE_75
+  - first:
+      213: -2679768157152367761
+    second: Electric_Simple_AOE_76
+  - first:
+      213: 8810840170365290950
+    second: Electric_Simple_AOE_77
+  - first:
+      213: -5960445464261068053
+    second: Electric_Simple_AOE_78
+  - first:
+      213: -981121353640794611
+    second: Electric_Simple_AOE_79
+  - first:
+      213: 2063698626446140631
+    second: Electric_Simple_AOE_80
+  - first:
+      213: 1662090419636112916
+    second: Electric_Simple_AOE_81
+  - first:
+      213: 8905916813721566356
+    second: Electric_Simple_AOE_82
+  - first:
+      213: 2322536767589814758
+    second: Electric_Simple_AOE_83
+  - first:
+      213: 1505129866925354775
+    second: Electric_Simple_AOE_84
+  - first:
+      213: 8663864220018928639
+    second: Electric_Simple_AOE_85
+  - first:
+      213: -1788927538847363546
+    second: Electric_Simple_AOE_86
+  - first:
+      213: 3546723276459501938
+    second: Electric_Simple_AOE_87
+  - first:
+      213: -3648261216942473013
+    second: Electric_Simple_AOE_88
+  - first:
+      213: -6925288006383065480
+    second: Electric_Simple_AOE_89
+  - first:
+      213: -7124859889847131283
+    second: Electric_Simple_AOE_90
+  - first:
+      213: 5533407652518412318
+    second: Electric_Simple_AOE_91
+  - first:
+      213: -5072030667296784316
+    second: Electric_Simple_AOE_92
+  - first:
+      213: 5811117942821461134
+    second: Electric_Simple_AOE_93
+  - first:
+      213: -1645262610915315147
+    second: Electric_Simple_AOE_94
+  - first:
+      213: -1505679721765922817
+    second: Electric_Simple_AOE_95
+  - first:
+      213: 8071970686076470811
+    second: Electric_Simple_AOE_96
+  - first:
+      213: 6373646869762605955
+    second: Electric_Simple_AOE_97
+  - first:
+      213: 8775271250800863000
+    second: Electric_Simple_AOE_98
+  - first:
+      213: 5293586152103415195
+    second: Electric_Simple_AOE_99
+  - first:
+      213: 3803642117897317296
+    second: Electric_Simple_AOE_100
+  - first:
+      213: -3504532329530572136
+    second: Electric_Simple_AOE_101
+  - first:
+      213: 3182171961169415416
+    second: Electric_Simple_AOE_102
+  - first:
+      213: 5162440048607141888
+    second: Electric_Simple_AOE_103
+  - first:
+      213: 1486023660765848076
+    second: Electric_Simple_AOE_104
+  - first:
+      213: -1028583496644271979
+    second: Electric_Simple_AOE_105
+  - first:
+      213: -2543071301894482411
+    second: Electric_Simple_AOE_106
+  - first:
+      213: 936505946679809975
+    second: Electric_Simple_AOE_107
+  - first:
+      213: -2843268004115921409
+    second: Electric_Simple_AOE_108
+  - first:
+      213: 9139629321298500500
+    second: Electric_Simple_AOE_109
+  - first:
+      213: -3021358301014589492
+    second: Electric_Simple_AOE_110
+  - first:
+      213: -3250556738624755950
+    second: Electric_Simple_AOE_111
+  - first:
+      213: -3582874071872580545
+    second: Electric_Simple_AOE_112
+  - first:
+      213: -7898917833397139281
+    second: Electric_Simple_AOE_113
+  - first:
+      213: 8020442895312924229
+    second: Electric_Simple_AOE_114
+  - first:
+      213: 6338067759260342921
+    second: Electric_Simple_AOE_115
+  - first:
+      213: -4847363141970817021
+    second: Electric_Simple_AOE_116
+  - first:
+      213: -5139507178864733977
+    second: Electric_Simple_AOE_117
+  - first:
+      213: -2509024085477232105
+    second: Electric_Simple_AOE_118
+  - first:
+      213: -6784224965646041473
+    second: Electric_Simple_AOE_119
+  - first:
+      213: 9043801735859291264
+    second: Electric_Simple_AOE_120
+  - first:
+      213: 3917330669300107066
+    second: Electric_Simple_AOE_121
+  - first:
+      213: -7698763498782212651
+    second: Electric_Simple_AOE_122
+  - first:
+      213: -2107812393238844148
+    second: Electric_Simple_AOE_123
+  - first:
+      213: 3163528464337490469
+    second: Electric_Simple_AOE_124
+  - first:
+      213: 388921928777111530
+    second: Electric_Simple_AOE_125
+  - first:
+      213: -3054711055234808300
+    second: Electric_Simple_AOE_126
+  - first:
+      213: -7281207444150901177
+    second: Electric_Simple_AOE_127
+  - first:
+      213: -9115369006070853719
+    second: Electric_Simple_AOE_128
+  - first:
+      213: 8298633868048666564
+    second: Electric_Simple_AOE_129
+  - first:
+      213: -7414241047326651816
+    second: Electric_Simple_AOE_130
+  - first:
+      213: -1765493236527101956
+    second: Electric_Simple_AOE_131
+  - first:
+      213: 4007038687085785962
+    second: Electric_Simple_AOE_132
+  - first:
+      213: -3075199487977407331
+    second: Electric_Simple_AOE_133
+  - first:
+      213: -8930699145880149586
+    second: Electric_Simple_AOE_134
+  - first:
+      213: -7597341858854836442
+    second: Electric_Simple_AOE_135
+  - first:
+      213: 22507031033006238
+    second: Electric_Simple_AOE_136
+  - first:
+      213: -101723582152719759
+    second: Electric_Simple_AOE_137
+  - first:
+      213: -6687732686206665787
+    second: Electric_Simple_AOE_138
+  - first:
+      213: 3209073391152287711
+    second: Electric_Simple_AOE_139
+  - first:
+      213: 686342608278410412
+    second: Electric_Simple_AOE_140
+  - first:
+      213: 3469774236968630181
+    second: Electric_Simple_AOE_141
+  - first:
+      213: -6681308783078091327
+    second: Electric_Simple_AOE_142
+  - first:
+      213: -2326318540616885516
+    second: Electric_Simple_AOE_143
+  - first:
+      213: 7985411487952499079
+    second: Electric_Simple_AOE_144
+  - first:
+      213: 4307900831135209564
+    second: Electric_Simple_AOE_145
+  - first:
+      213: -6498747141762934790
+    second: Electric_Simple_AOE_146
+  - first:
+      213: 4691095630025695158
+    second: Electric_Simple_AOE_147
+  - first:
+      213: -3059086653454488242
+    second: Electric_Simple_AOE_148
+  - first:
+      213: -5467713674266477813
+    second: Electric_Simple_AOE_149
+  - first:
+      213: 7779715785372844901
+    second: Electric_Simple_AOE_150
+  - first:
+      213: 2745084806313918876
+    second: Electric_Simple_AOE_151
+  - first:
+      213: -8993035246298326914
+    second: Electric_Simple_AOE_152
+  - first:
+      213: 1560304138010156276
+    second: Electric_Simple_AOE_153
+  - first:
+      213: 1166997842524354200
+    second: Electric_Simple_AOE_154
+  - first:
+      213: -1690379929097598264
+    second: Electric_Simple_AOE_155
+  - first:
+      213: -1234010765988586326
+    second: Electric_Simple_AOE_156
+  - first:
+      213: -3099654693613358667
+    second: Electric_Simple_AOE_157
+  - first:
+      213: 4691296485965831011
+    second: Electric_Simple_AOE_158
+  - first:
+      213: -5094992553518229549
+    second: Electric_Simple_AOE_159
+  - first:
+      213: 3380403325469520305
+    second: Electric_Simple_AOE_160
+  - first:
+      213: 4132398478742897755
+    second: Electric_Simple_AOE_161
+  - first:
+      213: 3730981283761667328
+    second: Electric_Simple_AOE_162
+  - first:
+      213: -7909024501858207674
+    second: Electric_Simple_AOE_163
+  - first:
+      213: 4342386831591810404
+    second: Electric_Simple_AOE_164
+  - first:
+      213: 9112764113758822176
+    second: Electric_Simple_AOE_165
+  - first:
+      213: 2540047319989991510
+    second: Electric_Simple_AOE_166
+  - first:
+      213: 3342209645822167820
+    second: Electric_Simple_AOE_167
+  - first:
+      213: 5367509129990100337
+    second: Electric_Simple_AOE_168
+  - first:
+      213: -2987737199968244659
+    second: Electric_Simple_AOE_169
+  - first:
+      213: 2479811750341141080
+    second: Electric_Simple_AOE_170
+  - first:
+      213: -8301777363427472265
+    second: Electric_Simple_AOE_171
+  - first:
+      213: -8892165071068375669
+    second: Electric_Simple_AOE_172
+  - first:
+      213: 369943738275750518
+    second: Electric_Simple_AOE_173
+  - first:
+      213: 7163793722994684986
+    second: Electric_Simple_AOE_174
+  - first:
+      213: -6301043349315141172
+    second: Electric_Simple_AOE_175
+  - first:
+      213: -7578600859332962379
+    second: Electric_Simple_AOE_176
+  - first:
+      213: -5114289424505873731
+    second: Electric_Simple_AOE_177
+  - first:
+      213: 7162653637743062548
+    second: Electric_Simple_AOE_178
+  - first:
+      213: -2221666824875048579
+    second: Electric_Simple_AOE_179
+  - first:
+      213: -5943492558636646987
+    second: Electric_Simple_AOE_180
+  - first:
+      213: -6141103895981860552
+    second: Electric_Simple_AOE_181
+  - first:
+      213: -865548445941491914
+    second: Electric_Simple_AOE_182
+  - first:
+      213: 7187361940268346635
+    second: Electric_Simple_AOE_183
+  - first:
+      213: 5274010144076475605
+    second: Electric_Simple_AOE_184
+  - first:
+      213: -352339239576319039
+    second: Electric_Simple_AOE_185
+  - first:
+      213: -1795775785721767887
+    second: Electric_Simple_AOE_186
+  - first:
+      213: 6239807484765760432
+    second: Electric_Simple_AOE_187
+  - first:
+      213: 4619102763873254280
+    second: Electric_Simple_AOE_188
+  - first:
+      213: 8873808543508781528
+    second: Electric_Simple_AOE_189
+  - first:
+      213: 1459002674669041522
+    second: Electric_Simple_AOE_190
+  - first:
+      213: -3036474912374011515
+    second: Electric_Simple_AOE_191
+  - first:
+      213: -6024884134284405450
+    second: Electric_Simple_AOE_192
+  - first:
+      213: -1551229453151022215
+    second: Electric_Simple_AOE_193
+  - first:
+      213: -3196084135209945556
+    second: Electric_Simple_AOE_194
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07954c447bd3b56a0800000000000000
+      internalID: -6459501383190816400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1216cf5c32098fe0800000000000000
+      internalID: -1186414568507305443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b89d36a7d6fc6c30800000000000000
+      internalID: 4354126345827883185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d67fa56293e1f70800000000000000
+      internalID: 9159821529015872926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9befec91ca10dc0b0800000000000000
+      internalID: -5706903314129551687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9370c72fe1993f940800000000000000
+      internalID: 5328771142305711929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f5d097f71479d0800000000000000
+      internalID: -2777568718126452557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7cc03d745677030800000000000000
+      internalID: 3492371395207022499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40c7953aa8c2bc90800000000000000
+      internalID: -7155436224569163701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6630ea9d07d82e0800000000000000
+      internalID: -2121915769191962902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada3357a670b4fe0800000000000000
+      internalID: -1203860321577226833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fbdef7370990140800000000000000
+      internalID: 4686435712997637899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8bcf870865c3ad0800000000000000
+      internalID: -2721204965052991258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aabb205b9471bda0800000000000000
+      internalID: -5930831023856436572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476564041d880310800000000000000
+      internalID: 1371501203646932801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2505c4801394ffa0800000000000000
+      internalID: -5767823523598498513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc5c656b0753b70800000000000000
+      internalID: 8878126168872962852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed91d76822fe695d0800000000000000
+      internalID: -3055992365560030754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17484f21689470aa0800000000000000
+      internalID: -6194901922232368015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdde8ea2c72bea70800000000000000
+      internalID: 8857216809259949513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f14cab9ea339e70800000000000000
+      internalID: 9120698445890592602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4090dc838113ca40800000000000000
+      internalID: 5387168835966111819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a714a991f4d66b1c0800000000000000
+      internalID: -4488279792128736902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d04d31f1ee099400800000000000000
+      internalID: 331312411166195923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6717b3a78b5c320800000000000000
+      internalID: 2577669196862289621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0997e4e1b4f12b20800000000000000
+      internalID: 3108034262749124874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d21b59a393cf640800000000000000
+      internalID: 5115026200568343846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b2c60bc57659b00800000000000000
+      internalID: 834686953741626222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b36f57a8342600800000000000000
+      internalID: 442540954900215666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0653f8c3f024370800000000000000
+      internalID: 8305217415599710371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8184d52357e02f410800000000000000
+      internalID: 1509284721641474072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b073fd12be5f2d1f0800000000000000
+      internalID: -1021483775225284853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_32
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 24
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f242866e7ce7d0800000000000000
+      internalID: -2887794282314141178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 32
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2a207a5c91d9c90800000000000000
+      internalID: -7161539495748001041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd35bebec607b990800000000000000
+      internalID: -7370414780135948870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae6cf6aa374c260800000000000000
+      internalID: 7116940487009167923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d3137d2581ccd0800000000000000
+      internalID: -2539602284609547469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7384c33c7cf177fa0800000000000000
+      internalID: -5803134652009134025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3014e423384660c30800000000000000
+      internalID: 4325255006783422723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0313fef2cd11ca860800000000000000
+      internalID: 7542423113333420336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392aeae0ba2b81440800000000000000
+      internalID: 4906868241775633043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97224b544f661fb70800000000000000
+      internalID: 8931032735379890809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 18
+        width: 119
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e298647df6f118b70800000000000000
+      internalID: 8899428903874365742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e8755086f1e0120800000000000000
+      internalID: 2381875784552254997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b698b7d8fe1163b0800000000000000
+      internalID: -5521097614059596103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_45
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055494c57e1daddb0800000000000000
+      internalID: -4766266464002292400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1b04bc20be6920800000000000000
+      internalID: 2985517309038894828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7bcbfbb11f02480800000000000000
+      internalID: -8925869359965095970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96213e4f7273d68e0800000000000000
+      internalID: -1698640839697034647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_49
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2afab781b6e7ca0800000000000000
+      internalID: -6017254299221908761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9c641485b5552e0800000000000000
+      internalID: -2137702013507024434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_51
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ccd00a9d4cd24a0800000000000000
+      internalID: -6616415838565184363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_52
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4724a01c9ee169e0800000000000000
+      internalID: -1629759236069906610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_53
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ebd9a96cc4de320800000000000000
+      internalID: 2588809776689167995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f8194df2d19810800000000000000
+      internalID: 1770428113828246626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_55
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc38184a1dbccd10800000000000000
+      internalID: 2147299042925231295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_56
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c2aba892d79150800000000000000
+      internalID: 5879399391711903873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_57
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda8f7a87b68715e0800000000000000
+      internalID: -1938932991698957605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 18
+        width: 119
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b3beaf74dd81dc0800000000000000
+      internalID: -3667938595271132334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_59
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ea5db48c5d7b00800000000000000
+      internalID: 827919631688328275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_60
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338025d14ce819bf0800000000000000
+      internalID: -319317125609945037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_61
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e9e85e7ec4c4940800000000000000
+      internalID: 5281681021871234625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_62
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b61dd1b96f54830800000000000000
+      internalID: 4054918185597627141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_63
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb19ed36b0bba810800000000000000
+      internalID: 1777708774697016300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_64
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f015d260a47d2b0c0800000000000000
+      internalID: -4561346759641706225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_65
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 24
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c995a73e88052aed0800000000000000
+      internalID: -2404270702200202852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_66
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f6251cc187a500800000000000000
+      internalID: 407437004828505657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_67
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe13fab0e215a450800000000000000
+      internalID: 6099302026761674489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_68
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92be9a55b42bbb20800000000000000
+      internalID: 3151152725603824285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_69
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d34b32c2d95240800000000000000
+      internalID: 4781084211090280692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_70
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 7
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38613ea34ca51f250800000000000000
+      internalID: 5976657979345409667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_71
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 0
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720b1076f89e9070800000000000000
+      internalID: 8115091762778407547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_72
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 28
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c68332771288ed0800000000000000
+      internalID: -2411640804881175510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 28
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ec3dcd4c668580800000000000000
+      internalID: -8825247338374307469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_74
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 30
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a212bf03fc051810800000000000000
+      internalID: 1735307469501108904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_75
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c8da51d6509e2e0800000000000000
+      internalID: -2096138185490985866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ba7802f0d8fcad0800000000000000
+      internalID: -2679768157152367761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98d5ff374664a70800000000000000
+      internalID: 8810840170365290950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea71a71e6e384da0800000000000000
+      internalID: -5960445464261068053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a0bab35b5262f0800000000000000
+      internalID: -981121353640794611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a8c087fab3ac10800000000000000
+      internalID: 2063698626446140631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e8df63e6ee01710800000000000000
+      internalID: 1662090419636112916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_82
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c7d01182c289b70800000000000000
+      internalID: 8905916813721566356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_83
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e199f182ee4b3020800000000000000
+      internalID: 2322536767589814758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71faae2b3ab43e410800000000000000
+      internalID: 1505129866925354775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbe170ea9a3c3870800000000000000
+      internalID: 8663864220018928639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ec61ea1e37c27e0800000000000000
+      internalID: -1788927538847363546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2796af1570e783130800000000000000
+      internalID: 3546723276459501938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc04f44a0c5ce5dc0800000000000000
+      internalID: -3648261216942473013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876a34cff3f64ef90800000000000000
+      internalID: -6925288006383065480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ab37eda96f1d90800000000000000
+      internalID: -7124859889847131283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10c9c551fc9acc40800000000000000
+      internalID: 5533407652518412318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_92
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44043e91bf68c99b0800000000000000
+      internalID: -5072030667296784316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c95c9fafc35a050800000000000000
+      internalID: 5811117942821461134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53239225f5ada29e0800000000000000
+      internalID: -1645262610915315147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff712ae3540ca1be0800000000000000
+      internalID: -1505679721765922817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_96
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 16
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1644f46296650070800000000000000
+      internalID: 8071970686076470811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830bfb1f0eb37850800000000000000
+      internalID: 6373646869762605955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_98
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817eeaf85b608c970800000000000000
+      internalID: 8775271250800863000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d0d080f88967940800000000000000
+      internalID: 5293586152103415195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbebf98a5049c430800000000000000
+      internalID: 3803642117897317296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_101
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 14
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89245720a666d5fc0800000000000000
+      internalID: -3504532329530572136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_102
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 16
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc06bfe988592c20800000000000000
+      internalID: 3182171961169415416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_103
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000aa775fdba4a740800000000000000
+      internalID: 5162440048607141888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_104
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0226cb65aa6f9410800000000000000
+      internalID: 1486023660765848076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_105
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59060bc62ccb9b1f0800000000000000
+      internalID: -1028583496644271979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_106
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d61cef1235bcd0800000000000000
+      internalID: -2543071301894482411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_107
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b714e952332ffc00800000000000000
+      internalID: 936505946679809975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_108
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5cf6580deaa88d0800000000000000
+      internalID: -2843268004115921409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_109
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bddb2a17c76de70800000000000000
+      internalID: 9139629321298500500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_110
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 14
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff8d012aaf116d0800000000000000
+      internalID: -3021358301014589492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_111
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 16
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217e4005ed3b3e2d0800000000000000
+      internalID: -3250556738624755950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_112
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34d317b303174ec0800000000000000
+      internalID: -3582874071872580545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_113
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa88d5ea418616290800000000000000
+      internalID: -7898917833397139281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_114
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eae64b1565e4f60800000000000000
+      internalID: 8020442895312924229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_115
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a9119eb0755f750800000000000000
+      internalID: 6338067759260342921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_116
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 20
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3001281a7e4babcb0800000000000000
+      internalID: -4847363141970817021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_117
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0923b737dcca8b0800000000000000
+      internalID: -5139507178864733977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_118
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 20
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712fa3c33e72e2dd0800000000000000
+      internalID: -2509024085477232105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_119
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eb45e865799d1a0800000000000000
+      internalID: -6784224965646041473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_120
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 20
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08444fc33c9028d70800000000000000
+      internalID: 9043801735859291264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_121
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 12
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3740632d772d5630800000000000000
+      internalID: 3917330669300107066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_122
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddb75d336f782590800000000000000
+      internalID: -7698763498782212651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d25d7cbcb8fb2e0800000000000000
+      internalID: -2107812393238844148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225ca1906c17eb20800000000000000
+      internalID: 3163528464337490469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79e120f6ab56500800000000000000
+      internalID: 388921928777111530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_126
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164545da7c7b95d0800000000000000
+      internalID: -3054711055234808300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_127
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746a4733864f3fa90800000000000000
+      internalID: -7281207444150901177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_128
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8a8c2f24bf7180800000000000000
+      internalID: -9115369006070853719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf0112f88baa2370800000000000000
+      internalID: 8298633868048666564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a89febc035b1990800000000000000
+      internalID: -7414241047326651816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_131
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7827f5145bf77e0800000000000000
+      internalID: -1765493236527101956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63fef8a47cdb9730800000000000000
+      internalID: 4007038687085785962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_133
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cb4a9db52b255d0800000000000000
+      internalID: -3075199487977407331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_134
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1ede59178cf0480800000000000000
+      internalID: -8930699145880149586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62760c1f4d1d09690800000000000000
+      internalID: -7597341858854836442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_136
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98cba58606ff4000800000000000000
+      internalID: 22507031033006238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_137
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c184e0fa969ef0800000000000000
+      internalID: -101723582152719759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_138
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbf1e51e866033a0800000000000000
+      internalID: -6687732686206665787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_139
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4ac13f3be88c20800000000000000
+      internalID: 3209073391152287711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_140
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca456a047f0668900800000000000000
+      internalID: 686342608278410412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_141
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7315de84d172030800000000000000
+      internalID: 3469774236968630181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_142
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5dee59f093743a0800000000000000
+      internalID: -6681308783078091327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_143
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1028dc9147bfd0800000000000000
+      internalID: -2326318540616885516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_144
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7817bb49071e1de60800000000000000
+      internalID: 7985411487952499079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_145
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c589c6f4bfcb8cb30800000000000000
+      internalID: 4307900831135209564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_146
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7922a08efcfc5a0800000000000000
+      internalID: -6498747141762934790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf911bfe9e1a1140800000000000000
+      internalID: 4691095630025695158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_148
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4de4bb75e0fb85d0800000000000000
+      internalID: -3059086653454488242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_149
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfcc7e167ce14b0800000000000000
+      internalID: -5467713674266477813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c5a0c94a17fb60800000000000000
+      internalID: 7779715785372844901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91c9a65610881620800000000000000
+      internalID: 2745084806313918876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_152
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7812d33712523380800000000000000
+      internalID: -8993035246298326914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_153
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcdaafb85057a510800000000000000
+      internalID: 1560304138010156276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896bf41da52023010800000000000000
+      internalID: 1166997842524354200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_155
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca00b619609a88e0800000000000000
+      internalID: -1690379929097598264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_156
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac1e341fb9efdee0800000000000000
+      internalID: -1234010765988586326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_157
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1bdc49a70dbf4d0800000000000000
+      internalID: -3099654693613358667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_158
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b18066c45da1140800000000000000
+      internalID: 4691296485965831011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_159
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7194a5443fa49b0800000000000000
+      internalID: -5094992553518229549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_160
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f8241aea99ee20800000000000000
+      internalID: 3380403325469520305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_161
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c5d3a58a395930800000000000000
+      internalID: 4132398478742897755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_162
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dbe32c5bb17c330800000000000000
+      internalID: 3730981283761667328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_163
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 119
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64871ee8e108d3290800000000000000
+      internalID: -7909024501858207674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_164
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4652d5ef0d1434c30800000000000000
+      internalID: 4342386831591810404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_165
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f95821eaa077e70800000000000000
+      internalID: 9112764113758822176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_166
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658bfac649f004320800000000000000
+      internalID: 2540047319989991510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_167
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4d1017f9e16e20800000000000000
+      internalID: 3342209645822167820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_168
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d9bd8d193d7a40800000000000000
+      internalID: 5367509129990100337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_169
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c2ca9a8dc6986d0800000000000000
+      internalID: -2987737199968244659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_170
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8526ce8f5af0a6220800000000000000
+      internalID: 2479811750341141080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_171
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc68009792acc80800000000000000
+      internalID: -8301777363427472265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_172
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8555d60bfea89480800000000000000
+      internalID: -8892165071068375669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_173
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726ec2bedd422500800000000000000
+      internalID: 369943738275750518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_174
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3475478f68ea6360800000000000000
+      internalID: 7163793722994684986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_175
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 7
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1cbb945723e88a0800000000000000
+      internalID: -6301043349315141172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_176
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b71dfceba663d690800000000000000
+      internalID: -7578600859332962379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_177
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2
+        width: 119
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5ac57dd46609b0800000000000000
+      internalID: -5114289424505873731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_178
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea5deb88bd66360800000000000000
+      internalID: 7162653637743062548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_179
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d718d0e2bcd0b21e0800000000000000
+      internalID: -2221666824875048579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_180
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdf8450209748da0800000000000000
+      internalID: -5943492558636646987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_181
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839db372b8a66caa0800000000000000
+      internalID: -6141103895981860552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_182
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63714c73644fcf3f0800000000000000
+      internalID: -865548445941491914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_183
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d6bd9ba93aeb360800000000000000
+      internalID: 7187361940268346635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_184
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2c7b784c013940800000000000000
+      internalID: 5274010144076475605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_185
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4f90145d3c1bf0800000000000000
+      internalID: -352339239576319039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_186
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385ec3ff6f1417e0800000000000000
+      internalID: -1795775785721767887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_187
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb6944f8df389650800000000000000
+      internalID: 6239807484765760432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_188
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 7
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bb0bd9d795a1040800000000000000
+      internalID: 4619102763873254280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_189
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9daa8dad9162b70800000000000000
+      internalID: 8873808543508781528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_190
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773ef5d33b6f3410800000000000000
+      internalID: 1459002674669041522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_191
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cf86b7264cd5d0800000000000000
+      internalID: -3036474912374011515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_192
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63557131dcf436ca0800000000000000
+      internalID: -6024884134284405450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_193
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9735fc7f70de87ae0800000000000000
+      internalID: -1551229453151022215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Simple_AOE_194
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26bc80a96a35a3d0800000000000000
+      internalID: -3196084135209945556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electric_Simple_AOE_0: -6459501383190816400
+      Electric_Simple_AOE_1: -1186414568507305443
+      Electric_Simple_AOE_10: -1203860321577226833
+      Electric_Simple_AOE_100: 3803642117897317296
+      Electric_Simple_AOE_101: -3504532329530572136
+      Electric_Simple_AOE_102: 3182171961169415416
+      Electric_Simple_AOE_103: 5162440048607141888
+      Electric_Simple_AOE_104: 1486023660765848076
+      Electric_Simple_AOE_105: -1028583496644271979
+      Electric_Simple_AOE_106: -2543071301894482411
+      Electric_Simple_AOE_107: 936505946679809975
+      Electric_Simple_AOE_108: -2843268004115921409
+      Electric_Simple_AOE_109: 9139629321298500500
+      Electric_Simple_AOE_11: 4686435712997637899
+      Electric_Simple_AOE_110: -3021358301014589492
+      Electric_Simple_AOE_111: -3250556738624755950
+      Electric_Simple_AOE_112: -3582874071872580545
+      Electric_Simple_AOE_113: -7898917833397139281
+      Electric_Simple_AOE_114: 8020442895312924229
+      Electric_Simple_AOE_115: 6338067759260342921
+      Electric_Simple_AOE_116: -4847363141970817021
+      Electric_Simple_AOE_117: -5139507178864733977
+      Electric_Simple_AOE_118: -2509024085477232105
+      Electric_Simple_AOE_119: -6784224965646041473
+      Electric_Simple_AOE_12: -2721204965052991258
+      Electric_Simple_AOE_120: 9043801735859291264
+      Electric_Simple_AOE_121: 3917330669300107066
+      Electric_Simple_AOE_122: -7698763498782212651
+      Electric_Simple_AOE_123: -2107812393238844148
+      Electric_Simple_AOE_124: 3163528464337490469
+      Electric_Simple_AOE_125: 388921928777111530
+      Electric_Simple_AOE_126: -3054711055234808300
+      Electric_Simple_AOE_127: -7281207444150901177
+      Electric_Simple_AOE_128: -9115369006070853719
+      Electric_Simple_AOE_129: 8298633868048666564
+      Electric_Simple_AOE_13: -5930831023856436572
+      Electric_Simple_AOE_130: -7414241047326651816
+      Electric_Simple_AOE_131: -1765493236527101956
+      Electric_Simple_AOE_132: 4007038687085785962
+      Electric_Simple_AOE_133: -3075199487977407331
+      Electric_Simple_AOE_134: -8930699145880149586
+      Electric_Simple_AOE_135: -7597341858854836442
+      Electric_Simple_AOE_136: 22507031033006238
+      Electric_Simple_AOE_137: -101723582152719759
+      Electric_Simple_AOE_138: -6687732686206665787
+      Electric_Simple_AOE_139: 3209073391152287711
+      Electric_Simple_AOE_14: 1371501203646932801
+      Electric_Simple_AOE_140: 686342608278410412
+      Electric_Simple_AOE_141: 3469774236968630181
+      Electric_Simple_AOE_142: -6681308783078091327
+      Electric_Simple_AOE_143: -2326318540616885516
+      Electric_Simple_AOE_144: 7985411487952499079
+      Electric_Simple_AOE_145: 4307900831135209564
+      Electric_Simple_AOE_146: -6498747141762934790
+      Electric_Simple_AOE_147: 4691095630025695158
+      Electric_Simple_AOE_148: -3059086653454488242
+      Electric_Simple_AOE_149: -5467713674266477813
+      Electric_Simple_AOE_15: -5767823523598498513
+      Electric_Simple_AOE_150: 7779715785372844901
+      Electric_Simple_AOE_151: 2745084806313918876
+      Electric_Simple_AOE_152: -8993035246298326914
+      Electric_Simple_AOE_153: 1560304138010156276
+      Electric_Simple_AOE_154: 1166997842524354200
+      Electric_Simple_AOE_155: -1690379929097598264
+      Electric_Simple_AOE_156: -1234010765988586326
+      Electric_Simple_AOE_157: -3099654693613358667
+      Electric_Simple_AOE_158: 4691296485965831011
+      Electric_Simple_AOE_159: -5094992553518229549
+      Electric_Simple_AOE_16: 8878126168872962852
+      Electric_Simple_AOE_160: 3380403325469520305
+      Electric_Simple_AOE_161: 4132398478742897755
+      Electric_Simple_AOE_162: 3730981283761667328
+      Electric_Simple_AOE_163: -7909024501858207674
+      Electric_Simple_AOE_164: 4342386831591810404
+      Electric_Simple_AOE_165: 9112764113758822176
+      Electric_Simple_AOE_166: 2540047319989991510
+      Electric_Simple_AOE_167: 3342209645822167820
+      Electric_Simple_AOE_168: 5367509129990100337
+      Electric_Simple_AOE_169: -2987737199968244659
+      Electric_Simple_AOE_17: -3055992365560030754
+      Electric_Simple_AOE_170: 2479811750341141080
+      Electric_Simple_AOE_171: -8301777363427472265
+      Electric_Simple_AOE_172: -8892165071068375669
+      Electric_Simple_AOE_173: 369943738275750518
+      Electric_Simple_AOE_174: 7163793722994684986
+      Electric_Simple_AOE_175: -6301043349315141172
+      Electric_Simple_AOE_176: -7578600859332962379
+      Electric_Simple_AOE_177: -5114289424505873731
+      Electric_Simple_AOE_178: 7162653637743062548
+      Electric_Simple_AOE_179: -2221666824875048579
+      Electric_Simple_AOE_18: -6194901922232368015
+      Electric_Simple_AOE_180: -5943492558636646987
+      Electric_Simple_AOE_181: -6141103895981860552
+      Electric_Simple_AOE_182: -865548445941491914
+      Electric_Simple_AOE_183: 7187361940268346635
+      Electric_Simple_AOE_184: 5274010144076475605
+      Electric_Simple_AOE_185: -352339239576319039
+      Electric_Simple_AOE_186: -1795775785721767887
+      Electric_Simple_AOE_187: 6239807484765760432
+      Electric_Simple_AOE_188: 4619102763873254280
+      Electric_Simple_AOE_189: 8873808543508781528
+      Electric_Simple_AOE_19: 8857216809259949513
+      Electric_Simple_AOE_190: 1459002674669041522
+      Electric_Simple_AOE_191: -3036474912374011515
+      Electric_Simple_AOE_192: -6024884134284405450
+      Electric_Simple_AOE_193: -1551229453151022215
+      Electric_Simple_AOE_194: -3196084135209945556
+      Electric_Simple_AOE_2: 4354126345827883185
+      Electric_Simple_AOE_20: 9120698445890592602
+      Electric_Simple_AOE_21: 5387168835966111819
+      Electric_Simple_AOE_22: -4488279792128736902
+      Electric_Simple_AOE_23: 331312411166195923
+      Electric_Simple_AOE_24: 2577669196862289621
+      Electric_Simple_AOE_25: 3108034262749124874
+      Electric_Simple_AOE_26: 5115026200568343846
+      Electric_Simple_AOE_27: 834686953741626222
+      Electric_Simple_AOE_28: 442540954900215666
+      Electric_Simple_AOE_29: 8305217415599710371
+      Electric_Simple_AOE_3: 9159821529015872926
+      Electric_Simple_AOE_30: 1509284721641474072
+      Electric_Simple_AOE_31: -1021483775225284853
+      Electric_Simple_AOE_32: -2887794282314141178
+      Electric_Simple_AOE_33: -7161539495748001041
+      Electric_Simple_AOE_34: -7370414780135948870
+      Electric_Simple_AOE_35: 7116940487009167923
+      Electric_Simple_AOE_36: -2539602284609547469
+      Electric_Simple_AOE_37: -5803134652009134025
+      Electric_Simple_AOE_38: 4325255006783422723
+      Electric_Simple_AOE_39: 7542423113333420336
+      Electric_Simple_AOE_4: -5706903314129551687
+      Electric_Simple_AOE_40: 4906868241775633043
+      Electric_Simple_AOE_41: 8931032735379890809
+      Electric_Simple_AOE_42: 8899428903874365742
+      Electric_Simple_AOE_43: 2381875784552254997
+      Electric_Simple_AOE_44: -5521097614059596103
+      Electric_Simple_AOE_45: -4766266464002292400
+      Electric_Simple_AOE_46: 2985517309038894828
+      Electric_Simple_AOE_47: -8925869359965095970
+      Electric_Simple_AOE_48: -1698640839697034647
+      Electric_Simple_AOE_49: -6017254299221908761
+      Electric_Simple_AOE_5: 5328771142305711929
+      Electric_Simple_AOE_50: -2137702013507024434
+      Electric_Simple_AOE_51: -6616415838565184363
+      Electric_Simple_AOE_52: -1629759236069906610
+      Electric_Simple_AOE_53: 2588809776689167995
+      Electric_Simple_AOE_54: 1770428113828246626
+      Electric_Simple_AOE_55: 2147299042925231295
+      Electric_Simple_AOE_56: 5879399391711903873
+      Electric_Simple_AOE_57: -1938932991698957605
+      Electric_Simple_AOE_58: -3667938595271132334
+      Electric_Simple_AOE_59: 827919631688328275
+      Electric_Simple_AOE_6: -2777568718126452557
+      Electric_Simple_AOE_60: -319317125609945037
+      Electric_Simple_AOE_61: 5281681021871234625
+      Electric_Simple_AOE_62: 4054918185597627141
+      Electric_Simple_AOE_63: 1777708774697016300
+      Electric_Simple_AOE_64: -4561346759641706225
+      Electric_Simple_AOE_65: -2404270702200202852
+      Electric_Simple_AOE_66: 407437004828505657
+      Electric_Simple_AOE_67: 6099302026761674489
+      Electric_Simple_AOE_68: 3151152725603824285
+      Electric_Simple_AOE_69: 4781084211090280692
+      Electric_Simple_AOE_7: 3492371395207022499
+      Electric_Simple_AOE_70: 5976657979345409667
+      Electric_Simple_AOE_71: 8115091762778407547
+      Electric_Simple_AOE_72: -2411640804881175510
+      Electric_Simple_AOE_73: -8825247338374307469
+      Electric_Simple_AOE_74: 1735307469501108904
+      Electric_Simple_AOE_75: -2096138185490985866
+      Electric_Simple_AOE_76: -2679768157152367761
+      Electric_Simple_AOE_77: 8810840170365290950
+      Electric_Simple_AOE_78: -5960445464261068053
+      Electric_Simple_AOE_79: -981121353640794611
+      Electric_Simple_AOE_8: -7155436224569163701
+      Electric_Simple_AOE_80: 2063698626446140631
+      Electric_Simple_AOE_81: 1662090419636112916
+      Electric_Simple_AOE_82: 8905916813721566356
+      Electric_Simple_AOE_83: 2322536767589814758
+      Electric_Simple_AOE_84: 1505129866925354775
+      Electric_Simple_AOE_85: 8663864220018928639
+      Electric_Simple_AOE_86: -1788927538847363546
+      Electric_Simple_AOE_87: 3546723276459501938
+      Electric_Simple_AOE_88: -3648261216942473013
+      Electric_Simple_AOE_89: -6925288006383065480
+      Electric_Simple_AOE_9: -2121915769191962902
+      Electric_Simple_AOE_90: -7124859889847131283
+      Electric_Simple_AOE_91: 5533407652518412318
+      Electric_Simple_AOE_92: -5072030667296784316
+      Electric_Simple_AOE_93: 5811117942821461134
+      Electric_Simple_AOE_94: -1645262610915315147
+      Electric_Simple_AOE_95: -1505679721765922817
+      Electric_Simple_AOE_96: 8071970686076470811
+      Electric_Simple_AOE_97: 6373646869762605955
+      Electric_Simple_AOE_98: 8775271250800863000
+      Electric_Simple_AOE_99: 5293586152103415195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

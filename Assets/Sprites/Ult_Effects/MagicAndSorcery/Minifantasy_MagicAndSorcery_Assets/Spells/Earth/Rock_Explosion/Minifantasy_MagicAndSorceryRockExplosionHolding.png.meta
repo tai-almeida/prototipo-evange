@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: ef59a473c19d74602b03733af669eb94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7183341284229471155
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_0
+  - first:
+      213: -8028189766276671531
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_1
+  - first:
+      213: -7012795854164530122
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_2
+  - first:
+      213: -2467095252422812281
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_3
+  - first:
+      213: -996559843082539620
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_4
+  - first:
+      213: -4643845981319271107
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_5
+  - first:
+      213: 3065973726188142861
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_6
+  - first:
+      213: -3615615296387032810
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_7
+  - first:
+      213: -8863779415730790245
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_8
+  - first:
+      213: 745846951120871270
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_9
+  - first:
+      213: 1194149415638680358
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_10
+  - first:
+      213: 4832180083057986540
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_11
+  - first:
+      213: -7647501593623469258
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_12
+  - first:
+      213: -3357008724424653456
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_13
+  - first:
+      213: 1786413379594881424
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_14
+  - first:
+      213: 4430910610394595515
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_15
+  - first:
+      213: -5907832639747089741
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_16
+  - first:
+      213: 1128806339525535942
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_17
+  - first:
+      213: 4478461168005510057
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_18
+  - first:
+      213: 5001030019532274646
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_19
+  - first:
+      213: 5932802827095846634
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_20
+  - first:
+      213: -1344969591414813946
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_21
+  - first:
+      213: 3491891604167911372
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_22
+  - first:
+      213: 8302904535928447275
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_23
+  - first:
+      213: -8416186797401247025
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_24
+  - first:
+      213: 1729748723372960999
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_25
+  - first:
+      213: 2685541528121573243
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_26
+  - first:
+      213: 8126836478969894928
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_27
+  - first:
+      213: -7961836914691204390
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_28
+  - first:
+      213: 6928030892202523194
+    second: Minifantasy_MagicAndSorceryRockExplosionHolding_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb55eac6da50b360800000000000000
+      internalID: 7183341284229471155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d717a751f3269090800000000000000
+      internalID: -8028189766276671531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce036735b8dae90800000000000000
+      internalID: -7012795854164530122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d194c60fd13cdd0800000000000000
+      internalID: -2467095252422812281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d65ab4a128b22f0800000000000000
+      internalID: -996559843082539620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3de6d32faebd8fb0800000000000000
+      internalID: -4643845981319271107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0100281cd68c8a20800000000000000
+      internalID: 3065973726188142861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 13
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d1665b01c2ddc0800000000000000
+      internalID: -3615615296387032810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9062fd65978df480800000000000000
+      internalID: -8863779415730790245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f1e52b9d7c95a00800000000000000
+      internalID: 745846951120871270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62342ef0198729010800000000000000
+      internalID: 1194149415638680358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb836dfe2a5f0340800000000000000
+      internalID: 4832180083057986540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e6dc91dd9ed590800000000000000
+      internalID: -7647501593623469258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07508c0f9528961d0800000000000000
+      internalID: -3357008724424653456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09902c0018d9ac810800000000000000
+      internalID: 1786413379594881424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0441469b1cd7d30800000000000000
+      internalID: 4430910610394595515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba9a63e389230ea0800000000000000
+      internalID: -5907832639747089741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e0a792635aaf00800000000000000
+      internalID: 1128806339525535942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3795354b0b62e30800000000000000
+      internalID: 4478461168005510057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db39416e4a376540800000000000000
+      internalID: 5001030019532274646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee2b77ecbc855250800000000000000
+      internalID: 5932802827095846634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b84065845b55de0800000000000000
+      internalID: -1344969591414813946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7e894c9e0b57030800000000000000
+      internalID: 3491891604167911372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21aefb4fa7d93370800000000000000
+      internalID: 8302904535928447275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f099d2b2b33b80800000000000000
+      internalID: -8416186797401247025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca45f9c4d410810800000000000000
+      internalID: 1729748723372960999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_26
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ffe3d8ac5f44520800000000000000
+      internalID: 2685541528121573243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018dfa448b258c070800000000000000
+      internalID: 8126836478969894928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada1d3c728fd18190800000000000000
+      internalID: -7961836914691204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionHolding_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3af9a2e36f452060800000000000000
+      internalID: 6928030892202523194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryRockExplosionHolding_0: 7183341284229471155
+      Minifantasy_MagicAndSorceryRockExplosionHolding_1: -8028189766276671531
+      Minifantasy_MagicAndSorceryRockExplosionHolding_10: 1194149415638680358
+      Minifantasy_MagicAndSorceryRockExplosionHolding_11: 4832180083057986540
+      Minifantasy_MagicAndSorceryRockExplosionHolding_12: -7647501593623469258
+      Minifantasy_MagicAndSorceryRockExplosionHolding_13: -3357008724424653456
+      Minifantasy_MagicAndSorceryRockExplosionHolding_14: 1786413379594881424
+      Minifantasy_MagicAndSorceryRockExplosionHolding_15: 4430910610394595515
+      Minifantasy_MagicAndSorceryRockExplosionHolding_16: -5907832639747089741
+      Minifantasy_MagicAndSorceryRockExplosionHolding_17: 1128806339525535942
+      Minifantasy_MagicAndSorceryRockExplosionHolding_18: 4478461168005510057
+      Minifantasy_MagicAndSorceryRockExplosionHolding_19: 5001030019532274646
+      Minifantasy_MagicAndSorceryRockExplosionHolding_2: -7012795854164530122
+      Minifantasy_MagicAndSorceryRockExplosionHolding_20: 5932802827095846634
+      Minifantasy_MagicAndSorceryRockExplosionHolding_21: -1344969591414813946
+      Minifantasy_MagicAndSorceryRockExplosionHolding_22: 3491891604167911372
+      Minifantasy_MagicAndSorceryRockExplosionHolding_23: 8302904535928447275
+      Minifantasy_MagicAndSorceryRockExplosionHolding_24: -8416186797401247025
+      Minifantasy_MagicAndSorceryRockExplosionHolding_25: 1729748723372960999
+      Minifantasy_MagicAndSorceryRockExplosionHolding_26: 2685541528121573243
+      Minifantasy_MagicAndSorceryRockExplosionHolding_27: 8126836478969894928
+      Minifantasy_MagicAndSorceryRockExplosionHolding_28: -7961836914691204390
+      Minifantasy_MagicAndSorceryRockExplosionHolding_29: 6928030892202523194
+      Minifantasy_MagicAndSorceryRockExplosionHolding_3: -2467095252422812281
+      Minifantasy_MagicAndSorceryRockExplosionHolding_4: -996559843082539620
+      Minifantasy_MagicAndSorceryRockExplosionHolding_5: -4643845981319271107
+      Minifantasy_MagicAndSorceryRockExplosionHolding_6: 3065973726188142861
+      Minifantasy_MagicAndSorceryRockExplosionHolding_7: -3615615296387032810
+      Minifantasy_MagicAndSorceryRockExplosionHolding_8: -8863779415730790245
+      Minifantasy_MagicAndSorceryRockExplosionHolding_9: 745846951120871270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 3aabe15f1d86a48d1901d802edbf90e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9061724898776573823
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_0
+  - first:
+      213: 813685526100860345
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_1
+  - first:
+      213: -2556555488219666261
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_2
+  - first:
+      213: 3625943968702544797
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_3
+  - first:
+      213: -1517565680095712219
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_4
+  - first:
+      213: -8319147352142934943
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_5
+  - first:
+      213: 3053977204523241050
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_6
+  - first:
+      213: -4758992462229673084
+    second: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881c1437394e3280800000000000000
+      internalID: -9061724898776573823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5e16ccaaca4b00800000000000000
+      internalID: 813685526100860345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86714245a458cd0800000000000000
+      internalID: -2556555488219666261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b3cf514d0f15230800000000000000
+      internalID: 3625943968702544797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c229aed0680fae0800000000000000
+      internalID: -1517565680095712219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c83695f837c8c80800000000000000
+      internalID: -8319147352142934943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e8fbb3618e16a20800000000000000
+      internalID: 3053977204523241050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be900e199a4fdb0800000000000000
+      internalID: -4758992462229673084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_0: -9061724898776573823
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_1: 813685526100860345
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_2: -2556555488219666261
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_3: 3625943968702544797
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_4: -1517565680095712219
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_5: -8319147352142934943
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_6: 3053977204523241050
+      Minifantasy_MagicAndSorceryFireBallHoldingFrontLayer_7: -4758992462229673084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

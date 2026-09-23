@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: f23f6c365757342638f31ba92f86f1d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2592689855606128571
+    second: Bioluminiscent_Lichen_0
+  - first:
+      213: -7806985253870753964
+    second: Bioluminiscent_Lichen_1
+  - first:
+      213: 5995146708730123566
+    second: Bioluminiscent_Lichen_2
+  - first:
+      213: -8547385930134834112
+    second: Bioluminiscent_Lichen_3
+  - first:
+      213: -975123167508270475
+    second: Bioluminiscent_Lichen_4
+  - first:
+      213: 295095835079645582
+    second: Bioluminiscent_Lichen_5
+  - first:
+      213: -3027898801567964147
+    second: Bioluminiscent_Lichen_6
+  - first:
+      213: -3553519348198539280
+    second: Bioluminiscent_Lichen_7
+  - first:
+      213: 7437663643869688043
+    second: Bioluminiscent_Lichen_8
+  - first:
+      213: 1673888938243361726
+    second: Bioluminiscent_Lichen_9
+  - first:
+      213: -8143469029620085311
+    second: Bioluminiscent_Lichen_10
+  - first:
+      213: 5228659865275770884
+    second: Bioluminiscent_Lichen_11
+  - first:
+      213: -7642869719357664418
+    second: Bioluminiscent_Lichen_12
+  - first:
+      213: -7890122121969884469
+    second: Bioluminiscent_Lichen_13
+  - first:
+      213: 5714376570862935729
+    second: Bioluminiscent_Lichen_14
+  - first:
+      213: -6319823010870259950
+    second: Bioluminiscent_Lichen_15
+  - first:
+      213: 4248098899157373520
+    second: Bioluminiscent_Lichen_16
+  - first:
+      213: 784874284429378310
+    second: Bioluminiscent_Lichen_17
+  - first:
+      213: 6453100079530745378
+    second: Bioluminiscent_Lichen_18
+  - first:
+      213: 1327281442027209679
+    second: Bioluminiscent_Lichen_19
+  - first:
+      213: -8536945553115363148
+    second: Bioluminiscent_Lichen_20
+  - first:
+      213: 9152406341909304570
+    second: Bioluminiscent_Lichen_21
+  - first:
+      213: 6163810666588960418
+    second: Bioluminiscent_Lichen_22
+  - first:
+      213: 7926333137817094689
+    second: Bioluminiscent_Lichen_23
+  - first:
+      213: 4865784169735844245
+    second: Bioluminiscent_Lichen_24
+  - first:
+      213: 6450482333339138822
+    second: Bioluminiscent_Lichen_25
+  - first:
+      213: -903027866740011562
+    second: Bioluminiscent_Lichen_26
+  - first:
+      213: 5211438459867085853
+    second: Bioluminiscent_Lichen_27
+  - first:
+      213: 6648659646264030732
+    second: Bioluminiscent_Lichen_28
+  - first:
+      213: -8899686022041312022
+    second: Bioluminiscent_Lichen_29
+  - first:
+      213: 5213557673258383962
+    second: Bioluminiscent_Lichen_30
+  - first:
+      213: 1615142027143191176
+    second: Bioluminiscent_Lichen_31
+  - first:
+      213: 1692961252171761283
+    second: Bioluminiscent_Lichen_32
+  - first:
+      213: -6888767385019511120
+    second: Bioluminiscent_Lichen_33
+  - first:
+      213: 6660657872564788916
+    second: Bioluminiscent_Lichen_34
+  - first:
+      213: -3284031842288089189
+    second: Bioluminiscent_Lichen_35
+  - first:
+      213: 2787605677807570550
+    second: Bioluminiscent_Lichen_36
+  - first:
+      213: 4057322099394331158
+    second: Bioluminiscent_Lichen_37
+  - first:
+      213: 7847613231109126880
+    second: Bioluminiscent_Lichen_38
+  - first:
+      213: -8387118519772176988
+    second: Bioluminiscent_Lichen_39
+  - first:
+      213: -1179176352931621285
+    second: Bioluminiscent_Lichen_40
+  - first:
+      213: 4576995840729843648
+    second: Bioluminiscent_Lichen_41
+  - first:
+      213: -6332813788839157173
+    second: Bioluminiscent_Lichen_42
+  - first:
+      213: -1265438319598620173
+    second: Bioluminiscent_Lichen_43
+  - first:
+      213: 2742080973751369386
+    second: Bioluminiscent_Lichen_44
+  - first:
+      213: 8900440819715263210
+    second: Bioluminiscent_Lichen_45
+  - first:
+      213: 2175256350503877457
+    second: Bioluminiscent_Lichen_46
+  - first:
+      213: 5756819818257264011
+    second: Bioluminiscent_Lichen_47
+  - first:
+      213: -3275158043870451979
+    second: Bioluminiscent_Lichen_48
+  - first:
+      213: -3971012629119588580
+    second: Bioluminiscent_Lichen_49
+  - first:
+      213: -3506745477729427374
+    second: Bioluminiscent_Lichen_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7920efa51bf320800000000000000
+      internalID: 2592689855606128571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 126
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4572258564408a390800000000000000
+      internalID: -7806985253870753964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25163efa2a033350800000000000000
+      internalID: 5995146708730123566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 126
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044342458c5916980800000000000000
+      internalID: -8547385930134834112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 126
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727a6445aaa772f0800000000000000
+      internalID: -975123167508270475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e899e983914681400800000000000000
+      internalID: 295095835079645582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04e5bc151ebaf5d0800000000000000
+      internalID: -3027898801567964147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff52ceafc5faec0800000000000000
+      internalID: -3553519348198539280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b0bb7da3e73760800000000000000
+      internalID: 7437663643869688043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb8375ee19da3710800000000000000
+      internalID: 1673888938243361726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd891240169cfe80800000000000000
+      internalID: -8143469029620085311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408aa11e17eef8840800000000000000
+      internalID: 5228659865275770884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53d811eb721fe590800000000000000
+      internalID: -7642869719357664418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2a885dbb7a08290800000000000000
+      internalID: -7890122121969884469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9913173b8d4f40800000000000000
+      internalID: 5714376570862935729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f0db9947a7b48a0800000000000000
+      internalID: -6319823010870259950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052d00ff07744fa30800000000000000
+      internalID: 4248098899157373520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60380c4d00f64ea00800000000000000
+      internalID: 784874284429378310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e997415540e8950800000000000000
+      internalID: 6453100079530745378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3000570737b6210800000000000000
+      internalID: 1327281442027209679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b845b7004da68980800000000000000
+      internalID: -8536945553115363148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 30
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af459819311e30f70800000000000000
+      internalID: 9152406341909304570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a67cccd4214a8550800000000000000
+      internalID: 6163810666588960418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12acefa4efdfffd60800000000000000
+      internalID: 7926333137817094689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591f2de1cecb68340800000000000000
+      internalID: 4865784169735844245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 77
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bbc9c8187b48950800000000000000
+      internalID: 6450482333339138822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddceac80fcc773f0800000000000000
+      internalID: -903027866740011562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cbf29faafb25840800000000000000
+      internalID: 5211438459867085853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 77
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06ba00e8b8c44c50800000000000000
+      internalID: 6648659646264030732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e7bb27b6fd7480800000000000000
+      internalID: -8899686022041312022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5af39ac4174a5840800000000000000
+      internalID: 5213557673258383962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 77
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a9ca5cd132a6610800000000000000
+      internalID: 1615142027143191176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386c2360a4b9e7710800000000000000
+      internalID: 1692961252171761283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 29
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be8d93cf8e2660a0800000000000000
+      internalID: -6888767385019511120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 77
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be12a0ab096f6c50800000000000000
+      internalID: 6660657872564788916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97c8516076cc62d0800000000000000
+      internalID: -3284031842288089189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e059738909fa620800000000000000
+      internalID: 2787605677807570550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612cdb9e3f08e4830800000000000000
+      internalID: 4057322099394331158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3aeeb7a258ec60800000000000000
+      internalID: 7847613231109126880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_39
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad11e3a428fa9b80800000000000000
+      internalID: -8387118519772176988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5658f3ca59b2afe0800000000000000
+      internalID: -1179176352931621285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c784299771c48f30800000000000000
+      internalID: 4576995840729843648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42eb8769635d18a0800000000000000
+      internalID: -6332813788839157173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1382b8d82407ee0800000000000000
+      internalID: -1265438319598620173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebec11e14dd0620800000000000000
+      internalID: 2742080973751369386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac38bd4c7b48b70800000000000000
+      internalID: 8900440819715263210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b32333020103e10800000000000000
+      internalID: 2175256350503877457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d272faf1554ef40800000000000000
+      internalID: 5756819818257264011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a6d39c1d4c82d0800000000000000
+      internalID: -3275158043870451979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17acba9d0124e8c0800000000000000
+      internalID: -3971012629119588580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bioluminiscent_Lichen_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ea3a4199855fc0800000000000000
+      internalID: -3506745477729427374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bioluminiscent_Lichen_0: 2592689855606128571
+      Bioluminiscent_Lichen_1: -7806985253870753964
+      Bioluminiscent_Lichen_10: -8143469029620085311
+      Bioluminiscent_Lichen_11: 5228659865275770884
+      Bioluminiscent_Lichen_12: -7642869719357664418
+      Bioluminiscent_Lichen_13: -7890122121969884469
+      Bioluminiscent_Lichen_14: 5714376570862935729
+      Bioluminiscent_Lichen_15: -6319823010870259950
+      Bioluminiscent_Lichen_16: 4248098899157373520
+      Bioluminiscent_Lichen_17: 784874284429378310
+      Bioluminiscent_Lichen_18: 6453100079530745378
+      Bioluminiscent_Lichen_19: 1327281442027209679
+      Bioluminiscent_Lichen_2: 5995146708730123566
+      Bioluminiscent_Lichen_20: -8536945553115363148
+      Bioluminiscent_Lichen_21: 9152406341909304570
+      Bioluminiscent_Lichen_22: 6163810666588960418
+      Bioluminiscent_Lichen_23: 7926333137817094689
+      Bioluminiscent_Lichen_24: 4865784169735844245
+      Bioluminiscent_Lichen_25: 6450482333339138822
+      Bioluminiscent_Lichen_26: -903027866740011562
+      Bioluminiscent_Lichen_27: 5211438459867085853
+      Bioluminiscent_Lichen_28: 6648659646264030732
+      Bioluminiscent_Lichen_29: -8899686022041312022
+      Bioluminiscent_Lichen_3: -8547385930134834112
+      Bioluminiscent_Lichen_30: 5213557673258383962
+      Bioluminiscent_Lichen_31: 1615142027143191176
+      Bioluminiscent_Lichen_32: 1692961252171761283
+      Bioluminiscent_Lichen_33: -6888767385019511120
+      Bioluminiscent_Lichen_34: 6660657872564788916
+      Bioluminiscent_Lichen_35: -3284031842288089189
+      Bioluminiscent_Lichen_36: 2787605677807570550
+      Bioluminiscent_Lichen_37: 4057322099394331158
+      Bioluminiscent_Lichen_38: 7847613231109126880
+      Bioluminiscent_Lichen_39: -8387118519772176988
+      Bioluminiscent_Lichen_4: -975123167508270475
+      Bioluminiscent_Lichen_40: -1179176352931621285
+      Bioluminiscent_Lichen_41: 4576995840729843648
+      Bioluminiscent_Lichen_42: -6332813788839157173
+      Bioluminiscent_Lichen_43: -1265438319598620173
+      Bioluminiscent_Lichen_44: 2742080973751369386
+      Bioluminiscent_Lichen_45: 8900440819715263210
+      Bioluminiscent_Lichen_46: 2175256350503877457
+      Bioluminiscent_Lichen_47: 5756819818257264011
+      Bioluminiscent_Lichen_48: -3275158043870451979
+      Bioluminiscent_Lichen_49: -3971012629119588580
+      Bioluminiscent_Lichen_5: 295095835079645582
+      Bioluminiscent_Lichen_50: -3506745477729427374
+      Bioluminiscent_Lichen_6: -3027898801567964147
+      Bioluminiscent_Lichen_7: -3553519348198539280
+      Bioluminiscent_Lichen_8: 7437663643869688043
+      Bioluminiscent_Lichen_9: 1673888938243361726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

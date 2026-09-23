@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 573c3d3abdc2349ddafbc1b66e54d6ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2642125889574549749
+    second: Arcane_Beam_0
+  - first:
+      213: -2405824172015784656
+    second: Arcane_Beam_1
+  - first:
+      213: 3931455177369303938
+    second: Arcane_Beam_2
+  - first:
+      213: 8128620953890784701
+    second: Arcane_Beam_3
+  - first:
+      213: 739911850343211799
+    second: Arcane_Beam_4
+  - first:
+      213: 460062201315896161
+    second: Arcane_Beam_5
+  - first:
+      213: 7159835179921092862
+    second: Arcane_Beam_6
+  - first:
+      213: 5156264626997950267
+    second: Arcane_Beam_7
+  - first:
+      213: -7703368924088366219
+    second: Arcane_Beam_8
+  - first:
+      213: -1511972466167393947
+    second: Arcane_Beam_9
+  - first:
+      213: -3394185246437366905
+    second: Arcane_Beam_10
+  - first:
+      213: 1843295560973084027
+    second: Arcane_Beam_11
+  - first:
+      213: 3896762030750668185
+    second: Arcane_Beam_12
+  - first:
+      213: 1106021042256095277
+    second: Arcane_Beam_13
+  - first:
+      213: 3830106469458398779
+    second: Arcane_Beam_14
+  - first:
+      213: -260434824143412990
+    second: Arcane_Beam_15
+  - first:
+      213: -3290304534131540438
+    second: Arcane_Beam_16
+  - first:
+      213: -7409748433266948465
+    second: Arcane_Beam_17
+  - first:
+      213: -5478652915930882670
+    second: Arcane_Beam_18
+  - first:
+      213: 7034807866609466593
+    second: Arcane_Beam_19
+  - first:
+      213: 8365315182648361310
+    second: Arcane_Beam_20
+  - first:
+      213: -4096594099487525604
+    second: Arcane_Beam_21
+  - first:
+      213: 6505362285332326829
+    second: Arcane_Beam_22
+  - first:
+      213: -6815997154128044803
+    second: Arcane_Beam_23
+  - first:
+      213: -4600339818744162562
+    second: Arcane_Beam_24
+  - first:
+      213: 2787833554419907220
+    second: Arcane_Beam_25
+  - first:
+      213: 1097355181715171245
+    second: Arcane_Beam_26
+  - first:
+      213: -8401850840756397019
+    second: Arcane_Beam_27
+  - first:
+      213: 425643853158434841
+    second: Arcane_Beam_28
+  - first:
+      213: -6168385600329289753
+    second: Arcane_Beam_29
+  - first:
+      213: -2058151162001957290
+    second: Arcane_Beam_30
+  - first:
+      213: 3907742232776127334
+    second: Arcane_Beam_31
+  - first:
+      213: 1933569334597359088
+    second: Arcane_Beam_32
+  - first:
+      213: 6653405858124202887
+    second: Arcane_Beam_33
+  - first:
+      213: 5475053475200968535
+    second: Arcane_Beam_34
+  - first:
+      213: 2549651094326319114
+    second: Arcane_Beam_35
+  - first:
+      213: -7333650790266916023
+    second: Arcane_Beam_36
+  - first:
+      213: -39323429451096091
+    second: Arcane_Beam_37
+  - first:
+      213: 8602833052169594996
+    second: Arcane_Beam_38
+  - first:
+      213: -276984472543951116
+    second: Arcane_Beam_39
+  - first:
+      213: -5595734183133958767
+    second: Arcane_Beam_40
+  - first:
+      213: 6155566438938623020
+    second: Arcane_Beam_41
+  - first:
+      213: -789956225154198769
+    second: Arcane_Beam_42
+  - first:
+      213: -7079084825551402275
+    second: Arcane_Beam_43
+  - first:
+      213: 6628869395321165813
+    second: Arcane_Beam_44
+  - first:
+      213: 4030219998175920568
+    second: Arcane_Beam_45
+  - first:
+      213: 8325271696759218483
+    second: Arcane_Beam_46
+  - first:
+      213: -6262981867630058199
+    second: Arcane_Beam_47
+  - first:
+      213: -3425853183539814126
+    second: Arcane_Beam_48
+  - first:
+      213: 3140329860248281269
+    second: Arcane_Beam_49
+  - first:
+      213: 2454043600721491103
+    second: Arcane_Beam_50
+  - first:
+      213: 5382591294331137063
+    second: Arcane_Beam_51
+  - first:
+      213: -7472670710563683594
+    second: Arcane_Beam_52
+  - first:
+      213: 4153651121790260564
+    second: Arcane_Beam_53
+  - first:
+      213: 3186592247077097196
+    second: Arcane_Beam_54
+  - first:
+      213: 7088483508626808416
+    second: Arcane_Beam_55
+  - first:
+      213: -1124169114903102759
+    second: Arcane_Beam_56
+  - first:
+      213: -6064259630882787049
+    second: Arcane_Beam_57
+  - first:
+      213: 4678607107487519415
+    second: Arcane_Beam_58
+  - first:
+      213: 6775365732698119600
+    second: Arcane_Beam_59
+  - first:
+      213: -1199665853459419759
+    second: Arcane_Beam_60
+  - first:
+      213: 8757858845163895684
+    second: Arcane_Beam_61
+  - first:
+      213: 3401200083813946623
+    second: Arcane_Beam_62
+  - first:
+      213: -765388660866540968
+    second: Arcane_Beam_63
+  - first:
+      213: -465560970046289
+    second: Arcane_Beam_64
+  - first:
+      213: -5861563650329574904
+    second: Arcane_Beam_65
+  - first:
+      213: 8403541572514484670
+    second: Arcane_Beam_66
+  - first:
+      213: 5802485405623237567
+    second: Arcane_Beam_67
+  - first:
+      213: -6118594429703082922
+    second: Arcane_Beam_68
+  - first:
+      213: 8576375769699019169
+    second: Arcane_Beam_69
+  - first:
+      213: -18074784953288163
+    second: Arcane_Beam_70
+  - first:
+      213: -3288359805768747662
+    second: Arcane_Beam_71
+  - first:
+      213: 5492707092174446643
+    second: Arcane_Beam_72
+  - first:
+      213: 2040421030786187791
+    second: Arcane_Beam_73
+  - first:
+      213: 5952277630287678911
+    second: Arcane_Beam_74
+  - first:
+      213: 418963798291057663
+    second: Arcane_Beam_75
+  - first:
+      213: 1958328684242548170
+    second: Arcane_Beam_76
+  - first:
+      213: 359539710772811305
+    second: Arcane_Beam_77
+  - first:
+      213: 4851860272042627949
+    second: Arcane_Beam_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane_Beam_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07cb048088455bd0800000000000000
+      internalID: -2642125889574549749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d63f289abcc9ed0800000000000000
+      internalID: -2405824172015784656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb77177a55f8630800000000000000
+      internalID: 3931455177369303938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50576b0b9aec070800000000000000
+      internalID: 8128620953890784701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7132fcc58e1b44a00800000000000000
+      internalID: 739911850343211799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ba4047228726600800000000000000
+      internalID: 460062201315896161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ba856928dc5360800000000000000
+      internalID: 7159835179921092862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ff14fb5bbe8740800000000000000
+      internalID: 5156264626997950267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 201
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b0ee917c2281590800000000000000
+      internalID: -7703368924088366219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561dbe38d05640be0800000000000000
+      internalID: -1511972466167393947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783aa34608e65e0d0800000000000000
+      internalID: -3394185246437366905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ead7eb83b49910800000000000000
+      internalID: 1843295560973084027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 185
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959f19cb64141630800000000000000
+      internalID: 3896762030750668185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 185
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2828c92740695f00800000000000000
+      internalID: 1106021042256095277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 185
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e4efb8a85472530800000000000000
+      internalID: 3830106469458398779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 185
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016ac348efb26cf0800000000000000
+      internalID: -260434824143412990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 185
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7b30857d7652d0800000000000000
+      internalID: -3290304534131540438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86cd18fe094b2990800000000000000
+      internalID: -7409748433266948465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 184
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d184a333ae7f3b0800000000000000
+      internalID: -5478652915930882670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec71609b78a0a160800000000000000
+      internalID: 7034807866609466593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5100f756d1971470800000000000000
+      internalID: 8365315182648361310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b5170f59f527c0800000000000000
+      internalID: -4096594099487525604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 144
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e4781880b74a50800000000000000
+      internalID: 6505362285332326829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcdf1673b6b861a0800000000000000
+      internalID: -6815997154128044803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 144
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65ba9fe4f4820c0800000000000000
+      internalID: -4600339818744162562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49afc10e8df50b620800000000000000
+      internalID: 2787833554419907220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 151
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7219649b69a3f00800000000000000
+      internalID: 1097355181715171245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd5ecdc21a66b80800000000000000
+      internalID: -8401850840756397019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918465c44d038e500800000000000000
+      internalID: 425643853158434841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efecbe5afd756aa0800000000000000
+      internalID: -6168385600329289753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 117
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed0d63c6aff63e0800000000000000
+      internalID: -2058151162001957290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b96a4bd61b3630800000000000000
+      internalID: 3907742232776127334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f59349b01b65da10800000000000000
+      internalID: 1933569334597359088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7830fff6065a55c50800000000000000
+      internalID: 6653405858124202887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 117
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572f9ba02c4bfb40800000000000000
+      internalID: 5475053475200968535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 116
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a089182692e226320800000000000000
+      internalID: 2549651094326319114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 119
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943b06b2673a93a90800000000000000
+      internalID: -7333650790266916023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef973c9c8b447ff0800000000000000
+      internalID: -39323429451096091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ee88c417636770800000000000000
+      internalID: 8602833052169594996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 93
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f608b9f614f72cf0800000000000000
+      internalID: -276984472543951116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d2acc6865f752b0800000000000000
+      internalID: -5595734183133958767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cb0480017fc6550800000000000000
+      internalID: 6155566438938623020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035393aff28905f0800000000000000
+      internalID: -789956225154198769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 93
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda86269bd902cd90800000000000000
+      internalID: -7079084825551402275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7939208997efb50800000000000000
+      internalID: 6628869395321165813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b183fd3cb73ee730800000000000000
+      internalID: 4030219998175920568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33162ffbf7e498370800000000000000
+      internalID: 8325271696759218483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 72
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a2319c2b6519a0800000000000000
+      internalID: -6262981867630058199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211e7763eace470d0800000000000000
+      internalID: -3425853183539814126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0a6a5ae51b49b20800000000000000
+      internalID: 3140329860248281269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94335c17a38e0220800000000000000
+      internalID: 2454043600721491103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca7b5934ec2ba40800000000000000
+      internalID: 5382591294331137063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2c265a49dbb4890800000000000000
+      internalID: -7472670710563683594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455163330bbb4a930800000000000000
+      internalID: 4153651121790260564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee4b03f3cc093c20800000000000000
+      internalID: 3186592247077097196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e5ae7d13a5f5260800000000000000
+      internalID: 7088483508626808416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3cb665262660f0800000000000000
+      internalID: -1124169114903102759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7117d7bdefb67dba0800000000000000
+      internalID: -6064259630882787049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2596d3060cde040800000000000000
+      internalID: 4678607107487519415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_59
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd53d88c3fe60e50800000000000000
+      internalID: 6775365732698119600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da26b234ee95fe0800000000000000
+      internalID: -1199665853459419759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb103f73a2a8970800000000000000
+      internalID: 8757858845163895684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff452c5b47d733f20800000000000000
+      internalID: 3401200083813946623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a10f1711bc065f0800000000000000
+      internalID: -765388660866540968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 21
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa452c323985efff0800000000000000
+      internalID: -465560970046289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80283c97aea87aea0800000000000000
+      internalID: -5861563650329574904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb114fc49806f9470800000000000000
+      internalID: 8403541572514484670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbbf88cbb1968050800000000000000
+      internalID: 5802485405623237567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_68
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 21
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c2ddca8c2661ba0800000000000000
+      internalID: -6118594429703082922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 20
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a96d2da258650770800000000000000
+      internalID: 8576375769699019169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ab77f2419cfbff0800000000000000
+      internalID: -18074784953288163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753b7bdd266d52d0800000000000000
+      internalID: -3288359805768747662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a35caff30a3c40800000000000000
+      internalID: 5492707092174446643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024f3ced18015c10800000000000000
+      internalID: 2040421030786187791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd0dcdd7fcba9250800000000000000
+      internalID: 5952277630287678911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb03e2da5570d500800000000000000
+      internalID: 418963798291057663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac53cb900916d2b10800000000000000
+      internalID: 1958328684242548170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926924746775df400800000000000000
+      internalID: 359539710772811305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane_Beam_78
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d635eee0635455340800000000000000
+      internalID: 4851860272042627949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcane_Beam_0: -2642125889574549749
+      Arcane_Beam_1: -2405824172015784656
+      Arcane_Beam_10: -3394185246437366905
+      Arcane_Beam_11: 1843295560973084027
+      Arcane_Beam_12: 3896762030750668185
+      Arcane_Beam_13: 1106021042256095277
+      Arcane_Beam_14: 3830106469458398779
+      Arcane_Beam_15: -260434824143412990
+      Arcane_Beam_16: -3290304534131540438
+      Arcane_Beam_17: -7409748433266948465
+      Arcane_Beam_18: -5478652915930882670
+      Arcane_Beam_19: 7034807866609466593
+      Arcane_Beam_2: 3931455177369303938
+      Arcane_Beam_20: 8365315182648361310
+      Arcane_Beam_21: -4096594099487525604
+      Arcane_Beam_22: 6505362285332326829
+      Arcane_Beam_23: -6815997154128044803
+      Arcane_Beam_24: -4600339818744162562
+      Arcane_Beam_25: 2787833554419907220
+      Arcane_Beam_26: 1097355181715171245
+      Arcane_Beam_27: -8401850840756397019
+      Arcane_Beam_28: 425643853158434841
+      Arcane_Beam_29: -6168385600329289753
+      Arcane_Beam_3: 8128620953890784701
+      Arcane_Beam_30: -2058151162001957290
+      Arcane_Beam_31: 3907742232776127334
+      Arcane_Beam_32: 1933569334597359088
+      Arcane_Beam_33: 6653405858124202887
+      Arcane_Beam_34: 5475053475200968535
+      Arcane_Beam_35: 2549651094326319114
+      Arcane_Beam_36: -7333650790266916023
+      Arcane_Beam_37: -39323429451096091
+      Arcane_Beam_38: 8602833052169594996
+      Arcane_Beam_39: -276984472543951116
+      Arcane_Beam_4: 739911850343211799
+      Arcane_Beam_40: -5595734183133958767
+      Arcane_Beam_41: 6155566438938623020
+      Arcane_Beam_42: -789956225154198769
+      Arcane_Beam_43: -7079084825551402275
+      Arcane_Beam_44: 6628869395321165813
+      Arcane_Beam_45: 4030219998175920568
+      Arcane_Beam_46: 8325271696759218483
+      Arcane_Beam_47: -6262981867630058199
+      Arcane_Beam_48: -3425853183539814126
+      Arcane_Beam_49: 3140329860248281269
+      Arcane_Beam_5: 460062201315896161
+      Arcane_Beam_50: 2454043600721491103
+      Arcane_Beam_51: 5382591294331137063
+      Arcane_Beam_52: -7472670710563683594
+      Arcane_Beam_53: 4153651121790260564
+      Arcane_Beam_54: 3186592247077097196
+      Arcane_Beam_55: 7088483508626808416
+      Arcane_Beam_56: -1124169114903102759
+      Arcane_Beam_57: -6064259630882787049
+      Arcane_Beam_58: 4678607107487519415
+      Arcane_Beam_59: 6775365732698119600
+      Arcane_Beam_6: 7159835179921092862
+      Arcane_Beam_60: -1199665853459419759
+      Arcane_Beam_61: 8757858845163895684
+      Arcane_Beam_62: 3401200083813946623
+      Arcane_Beam_63: -765388660866540968
+      Arcane_Beam_64: -465560970046289
+      Arcane_Beam_65: -5861563650329574904
+      Arcane_Beam_66: 8403541572514484670
+      Arcane_Beam_67: 5802485405623237567
+      Arcane_Beam_68: -6118594429703082922
+      Arcane_Beam_69: 8576375769699019169
+      Arcane_Beam_7: 5156264626997950267
+      Arcane_Beam_70: -18074784953288163
+      Arcane_Beam_71: -3288359805768747662
+      Arcane_Beam_72: 5492707092174446643
+      Arcane_Beam_73: 2040421030786187791
+      Arcane_Beam_74: 5952277630287678911
+      Arcane_Beam_75: 418963798291057663
+      Arcane_Beam_76: 1958328684242548170
+      Arcane_Beam_77: 359539710772811305
+      Arcane_Beam_78: 4851860272042627949
+      Arcane_Beam_8: -7703368924088366219
+      Arcane_Beam_9: -1511972466167393947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

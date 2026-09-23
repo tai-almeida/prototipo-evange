@@ -1,0 +1,3926 @@
+fileFormatVersion: 2
+guid: 19099e861442241bd977c9d1ecbdeb6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3306511417553711675
+    second: Props_Shadows_0
+  - first:
+      213: -9056006512232775769
+    second: Props_Shadows_1
+  - first:
+      213: -6254096297128282315
+    second: Props_Shadows_2
+  - first:
+      213: 9002085339064996101
+    second: Props_Shadows_3
+  - first:
+      213: 7499752741436378272
+    second: Props_Shadows_4
+  - first:
+      213: -2540121881312829843
+    second: Props_Shadows_5
+  - first:
+      213: -8173493944905959260
+    second: Props_Shadows_6
+  - first:
+      213: 3996102114270682698
+    second: Props_Shadows_7
+  - first:
+      213: -8165494512214284001
+    second: Props_Shadows_8
+  - first:
+      213: -3038460355640956512
+    second: Props_Shadows_9
+  - first:
+      213: 2827994474627394301
+    second: Props_Shadows_10
+  - first:
+      213: -2136143887949705663
+    second: Props_Shadows_11
+  - first:
+      213: -1845951029696076852
+    second: Props_Shadows_12
+  - first:
+      213: 4695320036338639097
+    second: Props_Shadows_13
+  - first:
+      213: -6582909185322241181
+    second: Props_Shadows_14
+  - first:
+      213: -3449943858819480922
+    second: Props_Shadows_15
+  - first:
+      213: -3438305721070437055
+    second: Props_Shadows_16
+  - first:
+      213: -7387396535713466981
+    second: Props_Shadows_17
+  - first:
+      213: -3204929468156316034
+    second: Props_Shadows_18
+  - first:
+      213: -8966285808319079483
+    second: Props_Shadows_19
+  - first:
+      213: 1443480305411602782
+    second: Props_Shadows_20
+  - first:
+      213: 909227321609203518
+    second: Props_Shadows_21
+  - first:
+      213: 373474758278352875
+    second: Props_Shadows_22
+  - first:
+      213: -4413652651268058507
+    second: Props_Shadows_23
+  - first:
+      213: -1493531406435871272
+    second: Props_Shadows_24
+  - first:
+      213: -7479380168819427658
+    second: Props_Shadows_25
+  - first:
+      213: 2867391036296528331
+    second: Props_Shadows_26
+  - first:
+      213: -8256503712909227598
+    second: Props_Shadows_27
+  - first:
+      213: 4991114846536283646
+    second: Props_Shadows_28
+  - first:
+      213: -792641945667051306
+    second: Props_Shadows_29
+  - first:
+      213: -1147460026847771894
+    second: Props_Shadows_30
+  - first:
+      213: 8480069612420445280
+    second: Props_Shadows_31
+  - first:
+      213: -2495252268833415089
+    second: Props_Shadows_32
+  - first:
+      213: -3151713018834789412
+    second: Props_Shadows_33
+  - first:
+      213: 179943511952106554
+    second: Props_Shadows_34
+  - first:
+      213: -8347065006887804958
+    second: Props_Shadows_35
+  - first:
+      213: 3940078219113481970
+    second: Props_Shadows_36
+  - first:
+      213: 8661081098886258807
+    second: Props_Shadows_37
+  - first:
+      213: 968289624837324245
+    second: Props_Shadows_38
+  - first:
+      213: 145574930962872048
+    second: Props_Shadows_39
+  - first:
+      213: 6468876611135915559
+    second: Props_Shadows_40
+  - first:
+      213: -3130210251481094418
+    second: Props_Shadows_41
+  - first:
+      213: 6491021742894640428
+    second: Props_Shadows_42
+  - first:
+      213: -6392211779026172779
+    second: Props_Shadows_43
+  - first:
+      213: -8799322129465610725
+    second: Props_Shadows_44
+  - first:
+      213: 1931548838104809711
+    second: Props_Shadows_45
+  - first:
+      213: -6679476937358560832
+    second: Props_Shadows_46
+  - first:
+      213: -2285193384588559920
+    second: Props_Shadows_47
+  - first:
+      213: -8279561304988046251
+    second: Props_Shadows_48
+  - first:
+      213: 2488179586103167681
+    second: Props_Shadows_49
+  - first:
+      213: 1639681590948136250
+    second: Props_Shadows_50
+  - first:
+      213: -1326419171431266131
+    second: Props_Shadows_51
+  - first:
+      213: -5791936790504352920
+    second: Props_Shadows_52
+  - first:
+      213: -4575689403571930439
+    second: Props_Shadows_53
+  - first:
+      213: 1889613222143948634
+    second: Props_Shadows_54
+  - first:
+      213: -2668291824872958912
+    second: Props_Shadows_55
+  - first:
+      213: -1370757590616741582
+    second: Props_Shadows_56
+  - first:
+      213: 1384893238006426880
+    second: Props_Shadows_57
+  - first:
+      213: -3625809347431499469
+    second: Props_Shadows_58
+  - first:
+      213: -6104081834067023886
+    second: Props_Shadows_59
+  - first:
+      213: -1689618200350398791
+    second: Props_Shadows_60
+  - first:
+      213: -5549268751341702647
+    second: Props_Shadows_61
+  - first:
+      213: 2353756796958228986
+    second: Props_Shadows_62
+  - first:
+      213: -6559743694418624885
+    second: Props_Shadows_63
+  - first:
+      213: -7165391382777774934
+    second: Props_Shadows_64
+  - first:
+      213: 3609706567946219788
+    second: Props_Shadows_65
+  - first:
+      213: -3244965692885580966
+    second: Props_Shadows_66
+  - first:
+      213: 7514620480585039989
+    second: Props_Shadows_67
+  - first:
+      213: -66809344077183944
+    second: Props_Shadows_68
+  - first:
+      213: 626595520457468047
+    second: Props_Shadows_69
+  - first:
+      213: -3138589256354752542
+    second: Props_Shadows_70
+  - first:
+      213: -9093558561291261479
+    second: Props_Shadows_71
+  - first:
+      213: 5574884218684275900
+    second: Props_Shadows_72
+  - first:
+      213: -6052818361148462606
+    second: Props_Shadows_73
+  - first:
+      213: 3887273335784538158
+    second: Props_Shadows_74
+  - first:
+      213: -7379037852591068377
+    second: Props_Shadows_75
+  - first:
+      213: 880705870005213293
+    second: Props_Shadows_76
+  - first:
+      213: -643962345029932757
+    second: Props_Shadows_77
+  - first:
+      213: 3470821358606054880
+    second: Props_Shadows_78
+  - first:
+      213: -6079802254824609177
+    second: Props_Shadows_79
+  - first:
+      213: -5499125895649791790
+    second: Props_Shadows_80
+  - first:
+      213: -326240107951262638
+    second: Props_Shadows_81
+  - first:
+      213: 2830355377687327797
+    second: Props_Shadows_82
+  - first:
+      213: -4137473080931956279
+    second: Props_Shadows_83
+  - first:
+      213: -8588651693830789289
+    second: Props_Shadows_84
+  - first:
+      213: 571519558978266178
+    second: Props_Shadows_85
+  - first:
+      213: -7642241007832981711
+    second: Props_Shadows_86
+  - first:
+      213: 720798235774975504
+    second: Props_Shadows_87
+  - first:
+      213: -3912832314495028019
+    second: Props_Shadows_88
+  - first:
+      213: -4951810630718497190
+    second: Props_Shadows_89
+  - first:
+      213: -1412514816825758719
+    second: Props_Shadows_90
+  - first:
+      213: -7830321107943018291
+    second: Props_Shadows_91
+  - first:
+      213: -1539200561811588074
+    second: Props_Shadows_92
+  - first:
+      213: 1016667854023691148
+    second: Props_Shadows_93
+  - first:
+      213: 4452170571218771838
+    second: Props_Shadows_94
+  - first:
+      213: -1171347765692877406
+    second: Props_Shadows_95
+  - first:
+      213: 5624368785103294857
+    second: Props_Shadows_96
+  - first:
+      213: -2231774748590221870
+    second: Props_Shadows_97
+  - first:
+      213: 686072007085321323
+    second: Props_Shadows_98
+  - first:
+      213: 8598259679959457423
+    second: Props_Shadows_99
+  - first:
+      213: 4359257151818801408
+    second: Props_Shadows_100
+  - first:
+      213: 3752541689471635176
+    second: Props_Shadows_101
+  - first:
+      213: -1858341412349359388
+    second: Props_Shadows_102
+  - first:
+      213: -8480402661596375910
+    second: Props_Shadows_103
+  - first:
+      213: 879469844430627461
+    second: Props_Shadows_104
+  - first:
+      213: -6881066671129967798
+    second: Props_Shadows_105
+  - first:
+      213: 6446806130571962666
+    second: Props_Shadows_106
+  - first:
+      213: -9187507170377746812
+    second: Props_Shadows_107
+  - first:
+      213: 6734799822651768129
+    second: Props_Shadows_108
+  - first:
+      213: 7829895127421609735
+    second: Props_Shadows_109
+  - first:
+      213: 9169759632372436201
+    second: Props_Shadows_110
+  - first:
+      213: 6648174605126080436
+    second: Props_Shadows_111
+  - first:
+      213: 3292518925682599319
+    second: Props_Shadows_112
+  - first:
+      213: -7024789504064547776
+    second: Props_Shadows_113
+  - first:
+      213: -1636534242707617447
+    second: Props_Shadows_114
+  - first:
+      213: -6388893373686594133
+    second: Props_Shadows_115
+  - first:
+      213: -6906115665381783059
+    second: Props_Shadows_116
+  - first:
+      213: 5667259922279138505
+    second: Props_Shadows_117
+  - first:
+      213: -3010098925741357050
+    second: Props_Shadows_118
+  - first:
+      213: -1568806968355718503
+    second: Props_Shadows_119
+  - first:
+      213: 4895152290987303897
+    second: Props_Shadows_120
+  - first:
+      213: 6195934201428427776
+    second: Props_Shadows_121
+  - first:
+      213: -4277048176040743585
+    second: Props_Shadows_122
+  - first:
+      213: 505320197757373540
+    second: Props_Shadows_123
+  - first:
+      213: 2815618430875419272
+    second: Props_Shadows_124
+  - first:
+      213: 5160231038190620487
+    second: Props_Shadows_125
+  - first:
+      213: -3171205814951952539
+    second: Props_Shadows_126
+  - first:
+      213: 8185339494987620560
+    second: Props_Shadows_127
+  - first:
+      213: 2197469798354276695
+    second: Props_Shadows_128
+  - first:
+      213: -3457222459738780441
+    second: Props_Shadows_129
+  - first:
+      213: 3211290399353950179
+    second: Props_Shadows_130
+  - first:
+      213: -8268446866507221236
+    second: Props_Shadows_131
+  - first:
+      213: -6966314452076443852
+    second: Props_Shadows_132
+  - first:
+      213: -412596735215876962
+    second: Props_Shadows_133
+  - first:
+      213: -1580212668750711941
+    second: Props_Shadows_134
+  - first:
+      213: -4394726158467698301
+    second: Props_Shadows_135
+  - first:
+      213: -6996807329292234446
+    second: Props_Shadows_136
+  - first:
+      213: -9055469158582361478
+    second: Props_Shadows_137
+  - first:
+      213: -1055931843853969531
+    second: Props_Shadows_138
+  - first:
+      213: -8282564375434157556
+    second: Props_Shadows_139
+  - first:
+      213: 8212860192900085489
+    second: Props_Shadows_140
+  - first:
+      213: 1854525943783099864
+    second: Props_Shadows_141
+  - first:
+      213: 8686970764241435690
+    second: Props_Shadows_142
+  - first:
+      213: -6799707619017971188
+    second: Props_Shadows_143
+  - first:
+      213: -711677434831490109
+    second: Props_Shadows_144
+  - first:
+      213: 7477074738056599857
+    second: Props_Shadows_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_Shadows_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd00f66269ec12d0800000000000000
+      internalID: -3306511417553711675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 471
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afbdb2de0a925280800000000000000
+      internalID: -9056006512232775769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 502
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537359aad8cf439a0800000000000000
+      internalID: -6254096297128282315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 488
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50198b8bbe4ddec70800000000000000
+      internalID: 9002085339064996101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 482
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acc3980269741860800000000000000
+      internalID: 7499752741436378272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 488
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed62a6b9cafbcd0800000000000000
+      internalID: -2540121881312829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_6
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 473
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f218ef8ae19e80800000000000000
+      internalID: -8173493944905959260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 474
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9a4f53b1057730800000000000000
+      internalID: 3996102114270682698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 473
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e018f0065eae80800000000000000
+      internalID: -8165494512214284001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 474
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9e9eda76835d5d0800000000000000
+      internalID: -3038460355640956512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 471
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaeee6cdfd0f3720800000000000000
+      internalID: 2827994474627394301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 471
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ec2a1a374ea52e0800000000000000
+      internalID: -2136143887949705663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 471
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e23a915dd166e0800000000000000
+      internalID: -1845951029696076852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 471
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f02db832b0292140800000000000000
+      internalID: 4695320036338639097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 471
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363363449fec4a4a0800000000000000
+      internalID: -6582909185322241181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 471
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a24608c6565f10d0800000000000000
+      internalID: -3449943858819480922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 471
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3762e92fa840d0800000000000000
+      internalID: -3438305721070437055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 471
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95f8d9adf1ba7990800000000000000
+      internalID: -7387396535713466981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 473
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e767c5011adc583d0800000000000000
+      internalID: -3204929468156316034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 476
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbd380109a519380800000000000000
+      internalID: -8966285808319079483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 472
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59b45c90b5480410800000000000000
+      internalID: 1443480305411602782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_21
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 473
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa8948e693e9c00800000000000000
+      internalID: 909227321609203518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_22
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 471
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef81cb5059de2500800000000000000
+      internalID: 373474758278352875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 471
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d4375c4e8fb2c0800000000000000
+      internalID: -4413652651268058507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_24
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 471
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d510825919e54be0800000000000000
+      internalID: -1493531406435871272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_25
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 471
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6ba692d57e33890800000000000000
+      internalID: -7479380168819427658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_26
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 474
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1089694f40bc720800000000000000
+      internalID: 2867391036296528331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_27
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 471
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b90a513e910b6d80800000000000000
+      internalID: -8256503712909227598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_28
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 471
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef539f44280044540800000000000000
+      internalID: 4991114846536283646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 438
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0e07a9958fff4f0800000000000000
+      internalID: -792641945667051306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 439
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0347c16f276310f0800000000000000
+      internalID: -1147460026847771894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 441
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064b7e612624fa570800000000000000
+      internalID: 8480069612420445280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_32
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 441
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40623b28451f5dd0800000000000000
+      internalID: -2495252268833415089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 441
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd06635bdd244d0800000000000000
+      internalID: -3151713018834789412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 400
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34aa85bba94f7200800000000000000
+      internalID: 179943511952106554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 402
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efdb53d994492c80800000000000000
+      internalID: -8347065006887804958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 400
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6438dc348fda630800000000000000
+      internalID: 3940078219113481970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 408
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77027fdfe57523870800000000000000
+      internalID: 8661081098886258807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 409
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddff18984e007d00800000000000000
+      internalID: 968289624837324245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 409
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67e30e0af250200800000000000000
+      internalID: 145574930962872048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_40
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 409
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726c696110116c950800000000000000
+      internalID: 6468876611135915559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_41
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 409
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ee206c524f84d0800000000000000
+      internalID: -3130210251481094418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 368
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d629e52edb41a50800000000000000
+      internalID: 6491021742894640428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_43
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 368
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c31e114d4a47a0800000000000000
+      internalID: -6392211779026172779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 368
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ee7f0e42782e580800000000000000
+      internalID: -8799322129465610725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 368
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04e893f6d3eca10800000000000000
+      internalID: 1931548838104809711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c134576d1bbd43a0800000000000000
+      internalID: -6679476937358560832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 367
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9b68469bc5940e0800000000000000
+      internalID: -2285193384588559920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_48
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 367
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c2e103cd6191d80800000000000000
+      internalID: -8279561304988046251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 367
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cace0f862ac78220800000000000000
+      internalID: 2488179586103167681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 367
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35063538b151c610800000000000000
+      internalID: 1639681590948136250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 367
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8429f8acc979de0800000000000000
+      internalID: -1326419171431266131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_52
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d8701d28ee9fa0800000000000000
+      internalID: -5791936790504352920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 367
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba73910bb2ef70c0800000000000000
+      internalID: -4575689403571930439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 336
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5775c4c631493a10800000000000000
+      internalID: 1889613222143948634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 336
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0445e55f8b258fad0800000000000000
+      internalID: -2668291824872958912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 336
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396e12eb371afce0800000000000000
+      internalID: -1370757590616741582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 336
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da63fff01283310800000000000000
+      internalID: 1384893238006426880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 289
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339fd0fdb998eadc0800000000000000
+      internalID: -3625809347431499469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 310
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72588a9e1f94ba0800000000000000
+      internalID: -6104081834067023886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_60
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 290
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66412e2354d88e0800000000000000
+      internalID: -1689618200350398791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 304
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023a11d8790df2b0800000000000000
+      internalID: -5549268751341702647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 304
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af14b5a06593aa020800000000000000
+      internalID: 2353756796958228986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 304
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb19c6ddb17f4a0800000000000000
+      internalID: -6559743694418624885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 304
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacb2e0508a6f8c90800000000000000
+      internalID: -7165391382777774934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_65
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 296
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0134dd9ff0481230800000000000000
+      internalID: 3609706567946219788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_66
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c93715e097f2d0800000000000000
+      internalID: -3244965692885580966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_67
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 281
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570852f438b494860800000000000000
+      internalID: 7514620480585039989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_68
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 282
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8344a9a6145a21ff0800000000000000
+      internalID: -66809344077183944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_69
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 281
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88e7b65e4d12b800800000000000000
+      internalID: 626595520457468047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_70
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 282
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e71e1743bd7174d0800000000000000
+      internalID: -3138589256354752542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_71
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 281
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a5021ba03dc180800000000000000
+      internalID: -9093558561291261479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 284
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc7b9ee8a7fd5d40800000000000000
+      internalID: 5574884218684275900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_73
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 280
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a8cd05c1100ca0800000000000000
+      internalID: -6052818361148462606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_74
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 281
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e200944d08e52f530800000000000000
+      internalID: 3887273335784538158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_75
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 279
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be52c3b24689990800000000000000
+      internalID: -7379037852591068377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_76
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 279
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6813459255e83c00800000000000000
+      internalID: 880705870005213293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_77
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 279
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2963c7b8af2017f0800000000000000
+      internalID: -643962345029932757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_78
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 279
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e57d8ee2a5da2030800000000000000
+      internalID: 3470821358606054880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_79
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6f88bf0430aba0800000000000000
+      internalID: -6079802254824609177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_80
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 279
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d074ae222e2fa3b0800000000000000
+      internalID: -5499125895649791790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_81
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 279
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254741ea956f87bf0800000000000000
+      internalID: -326240107951262638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_82
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 263
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5347b2b5831774720800000000000000
+      internalID: 2830355377687327797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_83
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 263
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c94f47772eb496c0800000000000000
+      internalID: -4137473080931956279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 263
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a8a10acafec880800000000000000
+      internalID: -8588651693830789289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 263
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2446617c2027ee700800000000000000
+      internalID: 571519558978266178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_86
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 263
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f11303b4e41f590800000000000000
+      internalID: -7642241007832981711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_87
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 263
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e781e2d2ac00a00800000000000000
+      internalID: 720798235774975504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_88
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 263
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4bad4bdb3d2b9c0800000000000000
+      internalID: -3912832314495028019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_89
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 263
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e55099772a74bb0800000000000000
+      internalID: -4951810630718497190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_90
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 247
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cef17024db56ce0800000000000000
+      internalID: -1412514816825758719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_91
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 246
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc030db607c155390800000000000000
+      internalID: -7830321107943018291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_92
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 249
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c732b7e39a3aae0800000000000000
+      internalID: -1539200561811588074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_93
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 249
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b04a5d60eeb1e00800000000000000
+      internalID: 1016667854023691148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_94
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 249
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f51f0cb8949cd30800000000000000
+      internalID: 4452170571218771838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_95
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 216
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5bd65c9698ebfe0800000000000000
+      internalID: -1171347765692877406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_96
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 217
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98190e16c95cd0e40800000000000000
+      internalID: 5624368785103294857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_97
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 217
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d79bc0b42701e0800000000000000
+      internalID: -2231774748590221870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_98
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 217
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ce8a00bda658900800000000000000
+      internalID: 686072007085321323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_99
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 217
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e1c869f97235770800000000000000
+      internalID: 8598259679959457423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_100
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001adb288413f7c30800000000000000
+      internalID: 4359257151818801408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0dc5e8c4b31430800000000000000
+      internalID: 3752541689471635176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_102
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 159
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac485d458d536e0800000000000000
+      internalID: -1858341412349359388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_103
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94554bd5be8f4a80800000000000000
+      internalID: -8480402661596375910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_104
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 159
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582a4f3f921843c00800000000000000
+      internalID: 879469844430627461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_105
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 159
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43c48fe15a8180a0800000000000000
+      internalID: -6881066671129967798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_106
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a296d84e408a77950800000000000000
+      internalID: 6446806130571962666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_107
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 159
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b742f7ea6f7080800000000000000
+      internalID: -9187507170377746812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_108
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 97
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14db58691c0d67d50800000000000000
+      internalID: 6734799822651768129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_109
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 118
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e682422069ac60800000000000000
+      internalID: 7829895127421609735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_110
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 104
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec864b5dc7814f70800000000000000
+      internalID: 9169759632372436201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_111
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 98
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7105f649f034c50800000000000000
+      internalID: 6648174605126080436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_112
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 104
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ef85b48061bd20800000000000000
+      internalID: 3292518925682599319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_113
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 89
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044175c3a2fe28e90800000000000000
+      internalID: -7024789504064547776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_114
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 90
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95946a8e6ccd949e0800000000000000
+      internalID: -1636534242707617447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_115
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 89
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5409193571657a0800000000000000
+      internalID: -6388893373686594133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_116
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 90
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9882b746c8820a0800000000000000
+      internalID: -6906115665381783059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_117
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 89
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c481457fd626ae40800000000000000
+      internalID: 5667259922279138505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_118
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 92
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c668a9faf936d0800000000000000
+      internalID: -3010098925741357050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_119
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 88
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afff9cf5a7a3ae0800000000000000
+      internalID: -1568806968355718503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_120
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 89
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ecb1b2131fe340800000000000000
+      internalID: 4895152290987303897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_121
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 87
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004c5d724516cf550800000000000000
+      internalID: 6195934201428427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_122
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 87
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5debdb385fd4a4c0800000000000000
+      internalID: -4277048176040743585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_123
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 87
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c8825ea02430700800000000000000
+      internalID: 505320197757373540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_124
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 87
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8824f5b8b06131720800000000000000
+      internalID: 2815618430875419272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_125
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 90
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0c460ac2dc9740800000000000000
+      internalID: 5160231038190620487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_126
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 87
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb222fc1d9df3d0800000000000000
+      internalID: -3171205814951952539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_127
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 87
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d066b427ea289170800000000000000
+      internalID: 8185339494987620560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_128
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7515e8f832bfe7e10800000000000000
+      internalID: 2197469798354276695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_129
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec84c17d7a7500d0800000000000000
+      internalID: -3457222459738780441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_130
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 55
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef4d14aa9bc09c20800000000000000
+      internalID: 3211290399353950179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_131
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 55
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0735ad0263904d80800000000000000
+      internalID: -8268446866507221236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_132
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 55
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437405a3aeda25f90800000000000000
+      internalID: -6966314452076443852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_133
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 55
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94c8f19479264af0800000000000000
+      internalID: -412596735215876962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_134
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ba8933f4f11ae0800000000000000
+      internalID: -1580212668750711941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_135
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 55
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3817a67d7dbc203c0800000000000000
+      internalID: -4394726158467698301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_136
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 54
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231dfaffdc856ee90800000000000000
+      internalID: -6996807329292234446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_137
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 55
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72613837c2845280800000000000000
+      internalID: -9055469158582361478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_138
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 57
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5879f0425939851f0800000000000000
+      internalID: -1055931843853969531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_139
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 57
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0221fc559b6e0d80800000000000000
+      internalID: -8282564375434157556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_140
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 57
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f671c3f4d0f9f170800000000000000
+      internalID: 8212860192900085489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_141
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 24
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd00f925899cb910800000000000000
+      internalID: 1854525943783099864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_142
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 25
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c70d072e15e8870800000000000000
+      internalID: 8686970764241435690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_143
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 25
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aaae762f592a1a0800000000000000
+      internalID: -6799707619017971188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_144
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 25
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c33536c42d9f16f0800000000000000
+      internalID: -711677434831490109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Shadows_145
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 25
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13919e8ebd7e3c760800000000000000
+      internalID: 7477074738056599857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Props_Shadows_0: -3306511417553711675
+      Props_Shadows_1: -9056006512232775769
+      Props_Shadows_10: 2827994474627394301
+      Props_Shadows_100: 4359257151818801408
+      Props_Shadows_101: 3752541689471635176
+      Props_Shadows_102: -1858341412349359388
+      Props_Shadows_103: -8480402661596375910
+      Props_Shadows_104: 879469844430627461
+      Props_Shadows_105: -6881066671129967798
+      Props_Shadows_106: 6446806130571962666
+      Props_Shadows_107: -9187507170377746812
+      Props_Shadows_108: 6734799822651768129
+      Props_Shadows_109: 7829895127421609735
+      Props_Shadows_11: -2136143887949705663
+      Props_Shadows_110: 9169759632372436201
+      Props_Shadows_111: 6648174605126080436
+      Props_Shadows_112: 3292518925682599319
+      Props_Shadows_113: -7024789504064547776
+      Props_Shadows_114: -1636534242707617447
+      Props_Shadows_115: -6388893373686594133
+      Props_Shadows_116: -6906115665381783059
+      Props_Shadows_117: 5667259922279138505
+      Props_Shadows_118: -3010098925741357050
+      Props_Shadows_119: -1568806968355718503
+      Props_Shadows_12: -1845951029696076852
+      Props_Shadows_120: 4895152290987303897
+      Props_Shadows_121: 6195934201428427776
+      Props_Shadows_122: -4277048176040743585
+      Props_Shadows_123: 505320197757373540
+      Props_Shadows_124: 2815618430875419272
+      Props_Shadows_125: 5160231038190620487
+      Props_Shadows_126: -3171205814951952539
+      Props_Shadows_127: 8185339494987620560
+      Props_Shadows_128: 2197469798354276695
+      Props_Shadows_129: -3457222459738780441
+      Props_Shadows_13: 4695320036338639097
+      Props_Shadows_130: 3211290399353950179
+      Props_Shadows_131: -8268446866507221236
+      Props_Shadows_132: -6966314452076443852
+      Props_Shadows_133: -412596735215876962
+      Props_Shadows_134: -1580212668750711941
+      Props_Shadows_135: -4394726158467698301
+      Props_Shadows_136: -6996807329292234446
+      Props_Shadows_137: -9055469158582361478
+      Props_Shadows_138: -1055931843853969531
+      Props_Shadows_139: -8282564375434157556
+      Props_Shadows_14: -6582909185322241181
+      Props_Shadows_140: 8212860192900085489
+      Props_Shadows_141: 1854525943783099864
+      Props_Shadows_142: 8686970764241435690
+      Props_Shadows_143: -6799707619017971188
+      Props_Shadows_144: -711677434831490109
+      Props_Shadows_145: 7477074738056599857
+      Props_Shadows_15: -3449943858819480922
+      Props_Shadows_16: -3438305721070437055
+      Props_Shadows_17: -7387396535713466981
+      Props_Shadows_18: -3204929468156316034
+      Props_Shadows_19: -8966285808319079483
+      Props_Shadows_2: -6254096297128282315
+      Props_Shadows_20: 1443480305411602782
+      Props_Shadows_21: 909227321609203518
+      Props_Shadows_22: 373474758278352875
+      Props_Shadows_23: -4413652651268058507
+      Props_Shadows_24: -1493531406435871272
+      Props_Shadows_25: -7479380168819427658
+      Props_Shadows_26: 2867391036296528331
+      Props_Shadows_27: -8256503712909227598
+      Props_Shadows_28: 4991114846536283646
+      Props_Shadows_29: -792641945667051306
+      Props_Shadows_3: 9002085339064996101
+      Props_Shadows_30: -1147460026847771894
+      Props_Shadows_31: 8480069612420445280
+      Props_Shadows_32: -2495252268833415089
+      Props_Shadows_33: -3151713018834789412
+      Props_Shadows_34: 179943511952106554
+      Props_Shadows_35: -8347065006887804958
+      Props_Shadows_36: 3940078219113481970
+      Props_Shadows_37: 8661081098886258807
+      Props_Shadows_38: 968289624837324245
+      Props_Shadows_39: 145574930962872048
+      Props_Shadows_4: 7499752741436378272
+      Props_Shadows_40: 6468876611135915559
+      Props_Shadows_41: -3130210251481094418
+      Props_Shadows_42: 6491021742894640428
+      Props_Shadows_43: -6392211779026172779
+      Props_Shadows_44: -8799322129465610725
+      Props_Shadows_45: 1931548838104809711
+      Props_Shadows_46: -6679476937358560832
+      Props_Shadows_47: -2285193384588559920
+      Props_Shadows_48: -8279561304988046251
+      Props_Shadows_49: 2488179586103167681
+      Props_Shadows_5: -2540121881312829843
+      Props_Shadows_50: 1639681590948136250
+      Props_Shadows_51: -1326419171431266131
+      Props_Shadows_52: -5791936790504352920
+      Props_Shadows_53: -4575689403571930439
+      Props_Shadows_54: 1889613222143948634
+      Props_Shadows_55: -2668291824872958912
+      Props_Shadows_56: -1370757590616741582
+      Props_Shadows_57: 1384893238006426880
+      Props_Shadows_58: -3625809347431499469
+      Props_Shadows_59: -6104081834067023886
+      Props_Shadows_6: -8173493944905959260
+      Props_Shadows_60: -1689618200350398791
+      Props_Shadows_61: -5549268751341702647
+      Props_Shadows_62: 2353756796958228986
+      Props_Shadows_63: -6559743694418624885
+      Props_Shadows_64: -7165391382777774934
+      Props_Shadows_65: 3609706567946219788
+      Props_Shadows_66: -3244965692885580966
+      Props_Shadows_67: 7514620480585039989
+      Props_Shadows_68: -66809344077183944
+      Props_Shadows_69: 626595520457468047
+      Props_Shadows_7: 3996102114270682698
+      Props_Shadows_70: -3138589256354752542
+      Props_Shadows_71: -9093558561291261479
+      Props_Shadows_72: 5574884218684275900
+      Props_Shadows_73: -6052818361148462606
+      Props_Shadows_74: 3887273335784538158
+      Props_Shadows_75: -7379037852591068377
+      Props_Shadows_76: 880705870005213293
+      Props_Shadows_77: -643962345029932757
+      Props_Shadows_78: 3470821358606054880
+      Props_Shadows_79: -6079802254824609177
+      Props_Shadows_8: -8165494512214284001
+      Props_Shadows_80: -5499125895649791790
+      Props_Shadows_81: -326240107951262638
+      Props_Shadows_82: 2830355377687327797
+      Props_Shadows_83: -4137473080931956279
+      Props_Shadows_84: -8588651693830789289
+      Props_Shadows_85: 571519558978266178
+      Props_Shadows_86: -7642241007832981711
+      Props_Shadows_87: 720798235774975504
+      Props_Shadows_88: -3912832314495028019
+      Props_Shadows_89: -4951810630718497190
+      Props_Shadows_9: -3038460355640956512
+      Props_Shadows_90: -1412514816825758719
+      Props_Shadows_91: -7830321107943018291
+      Props_Shadows_92: -1539200561811588074
+      Props_Shadows_93: 1016667854023691148
+      Props_Shadows_94: 4452170571218771838
+      Props_Shadows_95: -1171347765692877406
+      Props_Shadows_96: 5624368785103294857
+      Props_Shadows_97: -2231774748590221870
+      Props_Shadows_98: 686072007085321323
+      Props_Shadows_99: 8598259679959457423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

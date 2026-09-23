@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0989a987476da412fa74237fbfbb2de8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3092850653504622488
+    second: Burst_Poison_0
+  - first:
+      213: -4563542276343606616
+    second: Burst_Poison_1
+  - first:
+      213: 323186462402209429
+    second: Burst_Poison_2
+  - first:
+      213: 3767097452078834393
+    second: Burst_Poison_3
+  - first:
+      213: -672159646124041537
+    second: Burst_Poison_4
+  - first:
+      213: -6285214396650260659
+    second: Burst_Poison_5
+  - first:
+      213: 1407603878979456352
+    second: Burst_Poison_6
+  - first:
+      213: -6274366052892591830
+    second: Burst_Poison_7
+  - first:
+      213: -1586762442558456937
+    second: Burst_Poison_8
+  - first:
+      213: -3799531096642463409
+    second: Burst_Poison_9
+  - first:
+      213: 7707960071203110145
+    second: Burst_Poison_10
+  - first:
+      213: 3711763855641452934
+    second: Burst_Poison_11
+  - first:
+      213: 2469124402273460478
+    second: Burst_Poison_12
+  - first:
+      213: -3464778490959020828
+    second: Burst_Poison_13
+  - first:
+      213: 228467961098933116
+    second: Burst_Poison_14
+  - first:
+      213: 3835695820217251927
+    second: Burst_Poison_15
+  - first:
+      213: 4797384331697801463
+    second: Burst_Poison_16
+  - first:
+      213: 3880861468421310737
+    second: Burst_Poison_17
+  - first:
+      213: 8165940938642879996
+    second: Burst_Poison_18
+  - first:
+      213: -2158617350299487923
+    second: Burst_Poison_19
+  - first:
+      213: 4561847778395493958
+    second: Burst_Poison_20
+  - first:
+      213: -8375016703439562772
+    second: Burst_Poison_21
+  - first:
+      213: 908434058283062823
+    second: Burst_Poison_22
+  - first:
+      213: -6702349305678243459
+    second: Burst_Poison_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burst_Poison_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f4a7168430cea20800000000000000
+      internalID: 3092850653504622488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2df057a7a0ba0c0800000000000000
+      internalID: -4563542276343606616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596e2bf00603c7400800000000000000
+      internalID: 323186462402209429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 10
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d220797c2b674430800000000000000
+      internalID: 3767097452078834393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba9c64fc520ca6f0800000000000000
+      internalID: -672159646124041537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d477d768ece66c8a0800000000000000
+      internalID: -6285214396650260659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 10
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d48072540d88310800000000000000
+      internalID: 1407603878979456352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 15
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2931926159fce8a0800000000000000
+      internalID: -6274366052892591830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b3f5c27ffaaf9e0800000000000000
+      internalID: -1586762442558456937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49539f299a554bc0800000000000000
+      internalID: -3799531096642463409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10db4f2a8dc28fa60800000000000000
+      internalID: 7707960071203110145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a4a99f85d28330800000000000000
+      internalID: 3711763855641452934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 15
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef022c7df87144220800000000000000
+      internalID: 2469124402273460478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec39f4d152aaefc0800000000000000
+      internalID: -3464778490959020828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 16
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c731cdf666eab2300800000000000000
+      internalID: 228467961098933116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 11
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758ff7ea6012b3530800000000000000
+      internalID: 3835695820217251927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f84fddc1abb39240800000000000000
+      internalID: 4797384331697801463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119c0cf91f69bd530800000000000000
+      internalID: 3880861468421310737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5f0a8c400435170800000000000000
+      internalID: 8165940938642879996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 10
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41776de4fc0b02e0800000000000000
+      internalID: -2158617350299487923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6461bae7260fe4f30800000000000000
+      internalID: 4561847778395493958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce795835ea6f5cb80800000000000000
+      internalID: -8375016703439562772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 10
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72614d186f76b9c00800000000000000
+      internalID: 908434058283062823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_Poison_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 11
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79567a21d87cf2a0800000000000000
+      internalID: -6702349305678243459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Burst_Poison_0: 3092850653504622488
+      Burst_Poison_1: -4563542276343606616
+      Burst_Poison_10: 7707960071203110145
+      Burst_Poison_11: 3711763855641452934
+      Burst_Poison_12: 2469124402273460478
+      Burst_Poison_13: -3464778490959020828
+      Burst_Poison_14: 228467961098933116
+      Burst_Poison_15: 3835695820217251927
+      Burst_Poison_16: 4797384331697801463
+      Burst_Poison_17: 3880861468421310737
+      Burst_Poison_18: 8165940938642879996
+      Burst_Poison_19: -2158617350299487923
+      Burst_Poison_2: 323186462402209429
+      Burst_Poison_20: 4561847778395493958
+      Burst_Poison_21: -8375016703439562772
+      Burst_Poison_22: 908434058283062823
+      Burst_Poison_23: -6702349305678243459
+      Burst_Poison_3: 3767097452078834393
+      Burst_Poison_4: -672159646124041537
+      Burst_Poison_5: -6285214396650260659
+      Burst_Poison_6: 1407603878979456352
+      Burst_Poison_7: -6274366052892591830
+      Burst_Poison_8: -1586762442558456937
+      Burst_Poison_9: -3799531096642463409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

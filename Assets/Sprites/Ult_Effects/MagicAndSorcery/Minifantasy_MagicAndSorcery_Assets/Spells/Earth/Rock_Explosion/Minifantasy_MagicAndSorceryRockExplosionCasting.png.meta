@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 81a70c469db4d49d1a37e826848eb112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4705341682028786794
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_0
+  - first:
+      213: -8558892140897949014
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_1
+  - first:
+      213: 6743459859365430034
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_2
+  - first:
+      213: -6435376674719544933
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_3
+  - first:
+      213: -2684446848036602021
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_4
+  - first:
+      213: -1868884295539327273
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_5
+  - first:
+      213: -9122846064175982128
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_6
+  - first:
+      213: 7340991219772231332
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_7
+  - first:
+      213: -6032576027369551025
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_8
+  - first:
+      213: -4122820882916435460
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_9
+  - first:
+      213: 7899174597767295537
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_10
+  - first:
+      213: -2499966738275692055
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_11
+  - first:
+      213: -9103282016820502842
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_12
+  - first:
+      213: 6372672037333131208
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_13
+  - first:
+      213: -5015732254598371480
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_14
+  - first:
+      213: 1062222970848867469
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_15
+  - first:
+      213: -7794145613120641496
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_16
+  - first:
+      213: -1067580279423553866
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_17
+  - first:
+      213: -7721726112727349180
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_18
+  - first:
+      213: 4779284516013841249
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_19
+  - first:
+      213: -7336204995254973328
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_20
+  - first:
+      213: -3747217094753007282
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_21
+  - first:
+      213: -3775597824123596231
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_22
+  - first:
+      213: 3468837855097244021
+    second: Minifantasy_MagicAndSorceryRockExplosionCasting_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a643a20745bbc4140800000000000000
+      internalID: 4705341682028786794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa25eed1f4b83980800000000000000
+      internalID: -8558892140897949014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21305928305959d50800000000000000
+      internalID: 6743459859365430034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99c18ba203f0b6a0800000000000000
+      internalID: -6435376674719544933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f7c5480ddeebad0800000000000000
+      internalID: -2684446848036602021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de721e82a36016e0800000000000000
+      internalID: -1868884295539327273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9583ce6d3256180800000000000000
+      internalID: -9122846064175982128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae09c1ce9070e560800000000000000
+      internalID: 7340991219772231332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bc918a01cf74ca0800000000000000
+      internalID: -6032576027369551025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91439204cc8c6c0800000000000000
+      internalID: -4122820882916435460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13275bee1718f9d60800000000000000
+      internalID: 7899174597767295537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e119c63f755e4dd0800000000000000
+      internalID: -2499966738275692055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce5639ac35aaa180800000000000000
+      internalID: -9103282016820502842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf5e4f3477407850800000000000000
+      internalID: 6372672037333131208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867e134c61a846ab0800000000000000
+      internalID: -5015732254598371480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f4b10a26cdbe00800000000000000
+      internalID: 1062222970848867469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826664a2cd1a5d390800000000000000
+      internalID: -7794145613120641496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be2fb364613f21f0800000000000000
+      internalID: -1067580279423553866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448470e030be6d490800000000000000
+      internalID: -7721726112727349180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b978112fd635240800000000000000
+      internalID: 4779284516013841249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c816afc60903a90800000000000000
+      internalID: -7336204995254973328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49c9fae7e53ffbc0800000000000000
+      internalID: -3747217094753007282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932106e68c16a9bc0800000000000000
+      internalID: -3775597824123596231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockExplosionCasting_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579cf7886a9c32030800000000000000
+      internalID: 3468837855097244021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryRockExplosionCasting_0: 4705341682028786794
+      Minifantasy_MagicAndSorceryRockExplosionCasting_1: -8558892140897949014
+      Minifantasy_MagicAndSorceryRockExplosionCasting_10: 7899174597767295537
+      Minifantasy_MagicAndSorceryRockExplosionCasting_11: -2499966738275692055
+      Minifantasy_MagicAndSorceryRockExplosionCasting_12: -9103282016820502842
+      Minifantasy_MagicAndSorceryRockExplosionCasting_13: 6372672037333131208
+      Minifantasy_MagicAndSorceryRockExplosionCasting_14: -5015732254598371480
+      Minifantasy_MagicAndSorceryRockExplosionCasting_15: 1062222970848867469
+      Minifantasy_MagicAndSorceryRockExplosionCasting_16: -7794145613120641496
+      Minifantasy_MagicAndSorceryRockExplosionCasting_17: -1067580279423553866
+      Minifantasy_MagicAndSorceryRockExplosionCasting_18: -7721726112727349180
+      Minifantasy_MagicAndSorceryRockExplosionCasting_19: 4779284516013841249
+      Minifantasy_MagicAndSorceryRockExplosionCasting_2: 6743459859365430034
+      Minifantasy_MagicAndSorceryRockExplosionCasting_20: -7336204995254973328
+      Minifantasy_MagicAndSorceryRockExplosionCasting_21: -3747217094753007282
+      Minifantasy_MagicAndSorceryRockExplosionCasting_22: -3775597824123596231
+      Minifantasy_MagicAndSorceryRockExplosionCasting_23: 3468837855097244021
+      Minifantasy_MagicAndSorceryRockExplosionCasting_3: -6435376674719544933
+      Minifantasy_MagicAndSorceryRockExplosionCasting_4: -2684446848036602021
+      Minifantasy_MagicAndSorceryRockExplosionCasting_5: -1868884295539327273
+      Minifantasy_MagicAndSorceryRockExplosionCasting_6: -9122846064175982128
+      Minifantasy_MagicAndSorceryRockExplosionCasting_7: 7340991219772231332
+      Minifantasy_MagicAndSorceryRockExplosionCasting_8: -6032576027369551025
+      Minifantasy_MagicAndSorceryRockExplosionCasting_9: -4122820882916435460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 44e1e159ae86c43b6a0647aabfecd86a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -849304271674106855
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_0
+  - first:
+      213: 3661379763207818338
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_1
+  - first:
+      213: 8454480089254521688
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_2
+  - first:
+      213: 8402810047590672488
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_3
+  - first:
+      213: 8720832951629753399
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_4
+  - first:
+      213: 1876840109601531922
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_5
+  - first:
+      213: 7181792454311175147
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_6
+  - first:
+      213: -3370965253713889864
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_7
+  - first:
+      213: -624656102764900869
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_8
+  - first:
+      213: -8400817317452143463
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_9
+  - first:
+      213: -8856935580079495622
+    second: Minifantasy_MagicAndSorceryWindExplosionThrowing_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c94a4c34aa634f0800000000000000
+      internalID: -849304271674106855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4ecdee75dfc230800000000000000
+      internalID: 3661379763207818338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85be0a0f8d8545570800000000000000
+      internalID: 8454480089254521688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868a9b1e737cc9470800000000000000
+      internalID: 8402810047590672488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ca9635d5f960970800000000000000
+      internalID: 8720832951629753399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2182101c220eb0a10800000000000000
+      internalID: 1876840109601531922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 15
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be36cc9bf2adaa360800000000000000
+      internalID: 7181792454311175147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f23e36fce731d0800000000000000
+      internalID: -3370965253713889864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd0be78596c457f0800000000000000
+      internalID: -624656102764900869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994a052c82d4a6b80800000000000000
+      internalID: -8400817317452143463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryWindExplosionThrowing_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36e7d61408d51580800000000000000
+      internalID: -8856935580079495622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_0: -849304271674106855
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_1: 3661379763207818338
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_10: -8856935580079495622
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_2: 8454480089254521688
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_3: 8402810047590672488
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_4: 8720832951629753399
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_5: 1876840109601531922
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_6: 7181792454311175147
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_7: -3370965253713889864
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_8: -624656102764900869
+      Minifantasy_MagicAndSorceryWindExplosionThrowing_9: -8400817317452143463
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5122 @@
+fileFormatVersion: 2
+guid: 0d5b089f56fa448b088559e5e01f60bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2435403133974227415
+    second: Poison_Magic_Trap_0
+  - first:
+      213: -3655379757411557863
+    second: Poison_Magic_Trap_1
+  - first:
+      213: 3923501685291703651
+    second: Poison_Magic_Trap_2
+  - first:
+      213: 8094141075570074470
+    second: Poison_Magic_Trap_3
+  - first:
+      213: 2365575873023086849
+    second: Poison_Magic_Trap_4
+  - first:
+      213: 6206740576149683534
+    second: Poison_Magic_Trap_5
+  - first:
+      213: -6466669925477905051
+    second: Poison_Magic_Trap_6
+  - first:
+      213: 1857993939558390900
+    second: Poison_Magic_Trap_7
+  - first:
+      213: -2200389187566043387
+    second: Poison_Magic_Trap_8
+  - first:
+      213: 2185841410853861908
+    second: Poison_Magic_Trap_9
+  - first:
+      213: 9184664294768879615
+    second: Poison_Magic_Trap_10
+  - first:
+      213: -6455680667001496299
+    second: Poison_Magic_Trap_11
+  - first:
+      213: -2813225216851743807
+    second: Poison_Magic_Trap_12
+  - first:
+      213: 7823745856820378206
+    second: Poison_Magic_Trap_13
+  - first:
+      213: -6100850566830030882
+    second: Poison_Magic_Trap_14
+  - first:
+      213: -538311532162012600
+    second: Poison_Magic_Trap_15
+  - first:
+      213: 1484580212724113967
+    second: Poison_Magic_Trap_16
+  - first:
+      213: -3675854128039069635
+    second: Poison_Magic_Trap_17
+  - first:
+      213: 3400169230925679989
+    second: Poison_Magic_Trap_18
+  - first:
+      213: -3774635542470143988
+    second: Poison_Magic_Trap_19
+  - first:
+      213: -6613704233126989289
+    second: Poison_Magic_Trap_20
+  - first:
+      213: 5416222950013630203
+    second: Poison_Magic_Trap_21
+  - first:
+      213: 2712370325758685796
+    second: Poison_Magic_Trap_22
+  - first:
+      213: -754461759464660465
+    second: Poison_Magic_Trap_23
+  - first:
+      213: 5975132626590897617
+    second: Poison_Magic_Trap_24
+  - first:
+      213: 2990531613027441133
+    second: Poison_Magic_Trap_25
+  - first:
+      213: -7133339476594488969
+    second: Poison_Magic_Trap_26
+  - first:
+      213: -5328380625474247493
+    second: Poison_Magic_Trap_27
+  - first:
+      213: -449401834654335423
+    second: Poison_Magic_Trap_28
+  - first:
+      213: 4679453916190185916
+    second: Poison_Magic_Trap_29
+  - first:
+      213: 4384509082770269746
+    second: Poison_Magic_Trap_30
+  - first:
+      213: -6629223211556735535
+    second: Poison_Magic_Trap_31
+  - first:
+      213: -1177315995957792317
+    second: Poison_Magic_Trap_32
+  - first:
+      213: -6545013582398711072
+    second: Poison_Magic_Trap_33
+  - first:
+      213: -5140556489002449756
+    second: Poison_Magic_Trap_34
+  - first:
+      213: 7101834033295192450
+    second: Poison_Magic_Trap_35
+  - first:
+      213: 8138401526023218309
+    second: Poison_Magic_Trap_36
+  - first:
+      213: -5713241699339763791
+    second: Poison_Magic_Trap_37
+  - first:
+      213: -8245873532132839315
+    second: Poison_Magic_Trap_38
+  - first:
+      213: 2573106152168132772
+    second: Poison_Magic_Trap_39
+  - first:
+      213: 3405278066391754424
+    second: Poison_Magic_Trap_40
+  - first:
+      213: -722169531370489573
+    second: Poison_Magic_Trap_41
+  - first:
+      213: 5140445264063876179
+    second: Poison_Magic_Trap_42
+  - first:
+      213: -789785034650604032
+    second: Poison_Magic_Trap_43
+  - first:
+      213: -601898727547870063
+    second: Poison_Magic_Trap_44
+  - first:
+      213: -7609647908346510077
+    second: Poison_Magic_Trap_45
+  - first:
+      213: 8849999264207637791
+    second: Poison_Magic_Trap_46
+  - first:
+      213: 2443889595201668003
+    second: Poison_Magic_Trap_47
+  - first:
+      213: -353340995794270471
+    second: Poison_Magic_Trap_48
+  - first:
+      213: -3404626978675160332
+    second: Poison_Magic_Trap_49
+  - first:
+      213: 7864376305305149760
+    second: Poison_Magic_Trap_50
+  - first:
+      213: -7025273308247739456
+    second: Poison_Magic_Trap_51
+  - first:
+      213: 1031246286483094857
+    second: Poison_Magic_Trap_52
+  - first:
+      213: 710895613394419797
+    second: Poison_Magic_Trap_53
+  - first:
+      213: 2642505734211395437
+    second: Poison_Magic_Trap_54
+  - first:
+      213: -175082152387222836
+    second: Poison_Magic_Trap_55
+  - first:
+      213: 5746191803270579358
+    second: Poison_Magic_Trap_56
+  - first:
+      213: -3870222634841719328
+    second: Poison_Magic_Trap_57
+  - first:
+      213: 6080279112087698497
+    second: Poison_Magic_Trap_58
+  - first:
+      213: 1223954390051833858
+    second: Poison_Magic_Trap_59
+  - first:
+      213: 6120649055550737144
+    second: Poison_Magic_Trap_60
+  - first:
+      213: -3699484995193290985
+    second: Poison_Magic_Trap_61
+  - first:
+      213: -795815849712613579
+    second: Poison_Magic_Trap_62
+  - first:
+      213: -389348715161951011
+    second: Poison_Magic_Trap_63
+  - first:
+      213: -368880072047419215
+    second: Poison_Magic_Trap_64
+  - first:
+      213: -2161547881237148005
+    second: Poison_Magic_Trap_65
+  - first:
+      213: 7956525380795621738
+    second: Poison_Magic_Trap_66
+  - first:
+      213: -7019078678470508
+    second: Poison_Magic_Trap_67
+  - first:
+      213: 6036059637941307059
+    second: Poison_Magic_Trap_68
+  - first:
+      213: -8954715621000210997
+    second: Poison_Magic_Trap_69
+  - first:
+      213: -2922823864165217333
+    second: Poison_Magic_Trap_70
+  - first:
+      213: 3302944486068836795
+    second: Poison_Magic_Trap_71
+  - first:
+      213: 4893273148108205145
+    second: Poison_Magic_Trap_72
+  - first:
+      213: 8787651362405251924
+    second: Poison_Magic_Trap_73
+  - first:
+      213: -2408860549364347515
+    second: Poison_Magic_Trap_74
+  - first:
+      213: 8236051126472338985
+    second: Poison_Magic_Trap_75
+  - first:
+      213: -5008031208041802132
+    second: Poison_Magic_Trap_76
+  - first:
+      213: -1700308712353301479
+    second: Poison_Magic_Trap_77
+  - first:
+      213: -2371399590355779225
+    second: Poison_Magic_Trap_78
+  - first:
+      213: 7594752950548406737
+    second: Poison_Magic_Trap_79
+  - first:
+      213: 5669122008061469833
+    second: Poison_Magic_Trap_80
+  - first:
+      213: -796061667103112417
+    second: Poison_Magic_Trap_81
+  - first:
+      213: -4149929279430449629
+    second: Poison_Magic_Trap_82
+  - first:
+      213: -861208910232589374
+    second: Poison_Magic_Trap_83
+  - first:
+      213: 2698628880006587067
+    second: Poison_Magic_Trap_84
+  - first:
+      213: -2618779310397046177
+    second: Poison_Magic_Trap_85
+  - first:
+      213: 8638833225961573497
+    second: Poison_Magic_Trap_86
+  - first:
+      213: -934678885662410394
+    second: Poison_Magic_Trap_87
+  - first:
+      213: 1641240866327227775
+    second: Poison_Magic_Trap_88
+  - first:
+      213: -217906483272710156
+    second: Poison_Magic_Trap_89
+  - first:
+      213: 2555833346765317084
+    second: Poison_Magic_Trap_90
+  - first:
+      213: 5697707146968783615
+    second: Poison_Magic_Trap_91
+  - first:
+      213: 8446621408837674843
+    second: Poison_Magic_Trap_92
+  - first:
+      213: -8147442011026822810
+    second: Poison_Magic_Trap_93
+  - first:
+      213: 7532857230189765229
+    second: Poison_Magic_Trap_94
+  - first:
+      213: 6812762168433697884
+    second: Poison_Magic_Trap_95
+  - first:
+      213: 8845086390444803738
+    second: Poison_Magic_Trap_96
+  - first:
+      213: -3909521093397198505
+    second: Poison_Magic_Trap_97
+  - first:
+      213: -6034029091869790015
+    second: Poison_Magic_Trap_98
+  - first:
+      213: 8907359170180886981
+    second: Poison_Magic_Trap_99
+  - first:
+      213: -994064547117276176
+    second: Poison_Magic_Trap_100
+  - first:
+      213: -8313642418044726140
+    second: Poison_Magic_Trap_101
+  - first:
+      213: -8599484401924030070
+    second: Poison_Magic_Trap_102
+  - first:
+      213: -3313880286911936373
+    second: Poison_Magic_Trap_103
+  - first:
+      213: 3771196837092217768
+    second: Poison_Magic_Trap_104
+  - first:
+      213: 1587552848712654761
+    second: Poison_Magic_Trap_105
+  - first:
+      213: 2671743818032581075
+    second: Poison_Magic_Trap_106
+  - first:
+      213: 8242994673738952669
+    second: Poison_Magic_Trap_107
+  - first:
+      213: -8702248518557473734
+    second: Poison_Magic_Trap_108
+  - first:
+      213: -1456972325969249726
+    second: Poison_Magic_Trap_109
+  - first:
+      213: -4215140496085255069
+    second: Poison_Magic_Trap_110
+  - first:
+      213: -3910997974858351390
+    second: Poison_Magic_Trap_111
+  - first:
+      213: 7967773631521582970
+    second: Poison_Magic_Trap_112
+  - first:
+      213: 2160114686199576970
+    second: Poison_Magic_Trap_113
+  - first:
+      213: -4069466301187380533
+    second: Poison_Magic_Trap_114
+  - first:
+      213: -6905288159699841183
+    second: Poison_Magic_Trap_115
+  - first:
+      213: -1393034189287389148
+    second: Poison_Magic_Trap_116
+  - first:
+      213: 1513263507388324143
+    second: Poison_Magic_Trap_117
+  - first:
+      213: 6727673880268583736
+    second: Poison_Magic_Trap_118
+  - first:
+      213: -3274385197019439475
+    second: Poison_Magic_Trap_119
+  - first:
+      213: 7400416365493597630
+    second: Poison_Magic_Trap_120
+  - first:
+      213: -1482225535730985183
+    second: Poison_Magic_Trap_121
+  - first:
+      213: -6349162471709850204
+    second: Poison_Magic_Trap_122
+  - first:
+      213: 2255084613310084345
+    second: Poison_Magic_Trap_123
+  - first:
+      213: -7474175379427631535
+    second: Poison_Magic_Trap_124
+  - first:
+      213: 1271828671980942733
+    second: Poison_Magic_Trap_125
+  - first:
+      213: 1679867834965016129
+    second: Poison_Magic_Trap_126
+  - first:
+      213: -7246350104893535489
+    second: Poison_Magic_Trap_127
+  - first:
+      213: 1226775113767591184
+    second: Poison_Magic_Trap_128
+  - first:
+      213: -9139133878248716611
+    second: Poison_Magic_Trap_129
+  - first:
+      213: -6915925837175719941
+    second: Poison_Magic_Trap_130
+  - first:
+      213: -2693200109091798012
+    second: Poison_Magic_Trap_131
+  - first:
+      213: 7410448278486198361
+    second: Poison_Magic_Trap_132
+  - first:
+      213: 8846717851073872124
+    second: Poison_Magic_Trap_133
+  - first:
+      213: -3517089662439674870
+    second: Poison_Magic_Trap_134
+  - first:
+      213: -4314863907865770172
+    second: Poison_Magic_Trap_135
+  - first:
+      213: -8822711957573023225
+    second: Poison_Magic_Trap_136
+  - first:
+      213: 4991678268211759534
+    second: Poison_Magic_Trap_137
+  - first:
+      213: -9096798773139636197
+    second: Poison_Magic_Trap_138
+  - first:
+      213: 6444478158727417339
+    second: Poison_Magic_Trap_139
+  - first:
+      213: 184997664558491973
+    second: Poison_Magic_Trap_140
+  - first:
+      213: 4964698532998685166
+    second: Poison_Magic_Trap_141
+  - first:
+      213: 672323834789049194
+    second: Poison_Magic_Trap_142
+  - first:
+      213: -5245449901333610304
+    second: Poison_Magic_Trap_143
+  - first:
+      213: 1626170300387865849
+    second: Poison_Magic_Trap_144
+  - first:
+      213: -4352733918384315002
+    second: Poison_Magic_Trap_145
+  - first:
+      213: -2151133118651478983
+    second: Poison_Magic_Trap_146
+  - first:
+      213: 7705425599991532322
+    second: Poison_Magic_Trap_147
+  - first:
+      213: -4704438530298441299
+    second: Poison_Magic_Trap_148
+  - first:
+      213: -6365631816742653723
+    second: Poison_Magic_Trap_149
+  - first:
+      213: 7865244972460610392
+    second: Poison_Magic_Trap_150
+  - first:
+      213: -8023537193880688672
+    second: Poison_Magic_Trap_151
+  - first:
+      213: 4582871739348842480
+    second: Poison_Magic_Trap_152
+  - first:
+      213: -5028224672261481635
+    second: Poison_Magic_Trap_153
+  - first:
+      213: -2968986413067454162
+    second: Poison_Magic_Trap_154
+  - first:
+      213: -5336131560705385321
+    second: Poison_Magic_Trap_155
+  - first:
+      213: -4579764614077008101
+    second: Poison_Magic_Trap_156
+  - first:
+      213: -7749462811521212938
+    second: Poison_Magic_Trap_157
+  - first:
+      213: -8067084278325914492
+    second: Poison_Magic_Trap_158
+  - first:
+      213: -3633480280252198673
+    second: Poison_Magic_Trap_159
+  - first:
+      213: -6392363212849652385
+    second: Poison_Magic_Trap_160
+  - first:
+      213: -7517015445253482737
+    second: Poison_Magic_Trap_161
+  - first:
+      213: -7981264459771838304
+    second: Poison_Magic_Trap_162
+  - first:
+      213: -843044549330065752
+    second: Poison_Magic_Trap_163
+  - first:
+      213: 2129761028359051265
+    second: Poison_Magic_Trap_164
+  - first:
+      213: 7991187157387824286
+    second: Poison_Magic_Trap_165
+  - first:
+      213: 1069489712398667220
+    second: Poison_Magic_Trap_166
+  - first:
+      213: 6181450359483490188
+    second: Poison_Magic_Trap_167
+  - first:
+      213: 7460769709468002711
+    second: Poison_Magic_Trap_168
+  - first:
+      213: 8537695713630091961
+    second: Poison_Magic_Trap_169
+  - first:
+      213: 2826189858881590912
+    second: Poison_Magic_Trap_170
+  - first:
+      213: 1076623671490729309
+    second: Poison_Magic_Trap_171
+  - first:
+      213: -4921884196119775168
+    second: Poison_Magic_Trap_172
+  - first:
+      213: -5042789753760302249
+    second: Poison_Magic_Trap_173
+  - first:
+      213: 7940448552902553545
+    second: Poison_Magic_Trap_174
+  - first:
+      213: 981546070907028591
+    second: Poison_Magic_Trap_175
+  - first:
+      213: 6753453335108498171
+    second: Poison_Magic_Trap_176
+  - first:
+      213: 8082639831064970365
+    second: Poison_Magic_Trap_177
+  - first:
+      213: -5138125725439360076
+    second: Poison_Magic_Trap_178
+  - first:
+      213: -4218218649102520590
+    second: Poison_Magic_Trap_179
+  - first:
+      213: -8358253230775181302
+    second: Poison_Magic_Trap_180
+  - first:
+      213: -8095377568243755055
+    second: Poison_Magic_Trap_181
+  - first:
+      213: 2452189313277684218
+    second: Poison_Magic_Trap_182
+  - first:
+      213: 798893232650159879
+    second: Poison_Magic_Trap_183
+  - first:
+      213: -9146260019579794697
+    second: Poison_Magic_Trap_184
+  - first:
+      213: 6465237990534252790
+    second: Poison_Magic_Trap_185
+  - first:
+      213: 7131117341164532203
+    second: Poison_Magic_Trap_186
+  - first:
+      213: 5451531284192763298
+    second: Poison_Magic_Trap_187
+  - first:
+      213: -6927567573997318065
+    second: Poison_Magic_Trap_188
+  - first:
+      213: -5416338007252583240
+    second: Poison_Magic_Trap_189
+  - first:
+      213: -4198591772933738587
+    second: Poison_Magic_Trap_190
+  - first:
+      213: -8968370897626308201
+    second: Poison_Magic_Trap_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 300
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926d792c0c5b33ed0800000000000000
+      internalID: -2435403133974227415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e94584a7b754dc0800000000000000
+      internalID: -3655379757411557863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d5573cef3137630800000000000000
+      internalID: 3923501685291703651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 26
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a0437c6a245070800000000000000
+      internalID: 8094141075570074470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10196c029b634d020800000000000000
+      internalID: 2365575873023086849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 26
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4db7665ba5c22650800000000000000
+      internalID: 6206740576149683534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0034f6f5c146a0800000000000000
+      internalID: -6466669925477905051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cd43ad4abe8c910800000000000000
+      internalID: 1857993939558390900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 18
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff38b21b5a671e0800000000000000
+      internalID: -2200389187566043387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a784d9e2ba55e10800000000000000
+      internalID: 2185841410853861908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a9ee738b767f70800000000000000
+      internalID: 9184664294768879615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dd40413a0d866a0800000000000000
+      internalID: -6455680667001496299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb6164029a65f8d0800000000000000
+      internalID: -2813225216851743807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 31
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a76b0a767839c60800000000000000
+      internalID: 7823745856820378206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 19
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edffa50bbbc655ba0800000000000000
+      internalID: -6100850566830030882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aacfa73888788f0800000000000000
+      internalID: -538311532162012600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22aefb76d94a9410800000000000000
+      internalID: 1484580212724113967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 31
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f314652ebcfcc0800000000000000
+      internalID: -3675854128039069635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_18
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc98196e3df2f20800000000000000
+      internalID: 3400169230925679989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d08619fccd9bc0800000000000000
+      internalID: -3774635542470143988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f7f67a076734a0800000000000000
+      internalID: -6613704233126989289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_21
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf671ef931a4a2b40800000000000000
+      internalID: 5416222950013630203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_22
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 28
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4623826c07644a520800000000000000
+      internalID: 2712370325758685796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_23
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f022e7ee60d9785f0800000000000000
+      internalID: -754461759464660465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_24
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d51ccd577febe250800000000000000
+      internalID: 5975132626590897617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_25
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 15
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9931458a0808920800000000000000
+      internalID: 2990531613027441133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_26
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77980534a89410d90800000000000000
+      internalID: -7133339476594488969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 31
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4a8865d0acd06b0800000000000000
+      internalID: -5328380625474247493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_28
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef404996763c9f0800000000000000
+      internalID: -449401834654335423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_29
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb993514b82c0f040800000000000000
+      internalID: 4679453916190185916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_30
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 15
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236eef8d7c7e8dc30800000000000000
+      internalID: 4384509082770269746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_31
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f26abc944004a0800000000000000
+      internalID: -6629223211556735535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_32
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1fc80e65559afe0800000000000000
+      internalID: -1177315995957792317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_33
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9403e2d07b25a0800000000000000
+      internalID: -6545013582398711072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_34
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a40e2deb1319a8b0800000000000000
+      internalID: -5140556489002449756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_35
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281f6581d68ce8260800000000000000
+      internalID: 7101834033295192450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_36
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846c1e911961f070800000000000000
+      internalID: 8138401526023218309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_37
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf77eac1fc76b0b0800000000000000
+      internalID: -5713241699339763791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_38
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 31
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603d6606b5c09d80800000000000000
+      internalID: -8245873532132839315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_39
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 23
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a09a59996285b320800000000000000
+      internalID: 2573106152168132772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_40
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6a5b40c5af14f20800000000000000
+      internalID: 3405278066391754424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_41
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b193d0f23a65af5f0800000000000000
+      internalID: -722169531370489573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_42
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 24
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ccddf7bb7865740800000000000000
+      internalID: 5140445264063876179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_43
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 31
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2bb802be1a05f0800000000000000
+      internalID: -789785034650604032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_44
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194efb9db40a5a7f0800000000000000
+      internalID: -601898727547870063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_45
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30546358b89156690800000000000000
+      internalID: -7609647908346510077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_46
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8095017381da70800000000000000
+      internalID: 8849999264207637791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_47
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 31
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c44873a07ae120800000000000000
+      internalID: 2443889595201668003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_48
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f689158c3ea81bf0800000000000000
+      internalID: -353340995794270471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_49
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa0b572dc550c0d0800000000000000
+      internalID: -3404626978675160332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_50
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04166b91590e32d60800000000000000
+      internalID: 7864376305305149760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_51
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 15
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c33cdbc527318e90800000000000000
+      internalID: -7025273308247739456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_52
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94df3c5a809bf4e00800000000000000
+      internalID: 1031246286483094857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_53
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 31
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55002cc3bcb9dd900800000000000000
+      internalID: 710895613394419797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_54
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f5a94f6f01ca420800000000000000
+      internalID: 2642505734211395437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_55
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e274c5bbf19df0800000000000000
+      internalID: -175082152387222836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_56
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 31
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94443d10039ebf40800000000000000
+      internalID: 5746191803270579358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_57
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed3598d4053a4ac0800000000000000
+      internalID: -3870222634841719328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_58
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf63343ad716450800000000000000
+      internalID: 6080279112087698497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_59
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 32
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208c150780c5cf010800000000000000
+      internalID: 1223954390051833858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_60
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa8eee23e9e0f450800000000000000
+      internalID: 6120649055550737144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_61
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 23
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fbd916ff9c8acc0800000000000000
+      internalID: -3699484995193290985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_62
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537014b73b1b4f4f0800000000000000
+      internalID: -795815849712613579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_63
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 31
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4640b0861c89af0800000000000000
+      internalID: -389348715161951011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_64
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 23
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a4e4678971eaf0800000000000000
+      internalID: -368880072047419215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_65
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e8cd587a3a002e0800000000000000
+      internalID: -2161547881237148005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_66
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 24
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61e3b8ada14b6e60800000000000000
+      internalID: 7956525380795621738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_67
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 32
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49028b46f2017eff0800000000000000
+      internalID: -7019078678470508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_68
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 26
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b68092a24464c350800000000000000
+      internalID: 6036059637941307059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_69
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 31
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc514a936957ab380800000000000000
+      internalID: -8954715621000210997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_70
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 16
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbc56b6e2b0077d0800000000000000
+      internalID: -2922823864165217333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_71
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 31
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d7f4a28a66dd20800000000000000
+      internalID: 3302944486068836795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_72
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 15
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c62f5a00668e340800000000000000
+      internalID: 4893273148108205145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_73
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 32
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b742aea5204f970800000000000000
+      internalID: 8787651362405251924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_74
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d8fa1d712029ed0800000000000000
+      internalID: -2408860549364347515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_75
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 18
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee651fcd45c4270800000000000000
+      internalID: 8236051126472338985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_76
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6619946626ef7ab0800000000000000
+      internalID: -5008031208041802132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_77
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cfda71c3a4768e0800000000000000
+      internalID: -1700308712353301479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_78
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761465403a8171fd0800000000000000
+      internalID: -2371399590355779225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_79
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 23
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1a94ed19bf56960800000000000000
+      internalID: 7594752950548406737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_80
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9846ad61e64ccae40800000000000000
+      internalID: 5669122008061469833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_81
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 16
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138309a122d3f4f0800000000000000
+      internalID: -796061667103112417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_82
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262e80ce4d7866c0800000000000000
+      internalID: -4149929279430449629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_83
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 8
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb6f2c1f0f5c04f0800000000000000
+      internalID: -861208910232589374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_84
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2276d1ba4737520800000000000000
+      internalID: 2698628880006587067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_85
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5244a2971a38abd0800000000000000
+      internalID: -2618779310397046177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_86
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 7
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c084b6c0d43e770800000000000000
+      internalID: 8638833225961573497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_87
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669b801718a5703f0800000000000000
+      internalID: -934678885662410394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_88
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 12
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de94c4fdbd6c610800000000000000
+      internalID: 1641240866327227775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_89
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 10
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7864e3537d9fcf0800000000000000
+      internalID: -217906483272710156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_90
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd36b0333e4287320800000000000000
+      internalID: 2555833346765317084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_91
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 7
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa57416672521f40800000000000000
+      internalID: 5697707146968783615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_92
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57aaf15b6d683570800000000000000
+      internalID: 8446621408837674843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_93
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e6a078a87eee80800000000000000
+      internalID: -8147442011026822810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_94
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62a1357db51a8860800000000000000
+      internalID: 7532857230189765229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_95
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e5bcb81bcb8e50800000000000000
+      internalID: 6812762168433697884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_96
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 7
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96ca16753f00ca70800000000000000
+      internalID: 8845086390444803738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_97
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 8
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c92277479eb9c0800000000000000
+      internalID: -3909521093397198505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_98
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 7
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c07ab6b282d24ca0800000000000000
+      internalID: -6034029091869790015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_99
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 7
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13379d8fb4d9b70800000000000000
+      internalID: 8907359170180886981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_100
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e349af8f5432f0800000000000000
+      internalID: -994064547117276176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_101
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48413d2b44200ac80800000000000000
+      internalID: -8313642418044726140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_102
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a814ecb9f7e78a880800000000000000
+      internalID: -8599484401924030070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_103
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 16
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c17ecf6bb202d0800000000000000
+      internalID: -3313880286911936373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_104
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a355fcea8bf55430800000000000000
+      internalID: 3771196837092217768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_105
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 7
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af5da997ee180610800000000000000
+      internalID: 1587552848712654761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_106
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 7
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d98da4d8d0f31520800000000000000
+      internalID: 2671743818032581075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_107
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 8
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfa5a58bfff46270800000000000000
+      internalID: 8242994673738952669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_108
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34663034176b3780800000000000000
+      internalID: -8702248518557473734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_109
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 9
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a370f836bc7cbe0800000000000000
+      internalID: -1456972325969249726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_110
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c79743d00d085c0800000000000000
+      internalID: -4215140496085255069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_111
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecbb4f201859b9c0800000000000000
+      internalID: -3910997974858351390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_112
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f619d17e7339e60800000000000000
+      internalID: 7967773631521582970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_113
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 8
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b701ccd44afd10800000000000000
+      internalID: 2160114686199576970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_114
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 7
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaad44c5f95687c0800000000000000
+      internalID: -4069466301187380533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_115
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 7
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4169210d7b20a0800000000000000
+      internalID: -6905288159699841183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_116
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 15
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4280d8319c2faace0800000000000000
+      internalID: -1393034189287389148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_117
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2951717421300510800000000000000
+      internalID: 1513263507388324143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_118
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8333516dfbf7d5d50800000000000000
+      internalID: 6727673880268583736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_119
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 16
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8edbd1030c0f82d0800000000000000
+      internalID: -3274385197019439475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_120
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 15
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bb3fa97f83b660800000000000000
+      internalID: 7400416365493597630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_121
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127ddb97ab31e6be0800000000000000
+      internalID: -1482225535730985183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_122
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 8
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54e7c0f5e33e7a0800000000000000
+      internalID: -6349162471709850204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_123
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4fbc2028bab4f10800000000000000
+      internalID: 2255084613310084345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_124
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 9
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ede30a715664890800000000000000
+      internalID: -7474175379427631535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_125
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 8
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85b490507176a110800000000000000
+      internalID: 1271828671980942733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_126
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 7
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eb1b445e6105710800000000000000
+      internalID: 1679867834965016129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_127
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac4bfe8facf6b90800000000000000
+      internalID: -7246350104893535489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_128
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 7
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d186b5771660110800000000000000
+      internalID: 1226775113767591184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_129
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 7
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db64f30b8264b2180800000000000000
+      internalID: -9139133878248716611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_130
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 16
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f13ed712b500a0800000000000000
+      internalID: -6915925837175719941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_131
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 7
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4044a8c15c4df9ad0800000000000000
+      internalID: -2693200109091798012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_132
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 16
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9582391727337d660800000000000000
+      internalID: 7410448278486198361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_133
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf08d5d730bd5ca70800000000000000
+      internalID: 8846717851073872124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_134
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca51b1699c03fc0800000000000000
+      internalID: -3517089662439674870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_135
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447c18d03268e14c0800000000000000
+      internalID: -4314863907865770172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_136
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ac445283e6f8580800000000000000
+      internalID: -8822711957573023225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_137
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea98cc910f0064540800000000000000
+      internalID: 4991678268211759534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_138
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108dc576bda1c180800000000000000
+      internalID: -9096798773139636197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_139
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd06b5bdb26f6950800000000000000
+      internalID: 6444478158727417339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_140
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5492940556e319200800000000000000
+      internalID: 184997664558491973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_141
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee12a4cf20726e440800000000000000
+      internalID: 4964698532998685166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_142
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6331a237f2945900800000000000000
+      internalID: 672323834789049194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_143
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c007e73b1b6437b0800000000000000
+      internalID: -5245449901333610304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_144
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4b8eab541519610800000000000000
+      internalID: 1626170300387865849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_145
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a8e0209bf793c0800000000000000
+      internalID: -4352733918384315002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_146
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c433663d3a522e0800000000000000
+      internalID: -2151133118651478983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_147
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b42b212cb2fea60800000000000000
+      internalID: 7705425599991532322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_148
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da196e5f41a76beb0800000000000000
+      internalID: -4704438530298441299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_149
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e03128d69bb8a7a0800000000000000
+      internalID: -6365631816742653723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_150
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85311fe61a6f62d60800000000000000
+      internalID: 7865244972460610392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_151
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e76b94ce6ba6a090800000000000000
+      internalID: -8023537193880688672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_152
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7701bd091a99f30800000000000000
+      internalID: 4582871739348842480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_153
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdffe1d48283ab0800000000000000
+      internalID: -5028224672261481635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_154
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293722769a0cc6d0800000000000000
+      internalID: -2968986413067454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_155
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c97691e9042f5b0800000000000000
+      internalID: -5336131560705385321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_156
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17390f19586170c0800000000000000
+      internalID: -4579764614077008101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_157
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd9d2f91a0647490800000000000000
+      internalID: -7749462811521212938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_158
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484de311795fb0090800000000000000
+      internalID: -8067084278325914492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_159
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05e25afe8439dc0800000000000000
+      internalID: -3633480280252198673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_160
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d52dea683c947a0800000000000000
+      internalID: -6392363212849652385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_161
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f079a8687423ea790800000000000000
+      internalID: -7517015445253482737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_162
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a089d8a24adc3190800000000000000
+      internalID: -7981264459771838304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_163
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a62a53f277ec44f0800000000000000
+      internalID: -843044549330065752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_164
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 7
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108dfcf0f5e6e8d10800000000000000
+      internalID: 2129761028359051265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_165
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cc3c9616666ee60800000000000000
+      internalID: 7991187157387824286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_166
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd057e1a3797de00800000000000000
+      internalID: 1069489712398667220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_167
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f59b9e95ce8c550800000000000000
+      internalID: 6181450359483490188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_168
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799a5db958af98760800000000000000
+      internalID: 7460769709468002711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_169
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bafb43540dfb7670800000000000000
+      internalID: 8537695713630091961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_170
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086d27ee3b4a83720800000000000000
+      internalID: 2826189858881590912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_171
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d555bf7668fe0fe00800000000000000
+      internalID: 1076623671490729309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_172
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048fba0a664f1bbb0800000000000000
+      internalID: -4921884196119775168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_173
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b3322df69640ab0800000000000000
+      internalID: -5042789753760302249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_174
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf650973e3223e60800000000000000
+      internalID: 7940448552902553545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_175
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64081773f62f9d00800000000000000
+      internalID: 981546070907028591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_176
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b156e60619bd50800000000000000
+      internalID: 6753453335108498171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_177
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740d0a4a1e4b2070800000000000000
+      internalID: 8082639831064970365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_178
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b304eb20e5b1b8b0800000000000000
+      internalID: -5138125725439360076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_179
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 7
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee05bdc70e575c0800000000000000
+      internalID: -4218218649102520590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_180
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0062e478f4810c80800000000000000
+      internalID: -8358253230775181302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_181
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75a2a2ef077af80800000000000000
+      internalID: -8095377568243755055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_182
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9eceb203de70220800000000000000
+      internalID: 2452189313277684218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_183
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7078391992d361b00800000000000000
+      internalID: 798893232650159879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_184
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac69d98f4f11180800000000000000
+      internalID: -9146260019579794697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_185
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f88726b2b329b950800000000000000
+      internalID: 6465237990534252790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_186
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be17db38071d6f260800000000000000
+      internalID: 7131117341164532203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_187
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad1d3cc1dab7ab40800000000000000
+      internalID: 5451531284192763298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_188
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40106acef55cdf90800000000000000
+      internalID: -6927567573997318065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_189
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc3346874d45d4b0800000000000000
+      internalID: -5416338007252583240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_190
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af2861170b9bb5c0800000000000000
+      internalID: -4198591772933738587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Magic_Trap_191
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79168016f22f98380800000000000000
+      internalID: -8968370897626308201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poison_Magic_Trap_0: -2435403133974227415
+      Poison_Magic_Trap_1: -3655379757411557863
+      Poison_Magic_Trap_10: 9184664294768879615
+      Poison_Magic_Trap_100: -994064547117276176
+      Poison_Magic_Trap_101: -8313642418044726140
+      Poison_Magic_Trap_102: -8599484401924030070
+      Poison_Magic_Trap_103: -3313880286911936373
+      Poison_Magic_Trap_104: 3771196837092217768
+      Poison_Magic_Trap_105: 1587552848712654761
+      Poison_Magic_Trap_106: 2671743818032581075
+      Poison_Magic_Trap_107: 8242994673738952669
+      Poison_Magic_Trap_108: -8702248518557473734
+      Poison_Magic_Trap_109: -1456972325969249726
+      Poison_Magic_Trap_11: -6455680667001496299
+      Poison_Magic_Trap_110: -4215140496085255069
+      Poison_Magic_Trap_111: -3910997974858351390
+      Poison_Magic_Trap_112: 7967773631521582970
+      Poison_Magic_Trap_113: 2160114686199576970
+      Poison_Magic_Trap_114: -4069466301187380533
+      Poison_Magic_Trap_115: -6905288159699841183
+      Poison_Magic_Trap_116: -1393034189287389148
+      Poison_Magic_Trap_117: 1513263507388324143
+      Poison_Magic_Trap_118: 6727673880268583736
+      Poison_Magic_Trap_119: -3274385197019439475
+      Poison_Magic_Trap_12: -2813225216851743807
+      Poison_Magic_Trap_120: 7400416365493597630
+      Poison_Magic_Trap_121: -1482225535730985183
+      Poison_Magic_Trap_122: -6349162471709850204
+      Poison_Magic_Trap_123: 2255084613310084345
+      Poison_Magic_Trap_124: -7474175379427631535
+      Poison_Magic_Trap_125: 1271828671980942733
+      Poison_Magic_Trap_126: 1679867834965016129
+      Poison_Magic_Trap_127: -7246350104893535489
+      Poison_Magic_Trap_128: 1226775113767591184
+      Poison_Magic_Trap_129: -9139133878248716611
+      Poison_Magic_Trap_13: 7823745856820378206
+      Poison_Magic_Trap_130: -6915925837175719941
+      Poison_Magic_Trap_131: -2693200109091798012
+      Poison_Magic_Trap_132: 7410448278486198361
+      Poison_Magic_Trap_133: 8846717851073872124
+      Poison_Magic_Trap_134: -3517089662439674870
+      Poison_Magic_Trap_135: -4314863907865770172
+      Poison_Magic_Trap_136: -8822711957573023225
+      Poison_Magic_Trap_137: 4991678268211759534
+      Poison_Magic_Trap_138: -9096798773139636197
+      Poison_Magic_Trap_139: 6444478158727417339
+      Poison_Magic_Trap_14: -6100850566830030882
+      Poison_Magic_Trap_140: 184997664558491973
+      Poison_Magic_Trap_141: 4964698532998685166
+      Poison_Magic_Trap_142: 672323834789049194
+      Poison_Magic_Trap_143: -5245449901333610304
+      Poison_Magic_Trap_144: 1626170300387865849
+      Poison_Magic_Trap_145: -4352733918384315002
+      Poison_Magic_Trap_146: -2151133118651478983
+      Poison_Magic_Trap_147: 7705425599991532322
+      Poison_Magic_Trap_148: -4704438530298441299
+      Poison_Magic_Trap_149: -6365631816742653723
+      Poison_Magic_Trap_15: -538311532162012600
+      Poison_Magic_Trap_150: 7865244972460610392
+      Poison_Magic_Trap_151: -8023537193880688672
+      Poison_Magic_Trap_152: 4582871739348842480
+      Poison_Magic_Trap_153: -5028224672261481635
+      Poison_Magic_Trap_154: -2968986413067454162
+      Poison_Magic_Trap_155: -5336131560705385321
+      Poison_Magic_Trap_156: -4579764614077008101
+      Poison_Magic_Trap_157: -7749462811521212938
+      Poison_Magic_Trap_158: -8067084278325914492
+      Poison_Magic_Trap_159: -3633480280252198673
+      Poison_Magic_Trap_16: 1484580212724113967
+      Poison_Magic_Trap_160: -6392363212849652385
+      Poison_Magic_Trap_161: -7517015445253482737
+      Poison_Magic_Trap_162: -7981264459771838304
+      Poison_Magic_Trap_163: -843044549330065752
+      Poison_Magic_Trap_164: 2129761028359051265
+      Poison_Magic_Trap_165: 7991187157387824286
+      Poison_Magic_Trap_166: 1069489712398667220
+      Poison_Magic_Trap_167: 6181450359483490188
+      Poison_Magic_Trap_168: 7460769709468002711
+      Poison_Magic_Trap_169: 8537695713630091961
+      Poison_Magic_Trap_17: -3675854128039069635
+      Poison_Magic_Trap_170: 2826189858881590912
+      Poison_Magic_Trap_171: 1076623671490729309
+      Poison_Magic_Trap_172: -4921884196119775168
+      Poison_Magic_Trap_173: -5042789753760302249
+      Poison_Magic_Trap_174: 7940448552902553545
+      Poison_Magic_Trap_175: 981546070907028591
+      Poison_Magic_Trap_176: 6753453335108498171
+      Poison_Magic_Trap_177: 8082639831064970365
+      Poison_Magic_Trap_178: -5138125725439360076
+      Poison_Magic_Trap_179: -4218218649102520590
+      Poison_Magic_Trap_18: 3400169230925679989
+      Poison_Magic_Trap_180: -8358253230775181302
+      Poison_Magic_Trap_181: -8095377568243755055
+      Poison_Magic_Trap_182: 2452189313277684218
+      Poison_Magic_Trap_183: 798893232650159879
+      Poison_Magic_Trap_184: -9146260019579794697
+      Poison_Magic_Trap_185: 6465237990534252790
+      Poison_Magic_Trap_186: 7131117341164532203
+      Poison_Magic_Trap_187: 5451531284192763298
+      Poison_Magic_Trap_188: -6927567573997318065
+      Poison_Magic_Trap_189: -5416338007252583240
+      Poison_Magic_Trap_19: -3774635542470143988
+      Poison_Magic_Trap_190: -4198591772933738587
+      Poison_Magic_Trap_191: -8968370897626308201
+      Poison_Magic_Trap_2: 3923501685291703651
+      Poison_Magic_Trap_20: -6613704233126989289
+      Poison_Magic_Trap_21: 5416222950013630203
+      Poison_Magic_Trap_22: 2712370325758685796
+      Poison_Magic_Trap_23: -754461759464660465
+      Poison_Magic_Trap_24: 5975132626590897617
+      Poison_Magic_Trap_25: 2990531613027441133
+      Poison_Magic_Trap_26: -7133339476594488969
+      Poison_Magic_Trap_27: -5328380625474247493
+      Poison_Magic_Trap_28: -449401834654335423
+      Poison_Magic_Trap_29: 4679453916190185916
+      Poison_Magic_Trap_3: 8094141075570074470
+      Poison_Magic_Trap_30: 4384509082770269746
+      Poison_Magic_Trap_31: -6629223211556735535
+      Poison_Magic_Trap_32: -1177315995957792317
+      Poison_Magic_Trap_33: -6545013582398711072
+      Poison_Magic_Trap_34: -5140556489002449756
+      Poison_Magic_Trap_35: 7101834033295192450
+      Poison_Magic_Trap_36: 8138401526023218309
+      Poison_Magic_Trap_37: -5713241699339763791
+      Poison_Magic_Trap_38: -8245873532132839315
+      Poison_Magic_Trap_39: 2573106152168132772
+      Poison_Magic_Trap_4: 2365575873023086849
+      Poison_Magic_Trap_40: 3405278066391754424
+      Poison_Magic_Trap_41: -722169531370489573
+      Poison_Magic_Trap_42: 5140445264063876179
+      Poison_Magic_Trap_43: -789785034650604032
+      Poison_Magic_Trap_44: -601898727547870063
+      Poison_Magic_Trap_45: -7609647908346510077
+      Poison_Magic_Trap_46: 8849999264207637791
+      Poison_Magic_Trap_47: 2443889595201668003
+      Poison_Magic_Trap_48: -353340995794270471
+      Poison_Magic_Trap_49: -3404626978675160332
+      Poison_Magic_Trap_5: 6206740576149683534
+      Poison_Magic_Trap_50: 7864376305305149760
+      Poison_Magic_Trap_51: -7025273308247739456
+      Poison_Magic_Trap_52: 1031246286483094857
+      Poison_Magic_Trap_53: 710895613394419797
+      Poison_Magic_Trap_54: 2642505734211395437
+      Poison_Magic_Trap_55: -175082152387222836
+      Poison_Magic_Trap_56: 5746191803270579358
+      Poison_Magic_Trap_57: -3870222634841719328
+      Poison_Magic_Trap_58: 6080279112087698497
+      Poison_Magic_Trap_59: 1223954390051833858
+      Poison_Magic_Trap_6: -6466669925477905051
+      Poison_Magic_Trap_60: 6120649055550737144
+      Poison_Magic_Trap_61: -3699484995193290985
+      Poison_Magic_Trap_62: -795815849712613579
+      Poison_Magic_Trap_63: -389348715161951011
+      Poison_Magic_Trap_64: -368880072047419215
+      Poison_Magic_Trap_65: -2161547881237148005
+      Poison_Magic_Trap_66: 7956525380795621738
+      Poison_Magic_Trap_67: -7019078678470508
+      Poison_Magic_Trap_68: 6036059637941307059
+      Poison_Magic_Trap_69: -8954715621000210997
+      Poison_Magic_Trap_7: 1857993939558390900
+      Poison_Magic_Trap_70: -2922823864165217333
+      Poison_Magic_Trap_71: 3302944486068836795
+      Poison_Magic_Trap_72: 4893273148108205145
+      Poison_Magic_Trap_73: 8787651362405251924
+      Poison_Magic_Trap_74: -2408860549364347515
+      Poison_Magic_Trap_75: 8236051126472338985
+      Poison_Magic_Trap_76: -5008031208041802132
+      Poison_Magic_Trap_77: -1700308712353301479
+      Poison_Magic_Trap_78: -2371399590355779225
+      Poison_Magic_Trap_79: 7594752950548406737
+      Poison_Magic_Trap_8: -2200389187566043387
+      Poison_Magic_Trap_80: 5669122008061469833
+      Poison_Magic_Trap_81: -796061667103112417
+      Poison_Magic_Trap_82: -4149929279430449629
+      Poison_Magic_Trap_83: -861208910232589374
+      Poison_Magic_Trap_84: 2698628880006587067
+      Poison_Magic_Trap_85: -2618779310397046177
+      Poison_Magic_Trap_86: 8638833225961573497
+      Poison_Magic_Trap_87: -934678885662410394
+      Poison_Magic_Trap_88: 1641240866327227775
+      Poison_Magic_Trap_89: -217906483272710156
+      Poison_Magic_Trap_9: 2185841410853861908
+      Poison_Magic_Trap_90: 2555833346765317084
+      Poison_Magic_Trap_91: 5697707146968783615
+      Poison_Magic_Trap_92: 8446621408837674843
+      Poison_Magic_Trap_93: -8147442011026822810
+      Poison_Magic_Trap_94: 7532857230189765229
+      Poison_Magic_Trap_95: 6812762168433697884
+      Poison_Magic_Trap_96: 8845086390444803738
+      Poison_Magic_Trap_97: -3909521093397198505
+      Poison_Magic_Trap_98: -6034029091869790015
+      Poison_Magic_Trap_99: 8907359170180886981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

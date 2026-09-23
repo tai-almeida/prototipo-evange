@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 16d77346642db45559105257fdc1e8d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1601029443290897120
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_0
+  - first:
+      213: -1097739302938202633
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_1
+  - first:
+      213: -6624825040011122244
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_2
+  - first:
+      213: -1346394531051715472
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_3
+  - first:
+      213: -4200500119933772592
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_4
+  - first:
+      213: 3723139970236242389
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_5
+  - first:
+      213: 9099853721917160933
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_6
+  - first:
+      213: 6570464100300252054
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_7
+  - first:
+      213: 6930105226394268483
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_8
+  - first:
+      213: 5196064141109115951
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_9
+  - first:
+      213: 4169011312455544991
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_10
+  - first:
+      213: 7211927268367438048
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_11
+  - first:
+      213: 6803828931056567794
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_12
+  - first:
+      213: -7094649737690176664
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_13
+  - first:
+      213: -9126627481749202798
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_14
+  - first:
+      213: 3238293013840833155
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_15
+  - first:
+      213: -8746955647433550084
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_16
+  - first:
+      213: 980596588866117597
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_17
+  - first:
+      213: -3179979297274678641
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_18
+  - first:
+      213: -1668322992778791590
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_19
+  - first:
+      213: 5648145750976267088
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_20
+  - first:
+      213: -3962491915243486392
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_21
+  - first:
+      213: -8193523137575344020
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_22
+  - first:
+      213: -8230278101888074880
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_23
+  - first:
+      213: -9055428235495413534
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_24
+  - first:
+      213: 3479928209254731799
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_25
+  - first:
+      213: -8867376219921683323
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_26
+  - first:
+      213: 4935251443461801001
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_27
+  - first:
+      213: 4877426590129347699
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_28
+  - first:
+      213: -1889097657460149574
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_29
+  - first:
+      213: -6930951088262083830
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_30
+  - first:
+      213: 4920546812351154025
+    second: Minifantasy_MagicAndSorceryRockShield2Boulders_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9b4acbcff73610800000000000000
+      internalID: 1601029443290897120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd22688beb04c0f0800000000000000
+      internalID: -1097739302938202633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb92607d9b4ef04a0800000000000000
+      internalID: -6624825040011122244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0744229be45a05de0800000000000000
+      internalID: -1346394531051715472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc9c586563d4b5c0800000000000000
+      internalID: -4200500119933772592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 11
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d95dfea3104ba330800000000000000
+      internalID: 3723139970236242389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed73ea3fbc294e70800000000000000
+      internalID: 9099853721917160933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936ad3994afe2b50800000000000000
+      internalID: 6570464100300252054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343fe437cfdac2060800000000000000
+      internalID: 6930105226394268483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c34f07ec02c1840800000000000000
+      internalID: 5196064141109115951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f907f7743bd4bd930800000000000000
+      internalID: 4169011312455544991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e09ef0e3a9e51460800000000000000
+      internalID: 7211927268367438048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f507245d5e0c6e50800000000000000
+      internalID: 6803828931056567794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863a82317adba8d90800000000000000
+      internalID: -7094649737690176664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298550909a4b75180800000000000000
+      internalID: -9126627481749202798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aac90c65ab0fc20800000000000000
+      internalID: 3238293013840833155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 11
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf650a89e229c9680800000000000000
+      internalID: -8746955647433550084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf1353f667cb9d00800000000000000
+      internalID: 980596588866117597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b8d86da17ed3d0800000000000000
+      internalID: -3179979297274678641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55bdc4c31de8d8e0800000000000000
+      internalID: -1668322992778791590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0538296a2ae326e40800000000000000
+      internalID: 5648145750976267088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8430e86e8966209c0800000000000000
+      internalID: -3962491915243486392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68a0e51e12ca4e80800000000000000
+      internalID: -8193523137575344020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bf8461cad28cd80800000000000000
+      internalID: -8230278101888074880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8e04e5ff7a45280800000000000000
+      internalID: -9055428235495413534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105d74d4403b4030800000000000000
+      internalID: 3479928209254731799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c62d13f40c0f480800000000000000
+      internalID: -8867376219921683323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92446cc2a098d7440800000000000000
+      internalID: 4935251443461801001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c54ba54a910b340800000000000000
+      internalID: 4877426590129347699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2b01d70b398c5e0800000000000000
+      internalID: -1889097657460149574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b088cf4b050df90800000000000000
+      internalID: -6930951088262083830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryRockShield2Boulders_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9670fd2714b494440800000000000000
+      internalID: 4920546812351154025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryRockShield2Boulders_0: 1601029443290897120
+      Minifantasy_MagicAndSorceryRockShield2Boulders_1: -1097739302938202633
+      Minifantasy_MagicAndSorceryRockShield2Boulders_10: 4169011312455544991
+      Minifantasy_MagicAndSorceryRockShield2Boulders_11: 7211927268367438048
+      Minifantasy_MagicAndSorceryRockShield2Boulders_12: 6803828931056567794
+      Minifantasy_MagicAndSorceryRockShield2Boulders_13: -7094649737690176664
+      Minifantasy_MagicAndSorceryRockShield2Boulders_14: -9126627481749202798
+      Minifantasy_MagicAndSorceryRockShield2Boulders_15: 3238293013840833155
+      Minifantasy_MagicAndSorceryRockShield2Boulders_16: -8746955647433550084
+      Minifantasy_MagicAndSorceryRockShield2Boulders_17: 980596588866117597
+      Minifantasy_MagicAndSorceryRockShield2Boulders_18: -3179979297274678641
+      Minifantasy_MagicAndSorceryRockShield2Boulders_19: -1668322992778791590
+      Minifantasy_MagicAndSorceryRockShield2Boulders_2: -6624825040011122244
+      Minifantasy_MagicAndSorceryRockShield2Boulders_20: 5648145750976267088
+      Minifantasy_MagicAndSorceryRockShield2Boulders_21: -3962491915243486392
+      Minifantasy_MagicAndSorceryRockShield2Boulders_22: -8193523137575344020
+      Minifantasy_MagicAndSorceryRockShield2Boulders_23: -8230278101888074880
+      Minifantasy_MagicAndSorceryRockShield2Boulders_24: -9055428235495413534
+      Minifantasy_MagicAndSorceryRockShield2Boulders_25: 3479928209254731799
+      Minifantasy_MagicAndSorceryRockShield2Boulders_26: -8867376219921683323
+      Minifantasy_MagicAndSorceryRockShield2Boulders_27: 4935251443461801001
+      Minifantasy_MagicAndSorceryRockShield2Boulders_28: 4877426590129347699
+      Minifantasy_MagicAndSorceryRockShield2Boulders_29: -1889097657460149574
+      Minifantasy_MagicAndSorceryRockShield2Boulders_3: -1346394531051715472
+      Minifantasy_MagicAndSorceryRockShield2Boulders_30: -6930951088262083830
+      Minifantasy_MagicAndSorceryRockShield2Boulders_31: 4920546812351154025
+      Minifantasy_MagicAndSorceryRockShield2Boulders_4: -4200500119933772592
+      Minifantasy_MagicAndSorceryRockShield2Boulders_5: 3723139970236242389
+      Minifantasy_MagicAndSorceryRockShield2Boulders_6: 9099853721917160933
+      Minifantasy_MagicAndSorceryRockShield2Boulders_7: 6570464100300252054
+      Minifantasy_MagicAndSorceryRockShield2Boulders_8: 6930105226394268483
+      Minifantasy_MagicAndSorceryRockShield2Boulders_9: 5196064141109115951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

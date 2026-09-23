@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 3f5df21be5eb94f71bc051062c6016a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7371463129626333581
+    second: Aura_To_Missile_Orthogonal_0
+  - first:
+      213: -9181992417274590398
+    second: Aura_To_Missile_Orthogonal_1
+  - first:
+      213: -366937707630656577
+    second: Aura_To_Missile_Orthogonal_2
+  - first:
+      213: 1038491131299523670
+    second: Aura_To_Missile_Orthogonal_3
+  - first:
+      213: -6824340074608575664
+    second: Aura_To_Missile_Orthogonal_4
+  - first:
+      213: -8672004453849534132
+    second: Aura_To_Missile_Orthogonal_5
+  - first:
+      213: -8794906125450582830
+    second: Aura_To_Missile_Orthogonal_6
+  - first:
+      213: -6873329613753361124
+    second: Aura_To_Missile_Orthogonal_7
+  - first:
+      213: 3964197300740075447
+    second: Aura_To_Missile_Orthogonal_8
+  - first:
+      213: 6968186552695650338
+    second: Aura_To_Missile_Orthogonal_9
+  - first:
+      213: -134061353469064514
+    second: Aura_To_Missile_Orthogonal_10
+  - first:
+      213: -652708855771020304
+    second: Aura_To_Missile_Orthogonal_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eabbbd65d43b990800000000000000
+      internalID: -7371463129626333581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b84067b82039080800000000000000
+      internalID: -9181992417274590398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 110
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38af9591068eaf0800000000000000
+      internalID: -366937707630656577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c60878e26796e00800000000000000
+      internalID: 1038491131299523670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3e7aebd21b41a0800000000000000
+      internalID: -6824340074608575664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4171bd35e9d6a780800000000000000
+      internalID: -8672004453849534132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d46c9fe97732f580800000000000000
+      internalID: -8794906125450582830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dde0cf1270d90a0800000000000000
+      internalID: -6873329613753361124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfac2a1178a30730800000000000000
+      internalID: 3964197300740075447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f31a20c8f3b060800000000000000
+      internalID: 6968186552695650338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4e58c8e7b32ef0800000000000000
+      internalID: -134061353469064514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Missile_Orthogonal_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3440ef0cc11f6f0800000000000000
+      internalID: -652708855771020304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_To_Missile_Orthogonal_0: -7371463129626333581
+      Aura_To_Missile_Orthogonal_1: -9181992417274590398
+      Aura_To_Missile_Orthogonal_10: -134061353469064514
+      Aura_To_Missile_Orthogonal_11: -652708855771020304
+      Aura_To_Missile_Orthogonal_2: -366937707630656577
+      Aura_To_Missile_Orthogonal_3: 1038491131299523670
+      Aura_To_Missile_Orthogonal_4: -6824340074608575664
+      Aura_To_Missile_Orthogonal_5: -8672004453849534132
+      Aura_To_Missile_Orthogonal_6: -8794906125450582830
+      Aura_To_Missile_Orthogonal_7: -6873329613753361124
+      Aura_To_Missile_Orthogonal_8: 3964197300740075447
+      Aura_To_Missile_Orthogonal_9: 6968186552695650338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

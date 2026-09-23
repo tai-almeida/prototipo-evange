@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 7c33f9401cd2648bea0a2f98321814fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4597829415801374714
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_0
+  - first:
+      213: -261060598104262394
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_1
+  - first:
+      213: 3766133756088938986
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_2
+  - first:
+      213: -3507561636956096749
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_3
+  - first:
+      213: -1784506411903351999
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_4
+  - first:
+      213: -40676247766465254
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_5
+  - first:
+      213: -8060241673825674426
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_6
+  - first:
+      213: -3913173480025631344
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_7
+  - first:
+      213: 1996184244727858675
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_8
+  - first:
+      213: 1580996216237105832
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_9
+  - first:
+      213: -333840562802097803
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_10
+  - first:
+      213: -6103197141507375247
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_11
+  - first:
+      213: -4521965228926027286
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_12
+  - first:
+      213: 2816078425394636335
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_13
+  - first:
+      213: 8553631261505157315
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_14
+  - first:
+      213: 2770000198762158486
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_15
+  - first:
+      213: -5214921747745251163
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_16
+  - first:
+      213: 3636103902011201621
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_17
+  - first:
+      213: -2498864640468483285
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_18
+  - first:
+      213: 1741072765638668123
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_19
+  - first:
+      213: -3155262902935787337
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_20
+  - first:
+      213: -5806752591147646197
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_21
+  - first:
+      213: 6378882858060134969
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_22
+  - first:
+      213: 8167321428842558914
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_23
+  - first:
+      213: 1851589698237481834
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_24
+  - first:
+      213: -8763574269116434086
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_25
+  - first:
+      213: -2864662833943908055
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_26
+  - first:
+      213: 911963406179596123
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_27
+  - first:
+      213: -2956838987087281428
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_28
+  - first:
+      213: 604204437352393171
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_29
+  - first:
+      213: -7021802267558478377
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_30
+  - first:
+      213: -9134634750547464639
+    second: Minifantasy_MagicAndSorceryHolyShield2Shields_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6083155b18a3130c0800000000000000
+      internalID: -4597829415801374714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609f429e4c6806cf0800000000000000
+      internalID: -261060598104262394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1f94482bef34430800000000000000
+      internalID: 3766133756088938986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 15
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b1796643a25fc0800000000000000
+      internalID: -3507561636956096749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 12
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14308138fd82c37e0800000000000000
+      internalID: -1784506411903351999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15851d0b2d7f6ff0800000000000000
+      internalID: -40676247766465254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b12d317e4442090800000000000000
+      internalID: -8060241673825674426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d79ae37d91b9c0800000000000000
+      internalID: -3913173480025631344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f54c3d8efed3bb10800000000000000
+      internalID: 1996184244727858675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 16
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2ac04aea3d0f510800000000000000
+      internalID: 1580996216237105832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5718092e6c5fd5bf0800000000000000
+      internalID: -333840562802097803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ff54239861d4ba0800000000000000
+      internalID: -6103197141507375247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9323b2590ce31c0800000000000000
+      internalID: -4521965228926027286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26e94d5868b41720800000000000000
+      internalID: 2816078425394636335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 15
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f0b1305a94b670800000000000000
+      internalID: 8553631261505157315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 12
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699daf23184017620800000000000000
+      internalID: 2770000198762158486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a06f2edc40e0a7b0800000000000000
+      internalID: -5214921747745251163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581ac5eb39067230800000000000000
+      internalID: 3636103902011201621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23871b59df325dd0800000000000000
+      internalID: -2498864640468483285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5feffba478892810800000000000000
+      internalID: 1741072765638668123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 16
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b86b896b114634d0800000000000000
+      internalID: -3155262902935787337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03c01aa8454a6fa0800000000000000
+      internalID: -5806752591147646197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ab082a928568850800000000000000
+      internalID: 6378882858060134969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b8943197285170800000000000000
+      internalID: 8167321428842558914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c739350b22b910800000000000000
+      internalID: 1851589698237481834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59bf8632a7816680800000000000000
+      internalID: -8763574269116434086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9217285845cae38d0800000000000000
+      internalID: -2864662833943908055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b577d79d2e1f7ac00800000000000000
+      internalID: 911963406179596123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce203a47b9237f6d0800000000000000
+      internalID: -2956838987087281428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9aa1c0cb0926800800000000000000
+      internalID: 604204437352393171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddf42f6a0c8d8e90800000000000000
+      internalID: -7021802267558478377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHolyShield2Shields_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eedac77124b3180800000000000000
+      internalID: -9134634750547464639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryHolyShield2Shields_0: -4597829415801374714
+      Minifantasy_MagicAndSorceryHolyShield2Shields_1: -261060598104262394
+      Minifantasy_MagicAndSorceryHolyShield2Shields_10: -333840562802097803
+      Minifantasy_MagicAndSorceryHolyShield2Shields_11: -6103197141507375247
+      Minifantasy_MagicAndSorceryHolyShield2Shields_12: -4521965228926027286
+      Minifantasy_MagicAndSorceryHolyShield2Shields_13: 2816078425394636335
+      Minifantasy_MagicAndSorceryHolyShield2Shields_14: 8553631261505157315
+      Minifantasy_MagicAndSorceryHolyShield2Shields_15: 2770000198762158486
+      Minifantasy_MagicAndSorceryHolyShield2Shields_16: -5214921747745251163
+      Minifantasy_MagicAndSorceryHolyShield2Shields_17: 3636103902011201621
+      Minifantasy_MagicAndSorceryHolyShield2Shields_18: -2498864640468483285
+      Minifantasy_MagicAndSorceryHolyShield2Shields_19: 1741072765638668123
+      Minifantasy_MagicAndSorceryHolyShield2Shields_2: 3766133756088938986
+      Minifantasy_MagicAndSorceryHolyShield2Shields_20: -3155262902935787337
+      Minifantasy_MagicAndSorceryHolyShield2Shields_21: -5806752591147646197
+      Minifantasy_MagicAndSorceryHolyShield2Shields_22: 6378882858060134969
+      Minifantasy_MagicAndSorceryHolyShield2Shields_23: 8167321428842558914
+      Minifantasy_MagicAndSorceryHolyShield2Shields_24: 1851589698237481834
+      Minifantasy_MagicAndSorceryHolyShield2Shields_25: -8763574269116434086
+      Minifantasy_MagicAndSorceryHolyShield2Shields_26: -2864662833943908055
+      Minifantasy_MagicAndSorceryHolyShield2Shields_27: 911963406179596123
+      Minifantasy_MagicAndSorceryHolyShield2Shields_28: -2956838987087281428
+      Minifantasy_MagicAndSorceryHolyShield2Shields_29: 604204437352393171
+      Minifantasy_MagicAndSorceryHolyShield2Shields_3: -3507561636956096749
+      Minifantasy_MagicAndSorceryHolyShield2Shields_30: -7021802267558478377
+      Minifantasy_MagicAndSorceryHolyShield2Shields_31: -9134634750547464639
+      Minifantasy_MagicAndSorceryHolyShield2Shields_4: -1784506411903351999
+      Minifantasy_MagicAndSorceryHolyShield2Shields_5: -40676247766465254
+      Minifantasy_MagicAndSorceryHolyShield2Shields_6: -8060241673825674426
+      Minifantasy_MagicAndSorceryHolyShield2Shields_7: -3913173480025631344
+      Minifantasy_MagicAndSorceryHolyShield2Shields_8: 1996184244727858675
+      Minifantasy_MagicAndSorceryHolyShield2Shields_9: 1580996216237105832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

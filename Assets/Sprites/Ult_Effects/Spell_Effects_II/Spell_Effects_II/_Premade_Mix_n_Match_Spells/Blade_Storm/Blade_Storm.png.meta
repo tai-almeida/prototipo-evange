@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 77b6c1f8163f649ef9a4853aac503129
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -163364334139948101
+    second: Blade_Storm_0
+  - first:
+      213: -2390050085885274648
+    second: Blade_Storm_1
+  - first:
+      213: 8716251878695004247
+    second: Blade_Storm_2
+  - first:
+      213: -4118117497057405333
+    second: Blade_Storm_3
+  - first:
+      213: 2818126103128039792
+    second: Blade_Storm_4
+  - first:
+      213: 3885089723660719985
+    second: Blade_Storm_5
+  - first:
+      213: 3020395705012320767
+    second: Blade_Storm_6
+  - first:
+      213: 6192563113133691308
+    second: Blade_Storm_7
+  - first:
+      213: 4721274260892954817
+    second: Blade_Storm_8
+  - first:
+      213: -316614087339692919
+    second: Blade_Storm_9
+  - first:
+      213: 190428133933571197
+    second: Blade_Storm_10
+  - first:
+      213: 5926356746262011089
+    second: Blade_Storm_11
+  - first:
+      213: 7360824080463883044
+    second: Blade_Storm_12
+  - first:
+      213: 358592925482891463
+    second: Blade_Storm_13
+  - first:
+      213: -5813800476635277289
+    second: Blade_Storm_14
+  - first:
+      213: -4910184268588626056
+    second: Blade_Storm_15
+  - first:
+      213: 3845802399051618181
+    second: Blade_Storm_16
+  - first:
+      213: -5796659300204140637
+    second: Blade_Storm_17
+  - first:
+      213: -2441972288046055907
+    second: Blade_Storm_18
+  - first:
+      213: 8142134880588812987
+    second: Blade_Storm_19
+  - first:
+      213: -442578417932209946
+    second: Blade_Storm_20
+  - first:
+      213: -7762249116852174998
+    second: Blade_Storm_21
+  - first:
+      213: 6598142345035970846
+    second: Blade_Storm_22
+  - first:
+      213: -5663712904855920977
+    second: Blade_Storm_23
+  - first:
+      213: 5373741204169596884
+    second: Blade_Storm_24
+  - first:
+      213: -1355500798575477363
+    second: Blade_Storm_25
+  - first:
+      213: -3913296700433711106
+    second: Blade_Storm_26
+  - first:
+      213: 8979313706550426331
+    second: Blade_Storm_27
+  - first:
+      213: -4197879490000755397
+    second: Blade_Storm_28
+  - first:
+      213: -1216508667112646025
+    second: Blade_Storm_29
+  - first:
+      213: -2564124219983368783
+    second: Blade_Storm_30
+  - first:
+      213: 4532099445124960912
+    second: Blade_Storm_31
+  - first:
+      213: -2349554182888496058
+    second: Blade_Storm_32
+  - first:
+      213: -8825423546557270830
+    second: Blade_Storm_33
+  - first:
+      213: -2722995161418761662
+    second: Blade_Storm_34
+  - first:
+      213: 9094048343945029121
+    second: Blade_Storm_35
+  - first:
+      213: 2916716403485716983
+    second: Blade_Storm_36
+  - first:
+      213: 8203285070169631565
+    second: Blade_Storm_37
+  - first:
+      213: -1665157761075473339
+    second: Blade_Storm_38
+  - first:
+      213: -5710926085525906438
+    second: Blade_Storm_39
+  - first:
+      213: -5127348243371560691
+    second: Blade_Storm_40
+  - first:
+      213: -5942550124693819675
+    second: Blade_Storm_41
+  - first:
+      213: 2416393970901804022
+    second: Blade_Storm_42
+  - first:
+      213: -2262617547297467148
+    second: Blade_Storm_43
+  - first:
+      213: -3915167885220194431
+    second: Blade_Storm_44
+  - first:
+      213: -6133530510707588930
+    second: Blade_Storm_45
+  - first:
+      213: -402770176717093788
+    second: Blade_Storm_46
+  - first:
+      213: 7700580508433651545
+    second: Blade_Storm_47
+  - first:
+      213: -164097668812355561
+    second: Blade_Storm_48
+  - first:
+      213: 8869520206853685416
+    second: Blade_Storm_49
+  - first:
+      213: -8193027739887098439
+    second: Blade_Storm_50
+  - first:
+      213: 7388716747853651152
+    second: Blade_Storm_51
+  - first:
+      213: -5506016695729856875
+    second: Blade_Storm_52
+  - first:
+      213: -7019402760353286739
+    second: Blade_Storm_53
+  - first:
+      213: 8376248303913230368
+    second: Blade_Storm_54
+  - first:
+      213: 5041907506003472127
+    second: Blade_Storm_55
+  - first:
+      213: -7955564863003647226
+    second: Blade_Storm_56
+  - first:
+      213: -6129225756995084676
+    second: Blade_Storm_57
+  - first:
+      213: -8109251353261945001
+    second: Blade_Storm_58
+  - first:
+      213: -6048497387178381309
+    second: Blade_Storm_59
+  - first:
+      213: -8114375274857820214
+    second: Blade_Storm_60
+  - first:
+      213: 1963005716122239401
+    second: Blade_Storm_61
+  - first:
+      213: -5177624410079441922
+    second: Blade_Storm_62
+  - first:
+      213: -1682312369658296761
+    second: Blade_Storm_63
+  - first:
+      213: 997105450866251355
+    second: Blade_Storm_64
+  - first:
+      213: -1453516644893847187
+    second: Blade_Storm_65
+  - first:
+      213: 8516193514964789613
+    second: Blade_Storm_66
+  - first:
+      213: 261814552846818806
+    second: Blade_Storm_67
+  - first:
+      213: -7479050689882383687
+    second: Blade_Storm_68
+  - first:
+      213: -9130860758734161136
+    second: Blade_Storm_69
+  - first:
+      213: 3310326246401769636
+    second: Blade_Storm_70
+  - first:
+      213: -4196690817241958350
+    second: Blade_Storm_71
+  - first:
+      213: -4147030122470370313
+    second: Blade_Storm_72
+  - first:
+      213: -7994508308737888809
+    second: Blade_Storm_73
+  - first:
+      213: -7454315231376954055
+    second: Blade_Storm_74
+  - first:
+      213: -7232694212660452169
+    second: Blade_Storm_75
+  - first:
+      213: -6175676832416728847
+    second: Blade_Storm_76
+  - first:
+      213: -6558359288868629827
+    second: Blade_Storm_77
+  - first:
+      213: -2959334468971957551
+    second: Blade_Storm_78
+  - first:
+      213: -5356026622920666125
+    second: Blade_Storm_79
+  - first:
+      213: 8441222888286667321
+    second: Blade_Storm_80
+  - first:
+      213: -2959942160470830898
+    second: Blade_Storm_81
+  - first:
+      213: 4176272565170688948
+    second: Blade_Storm_82
+  - first:
+      213: 7165417369605557147
+    second: Blade_Storm_83
+  - first:
+      213: -4236870137149281109
+    second: Blade_Storm_84
+  - first:
+      213: 8835417514796610281
+    second: Blade_Storm_85
+  - first:
+      213: -6841065962176865769
+    second: Blade_Storm_86
+  - first:
+      213: -5631760161276198662
+    second: Blade_Storm_87
+  - first:
+      213: -7692860019229902404
+    second: Blade_Storm_88
+  - first:
+      213: -7299035161974901121
+    second: Blade_Storm_89
+  - first:
+      213: 8502707765147400004
+    second: Blade_Storm_90
+  - first:
+      213: -1935904842725087145
+    second: Blade_Storm_91
+  - first:
+      213: -6048049946334045027
+    second: Blade_Storm_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blade_Storm_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ce9ee00d9bbdf0800000000000000
+      internalID: -163364334139948101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 20
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e59a632c16d4ded0800000000000000
+      internalID: -2390050085885274648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_2
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 21
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758627a27e856f870800000000000000
+      internalID: 8716251878695004247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66929484f189d6c0800000000000000
+      internalID: -4118117497057405333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 22
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e33d72cefb1720800000000000000
+      internalID: 2818126103128039792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 23
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775153058c9ae530800000000000000
+      internalID: 3885089723660719985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_6
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 32
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9ff5614e99ae920800000000000000
+      internalID: 3020395705012320767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_7
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 23
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1558f775760f550800000000000000
+      internalID: 6192563113133691308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_8
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 15
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c038b70de5558140800000000000000
+      internalID: 4721274260892954817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_9
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 14
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cab314a292b9bf0800000000000000
+      internalID: -316614087339692919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_10
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 22
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cd95ef06984a200800000000000000
+      internalID: 190428133933571197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_11
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 45
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcdf21cf06ae3250800000000000000
+      internalID: 5926356746262011089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_12
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 15
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42be03a7086e62660800000000000000
+      internalID: 7360824080463883044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 15
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83066ad5af9f400800000000000000
+      internalID: 358592925482891463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_14
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 7
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7185823f44b315fa0800000000000000
+      internalID: -5813800476635277289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_15
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 6
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f40194c658bdbb0800000000000000
+      internalID: -4910184268588626056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 15
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58711dfe7e80f5530800000000000000
+      internalID: 3845802399051618181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_17
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72e5714112e8fa0800000000000000
+      internalID: -5796659300204140637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_18
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 7
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ebaa3642f5c1ed0800000000000000
+      internalID: -2441972288046055907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_19
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb250d6f88caef070800000000000000
+      internalID: 8142134880588812987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_20
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 7
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e075e51645abd9f0800000000000000
+      internalID: -442578417932209946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_21
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 7
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fbfebed83f64490800000000000000
+      internalID: -7762249116852174998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_22
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 36
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19f45d118f419b50800000000000000
+      internalID: 6598142345035970846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_23
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 6
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5444ee137661b0800000000000000
+      internalID: -5663712904855920977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_24
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 5
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9865672d539a40800000000000000
+      internalID: 5373741204169596884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_25
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 8
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d7628943b403de0800000000000000
+      internalID: -1355500798575477363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_26
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 15
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effb0fd626d21b9c0800000000000000
+      internalID: -3913296700433711106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 29
+        width: 118
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdafbbddd3eec9c70800000000000000
+      internalID: 8979313706550426331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b356b9c58d22eb5c0800000000000000
+      internalID: -4197879490000755397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_29
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 22
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a119600d71e1fe0800000000000000
+      internalID: -1216508667112646025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_30
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 22
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6ae37b966a6cd0800000000000000
+      internalID: -2564124219983368783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_31
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 21
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0921b69ee6045ee30800000000000000
+      internalID: 4532099445124960912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_32
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 20
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644e56c4be4b46fd0800000000000000
+      internalID: -2349554182888496058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_33
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f5132b0cc58580800000000000000
+      internalID: -8825423546557270830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_34
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24af686e35af53ad0800000000000000
+      internalID: -2722995161418761662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_35
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 16
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a21759cc843e70800000000000000
+      internalID: 9094048343945029121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f132549d124a7820800000000000000
+      internalID: 2916716403485716983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_37
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 19
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4be9b6fe4ce7d170800000000000000
+      internalID: 8203285070169631565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_38
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449c14b6db24e8e0800000000000000
+      internalID: -1665157761075473339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_39
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 23
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb57b5abf6beb0b0800000000000000
+      internalID: -5710926085525906438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_40
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 23
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d017d1240fff7d8b0800000000000000
+      internalID: -5127348243371560691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeeba58522d78da0800000000000000
+      internalID: -5942550124693819675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_42
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f36ff09381c88120800000000000000
+      internalID: 2416393970901804022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_43
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 18
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4d4ce14519990e0800000000000000
+      internalID: -2262617547297467148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_44
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 13
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187de654d878aa9c0800000000000000
+      internalID: -3915167885220194431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_45
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 18
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb001425f7251eaa0800000000000000
+      internalID: -6133530510707588930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_46
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46408a288a2196af0800000000000000
+      internalID: -402770176717093788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_47
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 26
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9571c794c25fdda60800000000000000
+      internalID: 7700580508433651545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_48
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 23
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71848f52a0209bdf0800000000000000
+      internalID: -164097668812355561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_49
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 23
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c9a9a2add61b70800000000000000
+      internalID: 8869520206853685416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_50
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 23
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5ab19dda48c4e80800000000000000
+      internalID: -8193027739887098439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_51
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 23
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcdbcd2cbef98660800000000000000
+      internalID: 7388716747853651152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_52
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 23
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed6a3ccf2b693b0800000000000000
+      internalID: -5506016695729856875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_53
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5febd3162169e90800000000000000
+      internalID: -7019402760353286739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020673104796e3470800000000000000
+      internalID: 8376248303913230368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_55
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 23
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe66bdd92478f540800000000000000
+      internalID: 5041907506003472127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_56
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 22
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a61158e7289190800000000000000
+      internalID: -7955564863003647226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_57
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 22
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e1226e5ad90faa0800000000000000
+      internalID: -6129225756995084676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_58
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 22
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f477edbd6267f80800000000000000
+      internalID: -8109251353261945001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_59
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 22
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300ba543cab6f0ca0800000000000000
+      internalID: -6048497387178381309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_60
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 23
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf03e7eda2f36f80800000000000000
+      internalID: -8114375274857820214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_61
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a107816c4ffd3b10800000000000000
+      internalID: 1963005716122239401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_62
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc2d008026528b0800000000000000
+      internalID: -5177624410079441922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_63
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 23
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746854520d937a8e0800000000000000
+      internalID: -1682312369658296761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_64
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b561d7aef1e66dd00800000000000000
+      internalID: 997105450866251355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_65
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611cf1005214dbe0800000000000000
+      internalID: -1453516644893847187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_66
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6926f191e89f2670800000000000000
+      internalID: 8516193514964789613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_67
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd567bd2f622a300800000000000000
+      internalID: 261814552846818806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_68
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9b64f503153890800000000000000
+      internalID: -7479050689882383687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_69
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bb81e648aa84180800000000000000
+      internalID: -9130860758734161136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_70
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a00e67ae24a0fd20800000000000000
+      internalID: 3310326246401769636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_71
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 23
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238362ecfeb52c5c0800000000000000
+      internalID: -4196690817241958350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_72
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 23
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31f45531ac276c0800000000000000
+      internalID: -4147030122470370313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_73
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 23
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde4c7cc0dcd0190800000000000000
+      internalID: -7994508308737888809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_74
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 28
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d2efdaac3fc8890800000000000000
+      internalID: -7454315231376954055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_75
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 23
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a95d1fee40ab90800000000000000
+      internalID: -7232694212660452169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_76
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 23
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f03c14a69b4aa0800000000000000
+      internalID: -6175676832416728847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_77
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db21a9579f60cf4a0800000000000000
+      internalID: -6558359288868629827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_78
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d27b5dcaf45ee6d0800000000000000
+      internalID: -2959334468971957551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_79
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 22
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f35745f9229ba5b0800000000000000
+      internalID: -5356026622920666125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_80
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932493e4e7f352570800000000000000
+      internalID: 8441222888286667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_81
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec01f69994c2ce6d0800000000000000
+      internalID: -2959942160470830898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_82
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3553c65c915f930800000000000000
+      internalID: 4176272565170688948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_83
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bc0c6322da07360800000000000000
+      internalID: 7165417369605557147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_84
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca1c3ee0d9335c0800000000000000
+      internalID: -4236870137149281109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_85
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e277bbea65bd9a70800000000000000
+      internalID: 8835417514796610281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_86
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 14
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9e6fb0c6af01a0800000000000000
+      internalID: -6841065962176865769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_87
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 6
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af08feeb8f7f7d1b0800000000000000
+      internalID: -5631760161276198662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_88
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb93ffe22987d3590800000000000000
+      internalID: -7692860019229902404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_89
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76766f213e94ba90800000000000000
+      internalID: -7299035161974901121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_90
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f092c9afaff570800000000000000
+      internalID: 8502707765147400004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_91
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758a96a6dc84225e0800000000000000
+      internalID: -1935904842725087145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blade_Storm_92
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c50f42e92011ca0800000000000000
+      internalID: -6048049946334045027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blade_Storm_0: -163364334139948101
+      Blade_Storm_1: -2390050085885274648
+      Blade_Storm_10: 190428133933571197
+      Blade_Storm_11: 5926356746262011089
+      Blade_Storm_12: 7360824080463883044
+      Blade_Storm_13: 358592925482891463
+      Blade_Storm_14: -5813800476635277289
+      Blade_Storm_15: -4910184268588626056
+      Blade_Storm_16: 3845802399051618181
+      Blade_Storm_17: -5796659300204140637
+      Blade_Storm_18: -2441972288046055907
+      Blade_Storm_19: 8142134880588812987
+      Blade_Storm_2: 8716251878695004247
+      Blade_Storm_20: -442578417932209946
+      Blade_Storm_21: -7762249116852174998
+      Blade_Storm_22: 6598142345035970846
+      Blade_Storm_23: -5663712904855920977
+      Blade_Storm_24: 5373741204169596884
+      Blade_Storm_25: -1355500798575477363
+      Blade_Storm_26: -3913296700433711106
+      Blade_Storm_27: 8979313706550426331
+      Blade_Storm_28: -4197879490000755397
+      Blade_Storm_29: -1216508667112646025
+      Blade_Storm_3: -4118117497057405333
+      Blade_Storm_30: -2564124219983368783
+      Blade_Storm_31: 4532099445124960912
+      Blade_Storm_32: -2349554182888496058
+      Blade_Storm_33: -8825423546557270830
+      Blade_Storm_34: -2722995161418761662
+      Blade_Storm_35: 9094048343945029121
+      Blade_Storm_36: 2916716403485716983
+      Blade_Storm_37: 8203285070169631565
+      Blade_Storm_38: -1665157761075473339
+      Blade_Storm_39: -5710926085525906438
+      Blade_Storm_4: 2818126103128039792
+      Blade_Storm_40: -5127348243371560691
+      Blade_Storm_41: -5942550124693819675
+      Blade_Storm_42: 2416393970901804022
+      Blade_Storm_43: -2262617547297467148
+      Blade_Storm_44: -3915167885220194431
+      Blade_Storm_45: -6133530510707588930
+      Blade_Storm_46: -402770176717093788
+      Blade_Storm_47: 7700580508433651545
+      Blade_Storm_48: -164097668812355561
+      Blade_Storm_49: 8869520206853685416
+      Blade_Storm_5: 3885089723660719985
+      Blade_Storm_50: -8193027739887098439
+      Blade_Storm_51: 7388716747853651152
+      Blade_Storm_52: -5506016695729856875
+      Blade_Storm_53: -7019402760353286739
+      Blade_Storm_54: 8376248303913230368
+      Blade_Storm_55: 5041907506003472127
+      Blade_Storm_56: -7955564863003647226
+      Blade_Storm_57: -6129225756995084676
+      Blade_Storm_58: -8109251353261945001
+      Blade_Storm_59: -6048497387178381309
+      Blade_Storm_6: 3020395705012320767
+      Blade_Storm_60: -8114375274857820214
+      Blade_Storm_61: 1963005716122239401
+      Blade_Storm_62: -5177624410079441922
+      Blade_Storm_63: -1682312369658296761
+      Blade_Storm_64: 997105450866251355
+      Blade_Storm_65: -1453516644893847187
+      Blade_Storm_66: 8516193514964789613
+      Blade_Storm_67: 261814552846818806
+      Blade_Storm_68: -7479050689882383687
+      Blade_Storm_69: -9130860758734161136
+      Blade_Storm_7: 6192563113133691308
+      Blade_Storm_70: 3310326246401769636
+      Blade_Storm_71: -4196690817241958350
+      Blade_Storm_72: -4147030122470370313
+      Blade_Storm_73: -7994508308737888809
+      Blade_Storm_74: -7454315231376954055
+      Blade_Storm_75: -7232694212660452169
+      Blade_Storm_76: -6175676832416728847
+      Blade_Storm_77: -6558359288868629827
+      Blade_Storm_78: -2959334468971957551
+      Blade_Storm_79: -5356026622920666125
+      Blade_Storm_8: 4721274260892954817
+      Blade_Storm_80: 8441222888286667321
+      Blade_Storm_81: -2959942160470830898
+      Blade_Storm_82: 4176272565170688948
+      Blade_Storm_83: 7165417369605557147
+      Blade_Storm_84: -4236870137149281109
+      Blade_Storm_85: 8835417514796610281
+      Blade_Storm_86: -6841065962176865769
+      Blade_Storm_87: -5631760161276198662
+      Blade_Storm_88: -7692860019229902404
+      Blade_Storm_89: -7299035161974901121
+      Blade_Storm_9: -316614087339692919
+      Blade_Storm_90: 8502707765147400004
+      Blade_Storm_91: -1935904842725087145
+      Blade_Storm_92: -6048049946334045027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

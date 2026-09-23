@@ -1,0 +1,2704 @@
+fileFormatVersion: 2
+guid: 7f4b206982b05474bb995fb586710230
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1361467774468327573
+    second: Tangled_Shadows_0
+  - first:
+      213: 6576804384504673419
+    second: Tangled_Shadows_1
+  - first:
+      213: 38258953050481879
+    second: Tangled_Shadows_2
+  - first:
+      213: -6673707404957018234
+    second: Tangled_Shadows_3
+  - first:
+      213: 6738227307441006808
+    second: Tangled_Shadows_4
+  - first:
+      213: 890705694572672986
+    second: Tangled_Shadows_5
+  - first:
+      213: 8198267198333806112
+    second: Tangled_Shadows_6
+  - first:
+      213: -6833242970268100403
+    second: Tangled_Shadows_7
+  - first:
+      213: -7145016005525078611
+    second: Tangled_Shadows_8
+  - first:
+      213: -4128589884021000099
+    second: Tangled_Shadows_9
+  - first:
+      213: -2023215723314356946
+    second: Tangled_Shadows_10
+  - first:
+      213: -1206268225705178145
+    second: Tangled_Shadows_11
+  - first:
+      213: -5413923980557728221
+    second: Tangled_Shadows_12
+  - first:
+      213: 7601635124639682684
+    second: Tangled_Shadows_13
+  - first:
+      213: -4365020333587180504
+    second: Tangled_Shadows_14
+  - first:
+      213: 2561077510993356185
+    second: Tangled_Shadows_15
+  - first:
+      213: -4581610827533525817
+    second: Tangled_Shadows_16
+  - first:
+      213: 2075209919262890470
+    second: Tangled_Shadows_17
+  - first:
+      213: 2905577433026907060
+    second: Tangled_Shadows_18
+  - first:
+      213: -7620228449370336432
+    second: Tangled_Shadows_19
+  - first:
+      213: 7925679181552434721
+    second: Tangled_Shadows_20
+  - first:
+      213: 37223090941225168
+    second: Tangled_Shadows_21
+  - first:
+      213: -8271615064385908577
+    second: Tangled_Shadows_22
+  - first:
+      213: -2189785186628371240
+    second: Tangled_Shadows_23
+  - first:
+      213: 5450555735278270530
+    second: Tangled_Shadows_24
+  - first:
+      213: -5011997359143782480
+    second: Tangled_Shadows_25
+  - first:
+      213: 6892121471765330814
+    second: Tangled_Shadows_26
+  - first:
+      213: -4609413142808962838
+    second: Tangled_Shadows_27
+  - first:
+      213: -1172838879436494221
+    second: Tangled_Shadows_28
+  - first:
+      213: 3075417449604186729
+    second: Tangled_Shadows_29
+  - first:
+      213: 4789090177530368243
+    second: Tangled_Shadows_30
+  - first:
+      213: 9019349530728089696
+    second: Tangled_Shadows_31
+  - first:
+      213: -4794967094536039173
+    second: Tangled_Shadows_32
+  - first:
+      213: -2415028806065615272
+    second: Tangled_Shadows_33
+  - first:
+      213: 7997746736805310093
+    second: Tangled_Shadows_34
+  - first:
+      213: -1514113995984315763
+    second: Tangled_Shadows_35
+  - first:
+      213: 45435301820927898
+    second: Tangled_Shadows_36
+  - first:
+      213: 1748236425302292674
+    second: Tangled_Shadows_37
+  - first:
+      213: -3727240867538773802
+    second: Tangled_Shadows_38
+  - first:
+      213: 4299778286876371762
+    second: Tangled_Shadows_39
+  - first:
+      213: 5463211187900066515
+    second: Tangled_Shadows_40
+  - first:
+      213: -5074376931132599242
+    second: Tangled_Shadows_41
+  - first:
+      213: -1784634836072056611
+    second: Tangled_Shadows_42
+  - first:
+      213: -7256682683138903104
+    second: Tangled_Shadows_43
+  - first:
+      213: 5378616374453641582
+    second: Tangled_Shadows_44
+  - first:
+      213: 2832998338603867331
+    second: Tangled_Shadows_45
+  - first:
+      213: 3273868055439472036
+    second: Tangled_Shadows_46
+  - first:
+      213: -2078689088542540296
+    second: Tangled_Shadows_47
+  - first:
+      213: 3845766478002958131
+    second: Tangled_Shadows_48
+  - first:
+      213: 2687784375835361798
+    second: Tangled_Shadows_49
+  - first:
+      213: 7432191000185770685
+    second: Tangled_Shadows_50
+  - first:
+      213: -9185442838012693281
+    second: Tangled_Shadows_51
+  - first:
+      213: 3053970202193555995
+    second: Tangled_Shadows_52
+  - first:
+      213: -8366548582967648193
+    second: Tangled_Shadows_53
+  - first:
+      213: 8533491371500313958
+    second: Tangled_Shadows_54
+  - first:
+      213: 3604052190398011534
+    second: Tangled_Shadows_55
+  - first:
+      213: -1157359203564114572
+    second: Tangled_Shadows_56
+  - first:
+      213: -108969771412886734
+    second: Tangled_Shadows_57
+  - first:
+      213: 297735392327893162
+    second: Tangled_Shadows_58
+  - first:
+      213: -7609662378297507869
+    second: Tangled_Shadows_59
+  - first:
+      213: -5917401089670232143
+    second: Tangled_Shadows_60
+  - first:
+      213: 4340457352848434985
+    second: Tangled_Shadows_61
+  - first:
+      213: 8536511780483177033
+    second: Tangled_Shadows_62
+  - first:
+      213: 1868167581860675151
+    second: Tangled_Shadows_63
+  - first:
+      213: 4509893051885266768
+    second: Tangled_Shadows_64
+  - first:
+      213: -5424716226395281855
+    second: Tangled_Shadows_65
+  - first:
+      213: 6563422320277176400
+    second: Tangled_Shadows_66
+  - first:
+      213: 6413350566480988563
+    second: Tangled_Shadows_67
+  - first:
+      213: 5385423826453276488
+    second: Tangled_Shadows_68
+  - first:
+      213: 4398157443209644077
+    second: Tangled_Shadows_69
+  - first:
+      213: 7260217033399525085
+    second: Tangled_Shadows_70
+  - first:
+      213: 695706971002234612
+    second: Tangled_Shadows_71
+  - first:
+      213: 1886642839125475540
+    second: Tangled_Shadows_72
+  - first:
+      213: -1527320098924923862
+    second: Tangled_Shadows_73
+  - first:
+      213: -7873578198197408776
+    second: Tangled_Shadows_74
+  - first:
+      213: -1778361900220449852
+    second: Tangled_Shadows_75
+  - first:
+      213: 5801282161106249228
+    second: Tangled_Shadows_76
+  - first:
+      213: -429609474135618455
+    second: Tangled_Shadows_77
+  - first:
+      213: -7002154624114933859
+    second: Tangled_Shadows_78
+  - first:
+      213: 4668735290442219261
+    second: Tangled_Shadows_79
+  - first:
+      213: 2450553147821309204
+    second: Tangled_Shadows_80
+  - first:
+      213: -828746448010717582
+    second: Tangled_Shadows_81
+  - first:
+      213: 2677268816155732133
+    second: Tangled_Shadows_82
+  - first:
+      213: -2836514790108733261
+    second: Tangled_Shadows_83
+  - first:
+      213: -6273995413375264157
+    second: Tangled_Shadows_84
+  - first:
+      213: 5438469219745107699
+    second: Tangled_Shadows_85
+  - first:
+      213: -3953046972587439176
+    second: Tangled_Shadows_86
+  - first:
+      213: -2107474751364082414
+    second: Tangled_Shadows_87
+  - first:
+      213: 1792182864322488217
+    second: Tangled_Shadows_88
+  - first:
+      213: -4460879104593937834
+    second: Tangled_Shadows_89
+  - first:
+      213: 8799948842158229665
+    second: Tangled_Shadows_90
+  - first:
+      213: -8098495702883797348
+    second: Tangled_Shadows_91
+  - first:
+      213: 5709752048748044743
+    second: Tangled_Shadows_92
+  - first:
+      213: 3856794460115307655
+    second: Tangled_Shadows_93
+  - first:
+      213: 1136335700929187388
+    second: Tangled_Shadows_94
+  - first:
+      213: -7056899257754462458
+    second: Tangled_Shadows_95
+  - first:
+      213: -3014747296351186998
+    second: Tangled_Shadows_96
+  - first:
+      213: -5178885599503842139
+    second: Tangled_Shadows_97
+  - first:
+      213: -4737093434073544355
+    second: Tangled_Shadows_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tangled_Shadows_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677ca1c5481b1de0800000000000000
+      internalID: -1361467774468327573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 9
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f1a70eb0854b50800000000000000
+      internalID: 6576804384504673419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 17
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46d0aa05ce78000800000000000000
+      internalID: 38258953050481879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 9
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68794a8597a3263a0800000000000000
+      internalID: -6673707404957018234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8abd3190ef28d50800000000000000
+      internalID: 6738227307441006808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 9
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7fb6c2c1c6c5c00800000000000000
+      internalID: 890705694572672986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0266c62a49816c170800000000000000
+      internalID: 8198267198333806112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc81c3df8b17b21a0800000000000000
+      internalID: -6833242970268100403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 9
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad72348ccdc7dc90800000000000000
+      internalID: -7145016005525078611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5838abef5d44b6c0800000000000000
+      internalID: -4128589884021000099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ddcd3e4081ce3e0800000000000000
+      internalID: -2023215723314356946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 25
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb80079079724fe0800000000000000
+      internalID: -1206268225705178145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 9
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32643e9e2d0edd4b0800000000000000
+      internalID: -5413923980557728221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 17
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70d744eede6e7960800000000000000
+      internalID: 7601635124639682684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824dd2b22255c63c0800000000000000
+      internalID: -4365020333587180504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 9
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99520055d66ca8320800000000000000
+      internalID: 2561077510993356185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_16
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 17
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccd7cd0a39da60c0800000000000000
+      internalID: -4581610827533525817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e918083d60accc10800000000000000
+      internalID: 2075209919262890470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbc5fae74fa25820800000000000000
+      internalID: 2905577433026907060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 9
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05394f759928f3690800000000000000
+      internalID: -7620228449370336432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 17
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e342c393badfd60800000000000000
+      internalID: 7925679181552434721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86ef8343e348000800000000000000
+      internalID: 37223090941225168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_22
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9012808ce1553d80800000000000000
+      internalID: -8271615064385908577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 25
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7a9889f15c91e0800000000000000
+      internalID: -2189785186628371240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_24
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 9
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248babd109344ab40800000000000000
+      internalID: 5450555735278270530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7f901e4fec17ab0800000000000000
+      internalID: -5011997359143782480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_26
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b3a6966fbb5af50800000000000000
+      internalID: 6892121471765330814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 17
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8dad71b231800c0800000000000000
+      internalID: -4609413142808962838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 25
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aab6cc04d39bfe0800000000000000
+      internalID: -1172838879436494221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96202bb40e31eaa20800000000000000
+      internalID: 3075417449604186729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_30
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 9
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0920d8424467240800000000000000
+      internalID: 4789090177530368243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 17
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06842249c9a2b2d70800000000000000
+      internalID: 9019349530728089696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41e7415dad47db0800000000000000
+      internalID: -4794967094536039173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 25
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8f14a8181c7ed0800000000000000
+      internalID: -2415028806065615272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_34
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ee1d28844bdfe60800000000000000
+      internalID: 7997746736805310093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_35
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 25
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a58efb759ccfae0800000000000000
+      internalID: -1514113995984315763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_36
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f8c419a2b61a000800000000000000
+      internalID: 45435301820927898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_37
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 9
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8ba8924cbf24810800000000000000
+      internalID: 1748236425302292674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_38
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85802cd2e264cc0800000000000000
+      internalID: -3727240867538773802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b243a1291ebab30800000000000000
+      internalID: 4299778286876371762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_40
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 25
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da29bb41a931db40800000000000000
+      internalID: 5463211187900066515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 17
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634976bf0113499b0800000000000000
+      internalID: -5074376931132599242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_42
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 25
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8332e6214bb37e0800000000000000
+      internalID: -1784634836072056611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_43
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3f6c71c851b4b90800000000000000
+      internalID: -7256682683138903104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_44
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 9
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61a86e681fa4aa40800000000000000
+      internalID: 5378616374453641582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_45
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 25
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc51c5aaf4d05720800000000000000
+      internalID: 2832998338603867331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 17
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5f7f596ad1f6d20800000000000000
+      internalID: 3273868055439472036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_47
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdf0fe89430723e0800000000000000
+      internalID: -2078689088542540296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_48
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 25
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fa87a6c38ee5530800000000000000
+      internalID: 3845766478002958131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_49
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602038a36adec4520800000000000000
+      internalID: 2687784375835361798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_50
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 25
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db29de45652742760800000000000000
+      internalID: 7432191000185770685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_51
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f897c760c68080800000000000000
+      internalID: -9185442838012693281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 9
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12ff50e7b1e16a20800000000000000
+      internalID: 3053970202193555995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_53
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f306a24446c04eb80800000000000000
+      internalID: -8366548582967648193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d1324a03d0d6670800000000000000
+      internalID: 8533491371500313958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_55
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 25
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8854a04f5a240230800000000000000
+      internalID: 3604052190398011534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_56
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 17
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d2802bfeb30ffe0800000000000000
+      internalID: -1157359203564114572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_57
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 25
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bedabf19cdc7ef0800000000000000
+      internalID: -108969771412886734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_58
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa004c803c4c12400800000000000000
+      internalID: 297735392327893162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_59
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef3ce8726c056690800000000000000
+      internalID: -7609662378297507869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_60
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b742b88f0b21eda0800000000000000
+      internalID: -5917401089670232143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_61
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 25
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927634737f66c3c30800000000000000
+      internalID: 4340457352848434985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_62
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 17
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a13a86c38c77670800000000000000
+      internalID: 8536511780483177033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_63
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 25
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb4b984801de910800000000000000
+      internalID: 1868167581860675151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_64
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057af9416db569e30800000000000000
+      internalID: 4509893051885266768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_65
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146696e555987b4b0800000000000000
+      internalID: -5424716226395281855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_66
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 17
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cdf663d5f51b50800000000000000
+      internalID: 6563422320277176400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_67
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 25
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399462f5c5cc00950800000000000000
+      internalID: 6413350566480988563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_68
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472cacdf6edcba40800000000000000
+      internalID: 5385423826453276488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_69
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2840c464e4690d30800000000000000
+      internalID: 4398157443209644077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_70
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 25
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded404fce871c460800000000000000
+      internalID: 7260217033399525085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_71
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e95addc5a7a900800000000000000
+      internalID: 695706971002234612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_72
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 25
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0cb149aa3be2a10800000000000000
+      internalID: 1886642839125475540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_73
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24f34d467eddcae0800000000000000
+      internalID: -1527320098924923862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_74
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 25
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbee21485e6bb290800000000000000
+      internalID: -7873578198197408776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_75
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 25
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb754f164df157e0800000000000000
+      internalID: -1778361900220449852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_76
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066c86936b428050800000000000000
+      internalID: 5801282161106249228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_77
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 9
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c010e9578b90af0800000000000000
+      internalID: -429609474135618455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_78
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3547e77953de90800000000000000
+      internalID: -7002154624114933859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_79
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe7329b20eaac040800000000000000
+      internalID: 4668735290442219261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_80
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 17
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dba17ba1d120220800000000000000
+      internalID: 2450553147821309204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_81
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 25
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27654751f73bf74f0800000000000000
+      internalID: -828746448010717582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_82
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86133bdc1972520800000000000000
+      internalID: 2677268816155732133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_83
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06d6fa3dca2a8d0800000000000000
+      internalID: -2836514790108733261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_84
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 17
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a565f996a4ee8a0800000000000000
+      internalID: -6273995413375264157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_85
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe8dcce0f2597b40800000000000000
+      internalID: 5438469219745107699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_86
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 25
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb0e7af8b4f329c0800000000000000
+      internalID: -3953046972587439176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_87
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d6d721eeb0c2e0800000000000000
+      internalID: -2107474751364082414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_88
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997eb78d1dc1fd810800000000000000
+      internalID: 1792182864322488217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_89
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 17
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a37b0d616c712c0800000000000000
+      internalID: -4460879104593937834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_90
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8837a09d2bf1a70800000000000000
+      internalID: 8799948842158229665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_91
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 17
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96759ed01d5c9f80800000000000000
+      internalID: -8098495702883797348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_92
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1af2d9c3d1d3f40800000000000000
+      internalID: 5709752048748044743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_93
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 24
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c0ed69026168530800000000000000
+      internalID: 3856794460115307655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_94
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8a77ac4315cf00800000000000000
+      internalID: 1136335700929187388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_95
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d3dd938bd01e90800000000000000
+      internalID: -7056899257754462458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_96
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf0b698e477926d0800000000000000
+      internalID: -3014747296351186998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_97
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 17
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a400357cf6e028b0800000000000000
+      internalID: -5178885599503842139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tangled_Shadows_98
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 4
+        width: 180
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590632be96724eb0800000000000000
+      internalID: -4737093434073544355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tangled_Shadows_0: -1361467774468327573
+      Tangled_Shadows_1: 6576804384504673419
+      Tangled_Shadows_10: -2023215723314356946
+      Tangled_Shadows_11: -1206268225705178145
+      Tangled_Shadows_12: -5413923980557728221
+      Tangled_Shadows_13: 7601635124639682684
+      Tangled_Shadows_14: -4365020333587180504
+      Tangled_Shadows_15: 2561077510993356185
+      Tangled_Shadows_16: -4581610827533525817
+      Tangled_Shadows_17: 2075209919262890470
+      Tangled_Shadows_18: 2905577433026907060
+      Tangled_Shadows_19: -7620228449370336432
+      Tangled_Shadows_2: 38258953050481879
+      Tangled_Shadows_20: 7925679181552434721
+      Tangled_Shadows_21: 37223090941225168
+      Tangled_Shadows_22: -8271615064385908577
+      Tangled_Shadows_23: -2189785186628371240
+      Tangled_Shadows_24: 5450555735278270530
+      Tangled_Shadows_25: -5011997359143782480
+      Tangled_Shadows_26: 6892121471765330814
+      Tangled_Shadows_27: -4609413142808962838
+      Tangled_Shadows_28: -1172838879436494221
+      Tangled_Shadows_29: 3075417449604186729
+      Tangled_Shadows_3: -6673707404957018234
+      Tangled_Shadows_30: 4789090177530368243
+      Tangled_Shadows_31: 9019349530728089696
+      Tangled_Shadows_32: -4794967094536039173
+      Tangled_Shadows_33: -2415028806065615272
+      Tangled_Shadows_34: 7997746736805310093
+      Tangled_Shadows_35: -1514113995984315763
+      Tangled_Shadows_36: 45435301820927898
+      Tangled_Shadows_37: 1748236425302292674
+      Tangled_Shadows_38: -3727240867538773802
+      Tangled_Shadows_39: 4299778286876371762
+      Tangled_Shadows_4: 6738227307441006808
+      Tangled_Shadows_40: 5463211187900066515
+      Tangled_Shadows_41: -5074376931132599242
+      Tangled_Shadows_42: -1784634836072056611
+      Tangled_Shadows_43: -7256682683138903104
+      Tangled_Shadows_44: 5378616374453641582
+      Tangled_Shadows_45: 2832998338603867331
+      Tangled_Shadows_46: 3273868055439472036
+      Tangled_Shadows_47: -2078689088542540296
+      Tangled_Shadows_48: 3845766478002958131
+      Tangled_Shadows_49: 2687784375835361798
+      Tangled_Shadows_5: 890705694572672986
+      Tangled_Shadows_50: 7432191000185770685
+      Tangled_Shadows_51: -9185442838012693281
+      Tangled_Shadows_52: 3053970202193555995
+      Tangled_Shadows_53: -8366548582967648193
+      Tangled_Shadows_54: 8533491371500313958
+      Tangled_Shadows_55: 3604052190398011534
+      Tangled_Shadows_56: -1157359203564114572
+      Tangled_Shadows_57: -108969771412886734
+      Tangled_Shadows_58: 297735392327893162
+      Tangled_Shadows_59: -7609662378297507869
+      Tangled_Shadows_6: 8198267198333806112
+      Tangled_Shadows_60: -5917401089670232143
+      Tangled_Shadows_61: 4340457352848434985
+      Tangled_Shadows_62: 8536511780483177033
+      Tangled_Shadows_63: 1868167581860675151
+      Tangled_Shadows_64: 4509893051885266768
+      Tangled_Shadows_65: -5424716226395281855
+      Tangled_Shadows_66: 6563422320277176400
+      Tangled_Shadows_67: 6413350566480988563
+      Tangled_Shadows_68: 5385423826453276488
+      Tangled_Shadows_69: 4398157443209644077
+      Tangled_Shadows_7: -6833242970268100403
+      Tangled_Shadows_70: 7260217033399525085
+      Tangled_Shadows_71: 695706971002234612
+      Tangled_Shadows_72: 1886642839125475540
+      Tangled_Shadows_73: -1527320098924923862
+      Tangled_Shadows_74: -7873578198197408776
+      Tangled_Shadows_75: -1778361900220449852
+      Tangled_Shadows_76: 5801282161106249228
+      Tangled_Shadows_77: -429609474135618455
+      Tangled_Shadows_78: -7002154624114933859
+      Tangled_Shadows_79: 4668735290442219261
+      Tangled_Shadows_8: -7145016005525078611
+      Tangled_Shadows_80: 2450553147821309204
+      Tangled_Shadows_81: -828746448010717582
+      Tangled_Shadows_82: 2677268816155732133
+      Tangled_Shadows_83: -2836514790108733261
+      Tangled_Shadows_84: -6273995413375264157
+      Tangled_Shadows_85: 5438469219745107699
+      Tangled_Shadows_86: -3953046972587439176
+      Tangled_Shadows_87: -2107474751364082414
+      Tangled_Shadows_88: 1792182864322488217
+      Tangled_Shadows_89: -4460879104593937834
+      Tangled_Shadows_9: -4128589884021000099
+      Tangled_Shadows_90: 8799948842158229665
+      Tangled_Shadows_91: -8098495702883797348
+      Tangled_Shadows_92: 5709752048748044743
+      Tangled_Shadows_93: 3856794460115307655
+      Tangled_Shadows_94: 1136335700929187388
+      Tangled_Shadows_95: -7056899257754462458
+      Tangled_Shadows_96: -3014747296351186998
+      Tangled_Shadows_97: -5178885599503842139
+      Tangled_Shadows_98: -4737093434073544355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

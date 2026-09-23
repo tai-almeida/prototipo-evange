@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 6d222faad207640c79bfc71648731cbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2826679607508704582
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_0
+  - first:
+      213: 868527001871539223
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_1
+  - first:
+      213: -769175979517963988
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_2
+  - first:
+      213: 4707195777409913161
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_3
+  - first:
+      213: -6025037492325932292
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_4
+  - first:
+      213: 5804495632869482886
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_5
+  - first:
+      213: 7498646539284876435
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_6
+  - first:
+      213: -5420231617939095455
+    second: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab26a949fdd95c8d0800000000000000
+      internalID: -2826679607508704582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c5360e4b0ad0c00800000000000000
+      internalID: 868527001871539223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21911b95865355f0800000000000000
+      internalID: -769175979517963988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9419cb8ae91535140800000000000000
+      internalID: 4707195777409913161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a08f9254c26ca0800000000000000
+      internalID: -6025037492325932292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681ed794606bd8050800000000000000
+      internalID: 5804495632869482886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c89464c4b801860800000000000000
+      internalID: 7498646539284876435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryOrcPowerChargingEnd_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604664af0877c4b0800000000000000
+      internalID: -5420231617939095455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_0: -2826679607508704582
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_1: 868527001871539223
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_2: -769175979517963988
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_3: 4707195777409913161
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_4: -6025037492325932292
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_5: 5804495632869482886
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_6: 7498646539284876435
+      Minifantasy_MagicAndSorceryOrcPowerChargingEnd_7: -5420231617939095455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

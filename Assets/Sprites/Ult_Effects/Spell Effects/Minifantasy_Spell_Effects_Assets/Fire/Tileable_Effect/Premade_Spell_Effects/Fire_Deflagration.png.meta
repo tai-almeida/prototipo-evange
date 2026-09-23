@@ -1,0 +1,2418 @@
+fileFormatVersion: 2
+guid: ed48d878a3cf746f18d1e6418719eff0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4669193613910062962
+    second: Fire_Deflagration_0
+  - first:
+      213: 8822995245234733795
+    second: Fire_Deflagration_1
+  - first:
+      213: -1287808253471094479
+    second: Fire_Deflagration_2
+  - first:
+      213: 2267892083622788894
+    second: Fire_Deflagration_3
+  - first:
+      213: 9062238768155383218
+    second: Fire_Deflagration_4
+  - first:
+      213: 399376488620619389
+    second: Fire_Deflagration_5
+  - first:
+      213: 2156081292104180376
+    second: Fire_Deflagration_6
+  - first:
+      213: -5042526568349135296
+    second: Fire_Deflagration_7
+  - first:
+      213: -5146263111772301296
+    second: Fire_Deflagration_8
+  - first:
+      213: 2506053348101683149
+    second: Fire_Deflagration_9
+  - first:
+      213: 5814179628907064066
+    second: Fire_Deflagration_10
+  - first:
+      213: -9131649920301280829
+    second: Fire_Deflagration_11
+  - first:
+      213: -5049396705473816639
+    second: Fire_Deflagration_12
+  - first:
+      213: 4954659004518251123
+    second: Fire_Deflagration_13
+  - first:
+      213: -957210008410002836
+    second: Fire_Deflagration_14
+  - first:
+      213: -3882721544851065619
+    second: Fire_Deflagration_15
+  - first:
+      213: -6977496599236672255
+    second: Fire_Deflagration_16
+  - first:
+      213: 6439157807312309707
+    second: Fire_Deflagration_17
+  - first:
+      213: -2479145746595293277
+    second: Fire_Deflagration_18
+  - first:
+      213: -3541041323623162881
+    second: Fire_Deflagration_19
+  - first:
+      213: 3498929681679545256
+    second: Fire_Deflagration_20
+  - first:
+      213: 1822228157770513588
+    second: Fire_Deflagration_21
+  - first:
+      213: -7106337263639804201
+    second: Fire_Deflagration_22
+  - first:
+      213: 7358409054106827894
+    second: Fire_Deflagration_23
+  - first:
+      213: 96131086306485633
+    second: Fire_Deflagration_24
+  - first:
+      213: 5401192746732072688
+    second: Fire_Deflagration_25
+  - first:
+      213: -1732828719424016290
+    second: Fire_Deflagration_26
+  - first:
+      213: 1764978880115590037
+    second: Fire_Deflagration_27
+  - first:
+      213: 8369760064202979522
+    second: Fire_Deflagration_28
+  - first:
+      213: -4171594027749846093
+    second: Fire_Deflagration_29
+  - first:
+      213: -3602173029757119837
+    second: Fire_Deflagration_30
+  - first:
+      213: 2997922735668720758
+    second: Fire_Deflagration_31
+  - first:
+      213: 2476494240725147463
+    second: Fire_Deflagration_32
+  - first:
+      213: 946927298985491684
+    second: Fire_Deflagration_33
+  - first:
+      213: -8392394491139525850
+    second: Fire_Deflagration_34
+  - first:
+      213: -5643378233046357215
+    second: Fire_Deflagration_35
+  - first:
+      213: -3456648295317786180
+    second: Fire_Deflagration_36
+  - first:
+      213: 2890941060378067073
+    second: Fire_Deflagration_37
+  - first:
+      213: 1105317497500247223
+    second: Fire_Deflagration_38
+  - first:
+      213: 4606524280588961703
+    second: Fire_Deflagration_39
+  - first:
+      213: 7861454022611600759
+    second: Fire_Deflagration_40
+  - first:
+      213: -3644950502548634029
+    second: Fire_Deflagration_41
+  - first:
+      213: -2256286434112689722
+    second: Fire_Deflagration_42
+  - first:
+      213: 6391579329667042858
+    second: Fire_Deflagration_43
+  - first:
+      213: -9023556817831071193
+    second: Fire_Deflagration_44
+  - first:
+      213: 8524908258184679526
+    second: Fire_Deflagration_45
+  - first:
+      213: -4967433369239025713
+    second: Fire_Deflagration_46
+  - first:
+      213: 2322734902206645659
+    second: Fire_Deflagration_47
+  - first:
+      213: -285217697784961762
+    second: Fire_Deflagration_48
+  - first:
+      213: -1702494776621961846
+    second: Fire_Deflagration_49
+  - first:
+      213: 3521911190560586023
+    second: Fire_Deflagration_50
+  - first:
+      213: 1773955602413638647
+    second: Fire_Deflagration_51
+  - first:
+      213: -4015929515518978127
+    second: Fire_Deflagration_52
+  - first:
+      213: 2768369052797396733
+    second: Fire_Deflagration_53
+  - first:
+      213: -7091378084879570913
+    second: Fire_Deflagration_54
+  - first:
+      213: 583852480470377155
+    second: Fire_Deflagration_55
+  - first:
+      213: 8463037832355391735
+    second: Fire_Deflagration_56
+  - first:
+      213: -189230796485087202
+    second: Fire_Deflagration_57
+  - first:
+      213: -1689304172044899529
+    second: Fire_Deflagration_58
+  - first:
+      213: -1555861945225086508
+    second: Fire_Deflagration_59
+  - first:
+      213: 7649495149408545680
+    second: Fire_Deflagration_60
+  - first:
+      213: -8848141565977397573
+    second: Fire_Deflagration_61
+  - first:
+      213: -7230401201395500330
+    second: Fire_Deflagration_62
+  - first:
+      213: 8655201982443562272
+    second: Fire_Deflagration_63
+  - first:
+      213: -5314246894479756059
+    second: Fire_Deflagration_64
+  - first:
+      213: -2936748313274010512
+    second: Fire_Deflagration_65
+  - first:
+      213: 205690216481170701
+    second: Fire_Deflagration_66
+  - first:
+      213: -6982967181698949127
+    second: Fire_Deflagration_67
+  - first:
+      213: -3579565023330203289
+    second: Fire_Deflagration_68
+  - first:
+      213: 6055636545628911161
+    second: Fire_Deflagration_69
+  - first:
+      213: -5522769212279779606
+    second: Fire_Deflagration_70
+  - first:
+      213: -4374457259580238544
+    second: Fire_Deflagration_71
+  - first:
+      213: -5966980874126622061
+    second: Fire_Deflagration_72
+  - first:
+      213: -3242595732892520276
+    second: Fire_Deflagration_73
+  - first:
+      213: 3381527552309974402
+    second: Fire_Deflagration_74
+  - first:
+      213: -2105351226795207174
+    second: Fire_Deflagration_75
+  - first:
+      213: -160065304622151418
+    second: Fire_Deflagration_76
+  - first:
+      213: -8660398763355812753
+    second: Fire_Deflagration_77
+  - first:
+      213: -1705879357280042403
+    second: Fire_Deflagration_78
+  - first:
+      213: 1594053158684960430
+    second: Fire_Deflagration_79
+  - first:
+      213: -6082517194502022339
+    second: Fire_Deflagration_80
+  - first:
+      213: 7789905798198420780
+    second: Fire_Deflagration_81
+  - first:
+      213: -4670937029652492768
+    second: Fire_Deflagration_82
+  - first:
+      213: 802145282923229056
+    second: Fire_Deflagration_83
+  - first:
+      213: 3994691457736507547
+    second: Fire_Deflagration_84
+  - first:
+      213: 4061405378672863233
+    second: Fire_Deflagration_85
+  - first:
+      213: -3146596460952237117
+    second: Fire_Deflagration_86
+  - first:
+      213: -1317551814414816914
+    second: Fire_Deflagration_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Deflagration_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b1a87ade4cc040800000000000000
+      internalID: 4669193613910062962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24d27ed63917a70800000000000000
+      internalID: 8822995245234733795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 314
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1390a017739c02ee0800000000000000
+      internalID: -1287808253471094479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 0
+        width: 274
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb14195db297f10800000000000000
+      internalID: 2267892083622788894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_4
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5dca5552a83cd70800000000000000
+      internalID: 9062238768155383218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_5
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76ffd7ecceda8500800000000000000
+      internalID: 399376488620619389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_6
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 0
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922cb20380fbed10800000000000000
+      internalID: 2156081292104180376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_7
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e84137dc8550ab0800000000000000
+      internalID: -5042526568349135296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_8
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 55
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0189d1647fcc498b0800000000000000
+      internalID: -5146263111772301296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_9
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc777c11e3a47c220800000000000000
+      internalID: 2506053348101683149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_10
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6151519d10b050800000000000000
+      internalID: 5814179628907064066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_11
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d73f67ccd54180800000000000000
+      internalID: -9131649920301280829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 58
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c794300370fce9b0800000000000000
+      internalID: -5049396705473816639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_13
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 4
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a308b1d1c72c440800000000000000
+      internalID: 4954659004518251123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ae541a19e47b2f0800000000000000
+      internalID: -957210008410002836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47565935dcd1ac0800000000000000
+      internalID: -3882721544851065619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 7
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1058005bfc3fa2f90800000000000000
+      internalID: -6977496599236672255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_17
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 47
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd888dd8eb7c5950800000000000000
+      internalID: 6439157807312309707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_18
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 49
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a754cb141e489dd0800000000000000
+      internalID: -2479145746595293277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_19
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb567a6da1bbdec0800000000000000
+      internalID: -3541041323623162881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_20
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 44
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a37492e102be8030800000000000000
+      internalID: 3498929681679545256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_21
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc30abdadad94910800000000000000
+      internalID: 1822228157770513588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_22
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 49
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6c0a2e8e7316d90800000000000000
+      internalID: -7106337263639804201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_23
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 44
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c3e065c025e1660800000000000000
+      internalID: 7358409054106827894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_24
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 50
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ab23b6b6855100800000000000000
+      internalID: 96131086306485633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fea168bf24e4fa40800000000000000
+      internalID: 5401192746732072688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50f22ae571c3f7e0800000000000000
+      internalID: -1732828719424016290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5934b51b0f67e7810800000000000000
+      internalID: 1764978880115590037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_28
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 15
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b11afe6c572470800000000000000
+      internalID: 8369760064202979522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 39
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b354d475558b16c0800000000000000
+      internalID: -4171594027749846093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_30
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a295dde6b2820ec0800000000000000
+      internalID: -3602173029757119837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_31
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674f99b28d2ca9920800000000000000
+      internalID: 2997922735668720758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_32
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f19b214664e5220800000000000000
+      internalID: 2476494240725147463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_33
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 36
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec76248c59242d00800000000000000
+      internalID: 946927298985491684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_34
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 28
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623fea4dca9388b80800000000000000
+      internalID: -8392394491139525850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_35
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 41
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba91e9561bea1b0800000000000000
+      internalID: -5643378233046357215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_36
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 36
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1bf1480b48700d0800000000000000
+      internalID: -3456648295317786180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_37
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 42
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1800d6ad39fae1820800000000000000
+      internalID: 2890941060378067073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a6826860e65f00800000000000000
+      internalID: 1105317497500247223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a787b14d69adef30800000000000000
+      internalID: 4606524280588961703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 23
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77584d328ce791d60800000000000000
+      internalID: 7861454022611600759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_41
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 23
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35605b764d88a6dc0800000000000000
+      internalID: -3644950502548634029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_42
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92e27417f00b0e0800000000000000
+      internalID: -2256286434112689722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_43
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e888a498373b850800000000000000
+      internalID: 6391579329667042858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_44
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 34
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722ff9e02e2e5c280800000000000000
+      internalID: -9023556817831071193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_45
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66054e7d4ee8e4670800000000000000
+      internalID: 8524908258184679526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_46
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 23
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc706155ba1201bb0800000000000000
+      internalID: -4967433369239025713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_47
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 34
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95cd6156130c3020800000000000000
+      internalID: 2322734902206645659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_48
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 33
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e156fd7d304ba0cf0800000000000000
+      internalID: -285217697784961762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6d7755068f58e0800000000000000
+      internalID: -1702494776621961846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72936d3619750e030800000000000000
+      internalID: 3521911190560586023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_51
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3dd29b83b5e9810800000000000000
+      internalID: 1773955602413638647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_52
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71c78026d8448c0800000000000000
+      internalID: -4015929515518978127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df66c2f6cf83b6620800000000000000
+      internalID: 2768369052797396733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_54
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1863ca143d569d90800000000000000
+      internalID: -7091378084879570913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_55
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 26
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2eaa3dcb24a1800800000000000000
+      internalID: 583852480470377155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_56
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 25
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f82c36c110c27570800000000000000
+      internalID: 8463037832355391735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_57
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1031fad797bf5df0800000000000000
+      internalID: -189230796485087202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_58
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73badab4ec26e88e0800000000000000
+      internalID: -1689304172044899529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97f4bddc7786ae0800000000000000
+      internalID: -1555861945225086508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09be1934f47782a60800000000000000
+      internalID: 7649495149408545680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_61
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 15
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67c8d0026153580800000000000000
+      internalID: -8848141565977397573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_62
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da73476a6478ab90800000000000000
+      internalID: -7230401201395500330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_63
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252ec688547d1870800000000000000
+      internalID: 8655201982443562272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_64
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4bfc50b900046b0800000000000000
+      internalID: -5314246894479756059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_65
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 17
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0743398f7f29e37d0800000000000000
+      internalID: -2936748313274010512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_66
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 9
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05222f7922cad200800000000000000
+      internalID: 205690216481170701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_67
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 18
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff9f987854871f90800000000000000
+      internalID: -6982967181698949127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_68
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698dfd9394d25ec0800000000000000
+      internalID: -3579565023330203289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_69
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 10
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936b517aa51f90450800000000000000
+      internalID: 6055636545628911161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_70
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 18
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee899d89ae2b53b0800000000000000
+      internalID: -5522769212279779606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_71
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035579d9c4eca43c0800000000000000
+      internalID: -4374457259580238544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39202286286013da0800000000000000
+      internalID: -5966980874126622061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_73
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 7
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca07eb66c5cfff2d0800000000000000
+      internalID: -3242595732892520276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_74
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285d1a984699dee20800000000000000
+      internalID: 3381527552309974402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_75
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5507fb63a48c2e0800000000000000
+      internalID: -2105351226795207174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_76
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609c129147557cdf0800000000000000
+      internalID: -160065304622151418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_77
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cc1f0a53510d780800000000000000
+      internalID: -8660398763355812753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_78
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c6af33cf7358e0800000000000000
+      internalID: -1705879357280042403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_79
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 10
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6a184f6e63f1610800000000000000
+      internalID: 1594053158684960430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_80
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b508196de869ba0800000000000000
+      internalID: -6082517194502022339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c256f5ffc0e4b1c60800000000000000
+      internalID: 7789905798198420780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_82
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e485be48f7d2fb0800000000000000
+      internalID: -4670937029652492768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_83
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fe4e682eac12b00800000000000000
+      internalID: 802145282923229056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_84
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b900cad47beff6730800000000000000
+      internalID: 3994691457736507547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_85
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10828a47ca20d5830800000000000000
+      internalID: 4061405378672863233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_86
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbc07da03b0554d0800000000000000
+      internalID: -3146596460952237117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Deflagration_87
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6922a00b9d17bde0800000000000000
+      internalID: -1317551814414816914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Deflagration_0: 4669193613910062962
+      Fire_Deflagration_1: 8822995245234733795
+      Fire_Deflagration_10: 5814179628907064066
+      Fire_Deflagration_11: -9131649920301280829
+      Fire_Deflagration_12: -5049396705473816639
+      Fire_Deflagration_13: 4954659004518251123
+      Fire_Deflagration_14: -957210008410002836
+      Fire_Deflagration_15: -3882721544851065619
+      Fire_Deflagration_16: -6977496599236672255
+      Fire_Deflagration_17: 6439157807312309707
+      Fire_Deflagration_18: -2479145746595293277
+      Fire_Deflagration_19: -3541041323623162881
+      Fire_Deflagration_2: -1287808253471094479
+      Fire_Deflagration_20: 3498929681679545256
+      Fire_Deflagration_21: 1822228157770513588
+      Fire_Deflagration_22: -7106337263639804201
+      Fire_Deflagration_23: 7358409054106827894
+      Fire_Deflagration_24: 96131086306485633
+      Fire_Deflagration_25: 5401192746732072688
+      Fire_Deflagration_26: -1732828719424016290
+      Fire_Deflagration_27: 1764978880115590037
+      Fire_Deflagration_28: 8369760064202979522
+      Fire_Deflagration_29: -4171594027749846093
+      Fire_Deflagration_3: 2267892083622788894
+      Fire_Deflagration_30: -3602173029757119837
+      Fire_Deflagration_31: 2997922735668720758
+      Fire_Deflagration_32: 2476494240725147463
+      Fire_Deflagration_33: 946927298985491684
+      Fire_Deflagration_34: -8392394491139525850
+      Fire_Deflagration_35: -5643378233046357215
+      Fire_Deflagration_36: -3456648295317786180
+      Fire_Deflagration_37: 2890941060378067073
+      Fire_Deflagration_38: 1105317497500247223
+      Fire_Deflagration_39: 4606524280588961703
+      Fire_Deflagration_4: 9062238768155383218
+      Fire_Deflagration_40: 7861454022611600759
+      Fire_Deflagration_41: -3644950502548634029
+      Fire_Deflagration_42: -2256286434112689722
+      Fire_Deflagration_43: 6391579329667042858
+      Fire_Deflagration_44: -9023556817831071193
+      Fire_Deflagration_45: 8524908258184679526
+      Fire_Deflagration_46: -4967433369239025713
+      Fire_Deflagration_47: 2322734902206645659
+      Fire_Deflagration_48: -285217697784961762
+      Fire_Deflagration_49: -1702494776621961846
+      Fire_Deflagration_5: 399376488620619389
+      Fire_Deflagration_50: 3521911190560586023
+      Fire_Deflagration_51: 1773955602413638647
+      Fire_Deflagration_52: -4015929515518978127
+      Fire_Deflagration_53: 2768369052797396733
+      Fire_Deflagration_54: -7091378084879570913
+      Fire_Deflagration_55: 583852480470377155
+      Fire_Deflagration_56: 8463037832355391735
+      Fire_Deflagration_57: -189230796485087202
+      Fire_Deflagration_58: -1689304172044899529
+      Fire_Deflagration_59: -1555861945225086508
+      Fire_Deflagration_6: 2156081292104180376
+      Fire_Deflagration_60: 7649495149408545680
+      Fire_Deflagration_61: -8848141565977397573
+      Fire_Deflagration_62: -7230401201395500330
+      Fire_Deflagration_63: 8655201982443562272
+      Fire_Deflagration_64: -5314246894479756059
+      Fire_Deflagration_65: -2936748313274010512
+      Fire_Deflagration_66: 205690216481170701
+      Fire_Deflagration_67: -6982967181698949127
+      Fire_Deflagration_68: -3579565023330203289
+      Fire_Deflagration_69: 6055636545628911161
+      Fire_Deflagration_7: -5042526568349135296
+      Fire_Deflagration_70: -5522769212279779606
+      Fire_Deflagration_71: -4374457259580238544
+      Fire_Deflagration_72: -5966980874126622061
+      Fire_Deflagration_73: -3242595732892520276
+      Fire_Deflagration_74: 3381527552309974402
+      Fire_Deflagration_75: -2105351226795207174
+      Fire_Deflagration_76: -160065304622151418
+      Fire_Deflagration_77: -8660398763355812753
+      Fire_Deflagration_78: -1705879357280042403
+      Fire_Deflagration_79: 1594053158684960430
+      Fire_Deflagration_8: -5146263111772301296
+      Fire_Deflagration_80: -6082517194502022339
+      Fire_Deflagration_81: 7789905798198420780
+      Fire_Deflagration_82: -4670937029652492768
+      Fire_Deflagration_83: 802145282923229056
+      Fire_Deflagration_84: 3994691457736507547
+      Fire_Deflagration_85: 4061405378672863233
+      Fire_Deflagration_86: -3146596460952237117
+      Fire_Deflagration_87: -1317551814414816914
+      Fire_Deflagration_9: 2506053348101683149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

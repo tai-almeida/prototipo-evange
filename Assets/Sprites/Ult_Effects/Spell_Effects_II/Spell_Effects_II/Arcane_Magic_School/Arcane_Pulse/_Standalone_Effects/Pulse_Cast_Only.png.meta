@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 48961910821804669ae225a5940f13dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -864449565321760534
+    second: Pulse_Cast_Only_0
+  - first:
+      213: 3547111501665838473
+    second: Pulse_Cast_Only_1
+  - first:
+      213: 2561323307689780952
+    second: Pulse_Cast_Only_2
+  - first:
+      213: -1039769885601209302
+    second: Pulse_Cast_Only_3
+  - first:
+      213: -8208901384994314051
+    second: Pulse_Cast_Only_4
+  - first:
+      213: -446564928499072388
+    second: Pulse_Cast_Only_5
+  - first:
+      213: 8148501394091561848
+    second: Pulse_Cast_Only_6
+  - first:
+      213: 619793439111807678
+    second: Pulse_Cast_Only_7
+  - first:
+      213: 4369718933169223140
+    second: Pulse_Cast_Only_8
+  - first:
+      213: 7406040422133597552
+    second: Pulse_Cast_Only_9
+  - first:
+      213: -8758624726983223276
+    second: Pulse_Cast_Only_10
+  - first:
+      213: 8117971839325171531
+    second: Pulse_Cast_Only_11
+  - first:
+      213: 7548835011142257072
+    second: Pulse_Cast_Only_12
+  - first:
+      213: 7090057266854589510
+    second: Pulse_Cast_Only_13
+  - first:
+      213: -6022722417985169974
+    second: Pulse_Cast_Only_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 72
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae071cc43bbd004f0800000000000000
+      internalID: -864449565321760534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 20
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ae7b0e1fd93130800000000000000
+      internalID: 3547111501665838473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d627c55af5ab8320800000000000000
+      internalID: 2561323307689780952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2467984ccef191f0800000000000000
+      internalID: -1039769885601209302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8a337deaf141e80800000000000000
+      internalID: -8208901384994314051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c724aa3409b7dc9f0800000000000000
+      internalID: -446564928499072388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735a9668da451170800000000000000
+      internalID: 8148501394091561848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2806c59d2f99800800000000000000
+      internalID: 619793439111807678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5b9dbc73c54ac30800000000000000
+      internalID: 4369718933169223140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 19
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0750579668a87c660800000000000000
+      internalID: 7406040422133597552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 21
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418563b473d137680800000000000000
+      internalID: -8758624726983223276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 19
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe9938064d8a070800000000000000
+      internalID: 8117971839325171531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b98a2b7279d2c860800000000000000
+      internalID: 7548835011142257072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6447b0cf481f46260800000000000000
+      internalID: 7090057266854589510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pulse_Cast_Only_14
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5563fdeddfa6ca0800000000000000
+      internalID: -6022722417985169974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pulse_Cast_Only_0: -864449565321760534
+      Pulse_Cast_Only_1: 3547111501665838473
+      Pulse_Cast_Only_10: -8758624726983223276
+      Pulse_Cast_Only_11: 8117971839325171531
+      Pulse_Cast_Only_12: 7548835011142257072
+      Pulse_Cast_Only_13: 7090057266854589510
+      Pulse_Cast_Only_14: -6022722417985169974
+      Pulse_Cast_Only_2: 2561323307689780952
+      Pulse_Cast_Only_3: -1039769885601209302
+      Pulse_Cast_Only_4: -8208901384994314051
+      Pulse_Cast_Only_5: -446564928499072388
+      Pulse_Cast_Only_6: 8148501394091561848
+      Pulse_Cast_Only_7: 619793439111807678
+      Pulse_Cast_Only_8: 4369718933169223140
+      Pulse_Cast_Only_9: 7406040422133597552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: b72124c581aaf48ae990f3a6f887fca0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8478398397093708598
+    second: Aura_Only_Individuals_0
+  - first:
+      213: -5769758849492062363
+    second: Aura_Only_Individuals_1
+  - first:
+      213: -218602201304293716
+    second: Aura_Only_Individuals_2
+  - first:
+      213: 8124981844841657522
+    second: Aura_Only_Individuals_3
+  - first:
+      213: -9064307468692598883
+    second: Aura_Only_Individuals_4
+  - first:
+      213: 5298501759428092616
+    second: Aura_Only_Individuals_5
+  - first:
+      213: 1282046354974856422
+    second: Aura_Only_Individuals_6
+  - first:
+      213: 4717051344933508086
+    second: Aura_Only_Individuals_7
+  - first:
+      213: -3475073443802129761
+    second: Aura_Only_Individuals_8
+  - first:
+      213: 5319572777949815146
+    second: Aura_Only_Individuals_9
+  - first:
+      213: -7960472180575163182
+    second: Aura_Only_Individuals_10
+  - first:
+      213: -3335836871317017907
+    second: Aura_Only_Individuals_11
+  - first:
+      213: 7254712357786569710
+    second: Aura_Only_Individuals_12
+  - first:
+      213: -6044726930148632000
+    second: Aura_Only_Individuals_13
+  - first:
+      213: 2911640978646795528
+    second: Aura_Only_Individuals_14
+  - first:
+      213: -5371308833457090098
+    second: Aura_Only_Individuals_15
+  - first:
+      213: 4368576042807795927
+    second: Aura_Only_Individuals_16
+  - first:
+      213: -1005529170510522945
+    second: Aura_Only_Individuals_17
+  - first:
+      213: 5047660900539637972
+    second: Aura_Only_Individuals_18
+  - first:
+      213: 754535150584676202
+    second: Aura_Only_Individuals_19
+  - first:
+      213: 2055242881840035614
+    second: Aura_Only_Individuals_20
+  - first:
+      213: -2334430462959350834
+    second: Aura_Only_Individuals_21
+  - first:
+      213: -5980272838097137096
+    second: Aura_Only_Individuals_22
+  - first:
+      213: 9069074535770189486
+    second: Aura_Only_Individuals_23
+  - first:
+      213: -8636517664372230435
+    second: Aura_Only_Individuals_24
+  - first:
+      213: -6454274091239484081
+    second: Aura_Only_Individuals_25
+  - first:
+      213: 5175955597093226752
+    second: Aura_Only_Individuals_26
+  - first:
+      213: 5363224753177599658
+    second: Aura_Only_Individuals_27
+  - first:
+      213: 4551724880402705203
+    second: Aura_Only_Individuals_28
+  - first:
+      213: -8221962474893454089
+    second: Aura_Only_Individuals_29
+  - first:
+      213: -6396641541063140891
+    second: Aura_Only_Individuals_30
+  - first:
+      213: -532547620011130326
+    second: Aura_Only_Individuals_31
+  - first:
+      213: -4042439522046045535
+    second: Aura_Only_Individuals_32
+  - first:
+      213: 1314179006515749639
+    second: Aura_Only_Individuals_33
+  - first:
+      213: 7566893911852950750
+    second: Aura_Only_Individuals_34
+  - first:
+      213: -709937722677552883
+    second: Aura_Only_Individuals_35
+  - first:
+      213: 7532406419775382840
+    second: Aura_Only_Individuals_36
+  - first:
+      213: 827212549819573831
+    second: Aura_Only_Individuals_37
+  - first:
+      213: 736074105913608843
+    second: Aura_Only_Individuals_38
+  - first:
+      213: -6678034137138822218
+    second: Aura_Only_Individuals_39
+  - first:
+      213: -2284789628171693409
+    second: Aura_Only_Individuals_40
+  - first:
+      213: 2782944609100480416
+    second: Aura_Only_Individuals_41
+  - first:
+      213: 4237289127626977501
+    second: Aura_Only_Individuals_42
+  - first:
+      213: -9073041946422279724
+    second: Aura_Only_Individuals_43
+  - first:
+      213: -1366746641135930449
+    second: Aura_Only_Individuals_44
+  - first:
+      213: -5427145029068723800
+    second: Aura_Only_Individuals_45
+  - first:
+      213: -2872009389310648026
+    second: Aura_Only_Individuals_46
+  - first:
+      213: -2871392276742192546
+    second: Aura_Only_Individuals_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accfcfc049da65a80800000000000000
+      internalID: -8478398397093708598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 116
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56feb5855e2bdefa0800000000000000
+      internalID: -5769758849492062363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 111
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae9324c47e57fcf0800000000000000
+      internalID: -218602201304293716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 84
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4f84c90fbb1c070800000000000000
+      internalID: 8124981844841657522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 118
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f48a9c16c153280800000000000000
+      internalID: -9064307468692598883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 108
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c26e7c074f088940800000000000000
+      internalID: 5298501759428092616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 86
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45cd50e5ebac110800000000000000
+      internalID: 1282046354974856422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_7
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f35a0ac435567140800000000000000
+      internalID: 4717051344933508086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_8
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ad7c55d1f06cfc0800000000000000
+      internalID: -3475073443802129761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 100
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61698ad14be2d940800000000000000
+      internalID: 5319572777949815146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 54
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc20786ab8b68190800000000000000
+      internalID: -7960472180575163182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 97
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaaf702a0ab4b1d0800000000000000
+      internalID: -3335836871317017907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 97
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4189c37aeda460800000000000000
+      internalID: 7254712357786569710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_13
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 52
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad04422e0dc1ca0800000000000000
+      internalID: -6044726930148632000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 88
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80586b52b0a386820800000000000000
+      internalID: 2911640978646795528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec15fda03174575b0800000000000000
+      internalID: -5371308833457090098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_16
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 79
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d027d5e3cc40ac30800000000000000
+      internalID: 4368576042807795927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb55d640c84ab02f0800000000000000
+      internalID: -1005529170510522945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d02b4b68d4ec0640800000000000000
+      internalID: 5047660900539637972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3525c8b5a87a00800000000000000
+      internalID: 754535150584676202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17b93b0380b58c10800000000000000
+      internalID: 2055242881840035614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 22
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb057ebcdf6a9fd0800000000000000
+      internalID: -2334430462959350834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329d41e98dc10da0800000000000000
+      internalID: -5980272838097137096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 65
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6f128d33dbdd70800000000000000
+      internalID: 9069074535770189486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 20
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f4b641fce42880800000000000000
+      internalID: -8636517664372230435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d9a409efcd66a0800000000000000
+      internalID: -6454274091239484081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009cfe13130b4d740800000000000000
+      internalID: 5175955597093226752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae9bb75f700e6a40800000000000000
+      internalID: 5363224753177599658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 47
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be5b3a9a9fa2f30800000000000000
+      internalID: 4551724880402705203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 43
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4526fd0b8b5ed80800000000000000
+      internalID: -8221962474893454089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99c65c8609a37a0800000000000000
+      internalID: -6396641541063140891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_31
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c14bd2c20c98f0800000000000000
+      internalID: -532547620011130326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a212762cae56e7c0800000000000000
+      internalID: -4042439522046045535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703a5a6f7d6ec3210800000000000000
+      internalID: 1314179006515749639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4af05fbe1030960800000000000000
+      internalID: 7566893911852950750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d099723176bc526f0800000000000000
+      internalID: -709937722677552883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835659afabb788860800000000000000
+      internalID: 7532406419775382840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746adb96e69da7b00800000000000000
+      internalID: 827212549819573831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a085bdf7f073a00800000000000000
+      internalID: 736074105913608843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 15
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b388e1855bd253a0800000000000000
+      internalID: -6678034137138822218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92545240fbca40e0800000000000000
+      internalID: -2284789628171693409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 4
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb50790610f9620800000000000000
+      internalID: 2782944609100480416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b4dee200edca30800000000000000
+      internalID: 4237289127626977501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_43
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10847bb64161280800000000000000
+      internalID: -9073041946422279724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_44
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 5
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37225db27580de0800000000000000
+      internalID: -1366746641135930449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e4dda958eea4b0800000000000000
+      internalID: -5427145029068723800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_46
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 6
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216d8e4da29428d0800000000000000
+      internalID: -2872009389310648026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Only_Individuals_47
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e524bf500f3c628d0800000000000000
+      internalID: -2871392276742192546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_Only_Individuals_0: -8478398397093708598
+      Aura_Only_Individuals_1: -5769758849492062363
+      Aura_Only_Individuals_10: -7960472180575163182
+      Aura_Only_Individuals_11: -3335836871317017907
+      Aura_Only_Individuals_12: 7254712357786569710
+      Aura_Only_Individuals_13: -6044726930148632000
+      Aura_Only_Individuals_14: 2911640978646795528
+      Aura_Only_Individuals_15: -5371308833457090098
+      Aura_Only_Individuals_16: 4368576042807795927
+      Aura_Only_Individuals_17: -1005529170510522945
+      Aura_Only_Individuals_18: 5047660900539637972
+      Aura_Only_Individuals_19: 754535150584676202
+      Aura_Only_Individuals_2: -218602201304293716
+      Aura_Only_Individuals_20: 2055242881840035614
+      Aura_Only_Individuals_21: -2334430462959350834
+      Aura_Only_Individuals_22: -5980272838097137096
+      Aura_Only_Individuals_23: 9069074535770189486
+      Aura_Only_Individuals_24: -8636517664372230435
+      Aura_Only_Individuals_25: -6454274091239484081
+      Aura_Only_Individuals_26: 5175955597093226752
+      Aura_Only_Individuals_27: 5363224753177599658
+      Aura_Only_Individuals_28: 4551724880402705203
+      Aura_Only_Individuals_29: -8221962474893454089
+      Aura_Only_Individuals_3: 8124981844841657522
+      Aura_Only_Individuals_30: -6396641541063140891
+      Aura_Only_Individuals_31: -532547620011130326
+      Aura_Only_Individuals_32: -4042439522046045535
+      Aura_Only_Individuals_33: 1314179006515749639
+      Aura_Only_Individuals_34: 7566893911852950750
+      Aura_Only_Individuals_35: -709937722677552883
+      Aura_Only_Individuals_36: 7532406419775382840
+      Aura_Only_Individuals_37: 827212549819573831
+      Aura_Only_Individuals_38: 736074105913608843
+      Aura_Only_Individuals_39: -6678034137138822218
+      Aura_Only_Individuals_4: -9064307468692598883
+      Aura_Only_Individuals_40: -2284789628171693409
+      Aura_Only_Individuals_41: 2782944609100480416
+      Aura_Only_Individuals_42: 4237289127626977501
+      Aura_Only_Individuals_43: -9073041946422279724
+      Aura_Only_Individuals_44: -1366746641135930449
+      Aura_Only_Individuals_45: -5427145029068723800
+      Aura_Only_Individuals_46: -2872009389310648026
+      Aura_Only_Individuals_47: -2871392276742192546
+      Aura_Only_Individuals_5: 5298501759428092616
+      Aura_Only_Individuals_6: 1282046354974856422
+      Aura_Only_Individuals_7: 4717051344933508086
+      Aura_Only_Individuals_8: -3475073443802129761
+      Aura_Only_Individuals_9: 5319572777949815146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

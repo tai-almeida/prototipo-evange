@@ -1,0 +1,3926 @@
+fileFormatVersion: 2
+guid: b49870d837422475391187cf448c011a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6376360007394711108
+    second: Electric_Lightning_Cross_0
+  - first:
+      213: 6115793701782344850
+    second: Electric_Lightning_Cross_1
+  - first:
+      213: -5531352069009722969
+    second: Electric_Lightning_Cross_2
+  - first:
+      213: 3677171660424558323
+    second: Electric_Lightning_Cross_3
+  - first:
+      213: -2491387884038904901
+    second: Electric_Lightning_Cross_4
+  - first:
+      213: -2377959009822381112
+    second: Electric_Lightning_Cross_5
+  - first:
+      213: -8300851829697893310
+    second: Electric_Lightning_Cross_6
+  - first:
+      213: 3641781013713406789
+    second: Electric_Lightning_Cross_7
+  - first:
+      213: -5154198350226204380
+    second: Electric_Lightning_Cross_8
+  - first:
+      213: 5950319477879559516
+    second: Electric_Lightning_Cross_9
+  - first:
+      213: 5999454714764697731
+    second: Electric_Lightning_Cross_10
+  - first:
+      213: 4613033427610535850
+    second: Electric_Lightning_Cross_11
+  - first:
+      213: 6757734104723784924
+    second: Electric_Lightning_Cross_12
+  - first:
+      213: 8087638660401144079
+    second: Electric_Lightning_Cross_13
+  - first:
+      213: 1285354248667558853
+    second: Electric_Lightning_Cross_14
+  - first:
+      213: -3854493908150179260
+    second: Electric_Lightning_Cross_15
+  - first:
+      213: -1909175103916599310
+    second: Electric_Lightning_Cross_16
+  - first:
+      213: 117174488896270053
+    second: Electric_Lightning_Cross_17
+  - first:
+      213: -3503176134324706704
+    second: Electric_Lightning_Cross_18
+  - first:
+      213: 734709102176648487
+    second: Electric_Lightning_Cross_19
+  - first:
+      213: 4926009525861687288
+    second: Electric_Lightning_Cross_20
+  - first:
+      213: -4090739480087798375
+    second: Electric_Lightning_Cross_21
+  - first:
+      213: -4393314594868652172
+    second: Electric_Lightning_Cross_22
+  - first:
+      213: 2110191349734853346
+    second: Electric_Lightning_Cross_23
+  - first:
+      213: -1712412275176528955
+    second: Electric_Lightning_Cross_24
+  - first:
+      213: -7372298342139071729
+    second: Electric_Lightning_Cross_25
+  - first:
+      213: -270688304540573167
+    second: Electric_Lightning_Cross_26
+  - first:
+      213: 8978622666416463177
+    second: Electric_Lightning_Cross_27
+  - first:
+      213: -8556624061318877980
+    second: Electric_Lightning_Cross_28
+  - first:
+      213: 5993261051171602935
+    second: Electric_Lightning_Cross_29
+  - first:
+      213: 8423735850720804443
+    second: Electric_Lightning_Cross_30
+  - first:
+      213: -3959367636164412605
+    second: Electric_Lightning_Cross_31
+  - first:
+      213: 7265607798694695383
+    second: Electric_Lightning_Cross_32
+  - first:
+      213: -7557618386161518783
+    second: Electric_Lightning_Cross_33
+  - first:
+      213: -6535064804174365375
+    second: Electric_Lightning_Cross_34
+  - first:
+      213: -3257462756353683772
+    second: Electric_Lightning_Cross_35
+  - first:
+      213: -6797489623338798734
+    second: Electric_Lightning_Cross_36
+  - first:
+      213: -8086926036746382369
+    second: Electric_Lightning_Cross_37
+  - first:
+      213: 6363701158823167271
+    second: Electric_Lightning_Cross_38
+  - first:
+      213: -4599471781041464406
+    second: Electric_Lightning_Cross_39
+  - first:
+      213: -4498405846285008471
+    second: Electric_Lightning_Cross_40
+  - first:
+      213: -2744447025798218634
+    second: Electric_Lightning_Cross_41
+  - first:
+      213: -5878074094836083958
+    second: Electric_Lightning_Cross_42
+  - first:
+      213: -6359899636384797908
+    second: Electric_Lightning_Cross_43
+  - first:
+      213: 6580275513413172335
+    second: Electric_Lightning_Cross_44
+  - first:
+      213: 966467003667636741
+    second: Electric_Lightning_Cross_45
+  - first:
+      213: -3751411576362272365
+    second: Electric_Lightning_Cross_46
+  - first:
+      213: -4403576515213312081
+    second: Electric_Lightning_Cross_47
+  - first:
+      213: 8148670410253725261
+    second: Electric_Lightning_Cross_48
+  - first:
+      213: -6111102338707939618
+    second: Electric_Lightning_Cross_49
+  - first:
+      213: 1113083610871426071
+    second: Electric_Lightning_Cross_50
+  - first:
+      213: -1781379133956731712
+    second: Electric_Lightning_Cross_51
+  - first:
+      213: -2450959627970419733
+    second: Electric_Lightning_Cross_52
+  - first:
+      213: -1295945814283146022
+    second: Electric_Lightning_Cross_53
+  - first:
+      213: 4806238823020107900
+    second: Electric_Lightning_Cross_54
+  - first:
+      213: 4671615717390437619
+    second: Electric_Lightning_Cross_55
+  - first:
+      213: -6023456931837765123
+    second: Electric_Lightning_Cross_56
+  - first:
+      213: 3572219650908409316
+    second: Electric_Lightning_Cross_57
+  - first:
+      213: -7787393438046968158
+    second: Electric_Lightning_Cross_58
+  - first:
+      213: 1534317456219739293
+    second: Electric_Lightning_Cross_59
+  - first:
+      213: 2309273328336718827
+    second: Electric_Lightning_Cross_60
+  - first:
+      213: 3239434693077324905
+    second: Electric_Lightning_Cross_61
+  - first:
+      213: 8363732640144323375
+    second: Electric_Lightning_Cross_62
+  - first:
+      213: -1382031453520952759
+    second: Electric_Lightning_Cross_63
+  - first:
+      213: 6373235957747781527
+    second: Electric_Lightning_Cross_64
+  - first:
+      213: -9616128291947824
+    second: Electric_Lightning_Cross_65
+  - first:
+      213: 3067462498380730208
+    second: Electric_Lightning_Cross_66
+  - first:
+      213: -5747778345377993234
+    second: Electric_Lightning_Cross_67
+  - first:
+      213: 7330096607426827072
+    second: Electric_Lightning_Cross_68
+  - first:
+      213: -163012731861777168
+    second: Electric_Lightning_Cross_69
+  - first:
+      213: -7593030062146946107
+    second: Electric_Lightning_Cross_70
+  - first:
+      213: -5731284353401847127
+    second: Electric_Lightning_Cross_71
+  - first:
+      213: 6859663142675159529
+    second: Electric_Lightning_Cross_72
+  - first:
+      213: 7894288275033957875
+    second: Electric_Lightning_Cross_73
+  - first:
+      213: -8608602742317207784
+    second: Electric_Lightning_Cross_74
+  - first:
+      213: 8133461306815156402
+    second: Electric_Lightning_Cross_75
+  - first:
+      213: -3935495166606756637
+    second: Electric_Lightning_Cross_76
+  - first:
+      213: -7940924388015935571
+    second: Electric_Lightning_Cross_77
+  - first:
+      213: 7852614830263624641
+    second: Electric_Lightning_Cross_78
+  - first:
+      213: -2957880467273496685
+    second: Electric_Lightning_Cross_79
+  - first:
+      213: -7766869512067902874
+    second: Electric_Lightning_Cross_80
+  - first:
+      213: 8776956305583845355
+    second: Electric_Lightning_Cross_81
+  - first:
+      213: 8839501195952228891
+    second: Electric_Lightning_Cross_82
+  - first:
+      213: 5448917878408172708
+    second: Electric_Lightning_Cross_83
+  - first:
+      213: -2827890447699765747
+    second: Electric_Lightning_Cross_84
+  - first:
+      213: 5804275667165809947
+    second: Electric_Lightning_Cross_85
+  - first:
+      213: -1256993362984140265
+    second: Electric_Lightning_Cross_86
+  - first:
+      213: -4816271418147384926
+    second: Electric_Lightning_Cross_87
+  - first:
+      213: 7517082560193572742
+    second: Electric_Lightning_Cross_88
+  - first:
+      213: -6045391481984487949
+    second: Electric_Lightning_Cross_89
+  - first:
+      213: -3915993289840689896
+    second: Electric_Lightning_Cross_90
+  - first:
+      213: -6382956819569644139
+    second: Electric_Lightning_Cross_91
+  - first:
+      213: -2550793374113138112
+    second: Electric_Lightning_Cross_92
+  - first:
+      213: 7966009093995463915
+    second: Electric_Lightning_Cross_93
+  - first:
+      213: -7754390576425523771
+    second: Electric_Lightning_Cross_94
+  - first:
+      213: -3795208780836273333
+    second: Electric_Lightning_Cross_95
+  - first:
+      213: 5696663453390454316
+    second: Electric_Lightning_Cross_96
+  - first:
+      213: 3166173274528073297
+    second: Electric_Lightning_Cross_97
+  - first:
+      213: 2627891915806647881
+    second: Electric_Lightning_Cross_98
+  - first:
+      213: -8754829988668518596
+    second: Electric_Lightning_Cross_99
+  - first:
+      213: -398370225222518705
+    second: Electric_Lightning_Cross_100
+  - first:
+      213: -2700720255585160110
+    second: Electric_Lightning_Cross_101
+  - first:
+      213: 1894694971183915294
+    second: Electric_Lightning_Cross_102
+  - first:
+      213: -8266761922128157723
+    second: Electric_Lightning_Cross_103
+  - first:
+      213: 5522666963333210599
+    second: Electric_Lightning_Cross_104
+  - first:
+      213: 7016568132675661947
+    second: Electric_Lightning_Cross_105
+  - first:
+      213: 1696921574195009342
+    second: Electric_Lightning_Cross_106
+  - first:
+      213: -2139812759750201550
+    second: Electric_Lightning_Cross_107
+  - first:
+      213: 4204336192059890035
+    second: Electric_Lightning_Cross_108
+  - first:
+      213: 3322392162870370003
+    second: Electric_Lightning_Cross_109
+  - first:
+      213: 7075033530984193945
+    second: Electric_Lightning_Cross_110
+  - first:
+      213: 8967645779416431076
+    second: Electric_Lightning_Cross_111
+  - first:
+      213: -4487235858151389683
+    second: Electric_Lightning_Cross_112
+  - first:
+      213: 365178088876299055
+    second: Electric_Lightning_Cross_113
+  - first:
+      213: -327267324578754806
+    second: Electric_Lightning_Cross_114
+  - first:
+      213: 6047958555873488734
+    second: Electric_Lightning_Cross_115
+  - first:
+      213: -3325383290656394956
+    second: Electric_Lightning_Cross_116
+  - first:
+      213: -2699173617955801696
+    second: Electric_Lightning_Cross_117
+  - first:
+      213: 1527176664106602782
+    second: Electric_Lightning_Cross_118
+  - first:
+      213: -6637213422366976478
+    second: Electric_Lightning_Cross_119
+  - first:
+      213: 7756263674413510043
+    second: Electric_Lightning_Cross_120
+  - first:
+      213: 4114330064981553399
+    second: Electric_Lightning_Cross_121
+  - first:
+      213: 51354117100675546
+    second: Electric_Lightning_Cross_122
+  - first:
+      213: -5180438475477535497
+    second: Electric_Lightning_Cross_123
+  - first:
+      213: 5803268722236497312
+    second: Electric_Lightning_Cross_124
+  - first:
+      213: 1685005603760136515
+    second: Electric_Lightning_Cross_125
+  - first:
+      213: -5227576657999563763
+    second: Electric_Lightning_Cross_126
+  - first:
+      213: 2602005470470636555
+    second: Electric_Lightning_Cross_127
+  - first:
+      213: -7934200146990013875
+    second: Electric_Lightning_Cross_128
+  - first:
+      213: 3426721505330742856
+    second: Electric_Lightning_Cross_129
+  - first:
+      213: -3980083409401927274
+    second: Electric_Lightning_Cross_130
+  - first:
+      213: 6882211874708780034
+    second: Electric_Lightning_Cross_131
+  - first:
+      213: -8411555072500156383
+    second: Electric_Lightning_Cross_132
+  - first:
+      213: 3699878942366736854
+    second: Electric_Lightning_Cross_133
+  - first:
+      213: 4344206459977436648
+    second: Electric_Lightning_Cross_134
+  - first:
+      213: 6944631527816648312
+    second: Electric_Lightning_Cross_135
+  - first:
+      213: -6416284522634365232
+    second: Electric_Lightning_Cross_136
+  - first:
+      213: -1284730225787269095
+    second: Electric_Lightning_Cross_137
+  - first:
+      213: 4460681464397095833
+    second: Electric_Lightning_Cross_138
+  - first:
+      213: 2829293419574676191
+    second: Electric_Lightning_Cross_139
+  - first:
+      213: 9078511861469277211
+    second: Electric_Lightning_Cross_140
+  - first:
+      213: 364223955362174799
+    second: Electric_Lightning_Cross_141
+  - first:
+      213: -7355131269004976128
+    second: Electric_Lightning_Cross_142
+  - first:
+      213: 1379575319493015019
+    second: Electric_Lightning_Cross_143
+  - first:
+      213: 38639098089593754
+    second: Electric_Lightning_Cross_144
+  - first:
+      213: -3031631674339702471
+    second: Electric_Lightning_Cross_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_0
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 128
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d4c0b4a16d7850800000000000000
+      internalID: 6376360007394711108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_1
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294de4a08f9afd450800000000000000
+      internalID: 6115793701782344850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_2
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 136
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1bd0f7990bc33b0800000000000000
+      internalID: -5531352069009722969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_3
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 144
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63db58420f70330800000000000000
+      internalID: 3677171660424558323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_4
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 135
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3262e5befcc6dd0800000000000000
+      internalID: -2491387884038904901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_5
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 144
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe81921eacffed0800000000000000
+      internalID: -2377959009822381112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_6
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 135
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ca4bd9d337dcc80800000000000000
+      internalID: -8300851829697893310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_7
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 143
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b462879843a8230800000000000000
+      internalID: 3641781013713406789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_8
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 135
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429dcd898eb9878b0800000000000000
+      internalID: -5154198350226204380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_9
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 0
+        width: 310
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55591bf908c39250800000000000000
+      internalID: 5950319477879559516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_10
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 112
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380a79fc648524350800000000000000
+      internalID: 5999454714764697731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_11
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 112
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78ab52679c40040800000000000000
+      internalID: 4613033427610535850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_12
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 120
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48a9e3d5b48cd50800000000000000
+      internalID: 6757734104723784924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_13
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 120
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f012de0f2801d3070800000000000000
+      internalID: 8087638660401144079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_14
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 128
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c37e5a01ee76d110800000000000000
+      internalID: 1285354248667558853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_15
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 119
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a2dc76636128ac0800000000000000
+      internalID: -3854493908150179260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_16
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 111
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71805bb5f3185e0800000000000000
+      internalID: -1909175103916599310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_17
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 119
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee666ba39940a100800000000000000
+      internalID: 117174488896270053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_18
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 127
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07223ffcdd7326fc0800000000000000
+      internalID: -3503176134324706704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_19
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 119
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3c782906323a00800000000000000
+      internalID: 734709102176648487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_20
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff1d2d8093bc5440800000000000000
+      internalID: 4926009525861687288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_21
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 127
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d53b4dd16ca37c0800000000000000
+      internalID: -4090739480087798375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_22
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477905a17afc703c0800000000000000
+      internalID: -4393314594868652172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_23
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 96
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4c013ad7e84d10800000000000000
+      internalID: 2110191349734853346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_24
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 104
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a515cb1a4c38e0800000000000000
+      internalID: -1712412275176528955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_25
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 104
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03799ac7b550b990800000000000000
+      internalID: -7372298342139071729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_26
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112a103db625e3cf0800000000000000
+      internalID: -270688304540573167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_27
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 95
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d160c8eb97a9c70800000000000000
+      internalID: 8978622666416463177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_28
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 103
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec278c40c3c04980800000000000000
+      internalID: -8556624061318877980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_29
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f184412c275c2350800000000000000
+      internalID: 5993261051171602935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_30
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 103
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ebfe7102f17e470800000000000000
+      internalID: 8423735850720804443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_31
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 111
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bfd3fcc108d09c0800000000000000
+      internalID: -3959367636164412605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1518e4ccf94d460800000000000000
+      internalID: 7265607798694695383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_33
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 80
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b1e8ae12fd1790800000000000000
+      internalID: -7557618386161518783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_34
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 88
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d77035f29ce45a0800000000000000
+      internalID: -6535064804174365375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_35
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 88
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce4972c1ea2bc2d0800000000000000
+      internalID: -3257462756353683772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_36
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271bc74c3377aa1a0800000000000000
+      internalID: -6797489623338798734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_37
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 86
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3dfdead9775cf80800000000000000
+      internalID: -8086926036746382369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_38
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 87
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7258564dc78605850800000000000000
+      internalID: 6363701158823167271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_39
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1790c8c46b20c0800000000000000
+      internalID: -4599471781041464406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_40
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 87
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a144a467b37291c0800000000000000
+      internalID: -4498405846285008471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_41
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c7b6288f3c9e9d0800000000000000
+      internalID: -2744447025798218634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 158
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a039edd01c2ec6ea0800000000000000
+      internalID: -5878074094836083958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_43
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 66
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be5261af81db7a0800000000000000
+      internalID: -6359899636384797908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 66
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c713537b5d15b50800000000000000
+      internalID: 6580275513413172335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_45
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 58
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502eeb88e94996d00800000000000000
+      internalID: 966467003667636741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_46
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 72
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39973a01c0f40fbc0800000000000000
+      internalID: -3751411576362272365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf35759d7a53e2c0800000000000000
+      internalID: -4403576515213312081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_48
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 64
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee8ea8094e51170800000000000000
+      internalID: 8148670410253725261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_49
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 71
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede114b0dc0013ba0800000000000000
+      internalID: -6111102338707939618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_50
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cec4f85a7727f00800000000000000
+      internalID: 1113083610871426071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_51
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc4736ad154747e0800000000000000
+      internalID: -1781379133956731712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_52
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 50
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3efff34317cfdd0800000000000000
+      internalID: -2450959627970419733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_53
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcaf7be520e30ee0800000000000000
+      internalID: -1295945814283146022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_54
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 78
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781ec7beb033b240800000000000000
+      internalID: 4806238823020107900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_55
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc40326eb9e4d040800000000000000
+      internalID: 4671615717390437619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_56
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df912f985d1686ca0800000000000000
+      internalID: -6023456931837765123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_57
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc01898d2139130800000000000000
+      internalID: 3572219650908409316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_58
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a00f6dee9de390800000000000000
+      internalID: -7787393438046968158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_59
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 79
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9498a6e89dfa4510800000000000000
+      internalID: 1534317456219739293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_60
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 68
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb4bc86bdf2c0020800000000000000
+      internalID: 2309273328336718827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_61
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96453f9a0b8c4fc20800000000000000
+      internalID: 3239434693077324905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_62
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f237424f582f11470800000000000000
+      internalID: 8363732640144323375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_63
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 70
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942877027b902dce0800000000000000
+      internalID: -1382031453520952759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_64
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 71
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f8d433658427850800000000000000
+      internalID: 6373235957747781527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_65
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da3b09ae26dddff0800000000000000
+      internalID: -9616128291947824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_66
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc0d1e3e0d19a20800000000000000
+      internalID: 3067462498380730208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_67
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedef044c0acb30b0800000000000000
+      internalID: -5747778345377993234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_68
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043d8f6270cb9b560800000000000000
+      internalID: 7330096607426827072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_69
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f44387b8ccdcbdf0800000000000000
+      internalID: -163012731861777168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_70
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7ed8536320a690800000000000000
+      internalID: -7593030062146946107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_71
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28ab80f336670b0800000000000000
+      internalID: -5731284353401847127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_72
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e91ef1c84b623f50800000000000000
+      internalID: 6859663142675159529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_73
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f52ee34c552e8d60800000000000000
+      internalID: 7894288275033957875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_74
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81faabb8a69188880800000000000000
+      internalID: -8608602742317207784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_75
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b01a1337fbdfd070800000000000000
+      internalID: 8133461306815156402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_76
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e433234fff4269c0800000000000000
+      internalID: -3935495166606756637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_77
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafe218875b2cc190800000000000000
+      internalID: -7940924388015935571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_78
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e3db45971afc60800000000000000
+      internalID: 7852614830263624641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_79
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397c814f26f73f6d0800000000000000
+      internalID: -2957880467273496685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_80
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66291645459863490800000000000000
+      internalID: -7766869512067902874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_81
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2373f1430ec970800000000000000
+      internalID: 8776956305583845355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_82
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a8f5801873caa70800000000000000
+      internalID: 8839501195952228891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_83
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a45bc8d0f17e9b40800000000000000
+      internalID: 5448917878408172708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_84
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d069221ee9051c8d0800000000000000
+      internalID: -2827890447699765747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_85
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8cd787fdec8050800000000000000
+      internalID: 5804275667165809947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_86
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7128e4a32334e8ee0800000000000000
+      internalID: -1256993362984140265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_87
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a15573b9aa292db0800000000000000
+      internalID: -4816271418147384926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_88
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2f93e2ca025860800000000000000
+      internalID: 7517082560193572742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_89
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd642c1a747a1ca0800000000000000
+      internalID: -6045391481984487949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_90
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d7b38c9d897a9c0800000000000000
+      internalID: -3915993289840689896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_91
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de4e8479e2b67a0800000000000000
+      internalID: -6382956819569644139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_92
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af090e0f2c99cd0800000000000000
+      internalID: -2550793374113138112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_93
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 71
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be48125b013fc8e60800000000000000
+      internalID: 7966009093995463915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_94
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52582faded26490800000000000000
+      internalID: -7754390576425523771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_95
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b438fc1c8b5b45bc0800000000000000
+      internalID: -3795208780836273333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_96
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb9488a3d9e0f40800000000000000
+      internalID: 5696663453390454316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_97
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156c49d61d180fb20800000000000000
+      internalID: 3166173274528073297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_98
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 72
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946a6c536c5287420800000000000000
+      internalID: 2627891915806647881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_99
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc978a288908680800000000000000
+      internalID: -8754829988668518596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_100
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f48c0464b87af0800000000000000
+      internalID: -398370225222518705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_101
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 71
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254f4209c3d158ad0800000000000000
+      internalID: -2700720255585160110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_102
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 71
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11e22ba90f4b4a10800000000000000
+      internalID: 1894694971183915294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_103
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e363dcb4df864d80800000000000000
+      internalID: -8266761922128157723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_104
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e242c75474ac40800000000000000
+      internalID: 5522666963333210599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_105
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7075729a8bdf5160800000000000000
+      internalID: 7016568132675661947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_106
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 72
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3717995e2dac8710800000000000000
+      internalID: 1696921574195009342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_107
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fad39d1abdd42e0800000000000000
+      internalID: -2139812759750201550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_108
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3795c0cbd7dc85a30800000000000000
+      internalID: 4204336192059890035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_109
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 71
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1e60c1128b1e20800000000000000
+      internalID: 3322392162870370003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_110
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f5a44e2819f2260800000000000000
+      internalID: 7075033530984193945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_111
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b5a1e25a737c70800000000000000
+      internalID: 8967645779416431076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_112
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06cd7be2c22ab1c0800000000000000
+      internalID: -4487235858151389683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_113
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 71
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235a3b798f511500800000000000000
+      internalID: 365178088876299055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_114
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f04eb2a10557bf0800000000000000
+      internalID: -327267324578754806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_115
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 71
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5faf1b534aaee350800000000000000
+      internalID: 6047958555873488734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_116
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 71
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f76a048dd9d1d0800000000000000
+      internalID: -3325383290656394956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_117
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a573a235eb9a8ad0800000000000000
+      internalID: -2699173617955801696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_118
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 71
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11175da51f913510800000000000000
+      internalID: 1527176664106602782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_119
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 58
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2269c5dce81e3e3a0800000000000000
+      internalID: -6637213422366976478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_120
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 50
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9deea9a7b8c3ab60800000000000000
+      internalID: 7756263674413510043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_121
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 56
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f07feb3569091930800000000000000
+      internalID: 4114330064981553399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_122
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 42
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad12a832c4276b000800000000000000
+      internalID: 51354117100675546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_123
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 42
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4356857a26b18b0800000000000000
+      internalID: -5180438475477535497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_124
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 48
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad9a05e72a598050800000000000000
+      internalID: 5803268722236497312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_125
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 34
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3416aa84ba7526710800000000000000
+      internalID: 1685005603760136515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_126
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 34
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ffc7f9bae377b0800000000000000
+      internalID: -5227576657999563763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_127
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 40
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04860b703e2c1420800000000000000
+      internalID: 2602005470470636555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_128
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 26
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42eec5e00f04e190800000000000000
+      internalID: -7934200146990013875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_129
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 26
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8464e65bd092e8f20800000000000000
+      internalID: 3426721505330742856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_130
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6992c2ef937e3c8c0800000000000000
+      internalID: -3980083409401927274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_131
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 18
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204fdfc8c37828f50800000000000000
+      internalID: 6882211874708780034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_132
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 18
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283ef65a37244b80800000000000000
+      internalID: -8411555072500156383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_133
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 24
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1a7b79b4c985330800000000000000
+      internalID: 3699878942366736854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_134
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 10
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed89ed32c8b94c30800000000000000
+      internalID: 4344206459977436648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_135
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 10
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8765d7f8499406060800000000000000
+      internalID: 6944631527816648312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_136
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 16
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6ba8ab837c4f6a0800000000000000
+      internalID: -6416284522634365232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_137
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101ebb9aa8bb2ee0800000000000000
+      internalID: -1284730225787269095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_138
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 2
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ee8d782687ed30800000000000000
+      internalID: 4460681464397095833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_139
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda4917ff5ba34720800000000000000
+      internalID: 2829293419574676191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_140
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 2
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ceb00207a5dfd70800000000000000
+      internalID: 9078511861469277211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_141
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47dc06f1cbfd0500800000000000000
+      internalID: 364223955362174799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_142
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000279a74135de990800000000000000
+      internalID: -7355131269004976128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_143
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5f64b917c352310800000000000000
+      internalID: 1379575319493015019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_144
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b52141e06498000800000000000000
+      internalID: 38639098089593754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Lightning_Cross_145
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c821fd0b7de5d0800000000000000
+      internalID: -3031631674339702471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electric_Lightning_Cross_0: 6376360007394711108
+      Electric_Lightning_Cross_1: 6115793701782344850
+      Electric_Lightning_Cross_10: 5999454714764697731
+      Electric_Lightning_Cross_100: -398370225222518705
+      Electric_Lightning_Cross_101: -2700720255585160110
+      Electric_Lightning_Cross_102: 1894694971183915294
+      Electric_Lightning_Cross_103: -8266761922128157723
+      Electric_Lightning_Cross_104: 5522666963333210599
+      Electric_Lightning_Cross_105: 7016568132675661947
+      Electric_Lightning_Cross_106: 1696921574195009342
+      Electric_Lightning_Cross_107: -2139812759750201550
+      Electric_Lightning_Cross_108: 4204336192059890035
+      Electric_Lightning_Cross_109: 3322392162870370003
+      Electric_Lightning_Cross_11: 4613033427610535850
+      Electric_Lightning_Cross_110: 7075033530984193945
+      Electric_Lightning_Cross_111: 8967645779416431076
+      Electric_Lightning_Cross_112: -4487235858151389683
+      Electric_Lightning_Cross_113: 365178088876299055
+      Electric_Lightning_Cross_114: -327267324578754806
+      Electric_Lightning_Cross_115: 6047958555873488734
+      Electric_Lightning_Cross_116: -3325383290656394956
+      Electric_Lightning_Cross_117: -2699173617955801696
+      Electric_Lightning_Cross_118: 1527176664106602782
+      Electric_Lightning_Cross_119: -6637213422366976478
+      Electric_Lightning_Cross_12: 6757734104723784924
+      Electric_Lightning_Cross_120: 7756263674413510043
+      Electric_Lightning_Cross_121: 4114330064981553399
+      Electric_Lightning_Cross_122: 51354117100675546
+      Electric_Lightning_Cross_123: -5180438475477535497
+      Electric_Lightning_Cross_124: 5803268722236497312
+      Electric_Lightning_Cross_125: 1685005603760136515
+      Electric_Lightning_Cross_126: -5227576657999563763
+      Electric_Lightning_Cross_127: 2602005470470636555
+      Electric_Lightning_Cross_128: -7934200146990013875
+      Electric_Lightning_Cross_129: 3426721505330742856
+      Electric_Lightning_Cross_13: 8087638660401144079
+      Electric_Lightning_Cross_130: -3980083409401927274
+      Electric_Lightning_Cross_131: 6882211874708780034
+      Electric_Lightning_Cross_132: -8411555072500156383
+      Electric_Lightning_Cross_133: 3699878942366736854
+      Electric_Lightning_Cross_134: 4344206459977436648
+      Electric_Lightning_Cross_135: 6944631527816648312
+      Electric_Lightning_Cross_136: -6416284522634365232
+      Electric_Lightning_Cross_137: -1284730225787269095
+      Electric_Lightning_Cross_138: 4460681464397095833
+      Electric_Lightning_Cross_139: 2829293419574676191
+      Electric_Lightning_Cross_14: 1285354248667558853
+      Electric_Lightning_Cross_140: 9078511861469277211
+      Electric_Lightning_Cross_141: 364223955362174799
+      Electric_Lightning_Cross_142: -7355131269004976128
+      Electric_Lightning_Cross_143: 1379575319493015019
+      Electric_Lightning_Cross_144: 38639098089593754
+      Electric_Lightning_Cross_145: -3031631674339702471
+      Electric_Lightning_Cross_15: -3854493908150179260
+      Electric_Lightning_Cross_16: -1909175103916599310
+      Electric_Lightning_Cross_17: 117174488896270053
+      Electric_Lightning_Cross_18: -3503176134324706704
+      Electric_Lightning_Cross_19: 734709102176648487
+      Electric_Lightning_Cross_2: -5531352069009722969
+      Electric_Lightning_Cross_20: 4926009525861687288
+      Electric_Lightning_Cross_21: -4090739480087798375
+      Electric_Lightning_Cross_22: -4393314594868652172
+      Electric_Lightning_Cross_23: 2110191349734853346
+      Electric_Lightning_Cross_24: -1712412275176528955
+      Electric_Lightning_Cross_25: -7372298342139071729
+      Electric_Lightning_Cross_26: -270688304540573167
+      Electric_Lightning_Cross_27: 8978622666416463177
+      Electric_Lightning_Cross_28: -8556624061318877980
+      Electric_Lightning_Cross_29: 5993261051171602935
+      Electric_Lightning_Cross_3: 3677171660424558323
+      Electric_Lightning_Cross_30: 8423735850720804443
+      Electric_Lightning_Cross_31: -3959367636164412605
+      Electric_Lightning_Cross_32: 7265607798694695383
+      Electric_Lightning_Cross_33: -7557618386161518783
+      Electric_Lightning_Cross_34: -6535064804174365375
+      Electric_Lightning_Cross_35: -3257462756353683772
+      Electric_Lightning_Cross_36: -6797489623338798734
+      Electric_Lightning_Cross_37: -8086926036746382369
+      Electric_Lightning_Cross_38: 6363701158823167271
+      Electric_Lightning_Cross_39: -4599471781041464406
+      Electric_Lightning_Cross_4: -2491387884038904901
+      Electric_Lightning_Cross_40: -4498405846285008471
+      Electric_Lightning_Cross_41: -2744447025798218634
+      Electric_Lightning_Cross_42: -5878074094836083958
+      Electric_Lightning_Cross_43: -6359899636384797908
+      Electric_Lightning_Cross_44: 6580275513413172335
+      Electric_Lightning_Cross_45: 966467003667636741
+      Electric_Lightning_Cross_46: -3751411576362272365
+      Electric_Lightning_Cross_47: -4403576515213312081
+      Electric_Lightning_Cross_48: 8148670410253725261
+      Electric_Lightning_Cross_49: -6111102338707939618
+      Electric_Lightning_Cross_5: -2377959009822381112
+      Electric_Lightning_Cross_50: 1113083610871426071
+      Electric_Lightning_Cross_51: -1781379133956731712
+      Electric_Lightning_Cross_52: -2450959627970419733
+      Electric_Lightning_Cross_53: -1295945814283146022
+      Electric_Lightning_Cross_54: 4806238823020107900
+      Electric_Lightning_Cross_55: 4671615717390437619
+      Electric_Lightning_Cross_56: -6023456931837765123
+      Electric_Lightning_Cross_57: 3572219650908409316
+      Electric_Lightning_Cross_58: -7787393438046968158
+      Electric_Lightning_Cross_59: 1534317456219739293
+      Electric_Lightning_Cross_6: -8300851829697893310
+      Electric_Lightning_Cross_60: 2309273328336718827
+      Electric_Lightning_Cross_61: 3239434693077324905
+      Electric_Lightning_Cross_62: 8363732640144323375
+      Electric_Lightning_Cross_63: -1382031453520952759
+      Electric_Lightning_Cross_64: 6373235957747781527
+      Electric_Lightning_Cross_65: -9616128291947824
+      Electric_Lightning_Cross_66: 3067462498380730208
+      Electric_Lightning_Cross_67: -5747778345377993234
+      Electric_Lightning_Cross_68: 7330096607426827072
+      Electric_Lightning_Cross_69: -163012731861777168
+      Electric_Lightning_Cross_7: 3641781013713406789
+      Electric_Lightning_Cross_70: -7593030062146946107
+      Electric_Lightning_Cross_71: -5731284353401847127
+      Electric_Lightning_Cross_72: 6859663142675159529
+      Electric_Lightning_Cross_73: 7894288275033957875
+      Electric_Lightning_Cross_74: -8608602742317207784
+      Electric_Lightning_Cross_75: 8133461306815156402
+      Electric_Lightning_Cross_76: -3935495166606756637
+      Electric_Lightning_Cross_77: -7940924388015935571
+      Electric_Lightning_Cross_78: 7852614830263624641
+      Electric_Lightning_Cross_79: -2957880467273496685
+      Electric_Lightning_Cross_8: -5154198350226204380
+      Electric_Lightning_Cross_80: -7766869512067902874
+      Electric_Lightning_Cross_81: 8776956305583845355
+      Electric_Lightning_Cross_82: 8839501195952228891
+      Electric_Lightning_Cross_83: 5448917878408172708
+      Electric_Lightning_Cross_84: -2827890447699765747
+      Electric_Lightning_Cross_85: 5804275667165809947
+      Electric_Lightning_Cross_86: -1256993362984140265
+      Electric_Lightning_Cross_87: -4816271418147384926
+      Electric_Lightning_Cross_88: 7517082560193572742
+      Electric_Lightning_Cross_89: -6045391481984487949
+      Electric_Lightning_Cross_9: 5950319477879559516
+      Electric_Lightning_Cross_90: -3915993289840689896
+      Electric_Lightning_Cross_91: -6382956819569644139
+      Electric_Lightning_Cross_92: -2550793374113138112
+      Electric_Lightning_Cross_93: 7966009093995463915
+      Electric_Lightning_Cross_94: -7754390576425523771
+      Electric_Lightning_Cross_95: -3795208780836273333
+      Electric_Lightning_Cross_96: 5696663453390454316
+      Electric_Lightning_Cross_97: 3166173274528073297
+      Electric_Lightning_Cross_98: 2627891915806647881
+      Electric_Lightning_Cross_99: -8754829988668518596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
