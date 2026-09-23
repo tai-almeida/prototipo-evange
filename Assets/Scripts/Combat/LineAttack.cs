@@ -13,7 +13,7 @@ public class LineAttack : MonoBehaviour
     [SerializeField] private float range = 8f;
     [SerializeField] private float width = 0.2f;
     [SerializeField] private int damage = 3;
-    [SerializeField] private float cooldown = 0.7f;
+    [SerializeField] private float cooldown = 0.5f;
     [SerializeField] private float castDelay = 0.6f;
     [SerializeField] private LayerMask targetLayers = ~0;
 
