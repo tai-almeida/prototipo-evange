@@ -144,7 +144,7 @@ Transform:
   m_GameObject: {fileID: 1242269266}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1, y: 0.5, z: 0}
+  m_LocalPosition: {x: -0.6, y: 3.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -359,11 +359,11 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 31e387a6e29a34303b1383b7851643e2, type: 2}
     - target: {fileID: 7878350319992209165, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 5
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 5
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -583,7 +583,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -1.2, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_LocalScale: {x: 20, y: 20, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -812,7 +812,7 @@ MonoBehaviour:
   actions: {fileID: 1834188885}
   movement: {fileID: 1834188886}
   origin: {fileID: 1242269267}
-  range: 1.5
+  range: 4.5
   angle: 90
   damage: 1
   cooldown: 0.4
@@ -834,8 +834,8 @@ MonoBehaviour:
   actions: {fileID: 1834188885}
   movement: {fileID: 1834188886}
   origin: {fileID: 1242269267}
-  range: 8
-  width: 0.6
+  range: 24
+  width: 1.8000001
   damage: 3
   cooldown: 1.2500002
   castDelay: 0.2
@@ -1012,7 +1012,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 15
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
