@@ -9,7 +9,7 @@ public class ConeAttack : MonoBehaviour
     [SerializeField] private EvangelineMovement movement;
     [SerializeField] private Transform origin;
 
-    [SerializeField] private float range = 3f;
+    [SerializeField] private float range = 15f;
     [SerializeField, Range(1f, 360f)] private float angle = 90f;
     [SerializeField] private int damage = 1;
     [SerializeField] private float cooldown = 0.5f;

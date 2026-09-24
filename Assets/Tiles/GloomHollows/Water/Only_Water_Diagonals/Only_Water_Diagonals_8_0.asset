@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Only_Water_Diagonals_8_0
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 1032106630, guid: bee2e7feb53ed4404a62b24fd7bc053c, type: 3}
+  - {fileID: 1520175650, guid: bee2e7feb53ed4404a62b24fd7bc053c, type: 3}
+  - {fileID: 1796066150, guid: bee2e7feb53ed4404a62b24fd7bc053c, type: 3}
+  - {fileID: 281741301, guid: bee2e7feb53ed4404a62b24fd7bc053c, type: 3}
+  - {fileID: 1302665334, guid: bee2e7feb53ed4404a62b24fd7bc053c, type: 3}
+  - {fileID: -1222070294, guid: bee2e7feb53ed4404a62b24fd7bc053c, type: 3}
+  m_MinSpeed: 3.3333333
+  m_MaxSpeed: 3.3333333
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
