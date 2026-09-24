@@ -9,7 +9,7 @@ public class EvangelineDash : MonoBehaviour
 
     [SerializeField] private float distance = 6f;
     [SerializeField] private float duration = 0.2f;
-    [SerializeField] private float cooldown = 0.5f; // conta a partir do fim do dash
+    [SerializeField] private float cooldown = 0.5f; 
 
     public event Action<Vector2> OnDashStarted;
     public event Action OnDashEnded;
@@ -55,7 +55,6 @@ public class EvangelineDash : MonoBehaviour
 
     private void HandleMovementChanged(Vector2 moveInput)
     {
-        // parado mantem a ultima direcao
         if (moveInput.sqrMagnitude > 0)
         {
             facing = moveInput;
@@ -66,7 +65,6 @@ public class EvangelineDash : MonoBehaviour
     {
         if (IsDashing || Time.time < nextDashTime) return;
 
-        // a direcao fica travada no inicio do dash
         dashDirection = facing;
         dashEndTime = Time.time + duration;
         IsDashing = true;

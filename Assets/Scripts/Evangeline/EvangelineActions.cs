@@ -15,7 +15,6 @@ public class EvangelineActions : MonoBehaviour
 
     private void Update()
     {
-        // cada dispositivo e checado separado, para a falta de um nao bloquear o outro
         if (Mouse.current != null)
         {
             if (Mouse.current.leftButton.wasPressedThisFrame)
