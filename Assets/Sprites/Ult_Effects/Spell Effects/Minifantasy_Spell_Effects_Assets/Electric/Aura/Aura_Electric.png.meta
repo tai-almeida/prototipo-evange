@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: d06e4367b18644dd2bde2ae2650d0484
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4537304508739443178
+    second: Aura_Electric_0
+  - first:
+      213: 5936234668664739712
+    second: Aura_Electric_1
+  - first:
+      213: 215536360145620040
+    second: Aura_Electric_2
+  - first:
+      213: -2444614958865367610
+    second: Aura_Electric_3
+  - first:
+      213: 6461626269162647376
+    second: Aura_Electric_4
+  - first:
+      213: -6578567694230875194
+    second: Aura_Electric_5
+  - first:
+      213: -6556081321803258966
+    second: Aura_Electric_6
+  - first:
+      213: -5234504815160065564
+    second: Aura_Electric_7
+  - first:
+      213: 4142017915040355055
+    second: Aura_Electric_8
+  - first:
+      213: 5403098721213876165
+    second: Aura_Electric_9
+  - first:
+      213: 700765012954032365
+    second: Aura_Electric_10
+  - first:
+      213: -5699076836562463010
+    second: Aura_Electric_11
+  - first:
+      213: -1483855660456384397
+    second: Aura_Electric_12
+  - first:
+      213: 86603555181975487
+    second: Aura_Electric_13
+  - first:
+      213: -4924958357680553082
+    second: Aura_Electric_14
+  - first:
+      213: -4520908269566955262
+    second: Aura_Electric_15
+  - first:
+      213: -8104622133807139474
+    second: Aura_Electric_16
+  - first:
+      213: 6815209165332799738
+    second: Aura_Electric_17
+  - first:
+      213: 7629188863953516231
+    second: Aura_Electric_18
+  - first:
+      213: -6264775983075613985
+    second: Aura_Electric_19
+  - first:
+      213: -470125319137846005
+    second: Aura_Electric_20
+  - first:
+      213: 2583400075640974771
+    second: Aura_Electric_21
+  - first:
+      213: -7135341795522656396
+    second: Aura_Electric_22
+  - first:
+      213: 4516759879509146353
+    second: Aura_Electric_23
+  - first:
+      213: -4378454130562974984
+    second: Aura_Electric_24
+  - first:
+      213: 5066569696613316201
+    second: Aura_Electric_25
+  - first:
+      213: -7232633406474428426
+    second: Aura_Electric_26
+  - first:
+      213: -3762056004227781564
+    second: Aura_Electric_27
+  - first:
+      213: 7938141156565562152
+    second: Aura_Electric_28
+  - first:
+      213: 6527904809786738265
+    second: Aura_Electric_29
+  - first:
+      213: -552975664429245325
+    second: Aura_Electric_30
+  - first:
+      213: -7910793070389341105
+    second: Aura_Electric_31
+  - first:
+      213: 4204209266074762953
+    second: Aura_Electric_32
+  - first:
+      213: 7271308143263917685
+    second: Aura_Electric_33
+  - first:
+      213: 5251859430164939539
+    second: Aura_Electric_34
+  - first:
+      213: -540711091262521827
+    second: Aura_Electric_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_Electric_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95139396eb7fe30800000000000000
+      internalID: 4537304508739443178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087de19cafdb16250800000000000000
+      internalID: 5936234668664739712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 75
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c09a67d2dbdf200800000000000000
+      internalID: 215536360145620040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 75
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd3934a5abf21ed0800000000000000
+      internalID: -2444614958865367610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 86
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa5cc4bde4ca950800000000000000
+      internalID: 6461626269162647376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 75
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3128e698b34b4a0800000000000000
+      internalID: -6578567694230875194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 75
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3e75ff5ce1405a0800000000000000
+      internalID: -6556081321803258966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1005daa9d4b57b0800000000000000
+      internalID: -5234504815160065564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2d84f29576b7930800000000000000
+      internalID: 4142017915040355055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 75
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7025cf8a9abfa40800000000000000
+      internalID: 5403098721213876165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 43
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a524011e99b900800000000000000
+      internalID: 700765012954032365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 43
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed69909efcfc8e0b0800000000000000
+      internalID: -5699076836562463010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 43
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3786b8c7329486be0800000000000000
+      internalID: -1483855660456384397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 57
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb758ee797da33100800000000000000
+      internalID: 86603555181975487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6830cdc977807abb0800000000000000
+      internalID: -4924958357680553082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 53
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201f552b1e18241c0800000000000000
+      internalID: -4520908269566955262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6538a30c19968f80800000000000000
+      internalID: -8104622133807139474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0e5a990ac749e50800000000000000
+      internalID: 6815209165332799738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 55
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b050c9d250e960800000000000000
+      internalID: 7629188863953516231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 43
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd221638f6b0f09a0800000000000000
+      internalID: -6264775983075613985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 43
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1fd85387c979f0800000000000000
+      internalID: -470125319137846005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd2c4d6ea41ad320800000000000000
+      internalID: 2583400075640974771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 43
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477cfde017c2afc90800000000000000
+      internalID: -7135341795522656396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 43
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf0e9fd21ceae30800000000000000
+      internalID: 4516759879509146353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab3729a2b9c33c0800000000000000
+      internalID: -4378454130562974984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 11
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96635649b42105640800000000000000
+      internalID: 5066569696613316201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffd778ac3680ab90800000000000000
+      internalID: -7232633406474428426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca0e21ffd7acbc0800000000000000
+      internalID: -3762056004227781564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823bff5e251f92e60800000000000000
+      internalID: 7938141156565562152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95607e296d6c79a50800000000000000
+      internalID: 6527904809786738265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 26
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c5240209f6358f0800000000000000
+      internalID: -552975664429245325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4452db9d97373290800000000000000
+      internalID: -7910793070389341105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cebac97d0a585a30800000000000000
+      internalID: 4204209266074762953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a6a33b30e8e460800000000000000
+      internalID: 7271308143263917685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3134441835a52e840800000000000000
+      internalID: 5251859430164939539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Electric_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1efe2790220f78f0800000000000000
+      internalID: -540711091262521827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_Electric_0: 4537304508739443178
+      Aura_Electric_1: 5936234668664739712
+      Aura_Electric_10: 700765012954032365
+      Aura_Electric_11: -5699076836562463010
+      Aura_Electric_12: -1483855660456384397
+      Aura_Electric_13: 86603555181975487
+      Aura_Electric_14: -4924958357680553082
+      Aura_Electric_15: -4520908269566955262
+      Aura_Electric_16: -8104622133807139474
+      Aura_Electric_17: 6815209165332799738
+      Aura_Electric_18: 7629188863953516231
+      Aura_Electric_19: -6264775983075613985
+      Aura_Electric_2: 215536360145620040
+      Aura_Electric_20: -470125319137846005
+      Aura_Electric_21: 2583400075640974771
+      Aura_Electric_22: -7135341795522656396
+      Aura_Electric_23: 4516759879509146353
+      Aura_Electric_24: -4378454130562974984
+      Aura_Electric_25: 5066569696613316201
+      Aura_Electric_26: -7232633406474428426
+      Aura_Electric_27: -3762056004227781564
+      Aura_Electric_28: 7938141156565562152
+      Aura_Electric_29: 6527904809786738265
+      Aura_Electric_3: -2444614958865367610
+      Aura_Electric_30: -552975664429245325
+      Aura_Electric_31: -7910793070389341105
+      Aura_Electric_32: 4204209266074762953
+      Aura_Electric_33: 7271308143263917685
+      Aura_Electric_34: 5251859430164939539
+      Aura_Electric_35: -540711091262521827
+      Aura_Electric_4: 6461626269162647376
+      Aura_Electric_5: -6578567694230875194
+      Aura_Electric_6: -6556081321803258966
+      Aura_Electric_7: -5234504815160065564
+      Aura_Electric_8: 4142017915040355055
+      Aura_Electric_9: 5403098721213876165
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

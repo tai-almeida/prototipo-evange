@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 0afd3cf5be67c4264a4db1f063280008
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5791067291105910254
+    second: _Arcane_Missile_Orthogonal_0
+  - first:
+      213: -7201803486266383970
+    second: _Arcane_Missile_Orthogonal_1
+  - first:
+      213: -4924966698033420731
+    second: _Arcane_Missile_Orthogonal_2
+  - first:
+      213: -6231287201064860807
+    second: _Arcane_Missile_Orthogonal_3
+  - first:
+      213: -1741565387637447824
+    second: _Arcane_Missile_Orthogonal_4
+  - first:
+      213: -5024747422352992140
+    second: _Arcane_Missile_Orthogonal_5
+  - first:
+      213: -3308709632506629973
+    second: _Arcane_Missile_Orthogonal_6
+  - first:
+      213: -4700725419930936652
+    second: _Arcane_Missile_Orthogonal_7
+  - first:
+      213: 672562496678786719
+    second: _Arcane_Missile_Orthogonal_8
+  - first:
+      213: 275729803068855074
+    second: _Arcane_Missile_Orthogonal_9
+  - first:
+      213: 7318463820488632738
+    second: _Arcane_Missile_Orthogonal_10
+  - first:
+      213: -30684630206145426
+    second: _Arcane_Missile_Orthogonal_11
+  - first:
+      213: 6274596552623600890
+    second: _Arcane_Missile_Orthogonal_12
+  - first:
+      213: 2703273640013815361
+    second: _Arcane_Missile_Orthogonal_13
+  - first:
+      213: -6116168629321985962
+    second: _Arcane_Missile_Orthogonal_14
+  - first:
+      213: 1300767694273066351
+    second: _Arcane_Missile_Orthogonal_15
+  - first:
+      213: 7752763415566528238
+    second: _Arcane_Missile_Orthogonal_16
+  - first:
+      213: -5025383197570306701
+    second: _Arcane_Missile_Orthogonal_17
+  - first:
+      213: 7260049670436789999
+    second: _Arcane_Missile_Orthogonal_18
+  - first:
+      213: -8082145624085339672
+    second: _Arcane_Missile_Orthogonal_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 135
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed50c4d4010e5050800000000000000
+      internalID: 5791067291105910254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e912ce2d2ed0e0c90800000000000000
+      internalID: -7201803486266383970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e619b1e007abb0800000000000000
+      internalID: -4924966698033420731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 109
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973471f2e450689a0800000000000000
+      internalID: -6231287201064860807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 105
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07321c4d187b4d7e0800000000000000
+      internalID: -1741565387637447824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 76
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478179477d2844ab0800000000000000
+      internalID: -5024747422352992140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba077899e1a1512d0800000000000000
+      internalID: -3308709632506629973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 77
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba1e56d22ba3ceb0800000000000000
+      internalID: -4700725419930936652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f9cff60c655900800000000000000
+      internalID: 672562496678786719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 60
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22358e58bc693d300800000000000000
+      internalID: 275729803068855074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 51
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9e5c1e118609560800000000000000
+      internalID: 7318463820488632738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c9f7ccd7cf29ff0800000000000000
+      internalID: -30684630206145426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 46
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af435040258d31750800000000000000
+      internalID: 6274596552623600890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 56
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e53b39d05f38520800000000000000
+      internalID: 2703273640013815361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65010e659010f1ba0800000000000000
+      internalID: -6116168629321985962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 32
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65337083514d0210800000000000000
+      internalID: 1300767694273066351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 132
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeac742049579b60800000000000000
+      internalID: 7752763415566528238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dea908b90424ab0800000000000000
+      internalID: -5025383197570306701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee931ab5b0e0c460800000000000000
+      internalID: 7260049670436789999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Arcane_Missile_Orthogonal_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16a6d306376df80800000000000000
+      internalID: -8082145624085339672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _Arcane_Missile_Orthogonal_0: 5791067291105910254
+      _Arcane_Missile_Orthogonal_1: -7201803486266383970
+      _Arcane_Missile_Orthogonal_10: 7318463820488632738
+      _Arcane_Missile_Orthogonal_11: -30684630206145426
+      _Arcane_Missile_Orthogonal_12: 6274596552623600890
+      _Arcane_Missile_Orthogonal_13: 2703273640013815361
+      _Arcane_Missile_Orthogonal_14: -6116168629321985962
+      _Arcane_Missile_Orthogonal_15: 1300767694273066351
+      _Arcane_Missile_Orthogonal_16: 7752763415566528238
+      _Arcane_Missile_Orthogonal_17: -5025383197570306701
+      _Arcane_Missile_Orthogonal_18: 7260049670436789999
+      _Arcane_Missile_Orthogonal_19: -8082145624085339672
+      _Arcane_Missile_Orthogonal_2: -4924966698033420731
+      _Arcane_Missile_Orthogonal_3: -6231287201064860807
+      _Arcane_Missile_Orthogonal_4: -1741565387637447824
+      _Arcane_Missile_Orthogonal_5: -5024747422352992140
+      _Arcane_Missile_Orthogonal_6: -3308709632506629973
+      _Arcane_Missile_Orthogonal_7: -4700725419930936652
+      _Arcane_Missile_Orthogonal_8: 672562496678786719
+      _Arcane_Missile_Orthogonal_9: 275729803068855074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

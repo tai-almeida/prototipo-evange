@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 8f67dcf6fdc144088bcba4a0ebffdfed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 155751562600962764
+    second: Premade_g-crystals_and_rocks_0
+  - first:
+      213: 8057527898961377102
+    second: Premade_g-crystals_and_rocks_1
+  - first:
+      213: 53414920318111989
+    second: Premade_g-crystals_and_rocks_2
+  - first:
+      213: 8727693963004374493
+    second: Premade_g-crystals_and_rocks_3
+  - first:
+      213: 6517689373458097116
+    second: Premade_g-crystals_and_rocks_4
+  - first:
+      213: -1139729615983194865
+    second: Premade_g-crystals_and_rocks_5
+  - first:
+      213: 3882951647741584125
+    second: Premade_g-crystals_and_rocks_6
+  - first:
+      213: -7480607302511585730
+    second: Premade_g-crystals_and_rocks_7
+  - first:
+      213: -1498566697889728589
+    second: Premade_g-crystals_and_rocks_8
+  - first:
+      213: -4318766458429021160
+    second: Premade_g-crystals_and_rocks_9
+  - first:
+      213: 7707977443392606069
+    second: Premade_g-crystals_and_rocks_10
+  - first:
+      213: -7049433428838533143
+    second: Premade_g-crystals_and_rocks_11
+  - first:
+      213: 897268028544761097
+    second: Premade_g-crystals_and_rocks_12
+  - first:
+      213: -5092420820452214215
+    second: Premade_g-crystals_and_rocks_13
+  - first:
+      213: 7146055145352688292
+    second: Premade_g-crystals_and_rocks_14
+  - first:
+      213: 5113998211943546849
+    second: Premade_g-crystals_and_rocks_15
+  - first:
+      213: 7886872948747161685
+    second: Premade_g-crystals_and_rocks_16
+  - first:
+      213: 7732133257011944119
+    second: Premade_g-crystals_and_rocks_17
+  - first:
+      213: -8725563928343445595
+    second: Premade_g-crystals_and_rocks_18
+  - first:
+      213: -2333781481986476550
+    second: Premade_g-crystals_and_rocks_19
+  - first:
+      213: -3341791777956326534
+    second: Premade_g-crystals_and_rocks_20
+  - first:
+      213: 4187688158607284357
+    second: Premade_g-crystals_and_rocks_21
+  - first:
+      213: -3578069191214147730
+    second: Premade_g-crystals_and_rocks_22
+  - first:
+      213: -2623008179010064889
+    second: Premade_g-crystals_and_rocks_23
+  - first:
+      213: -8391812523432777417
+    second: Premade_g-crystals_and_rocks_24
+  - first:
+      213: -1047410066134391405
+    second: Premade_g-crystals_and_rocks_25
+  - first:
+      213: 8943983863889807824
+    second: Premade_g-crystals_and_rocks_26
+  - first:
+      213: -3359832088259111872
+    second: Premade_g-crystals_and_rocks_27
+  - first:
+      213: -5944506816085326544
+    second: Premade_g-crystals_and_rocks_28
+  - first:
+      213: -6514583217148728247
+    second: Premade_g-crystals_and_rocks_29
+  - first:
+      213: -581475429740661027
+    second: Premade_g-crystals_and_rocks_30
+  - first:
+      213: 2926781982059600883
+    second: Premade_g-crystals_and_rocks_31
+  - first:
+      213: 4448633872090949961
+    second: Premade_g-crystals_and_rocks_32
+  - first:
+      213: 8737827180033897449
+    second: Premade_g-crystals_and_rocks_33
+  - first:
+      213: 634166243613017097
+    second: Premade_g-crystals_and_rocks_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccada029837592200800000000000000
+      internalID: 155751562600962764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 344
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e477469fee612df60800000000000000
+      internalID: 8057527898961377102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 330
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f054474694cdb000800000000000000
+      internalID: 53414920318111989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 312
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd62350b6ffe1970800000000000000
+      internalID: 8727693963004374493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 308
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3ee45f3fb737a50800000000000000
+      internalID: 6517689373458097116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 335
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d445be3fdde20f0800000000000000
+      internalID: -1139729615983194865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 319
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a7ab63f303e530800000000000000
+      internalID: 3882951647741584125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 291
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369a95da4b8f2890800000000000000
+      internalID: -7480607302511585730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77d0c2785043be0800000000000000
+      internalID: -1498566697889728589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 304
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8146771b9c8a014c0800000000000000
+      internalID: -4318766458429021160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 289
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc32a65ac38fa60800000000000000
+      internalID: 7707977443392606069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7b05e55a16b2e90800000000000000
+      internalID: -7049433428838533143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db9bd948cb37c00800000000000000
+      internalID: 897268028544761097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a742e9e361459b0800000000000000
+      internalID: -5092420820452214215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 232
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a279141b43eb2360800000000000000
+      internalID: 7146055145352688292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb0e4574298f640800000000000000
+      internalID: 5113998211943546849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 192
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55056b2192dc37d60800000000000000
+      internalID: 7886872948747161685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 208
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5e2c0b3e0e4b60800000000000000
+      internalID: 7732133257011944119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 183
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af702256d198e680800000000000000
+      internalID: -8725563928343445595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5bfc66b1ebc9fd0800000000000000
+      internalID: -2333781481986476550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73979165129f91d0800000000000000
+      internalID: -3341791777956326534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58895e36138ad1a30800000000000000
+      internalID: 4187688158607284357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 208
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6759eb2705285ec0800000000000000
+      internalID: -3578069191214147730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 167
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e292f55f3399bd0800000000000000
+      internalID: -2623008179010064889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396d1fb8fa4a8b80800000000000000
+      internalID: -8391812523432777417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 215
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39524e1281ad671f0800000000000000
+      internalID: -1047410066134391405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 151
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d94afbdfe96f1c70800000000000000
+      internalID: 8943983863889807824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0445b52548a7f51d0800000000000000
+      internalID: -3359832088259111872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 136
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035885ecb8ed08da0800000000000000
+      internalID: -5944506816085326544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ce02a641d8795a0800000000000000
+      internalID: -6514583217148728247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6b0bc6d2f2ee7f0800000000000000
+      internalID: -581475429740661027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1da7b4b40e9820800000000000000
+      internalID: 2926781982059600883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 71
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94960c1dfe8bcbd30800000000000000
+      internalID: 4448633872090949961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e37ca6768ff24970800000000000000
+      internalID: 8737827180033897449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_g-crystals_and_rocks_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904091fa6d20dc800800000000000000
+      internalID: 634166243613017097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_g-crystals_and_rocks_0: 155751562600962764
+      Premade_g-crystals_and_rocks_1: 8057527898961377102
+      Premade_g-crystals_and_rocks_10: 7707977443392606069
+      Premade_g-crystals_and_rocks_11: -7049433428838533143
+      Premade_g-crystals_and_rocks_12: 897268028544761097
+      Premade_g-crystals_and_rocks_13: -5092420820452214215
+      Premade_g-crystals_and_rocks_14: 7146055145352688292
+      Premade_g-crystals_and_rocks_15: 5113998211943546849
+      Premade_g-crystals_and_rocks_16: 7886872948747161685
+      Premade_g-crystals_and_rocks_17: 7732133257011944119
+      Premade_g-crystals_and_rocks_18: -8725563928343445595
+      Premade_g-crystals_and_rocks_19: -2333781481986476550
+      Premade_g-crystals_and_rocks_2: 53414920318111989
+      Premade_g-crystals_and_rocks_20: -3341791777956326534
+      Premade_g-crystals_and_rocks_21: 4187688158607284357
+      Premade_g-crystals_and_rocks_22: -3578069191214147730
+      Premade_g-crystals_and_rocks_23: -2623008179010064889
+      Premade_g-crystals_and_rocks_24: -8391812523432777417
+      Premade_g-crystals_and_rocks_25: -1047410066134391405
+      Premade_g-crystals_and_rocks_26: 8943983863889807824
+      Premade_g-crystals_and_rocks_27: -3359832088259111872
+      Premade_g-crystals_and_rocks_28: -5944506816085326544
+      Premade_g-crystals_and_rocks_29: -6514583217148728247
+      Premade_g-crystals_and_rocks_3: 8727693963004374493
+      Premade_g-crystals_and_rocks_30: -581475429740661027
+      Premade_g-crystals_and_rocks_31: 2926781982059600883
+      Premade_g-crystals_and_rocks_32: 4448633872090949961
+      Premade_g-crystals_and_rocks_33: 8737827180033897449
+      Premade_g-crystals_and_rocks_34: 634166243613017097
+      Premade_g-crystals_and_rocks_4: 6517689373458097116
+      Premade_g-crystals_and_rocks_5: -1139729615983194865
+      Premade_g-crystals_and_rocks_6: 3882951647741584125
+      Premade_g-crystals_and_rocks_7: -7480607302511585730
+      Premade_g-crystals_and_rocks_8: -1498566697889728589
+      Premade_g-crystals_and_rocks_9: -4318766458429021160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

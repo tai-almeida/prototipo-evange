@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: d7304d1e19ef7439090de7d40ba1a98d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6813953801322350363
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_0
+  - first:
+      213: 3750746079830979857
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_1
+  - first:
+      213: 1672481620522942337
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_2
+  - first:
+      213: 8101261166299225346
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_3
+  - first:
+      213: -5274615390288809384
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_4
+  - first:
+      213: -3784301262864699622
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_5
+  - first:
+      213: 6607574577528036345
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_6
+  - first:
+      213: 5147965420696467934
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_7
+  - first:
+      213: -1124851673251191964
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_8
+  - first:
+      213: -1270663596951188603
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_9
+  - first:
+      213: 7299196390965465654
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_10
+  - first:
+      213: 255381743544082737
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_11
+  - first:
+      213: 9186437598084047198
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_12
+  - first:
+      213: -7110563146503352366
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_13
+  - first:
+      213: -4645193234023006798
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_14
+  - first:
+      213: 1870195720944838783
+    second: Minifantasy_MagicAndSorceryDwarfProjectileCasting_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17cdb361e6009e50800000000000000
+      internalID: 6813953801322350363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115b303ffa35d0430800000000000000
+      internalID: 3750746079830979857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb3a43c29d53710800000000000000
+      internalID: 1672481620522942337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d9ee1cb167d6070800000000000000
+      internalID: 8101261166299225346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f607af3dccc6b0800000000000000
+      internalID: -5274615390288809384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f23ef2d067b7bc0800000000000000
+      internalID: -3784301262864699622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd570e112d2bb50800000000000000
+      internalID: 6607574577528036345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed97b98664f317740800000000000000
+      internalID: 5147965420696467934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ebd6ec59b360f0800000000000000
+      internalID: -1124851673251191964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 44
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b44bad032bd5ee0800000000000000
+      internalID: -1270663596951188603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325f4dd174fb4560800000000000000
+      internalID: 7299196390965465654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131a01ab75c4b8300800000000000000
+      internalID: 255381743544082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a719d258cc7f70800000000000000
+      internalID: 9186437598084047198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0fabdd74325d90800000000000000
+      internalID: -7110563146503352366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb20d6d55f88fb0800000000000000
+      internalID: -4645193234023006798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfProjectileCasting_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786f57791544f910800000000000000
+      internalID: 1870195720944838783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_0: 6813953801322350363
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_1: 3750746079830979857
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_10: 7299196390965465654
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_11: 255381743544082737
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_12: 9186437598084047198
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_13: -7110563146503352366
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_14: -4645193234023006798
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_15: 1870195720944838783
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_2: 1672481620522942337
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_3: 8101261166299225346
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_4: -5274615390288809384
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_5: -3784301262864699622
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_6: 6607574577528036345
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_7: 5147965420696467934
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_8: -1124851673251191964
+      Minifantasy_MagicAndSorceryDwarfProjectileCasting_9: -1270663596951188603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

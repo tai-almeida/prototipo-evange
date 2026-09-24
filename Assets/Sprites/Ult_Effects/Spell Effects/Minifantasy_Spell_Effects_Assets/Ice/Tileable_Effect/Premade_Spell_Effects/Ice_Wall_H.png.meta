@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: f4920260b453f4c2089da613cb85ced0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8555413414848463584
+    second: Ice_Wall_H_0
+  - first:
+      213: -5571073274154227526
+    second: Ice_Wall_H_1
+  - first:
+      213: -2870240000816235198
+    second: Ice_Wall_H_2
+  - first:
+      213: -4918781585715464362
+    second: Ice_Wall_H_3
+  - first:
+      213: -8050986491247382656
+    second: Ice_Wall_H_4
+  - first:
+      213: -483243087714506775
+    second: Ice_Wall_H_5
+  - first:
+      213: 383209209692367990
+    second: Ice_Wall_H_6
+  - first:
+      213: -5954739075225716695
+    second: Ice_Wall_H_7
+  - first:
+      213: -2084653760526039046
+    second: Ice_Wall_H_8
+  - first:
+      213: -6661250113886219909
+    second: Ice_Wall_H_9
+  - first:
+      213: -5765742925574251423
+    second: Ice_Wall_H_10
+  - first:
+      213: 4234164481006937779
+    second: Ice_Wall_H_11
+  - first:
+      213: -719068680093535559
+    second: Ice_Wall_H_12
+  - first:
+      213: 7560737250068818810
+    second: Ice_Wall_H_13
+  - first:
+      213: 6674063855734011868
+    second: Ice_Wall_H_14
+  - first:
+      213: 7817495723634749596
+    second: Ice_Wall_H_15
+  - first:
+      213: 3225504347809937718
+    second: Ice_Wall_H_16
+  - first:
+      213: -4410475858425573914
+    second: Ice_Wall_H_17
+  - first:
+      213: -1778551672994259387
+    second: Ice_Wall_H_18
+  - first:
+      213: -343060552548500856
+    second: Ice_Wall_H_19
+  - first:
+      213: -8616957510064622186
+    second: Ice_Wall_H_20
+  - first:
+      213: 1524476090067203363
+    second: Ice_Wall_H_21
+  - first:
+      213: -1292300126651472311
+    second: Ice_Wall_H_22
+  - first:
+      213: 1695423582929187742
+    second: Ice_Wall_H_23
+  - first:
+      213: -2602790141929145201
+    second: Ice_Wall_H_24
+  - first:
+      213: -3721365179595938812
+    second: Ice_Wall_H_25
+  - first:
+      213: 4755623955690536305
+    second: Ice_Wall_H_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Wall_H_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d7855e3d0154980800000000000000
+      internalID: -8555413414848463584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab86d5cbf529fa2b0800000000000000
+      internalID: -5571073274154227526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3b3b2debda28d0800000000000000
+      internalID: -2870240000816235198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65772b7653afcbbb0800000000000000
+      internalID: -4918781585715464362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f2bb13176254090800000000000000
+      internalID: -8050986491247382656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e72d98d8fc2b49f0800000000000000
+      internalID: -483243087714506775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c2f52febe615500800000000000000
+      internalID: 383209209692367990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92878035c548c5da0800000000000000
+      internalID: -5954739075225716695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7c9242372d113e0800000000000000
+      internalID: -2084653760526039046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 981
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7118c1705c7e83a0800000000000000
+      internalID: -6661250113886219909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_10
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cdcee7b57fbffa0800000000000000
+      internalID: -5765742925574251423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_11
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6aef27926c2ca30800000000000000
+      internalID: 4234164481006937779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_12
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 0
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27ae168da5506f0800000000000000
+      internalID: -719068680093535559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_13
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b6a6e68722de860800000000000000
+      internalID: 7560737250068818810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_14
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7bc4157b90f9c50800000000000000
+      internalID: 6674063855734011868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90726811f25d7c60800000000000000
+      internalID: 7817495723634749596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_16
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63970b86d1b43cc20800000000000000
+      internalID: 3225504347809937718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_17
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed8b101397dac2c0800000000000000
+      internalID: -4410475858425573914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_18
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e10843da05157e0800000000000000
+      internalID: -1778551672994259387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_19
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab5ecbe343d3bf0800000000000000
+      internalID: -343060552548500856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_20
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 0
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b6f79cca6a6880800000000000000
+      internalID: -8616957510064622186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_21
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32538094de6082510800000000000000
+      internalID: 1524476090067203363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9462fb7b1e3d01ee0800000000000000
+      internalID: -1292300126651472311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_23
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93705414ca578710800000000000000
+      internalID: 1695423582929187742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_24
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cbc65f72801ebd0800000000000000
+      internalID: -2602790141929145201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_25
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042da6f51e0b5cc0800000000000000
+      internalID: -3721365179595938812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Wall_H_26
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 126
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17db5449ace5ff140800000000000000
+      internalID: 4755623955690536305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Wall_H_0: -8555413414848463584
+      Ice_Wall_H_1: -5571073274154227526
+      Ice_Wall_H_10: -5765742925574251423
+      Ice_Wall_H_11: 4234164481006937779
+      Ice_Wall_H_12: -719068680093535559
+      Ice_Wall_H_13: 7560737250068818810
+      Ice_Wall_H_14: 6674063855734011868
+      Ice_Wall_H_15: 7817495723634749596
+      Ice_Wall_H_16: 3225504347809937718
+      Ice_Wall_H_17: -4410475858425573914
+      Ice_Wall_H_18: -1778551672994259387
+      Ice_Wall_H_19: -343060552548500856
+      Ice_Wall_H_2: -2870240000816235198
+      Ice_Wall_H_20: -8616957510064622186
+      Ice_Wall_H_21: 1524476090067203363
+      Ice_Wall_H_22: -1292300126651472311
+      Ice_Wall_H_23: 1695423582929187742
+      Ice_Wall_H_24: -2602790141929145201
+      Ice_Wall_H_25: -3721365179595938812
+      Ice_Wall_H_26: 4755623955690536305
+      Ice_Wall_H_3: -4918781585715464362
+      Ice_Wall_H_4: -8050986491247382656
+      Ice_Wall_H_5: -483243087714506775
+      Ice_Wall_H_6: 383209209692367990
+      Ice_Wall_H_7: -5954739075225716695
+      Ice_Wall_H_8: -2084653760526039046
+      Ice_Wall_H_9: -6661250113886219909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: dc2cac956e62a4d66aea59adb4bce3fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -684020942355128773
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_0
+  - first:
+      213: 864514221550449971
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_1
+  - first:
+      213: -1148976337311441420
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_2
+  - first:
+      213: 4935039920639817414
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_3
+  - first:
+      213: 6955249702382252891
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_4
+  - first:
+      213: 7189367405502834658
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_5
+  - first:
+      213: 182230740647115818
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_6
+  - first:
+      213: -9038137936816699901
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_7
+  - first:
+      213: 5678385572033805763
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_8
+  - first:
+      213: 1177169992870416290
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_9
+  - first:
+      213: 8977906120645914921
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_10
+  - first:
+      213: 4991186106318687641
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_11
+  - first:
+      213: 7039576857725126448
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_12
+  - first:
+      213: -7122769089450118272
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_13
+  - first:
+      213: 4357838761673420323
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_14
+  - first:
+      213: 4258321152607558540
+    second: Minifantasy_MagicAndSorceryGoblinProjectileCasting_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 108
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e9ef7b39ed186f0800000000000000
+      internalID: -684020942355128773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335b9c6aa1f5ffb00800000000000000
+      internalID: 864514221550449971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd837db140e00f0800000000000000
+      internalID: -1148976337311441420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6bb1e29a8cc7440800000000000000
+      internalID: 4935039920639817414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 76
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b2aaf0c2068060800000000000000
+      internalID: 6955249702382252891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7a4cc7093c5c360800000000000000
+      internalID: 7189367405502834658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7d63a4e9678200800000000000000
+      internalID: 182230740647115818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3060f0dbe65129280800000000000000
+      internalID: -9038137936816699901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd37c6a79dadce40800000000000000
+      internalID: 5678385572033805763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4a412fd5265010800000000000000
+      internalID: 1177169992870416290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b7ebbc0ee79c70800000000000000
+      internalID: 8977906120645914921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d8dfab151444540800000000000000
+      internalID: 4991186106318687641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03744c5dad991b160800000000000000
+      internalID: 7039576857725126448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083713e4047d62d90800000000000000
+      internalID: -7122769089450118272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ee8f1d3472a7c30800000000000000
+      internalID: 4357838761673420323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryGoblinProjectileCasting_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b94b8d688981b30800000000000000
+      internalID: 4258321152607558540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_0: -684020942355128773
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_1: 864514221550449971
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_10: 8977906120645914921
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_11: 4991186106318687641
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_12: 7039576857725126448
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_13: -7122769089450118272
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_14: 4357838761673420323
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_15: 4258321152607558540
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_2: -1148976337311441420
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_3: 4935039920639817414
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_4: 6955249702382252891
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_5: 7189367405502834658
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_6: 182230740647115818
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_7: -9038137936816699901
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_8: 5678385572033805763
+      Minifantasy_MagicAndSorceryGoblinProjectileCasting_9: 1177169992870416290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

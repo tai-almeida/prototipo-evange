@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8ddaef65294d245f59fcf2c318a59847
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4883739410002888200
+    second: Premade_f-bioluminescent_lichen_0
+  - first:
+      213: -1496378154250007285
+    second: Premade_f-bioluminescent_lichen_1
+  - first:
+      213: -4382508576971032987
+    second: Premade_f-bioluminescent_lichen_2
+  - first:
+      213: -834718400419284968
+    second: Premade_f-bioluminescent_lichen_3
+  - first:
+      213: -5714494323674065743
+    second: Premade_f-bioluminescent_lichen_4
+  - first:
+      213: 4454505625898373437
+    second: Premade_f-bioluminescent_lichen_5
+  - first:
+      213: -5952949327910047992
+    second: Premade_f-bioluminescent_lichen_6
+  - first:
+      213: 300175860439701167
+    second: Premade_f-bioluminescent_lichen_7
+  - first:
+      213: 5724806081568205905
+    second: Premade_f-bioluminescent_lichen_8
+  - first:
+      213: 1947279659642880435
+    second: Premade_f-bioluminescent_lichen_9
+  - first:
+      213: 3811014188660632429
+    second: Premade_f-bioluminescent_lichen_10
+  - first:
+      213: -4206151848058504563
+    second: Premade_f-bioluminescent_lichen_11
+  - first:
+      213: -5853417399223493861
+    second: Premade_f-bioluminescent_lichen_12
+  - first:
+      213: -5243602078795927622
+    second: Premade_f-bioluminescent_lichen_13
+  - first:
+      213: 2588789376327562467
+    second: Premade_f-bioluminescent_lichen_14
+  - first:
+      213: 8377790785130881760
+    second: Premade_f-bioluminescent_lichen_15
+  - first:
+      213: 3492494771511112602
+    second: Premade_f-bioluminescent_lichen_16
+  - first:
+      213: -4083616236820618762
+    second: Premade_f-bioluminescent_lichen_17
+  - first:
+      213: -8726397639725586742
+    second: Premade_f-bioluminescent_lichen_18
+  - first:
+      213: 3579102447515479520
+    second: Premade_f-bioluminescent_lichen_19
+  - first:
+      213: 5743454239218151257
+    second: Premade_f-bioluminescent_lichen_20
+  - first:
+      213: 1828490435646652020
+    second: Premade_f-bioluminescent_lichen_21
+  - first:
+      213: 6571533586466883268
+    second: Premade_f-bioluminescent_lichen_22
+  - first:
+      213: -3143476141826442083
+    second: Premade_f-bioluminescent_lichen_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 359
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8064cc44e1786c340800000000000000
+      internalID: 4883739410002888200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d06423ffbcb3be0800000000000000
+      internalID: -1496378154250007285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566f9843ba33e23c0800000000000000
+      internalID: -4382508576971032987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 358
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818b68f890c7a64f0800000000000000
+      internalID: -834718400419284968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4db6670b902b0b0800000000000000
+      internalID: -5714494323674065743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31d6a9044591dd30800000000000000
+      internalID: 4454505625898373437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 342
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f65085020e26da0800000000000000
+      internalID: -5952949327910047992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6d7abca507a2400800000000000000
+      internalID: 300175860439701167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 342
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c6ed3ccc8927f40800000000000000
+      internalID: 5724806081568205905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18b578880260b10800000000000000
+      internalID: 1947279659642880435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 326
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2715863173e430800000000000000
+      internalID: 3811014188660632429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 327
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8abe19ed2fb0a5c0800000000000000
+      internalID: -4206151848058504563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b513d53eb74cea0800000000000000
+      internalID: -5853417399223493861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 302
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf6edde0bbfa37b0800000000000000
+      internalID: -5243602078795927622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 310
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43f46c83a3de320800000000000000
+      internalID: 2588789376327562467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 262
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26446e454e34470800000000000000
+      internalID: 8377790785130881760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 230
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9334db9d75d77030800000000000000
+      internalID: 3492494771511112602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f12a452ba41457c0800000000000000
+      internalID: -4083616236820618762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 222
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66953c49b95e680800000000000000
+      internalID: -8726397639725586742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 230
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed24ee86b68ba130800000000000000
+      internalID: 3579102447515479520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f2f405339d4bf40800000000000000
+      internalID: 5743454239218151257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47efaeb0d5a106910800000000000000
+      internalID: 1828490435646652020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c648eabaf6c23b50800000000000000
+      internalID: 6571533586466883268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_f-bioluminescent_lichen_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf4869a112064d0800000000000000
+      internalID: -3143476141826442083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_f-bioluminescent_lichen_0: 4883739410002888200
+      Premade_f-bioluminescent_lichen_1: -1496378154250007285
+      Premade_f-bioluminescent_lichen_10: 3811014188660632429
+      Premade_f-bioluminescent_lichen_11: -4206151848058504563
+      Premade_f-bioluminescent_lichen_12: -5853417399223493861
+      Premade_f-bioluminescent_lichen_13: -5243602078795927622
+      Premade_f-bioluminescent_lichen_14: 2588789376327562467
+      Premade_f-bioluminescent_lichen_15: 8377790785130881760
+      Premade_f-bioluminescent_lichen_16: 3492494771511112602
+      Premade_f-bioluminescent_lichen_17: -4083616236820618762
+      Premade_f-bioluminescent_lichen_18: -8726397639725586742
+      Premade_f-bioluminescent_lichen_19: 3579102447515479520
+      Premade_f-bioluminescent_lichen_2: -4382508576971032987
+      Premade_f-bioluminescent_lichen_20: 5743454239218151257
+      Premade_f-bioluminescent_lichen_21: 1828490435646652020
+      Premade_f-bioluminescent_lichen_22: 6571533586466883268
+      Premade_f-bioluminescent_lichen_23: -3143476141826442083
+      Premade_f-bioluminescent_lichen_3: -834718400419284968
+      Premade_f-bioluminescent_lichen_4: -5714494323674065743
+      Premade_f-bioluminescent_lichen_5: 4454505625898373437
+      Premade_f-bioluminescent_lichen_6: -5952949327910047992
+      Premade_f-bioluminescent_lichen_7: 300175860439701167
+      Premade_f-bioluminescent_lichen_8: 5724806081568205905
+      Premade_f-bioluminescent_lichen_9: 1947279659642880435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

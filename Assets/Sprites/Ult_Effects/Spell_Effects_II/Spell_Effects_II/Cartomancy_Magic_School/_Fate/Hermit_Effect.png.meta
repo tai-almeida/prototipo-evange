@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: ca29f8f51cae24cb18f1eb3776483d25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1914500887246882789
+    second: Hermit_Effect_0
+  - first:
+      213: -8736317216658366201
+    second: Hermit_Effect_1
+  - first:
+      213: -906031030782148121
+    second: Hermit_Effect_2
+  - first:
+      213: 796097303147165607
+    second: Hermit_Effect_3
+  - first:
+      213: -5305512755028977083
+    second: Hermit_Effect_4
+  - first:
+      213: 555796511068085036
+    second: Hermit_Effect_5
+  - first:
+      213: 1453388084403532113
+    second: Hermit_Effect_6
+  - first:
+      213: 8317459947972420393
+    second: Hermit_Effect_7
+  - first:
+      213: 63333200682785806
+    second: Hermit_Effect_8
+  - first:
+      213: 7928097020944510816
+    second: Hermit_Effect_9
+  - first:
+      213: -7758184924997034146
+    second: Hermit_Effect_10
+  - first:
+      213: -1136384508312905684
+    second: Hermit_Effect_11
+  - first:
+      213: 8005755569991004514
+    second: Hermit_Effect_12
+  - first:
+      213: -1390526386964208352
+    second: Hermit_Effect_13
+  - first:
+      213: -9087731132841324612
+    second: Hermit_Effect_14
+  - first:
+      213: 5326979515612349038
+    second: Hermit_Effect_15
+  - first:
+      213: -1777392232556031309
+    second: Hermit_Effect_16
+  - first:
+      213: 189634437698323918
+    second: Hermit_Effect_17
+  - first:
+      213: -1137306712466844872
+    second: Hermit_Effect_18
+  - first:
+      213: 7490345904203959164
+    second: Hermit_Effect_19
+  - first:
+      213: 3485554167980230030
+    second: Hermit_Effect_20
+  - first:
+      213: 976580053388858012
+    second: Hermit_Effect_21
+  - first:
+      213: -8775960389570403714
+    second: Hermit_Effect_22
+  - first:
+      213: -6788425792587507112
+    second: Hermit_Effect_23
+  - first:
+      213: -887906591947618540
+    second: Hermit_Effect_24
+  - first:
+      213: -8610126864137965622
+    second: Hermit_Effect_25
+  - first:
+      213: 7039785569892533973
+    second: Hermit_Effect_26
+  - first:
+      213: 203231617580420138
+    second: Hermit_Effect_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hermit_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ba7526935e65e0800000000000000
+      internalID: -1914500887246882789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 34
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e2f747cd52c680800000000000000
+      internalID: -8736317216658366201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1cfbee3912d63f0800000000000000
+      internalID: -906031030782148121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 50
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7bbb0874e4c0b00800000000000000
+      internalID: 796097303147165607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a913552480f56b0800000000000000
+      internalID: -5305512755028977083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b5d996bf596b700800000000000000
+      internalID: 555796511068085036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15178ab23c87b2410800000000000000
+      internalID: 1453388084403532113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9236f6041cd8d6370800000000000000
+      internalID: 8317459947972420393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9f21e53101e000800000000000000
+      internalID: 63333200682785806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fea365c32460e60800000000000000
+      internalID: 7928097020944510816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fd2c35ae3655490800000000000000
+      internalID: -7758184924997034146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 32
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2890cd7f40ca30f0800000000000000
+      internalID: -1136384508312905684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613beb46482a1f60800000000000000
+      internalID: 8005755569991004514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 32
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e03e4e9bd3bce0800000000000000
+      internalID: -1390526386964208352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0cbcfea4e1e180800000000000000
+      internalID: -9087731132841324612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e624bd955ab3de940800000000000000
+      internalID: 5326979515612349038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b295f77e2f6557e0800000000000000
+      internalID: -1777392232556031309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec580303487b1a200800000000000000
+      internalID: 189634437698323918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8331fba12997730f0800000000000000
+      internalID: -1137306712466844872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b01e01aed03f760800000000000000
+      internalID: 7490345904203959164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8508db6c0d2f5030800000000000000
+      internalID: 3485554167980230030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9299f862628d8d00800000000000000
+      internalID: 976580053388858012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e1c0d586853680800000000000000
+      internalID: -8775960389570403714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 11
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ad8b055baaac1a0800000000000000
+      internalID: -6788425792587507112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170c31b8a58da3f0800000000000000
+      internalID: -887906591947618540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf22084c3fa28880800000000000000
+      internalID: -8610126864137965622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d68d5c6da752b160800000000000000
+      internalID: 7039785569892533973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hermit_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c4205541602d200800000000000000
+      internalID: 203231617580420138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hermit_Effect_0: -1914500887246882789
+      Hermit_Effect_1: -8736317216658366201
+      Hermit_Effect_10: -7758184924997034146
+      Hermit_Effect_11: -1136384508312905684
+      Hermit_Effect_12: 8005755569991004514
+      Hermit_Effect_13: -1390526386964208352
+      Hermit_Effect_14: -9087731132841324612
+      Hermit_Effect_15: 5326979515612349038
+      Hermit_Effect_16: -1777392232556031309
+      Hermit_Effect_17: 189634437698323918
+      Hermit_Effect_18: -1137306712466844872
+      Hermit_Effect_19: 7490345904203959164
+      Hermit_Effect_2: -906031030782148121
+      Hermit_Effect_20: 3485554167980230030
+      Hermit_Effect_21: 976580053388858012
+      Hermit_Effect_22: -8775960389570403714
+      Hermit_Effect_23: -6788425792587507112
+      Hermit_Effect_24: -887906591947618540
+      Hermit_Effect_25: -8610126864137965622
+      Hermit_Effect_26: 7039785569892533973
+      Hermit_Effect_27: 203231617580420138
+      Hermit_Effect_3: 796097303147165607
+      Hermit_Effect_4: -5305512755028977083
+      Hermit_Effect_5: 555796511068085036
+      Hermit_Effect_6: 1453388084403532113
+      Hermit_Effect_7: 8317459947972420393
+      Hermit_Effect_8: 63333200682785806
+      Hermit_Effect_9: 7928097020944510816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

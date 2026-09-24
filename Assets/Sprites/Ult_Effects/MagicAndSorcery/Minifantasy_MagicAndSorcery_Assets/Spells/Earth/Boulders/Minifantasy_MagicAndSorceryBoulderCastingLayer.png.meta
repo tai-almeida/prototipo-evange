@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 1ac7dece5553348508c94f55282497d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1559574591567928776
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_0
+  - first:
+      213: -5896769555205815517
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_1
+  - first:
+      213: 4842599670073820282
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_2
+  - first:
+      213: -1605726322789956976
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_3
+  - first:
+      213: -8581500178314532966
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_4
+  - first:
+      213: 1013332710256301780
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_5
+  - first:
+      213: -3977959764173451192
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_6
+  - first:
+      213: 6964111815974758353
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_7
+  - first:
+      213: 4326705906814074098
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_8
+  - first:
+      213: 3408733429164776970
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_9
+  - first:
+      213: -7265325506259935202
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_10
+  - first:
+      213: 7297102308995302993
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_11
+  - first:
+      213: 1123374204365531847
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_12
+  - first:
+      213: -6939098131668489829
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_13
+  - first:
+      213: 1311533979395414149
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_14
+  - first:
+      213: 3023732358723195329
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_15
+  - first:
+      213: 5651382835579605668
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_16
+  - first:
+      213: -866315755745390450
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_17
+  - first:
+      213: -5129395816573357425
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_18
+  - first:
+      213: 999531763957676780
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_19
+  - first:
+      213: 2045509420144821272
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_20
+  - first:
+      213: 8815623720787936604
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_21
+  - first:
+      213: 6614724524779542146
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_22
+  - first:
+      213: -8994937183566710112
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_23
+  - first:
+      213: -715576533367295090
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_24
+  - first:
+      213: 6246481447733778911
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_25
+  - first:
+      213: 8821971223950277238
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_26
+  - first:
+      213: -3853127744314188268
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_27
+  - first:
+      213: -718835424042925106
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_28
+  - first:
+      213: -2314743655013591770
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_29
+  - first:
+      213: 3084448685093742364
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_30
+  - first:
+      213: -6136940231462415113
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_31
+  - first:
+      213: -9099927616243650867
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_32
+  - first:
+      213: -5457047357790745661
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_33
+  - first:
+      213: -2931327746772517062
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_34
+  - first:
+      213: 4058198862798871268
+    second: Minifantasy_MagicAndSorceryBoulderCastingLayer_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd912bf3d8b4a510800000000000000
+      internalID: 1559574591567928776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3238e9bf4577a2ea0800000000000000
+      internalID: -5896769555205815517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a748c242ebe543340800000000000000
+      internalID: 4842599670073820282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 111
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924c9bba6057b9e0800000000000000
+      internalID: -1605726322789956976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a976c97fd0368e880800000000000000
+      internalID: -8581500178314532966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d65c1a2bb4101e00800000000000000
+      internalID: 1013332710256301780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 113
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84015adaba27bc8c0800000000000000
+      internalID: -3977959764173451192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a6479cce75a060800000000000000
+      internalID: 6964111815974758353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcbc3f291c8b0c30800000000000000
+      internalID: 4326705906814074098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e9d5b5ef04e4f20800000000000000
+      internalID: 3408733429164776970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10aac502f06c2b90800000000000000
+      internalID: -7265325506259935202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156095963e3844560800000000000000
+      internalID: 7297102308995302993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 79
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6b0113e6079f00800000000000000
+      internalID: 1123374204365531847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a250a30f53bf90800000000000000
+      internalID: -6939098131668489829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588d7b89431833210800000000000000
+      internalID: 1311533979395414149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1dc815f8476f920800000000000000
+      internalID: 3023732358723195329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a256742fbebd6e40800000000000000
+      internalID: 5651382835579605668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d87bf86a3af3f0800000000000000
+      internalID: -866315755745390450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8235c87ea9b0d8b0800000000000000
+      internalID: -5129395816573357425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaba64f7dc0fdd00800000000000000
+      internalID: 999531763957676780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8148274eafb136c10800000000000000
+      internalID: 2045509420144821272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55821f1113675a70800000000000000
+      internalID: 8815623720787936604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869c82b8e83ccb50800000000000000
+      internalID: 6614724524779542146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aabd8ce9409b2380800000000000000
+      internalID: -8994937183566710112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8379072fe2c116f0800000000000000
+      internalID: -715576533367295090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd95d3c08c5ffa650800000000000000
+      internalID: 6246481447733778911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a364e5610fd6a70800000000000000
+      internalID: 8821971223950277238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e53f53bb0f68ac0800000000000000
+      internalID: -3853127744314188268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec344f98dfe2606f0800000000000000
+      internalID: -718835424042925106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62553d8e8e060efd0800000000000000
+      internalID: -2314743655013591770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17eeeaacb92eca20800000000000000
+      internalID: 3084448685093742364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f411e7df5535daa0800000000000000
+      internalID: -6136940231462415113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcea708eb0096b180800000000000000
+      internalID: -9099927616243650867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb066c375ca444b0800000000000000
+      internalID: -5457047357790745661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fb065f1f4d157d0800000000000000
+      internalID: -2931327746772517062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderCastingLayer_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea550d4d5e915830800000000000000
+      internalID: 4058198862798871268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_0: 1559574591567928776
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_1: -5896769555205815517
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_10: -7265325506259935202
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_11: 7297102308995302993
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_12: 1123374204365531847
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_13: -6939098131668489829
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_14: 1311533979395414149
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_15: 3023732358723195329
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_16: 5651382835579605668
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_17: -866315755745390450
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_18: -5129395816573357425
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_19: 999531763957676780
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_2: 4842599670073820282
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_20: 2045509420144821272
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_21: 8815623720787936604
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_22: 6614724524779542146
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_23: -8994937183566710112
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_24: -715576533367295090
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_25: 6246481447733778911
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_26: 8821971223950277238
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_27: -3853127744314188268
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_28: -718835424042925106
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_29: -2314743655013591770
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_3: -1605726322789956976
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_30: 3084448685093742364
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_31: -6136940231462415113
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_32: -9099927616243650867
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_33: -5457047357790745661
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_34: -2931327746772517062
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_35: 4058198862798871268
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_4: -8581500178314532966
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_5: 1013332710256301780
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_6: -3977959764173451192
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_7: 6964111815974758353
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_8: 4326705906814074098
+      Minifantasy_MagicAndSorceryBoulderCastingLayer_9: 3408733429164776970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

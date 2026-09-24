@@ -1,0 +1,4030 @@
+fileFormatVersion: 2
+guid: 84e89722c069c434f9d427d15c533093
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 357466853720006613
+    second: Premade_c-stalactites_0
+  - first:
+      213: -6271343334258777644
+    second: Premade_c-stalactites_1
+  - first:
+      213: -4266149311186111401
+    second: Premade_c-stalactites_2
+  - first:
+      213: -1673926367185092045
+    second: Premade_c-stalactites_3
+  - first:
+      213: 3084425868233000548
+    second: Premade_c-stalactites_4
+  - first:
+      213: -3396648075788787810
+    second: Premade_c-stalactites_5
+  - first:
+      213: 4645891946332692907
+    second: Premade_c-stalactites_6
+  - first:
+      213: -8111382577446007846
+    second: Premade_c-stalactites_7
+  - first:
+      213: -1460569551429987743
+    second: Premade_c-stalactites_8
+  - first:
+      213: 5175176864211727764
+    second: Premade_c-stalactites_9
+  - first:
+      213: -3791461876741069446
+    second: Premade_c-stalactites_10
+  - first:
+      213: -4813008425924374078
+    second: Premade_c-stalactites_11
+  - first:
+      213: 3551173861503387380
+    second: Premade_c-stalactites_12
+  - first:
+      213: 2013249086866080184
+    second: Premade_c-stalactites_13
+  - first:
+      213: 3254664304858235049
+    second: Premade_c-stalactites_14
+  - first:
+      213: -3050488325476962716
+    second: Premade_c-stalactites_15
+  - first:
+      213: 104350660709706703
+    second: Premade_c-stalactites_16
+  - first:
+      213: 3351272697090408036
+    second: Premade_c-stalactites_17
+  - first:
+      213: 3768428101745242564
+    second: Premade_c-stalactites_18
+  - first:
+      213: -8442968222376566859
+    second: Premade_c-stalactites_19
+  - first:
+      213: -9016373733854731345
+    second: Premade_c-stalactites_20
+  - first:
+      213: 8725093238112642458
+    second: Premade_c-stalactites_21
+  - first:
+      213: 2167457555988607993
+    second: Premade_c-stalactites_22
+  - first:
+      213: 6393374709210172284
+    second: Premade_c-stalactites_23
+  - first:
+      213: 8409179681869164838
+    second: Premade_c-stalactites_24
+  - first:
+      213: 4859590624703418958
+    second: Premade_c-stalactites_25
+  - first:
+      213: 7197993174408540676
+    second: Premade_c-stalactites_26
+  - first:
+      213: -7429845193816953111
+    second: Premade_c-stalactites_27
+  - first:
+      213: -4936206163488574677
+    second: Premade_c-stalactites_28
+  - first:
+      213: -2507180990724100751
+    second: Premade_c-stalactites_29
+  - first:
+      213: 5063162144308964681
+    second: Premade_c-stalactites_30
+  - first:
+      213: 4279942720220205147
+    second: Premade_c-stalactites_31
+  - first:
+      213: -9204256166972225207
+    second: Premade_c-stalactites_32
+  - first:
+      213: 799557016384575423
+    second: Premade_c-stalactites_33
+  - first:
+      213: 7113033103812223554
+    second: Premade_c-stalactites_34
+  - first:
+      213: -3989201623950971162
+    second: Premade_c-stalactites_35
+  - first:
+      213: -232771027609030240
+    second: Premade_c-stalactites_36
+  - first:
+      213: 7476947848326225630
+    second: Premade_c-stalactites_37
+  - first:
+      213: -7158445694750046157
+    second: Premade_c-stalactites_38
+  - first:
+      213: 1460000507277312708
+    second: Premade_c-stalactites_39
+  - first:
+      213: -6558510668358808767
+    second: Premade_c-stalactites_40
+  - first:
+      213: 8672088027331156182
+    second: Premade_c-stalactites_41
+  - first:
+      213: -1418549740233813145
+    second: Premade_c-stalactites_42
+  - first:
+      213: 7674553831405822740
+    second: Premade_c-stalactites_43
+  - first:
+      213: 660551314531792696
+    second: Premade_c-stalactites_44
+  - first:
+      213: 5751136492802500398
+    second: Premade_c-stalactites_45
+  - first:
+      213: -9023242772431244425
+    second: Premade_c-stalactites_46
+  - first:
+      213: -3909093445389120372
+    second: Premade_c-stalactites_47
+  - first:
+      213: -4294061732161717863
+    second: Premade_c-stalactites_48
+  - first:
+      213: 8457658235217902813
+    second: Premade_c-stalactites_49
+  - first:
+      213: -6280886071189227231
+    second: Premade_c-stalactites_50
+  - first:
+      213: -1969037729239354426
+    second: Premade_c-stalactites_51
+  - first:
+      213: -943519029847938045
+    second: Premade_c-stalactites_52
+  - first:
+      213: 5848221270896815501
+    second: Premade_c-stalactites_53
+  - first:
+      213: -1262790450001752724
+    second: Premade_c-stalactites_54
+  - first:
+      213: -4783560825498157734
+    second: Premade_c-stalactites_55
+  - first:
+      213: 5656290580123270353
+    second: Premade_c-stalactites_56
+  - first:
+      213: -2279425793609173893
+    second: Premade_c-stalactites_57
+  - first:
+      213: 5601637201477419261
+    second: Premade_c-stalactites_58
+  - first:
+      213: -7913000163135185624
+    second: Premade_c-stalactites_59
+  - first:
+      213: -9070144331727896666
+    second: Premade_c-stalactites_60
+  - first:
+      213: -6052700112377095496
+    second: Premade_c-stalactites_61
+  - first:
+      213: -929009448970762300
+    second: Premade_c-stalactites_62
+  - first:
+      213: -466486054338147333
+    second: Premade_c-stalactites_63
+  - first:
+      213: 5180100033588521906
+    second: Premade_c-stalactites_64
+  - first:
+      213: 2668933341919229432
+    second: Premade_c-stalactites_65
+  - first:
+      213: -3332670085849696000
+    second: Premade_c-stalactites_66
+  - first:
+      213: 4691584726039102682
+    second: Premade_c-stalactites_67
+  - first:
+      213: 4831156410039908225
+    second: Premade_c-stalactites_68
+  - first:
+      213: 6326022426342321141
+    second: Premade_c-stalactites_69
+  - first:
+      213: -6862657677448371487
+    second: Premade_c-stalactites_70
+  - first:
+      213: 1236735713660934529
+    second: Premade_c-stalactites_71
+  - first:
+      213: -4939114140578290765
+    second: Premade_c-stalactites_72
+  - first:
+      213: 6976283695702885221
+    second: Premade_c-stalactites_73
+  - first:
+      213: -2958517294051486362
+    second: Premade_c-stalactites_74
+  - first:
+      213: -6514669798980417055
+    second: Premade_c-stalactites_75
+  - first:
+      213: 1712034687117735546
+    second: Premade_c-stalactites_76
+  - first:
+      213: 7252407149315097914
+    second: Premade_c-stalactites_77
+  - first:
+      213: -7363421378977176178
+    second: Premade_c-stalactites_78
+  - first:
+      213: -2035128985536569478
+    second: Premade_c-stalactites_79
+  - first:
+      213: -5804219145779493244
+    second: Premade_c-stalactites_80
+  - first:
+      213: -7388118797747571814
+    second: Premade_c-stalactites_81
+  - first:
+      213: 4715036354438605891
+    second: Premade_c-stalactites_82
+  - first:
+      213: -523233591776472996
+    second: Premade_c-stalactites_83
+  - first:
+      213: 7600284941384902778
+    second: Premade_c-stalactites_84
+  - first:
+      213: -6495164556276002693
+    second: Premade_c-stalactites_85
+  - first:
+      213: 4048363770117924905
+    second: Premade_c-stalactites_86
+  - first:
+      213: -5992039176284095105
+    second: Premade_c-stalactites_87
+  - first:
+      213: 5446006740887103222
+    second: Premade_c-stalactites_88
+  - first:
+      213: 652878744865431748
+    second: Premade_c-stalactites_89
+  - first:
+      213: 4326616836238122951
+    second: Premade_c-stalactites_90
+  - first:
+      213: 2102061285856304188
+    second: Premade_c-stalactites_91
+  - first:
+      213: -5578244773039328638
+    second: Premade_c-stalactites_92
+  - first:
+      213: -8521817316939531442
+    second: Premade_c-stalactites_93
+  - first:
+      213: -2327218808383292042
+    second: Premade_c-stalactites_94
+  - first:
+      213: -3321332033636843131
+    second: Premade_c-stalactites_95
+  - first:
+      213: -5334174450039406728
+    second: Premade_c-stalactites_96
+  - first:
+      213: -3118183588978429372
+    second: Premade_c-stalactites_97
+  - first:
+      213: -6308289567327676886
+    second: Premade_c-stalactites_98
+  - first:
+      213: 3075787579334344594
+    second: Premade_c-stalactites_99
+  - first:
+      213: 8922603563861826100
+    second: Premade_c-stalactites_100
+  - first:
+      213: 6202848993021039289
+    second: Premade_c-stalactites_101
+  - first:
+      213: -8603306111014510838
+    second: Premade_c-stalactites_102
+  - first:
+      213: -5709154735954986527
+    second: Premade_c-stalactites_103
+  - first:
+      213: 2735535154751562485
+    second: Premade_c-stalactites_104
+  - first:
+      213: -1874341606064446561
+    second: Premade_c-stalactites_105
+  - first:
+      213: 4399536161510920522
+    second: Premade_c-stalactites_106
+  - first:
+      213: 828312144011086829
+    second: Premade_c-stalactites_107
+  - first:
+      213: -453074643965385534
+    second: Premade_c-stalactites_108
+  - first:
+      213: -8995245742466702388
+    second: Premade_c-stalactites_109
+  - first:
+      213: 3344738454857698293
+    second: Premade_c-stalactites_110
+  - first:
+      213: -3370835558481725016
+    second: Premade_c-stalactites_111
+  - first:
+      213: -1914081381424306816
+    second: Premade_c-stalactites_112
+  - first:
+      213: 5840656443389420674
+    second: Premade_c-stalactites_113
+  - first:
+      213: -6636586095954919880
+    second: Premade_c-stalactites_114
+  - first:
+      213: -9076770907329180366
+    second: Premade_c-stalactites_115
+  - first:
+      213: -2738968619570488867
+    second: Premade_c-stalactites_116
+  - first:
+      213: 610959549384720912
+    second: Premade_c-stalactites_117
+  - first:
+      213: -1849392403763492400
+    second: Premade_c-stalactites_118
+  - first:
+      213: -1466529067265686666
+    second: Premade_c-stalactites_119
+  - first:
+      213: -8446966589240069286
+    second: Premade_c-stalactites_120
+  - first:
+      213: 7285312579872137901
+    second: Premade_c-stalactites_121
+  - first:
+      213: 8811143554899952670
+    second: Premade_c-stalactites_122
+  - first:
+      213: -3936800607648063584
+    second: Premade_c-stalactites_123
+  - first:
+      213: -4238831552767443570
+    second: Premade_c-stalactites_124
+  - first:
+      213: -5619742861789868915
+    second: Premade_c-stalactites_125
+  - first:
+      213: -3778167146910800176
+    second: Premade_c-stalactites_126
+  - first:
+      213: 1100450441995670468
+    second: Premade_c-stalactites_127
+  - first:
+      213: -1199635010015938768
+    second: Premade_c-stalactites_128
+  - first:
+      213: 7411926691033560668
+    second: Premade_c-stalactites_129
+  - first:
+      213: 8888544465828190858
+    second: Premade_c-stalactites_130
+  - first:
+      213: 8033378483385655754
+    second: Premade_c-stalactites_131
+  - first:
+      213: -6746665485216964604
+    second: Premade_c-stalactites_132
+  - first:
+      213: 5750969415779049335
+    second: Premade_c-stalactites_133
+  - first:
+      213: 4724174469696804633
+    second: Premade_c-stalactites_134
+  - first:
+      213: -6847925351309376021
+    second: Premade_c-stalactites_135
+  - first:
+      213: 6914277745364473834
+    second: Premade_c-stalactites_136
+  - first:
+      213: -2083480320043467411
+    second: Premade_c-stalactites_137
+  - first:
+      213: -6856816261368949778
+    second: Premade_c-stalactites_138
+  - first:
+      213: -7626155587231848298
+    second: Premade_c-stalactites_139
+  - first:
+      213: -2309987805673797392
+    second: Premade_c-stalactites_140
+  - first:
+      213: 6170544184771668956
+    second: Premade_c-stalactites_141
+  - first:
+      213: 4767749318595603578
+    second: Premade_c-stalactites_142
+  - first:
+      213: -6727655021712076603
+    second: Premade_c-stalactites_143
+  - first:
+      213: -4866715103244405961
+    second: Premade_c-stalactites_144
+  - first:
+      213: 5178178465386826616
+    second: Premade_c-stalactites_145
+  - first:
+      213: 7509373526896465722
+    second: Premade_c-stalactites_146
+  - first:
+      213: 1546894390611885236
+    second: Premade_c-stalactites_147
+  - first:
+      213: -8860261168004704772
+    second: Premade_c-stalactites_148
+  - first:
+      213: 5441764063027327800
+    second: Premade_c-stalactites_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_c-stalactites_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 332
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df15f2a53af5f400800000000000000
+      internalID: 357466853720006613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 343
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1edf8e676b7f8a0800000000000000
+      internalID: -6271343334258777644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 367
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75479f3fdc79bc4c0800000000000000
+      internalID: -4266149311186111401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 367
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c5cf76d405c8e0800000000000000
+      internalID: -1673926367185092045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 367
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466cd043cf41eca20800000000000000
+      internalID: 3084425868233000548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 317
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f589f329eacd0d0800000000000000
+      internalID: -3396648075788787810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 343
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba122063c16897040800000000000000
+      internalID: 4645891946332692907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 307
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc90295849e6f80800000000000000
+      internalID: -8111382577446007846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 340
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162934d3bb30bbbe0800000000000000
+      internalID: -1460569551429987743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 359
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f82150fbe1d740800000000000000
+      internalID: 5175176864211727764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 357
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75a969d285026bc0800000000000000
+      internalID: -3791461876741069446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 360
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1d0d74652c43db0800000000000000
+      internalID: -4813008425924374078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 359
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6cf86efcd484130800000000000000
+      internalID: 3551173861503387380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 335
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1480bb06f70fb10800000000000000
+      internalID: 2013249086866080184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_14
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 327
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0083af0f3ea2d20800000000000000
+      internalID: 3254664304858235049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 292
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2878b70d7aa5d0800000000000000
+      internalID: -3050488325476962716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbedaf7f5ab27100800000000000000
+      internalID: 104350660709706703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 340
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef98f13cc128e20800000000000000
+      internalID: 3351272697090408036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 347
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ff1e74652c4430800000000000000
+      internalID: 3768428101745242564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 340
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf555f622d84da80800000000000000
+      internalID: -8442968222376566859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 343
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa32d6f1cd76fd280800000000000000
+      internalID: -9016373733854731345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 343
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95edd19212c51970800000000000000
+      internalID: 8725093238112642458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 335
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ff6ad92b541e10800000000000000
+      internalID: 2167457555988607993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 335
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b407aac64d9b850800000000000000
+      internalID: 6393374709210172284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 325
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6217e3eed5863b470800000000000000
+      internalID: 8409179681869164838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 333
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42144b0debb07340800000000000000
+      internalID: 4859590624703418958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 279
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402be40d7a864e360800000000000000
+      internalID: 7197993174408540676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 307
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eea5664923e3e890800000000000000
+      internalID: -7429845193816953111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 319
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b237b2fb5a21f7bb0800000000000000
+      internalID: -4936206163488574677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 335
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d274c2c24b43dd0800000000000000
+      internalID: -2507180990724100751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 318
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dadbbf427f34640800000000000000
+      internalID: 5063162144308964681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509eb95a39656b30800000000000000
+      internalID: 4279942720220205147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_32
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 313
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9490ce948c9e34080800000000000000
+      internalID: -9204256166972225207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 331
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb71643ced8981b00800000000000000
+      internalID: 799557016384575423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_34
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 335
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2426254ebe196b260800000000000000
+      internalID: 7113033103812223554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 315
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeadfa324283a8c0800000000000000
+      internalID: -3989201623950971162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 323
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a17c51dbf705ccf0800000000000000
+      internalID: -232771027609030240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 323
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede1b97147473c760800000000000000
+      internalID: 7476947848326225630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 301
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338cf74519718ac90800000000000000
+      internalID: -7158445694750046157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 292
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c28728d9b6f24410800000000000000
+      internalID: 1460000507277312708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_40
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 320
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b0ddcab4d7bf4a0800000000000000
+      internalID: -6558510668358808767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ddf93d12795870800000000000000
+      internalID: 8672088027331156182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 292
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763142de68c405ce0800000000000000
+      internalID: -1418549740233813145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 293
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413ae825c0e718a60800000000000000
+      internalID: 7674553831405822740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 288
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837b59abbefba2900800000000000000
+      internalID: 660551314531792696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 290
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27674c5b2420df40800000000000000
+      internalID: 5751136492802500398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 281
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ff13718007c280800000000000000
+      internalID: -9023242772431244425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 296
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c06c1093c10c9c0800000000000000
+      internalID: -3909093445389120372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_48
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 303
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f6e20b9d6864c0800000000000000
+      internalID: -4294061732161717863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_49
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 305
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcf1d5ba53af5570800000000000000
+      internalID: 8457658235217902813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 263
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293114556fc5d8a0800000000000000
+      internalID: -6280886071189227231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 202
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3b85f1e929ca4e0800000000000000
+      internalID: -1969037729239354426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 277
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ca71bf072f7e2f0800000000000000
+      internalID: -943519029847938045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 281
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d20bbb24e092150800000000000000
+      internalID: 5848221270896815501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 275
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dc3e9b6caa97ee0800000000000000
+      internalID: -1262790450001752724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 223
+        width: 26
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d35ba06c06d9db0800000000000000
+      internalID: -4783560825498157734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 277
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcb2a6705e2f7e40800000000000000
+      internalID: 5656290580123270353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 243
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ff00515add50e0800000000000000
+      internalID: -2279425793609173893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_58
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 286
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0cca22b530dbd40800000000000000
+      internalID: 5601637201477419261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 283
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d18b8c6406f2290800000000000000
+      internalID: -7913000163135185624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_60
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 286
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff5d539cf502280800000000000000
+      internalID: -9070144331727896666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 266
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8badbcdf05d700ca0800000000000000
+      internalID: -6052700112377095496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 257
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7cd1904de7b13f0800000000000000
+      internalID: -929009448970762300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 243
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb4086b765b689f0800000000000000
+      internalID: -466486054338147333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb6803098963e740800000000000000
+      internalID: 5180100033588521906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 214
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ba4edbb4f90520800000000000000
+      internalID: 2668933341919229432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009bb53d63affb1d0800000000000000
+      internalID: -3332670085849696000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 261
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad48535837bdb1140800000000000000
+      internalID: 4691584726039102682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_68
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 266
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187b7ca8827bb0340800000000000000
+      internalID: 4831156410039908225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_69
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 239
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe94b41eb8ac750800000000000000
+      internalID: 6326022426342321141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 237
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22598c331f2c0a0800000000000000
+      internalID: -6862657677448371487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 251
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1899ccd3494c92110800000000000000
+      internalID: 1236735713660934529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 237
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3e8b19bddb47bb0800000000000000
+      internalID: -4939114140578290765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 235
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56348be2f0db0d060800000000000000
+      internalID: 6976283695702885221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665163a223c31f6d0800000000000000
+      internalID: -2958517294051486362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 238
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e98ec2855e3795a0800000000000000
+      internalID: -6514669798980417055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 249
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bcc82a7e52c710800000000000000
+      internalID: 1712034687117735546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_77
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 238
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a350e6d90e9b5a460800000000000000
+      internalID: 7252407149315097914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_78
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 241
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856c86d44fdfc990800000000000000
+      internalID: -7363421378977176178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_79
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 220
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fddf068f4c1c3e0800000000000000
+      internalID: -2035128985536569478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_80
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 235
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ca416075437fa0800000000000000
+      internalID: -5804219145779493244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 215
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93bedde811287990800000000000000
+      internalID: -7388118797747571814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 232
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cad51459c2f6140800000000000000
+      internalID: 4715036354438605891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 236
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509c9b02d91db8f0800000000000000
+      internalID: -523233591776472996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_84
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a786ffad2e2a97960800000000000000
+      internalID: 7600284941384902778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 238
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b701679bf3a8cd5a0800000000000000
+      internalID: -6495164556276002693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 186
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a077566dae2830800000000000000
+      internalID: 4048363770117924905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 230
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dbc59cd1008dca0800000000000000
+      internalID: -5992039176284095105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_88
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 175
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f665f2d64a149b40800000000000000
+      internalID: 5446006740887103222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 223
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c06b1562cd7f0900800000000000000
+      internalID: 652878744865431748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9233d61b3b0c30800000000000000
+      internalID: 4326616836238122951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 204
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cd09f2a950c2d10800000000000000
+      internalID: 2102061285856304188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_92
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 205
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282bfc80fe71692b0800000000000000
+      internalID: -5578244773039328638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_93
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 214
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bfb0ffc4c6cb980800000000000000
+      internalID: -8521817316939531442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db4bbe2de04bfd0800000000000000
+      internalID: -2327218808383292042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_95
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 187
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58143f1dc1248e1d0800000000000000
+      internalID: -3321332033636843131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_96
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 190
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fbf6f699439f5b0800000000000000
+      internalID: -5334174450039406728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_97
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 196
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442fc72fb8cf9b4d0800000000000000
+      internalID: -3118183588978429372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 190
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26912faf047478a0800000000000000
+      internalID: -6308289567327676886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f38c6d1846faa20800000000000000
+      internalID: 3075787579334344594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_100
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 183
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5e97daa473db70800000000000000
+      internalID: 8922603563861826100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 171
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b298688b42f41650800000000000000
+      internalID: 6202848993021039289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 165
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f580f9caaea9880800000000000000
+      internalID: -8603306111014510838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 161
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9f9ab140205c0b0800000000000000
+      internalID: -5709154735954986527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_104
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 169
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f26f81dab296f520800000000000000
+      internalID: 2735535154751562485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 156
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932bce6d300df5e0800000000000000
+      internalID: -1874341606064446561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_106
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 140
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41185344da4e0d30800000000000000
+      internalID: 4399536161510920522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_107
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb4ce2a181ce7b00800000000000000
+      internalID: 828312144011086829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_108
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 142
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e4b5030b56b9f0800000000000000
+      internalID: -453074643965385534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_109
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc36de4f7a77a2380800000000000000
+      internalID: -8995245742466702388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 123
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc16c47e5ea6e20800000000000000
+      internalID: 3344738454857698293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 134
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9f0744be26831d0800000000000000
+      internalID: -3370835558481725016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 88
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e305ff11df65e0800000000000000
+      internalID: -1914081381424306816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_113
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 110
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284a253171e2e0150800000000000000
+      internalID: 5840656443389420674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_114
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 134
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e7f4d9b1c16e3a0800000000000000
+      internalID: -6636586095954919880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_115
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 125
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d4b0953f4d80280800000000000000
+      internalID: -9076770907329180366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 132
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd91f8b5d8a3df9d0800000000000000
+      internalID: -2738968619570488867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_117
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 139
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012853129709a7800800000000000000
+      internalID: 610959549384720912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d90f534863a556e0800000000000000
+      internalID: -1849392403763492400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67308d45597d5abe0800000000000000
+      internalID: -1466529067265686666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b0ca14a856ca80800000000000000
+      internalID: -8446966589240069286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_121
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 95
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a6f03131aa1560800000000000000
+      internalID: 7285312579872137901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_122
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 110
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c8c63168774a70800000000000000
+      internalID: 8811143554899952670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_123
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 102
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af589594bcad59c0800000000000000
+      internalID: -3936800607648063584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_124
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 79
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d349a3925ac25c0800000000000000
+      internalID: -4238831552767443570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_125
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 99
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4af154a9a202b0800000000000000
+      internalID: -5619742861789868915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 99
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a45a5ff0419bc0800000000000000
+      internalID: -3778167146910800176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_127
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3d218b8d5954f00800000000000000
+      internalID: 1100450441995670468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_128
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 108
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037b0e7705a0a5fe0800000000000000
+      internalID: -1199635010015938768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 80
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56ba403e047cd660800000000000000
+      internalID: 7411926691033560668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_130
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a14ff19147a5b70800000000000000
+      internalID: 8888544465828190858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_131
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 93
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e7700b2b4c7f60800000000000000
+      internalID: 8033378483385655754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_132
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 83
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400214f8c770f52a0800000000000000
+      internalID: -6746665485216964604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_133
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 83
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f55a5b63c8fcf40800000000000000
+      internalID: 5750969415779049335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_134
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 82
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9175f3386a3af8140800000000000000
+      internalID: 4724174469696804633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 78
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be500d2cc2847f0a0800000000000000
+      internalID: -6847925351309376021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_136
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 56
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae796dad9f274ff50800000000000000
+      internalID: 6914277745364473834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_137
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dba4b00bdf513e0800000000000000
+      internalID: -2083480320043467411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_138
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 46
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35bf270f1b7d0a0800000000000000
+      internalID: -6856816261368949778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_139
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 51
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986f2506e37a2690800000000000000
+      internalID: -7626155587231848298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8445f545641ffd0800000000000000
+      internalID: -2309987805673797392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_141
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 20
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbea2c3e3d22a550800000000000000
+      internalID: 6170544184771668956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 25
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6001aeb27a2240800000000000000
+      internalID: 4767749318595603578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_143
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c09a73076192a2a0800000000000000
+      internalID: -6727655021712076603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_144
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 21
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733b6180664f57cb0800000000000000
+      internalID: -4866715103244405961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b85fc01e59cd740800000000000000
+      internalID: 5178178465386826616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_146
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 11
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37d264bf67a63860800000000000000
+      internalID: 7509373526896465722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_147
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc3771a04ca77510800000000000000
+      internalID: 1546894390611885236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_148
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf554ef49670a0580800000000000000
+      internalID: -8860261168004704772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_c-stalactites_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833fa386597058b40800000000000000
+      internalID: 5441764063027327800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_c-stalactites_0: 357466853720006613
+      Premade_c-stalactites_1: -6271343334258777644
+      Premade_c-stalactites_10: -3791461876741069446
+      Premade_c-stalactites_100: 8922603563861826100
+      Premade_c-stalactites_101: 6202848993021039289
+      Premade_c-stalactites_102: -8603306111014510838
+      Premade_c-stalactites_103: -5709154735954986527
+      Premade_c-stalactites_104: 2735535154751562485
+      Premade_c-stalactites_105: -1874341606064446561
+      Premade_c-stalactites_106: 4399536161510920522
+      Premade_c-stalactites_107: 828312144011086829
+      Premade_c-stalactites_108: -453074643965385534
+      Premade_c-stalactites_109: -8995245742466702388
+      Premade_c-stalactites_11: -4813008425924374078
+      Premade_c-stalactites_110: 3344738454857698293
+      Premade_c-stalactites_111: -3370835558481725016
+      Premade_c-stalactites_112: -1914081381424306816
+      Premade_c-stalactites_113: 5840656443389420674
+      Premade_c-stalactites_114: -6636586095954919880
+      Premade_c-stalactites_115: -9076770907329180366
+      Premade_c-stalactites_116: -2738968619570488867
+      Premade_c-stalactites_117: 610959549384720912
+      Premade_c-stalactites_118: -1849392403763492400
+      Premade_c-stalactites_119: -1466529067265686666
+      Premade_c-stalactites_12: 3551173861503387380
+      Premade_c-stalactites_120: -8446966589240069286
+      Premade_c-stalactites_121: 7285312579872137901
+      Premade_c-stalactites_122: 8811143554899952670
+      Premade_c-stalactites_123: -3936800607648063584
+      Premade_c-stalactites_124: -4238831552767443570
+      Premade_c-stalactites_125: -5619742861789868915
+      Premade_c-stalactites_126: -3778167146910800176
+      Premade_c-stalactites_127: 1100450441995670468
+      Premade_c-stalactites_128: -1199635010015938768
+      Premade_c-stalactites_129: 7411926691033560668
+      Premade_c-stalactites_13: 2013249086866080184
+      Premade_c-stalactites_130: 8888544465828190858
+      Premade_c-stalactites_131: 8033378483385655754
+      Premade_c-stalactites_132: -6746665485216964604
+      Premade_c-stalactites_133: 5750969415779049335
+      Premade_c-stalactites_134: 4724174469696804633
+      Premade_c-stalactites_135: -6847925351309376021
+      Premade_c-stalactites_136: 6914277745364473834
+      Premade_c-stalactites_137: -2083480320043467411
+      Premade_c-stalactites_138: -6856816261368949778
+      Premade_c-stalactites_139: -7626155587231848298
+      Premade_c-stalactites_14: 3254664304858235049
+      Premade_c-stalactites_140: -2309987805673797392
+      Premade_c-stalactites_141: 6170544184771668956
+      Premade_c-stalactites_142: 4767749318595603578
+      Premade_c-stalactites_143: -6727655021712076603
+      Premade_c-stalactites_144: -4866715103244405961
+      Premade_c-stalactites_145: 5178178465386826616
+      Premade_c-stalactites_146: 7509373526896465722
+      Premade_c-stalactites_147: 1546894390611885236
+      Premade_c-stalactites_148: -8860261168004704772
+      Premade_c-stalactites_149: 5441764063027327800
+      Premade_c-stalactites_15: -3050488325476962716
+      Premade_c-stalactites_16: 104350660709706703
+      Premade_c-stalactites_17: 3351272697090408036
+      Premade_c-stalactites_18: 3768428101745242564
+      Premade_c-stalactites_19: -8442968222376566859
+      Premade_c-stalactites_2: -4266149311186111401
+      Premade_c-stalactites_20: -9016373733854731345
+      Premade_c-stalactites_21: 8725093238112642458
+      Premade_c-stalactites_22: 2167457555988607993
+      Premade_c-stalactites_23: 6393374709210172284
+      Premade_c-stalactites_24: 8409179681869164838
+      Premade_c-stalactites_25: 4859590624703418958
+      Premade_c-stalactites_26: 7197993174408540676
+      Premade_c-stalactites_27: -7429845193816953111
+      Premade_c-stalactites_28: -4936206163488574677
+      Premade_c-stalactites_29: -2507180990724100751
+      Premade_c-stalactites_3: -1673926367185092045
+      Premade_c-stalactites_30: 5063162144308964681
+      Premade_c-stalactites_31: 4279942720220205147
+      Premade_c-stalactites_32: -9204256166972225207
+      Premade_c-stalactites_33: 799557016384575423
+      Premade_c-stalactites_34: 7113033103812223554
+      Premade_c-stalactites_35: -3989201623950971162
+      Premade_c-stalactites_36: -232771027609030240
+      Premade_c-stalactites_37: 7476947848326225630
+      Premade_c-stalactites_38: -7158445694750046157
+      Premade_c-stalactites_39: 1460000507277312708
+      Premade_c-stalactites_4: 3084425868233000548
+      Premade_c-stalactites_40: -6558510668358808767
+      Premade_c-stalactites_41: 8672088027331156182
+      Premade_c-stalactites_42: -1418549740233813145
+      Premade_c-stalactites_43: 7674553831405822740
+      Premade_c-stalactites_44: 660551314531792696
+      Premade_c-stalactites_45: 5751136492802500398
+      Premade_c-stalactites_46: -9023242772431244425
+      Premade_c-stalactites_47: -3909093445389120372
+      Premade_c-stalactites_48: -4294061732161717863
+      Premade_c-stalactites_49: 8457658235217902813
+      Premade_c-stalactites_5: -3396648075788787810
+      Premade_c-stalactites_50: -6280886071189227231
+      Premade_c-stalactites_51: -1969037729239354426
+      Premade_c-stalactites_52: -943519029847938045
+      Premade_c-stalactites_53: 5848221270896815501
+      Premade_c-stalactites_54: -1262790450001752724
+      Premade_c-stalactites_55: -4783560825498157734
+      Premade_c-stalactites_56: 5656290580123270353
+      Premade_c-stalactites_57: -2279425793609173893
+      Premade_c-stalactites_58: 5601637201477419261
+      Premade_c-stalactites_59: -7913000163135185624
+      Premade_c-stalactites_6: 4645891946332692907
+      Premade_c-stalactites_60: -9070144331727896666
+      Premade_c-stalactites_61: -6052700112377095496
+      Premade_c-stalactites_62: -929009448970762300
+      Premade_c-stalactites_63: -466486054338147333
+      Premade_c-stalactites_64: 5180100033588521906
+      Premade_c-stalactites_65: 2668933341919229432
+      Premade_c-stalactites_66: -3332670085849696000
+      Premade_c-stalactites_67: 4691584726039102682
+      Premade_c-stalactites_68: 4831156410039908225
+      Premade_c-stalactites_69: 6326022426342321141
+      Premade_c-stalactites_7: -8111382577446007846
+      Premade_c-stalactites_70: -6862657677448371487
+      Premade_c-stalactites_71: 1236735713660934529
+      Premade_c-stalactites_72: -4939114140578290765
+      Premade_c-stalactites_73: 6976283695702885221
+      Premade_c-stalactites_74: -2958517294051486362
+      Premade_c-stalactites_75: -6514669798980417055
+      Premade_c-stalactites_76: 1712034687117735546
+      Premade_c-stalactites_77: 7252407149315097914
+      Premade_c-stalactites_78: -7363421378977176178
+      Premade_c-stalactites_79: -2035128985536569478
+      Premade_c-stalactites_8: -1460569551429987743
+      Premade_c-stalactites_80: -5804219145779493244
+      Premade_c-stalactites_81: -7388118797747571814
+      Premade_c-stalactites_82: 4715036354438605891
+      Premade_c-stalactites_83: -523233591776472996
+      Premade_c-stalactites_84: 7600284941384902778
+      Premade_c-stalactites_85: -6495164556276002693
+      Premade_c-stalactites_86: 4048363770117924905
+      Premade_c-stalactites_87: -5992039176284095105
+      Premade_c-stalactites_88: 5446006740887103222
+      Premade_c-stalactites_89: 652878744865431748
+      Premade_c-stalactites_9: 5175176864211727764
+      Premade_c-stalactites_90: 4326616836238122951
+      Premade_c-stalactites_91: 2102061285856304188
+      Premade_c-stalactites_92: -5578244773039328638
+      Premade_c-stalactites_93: -8521817316939531442
+      Premade_c-stalactites_94: -2327218808383292042
+      Premade_c-stalactites_95: -3321332033636843131
+      Premade_c-stalactites_96: -5334174450039406728
+      Premade_c-stalactites_97: -3118183588978429372
+      Premade_c-stalactites_98: -6308289567327676886
+      Premade_c-stalactites_99: 3075787579334344594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
