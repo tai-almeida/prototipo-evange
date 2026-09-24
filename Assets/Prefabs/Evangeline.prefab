@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 799376895392497345}
   - component: {fileID: 892163069740989887}
   - component: {fileID: 8154056966180396873}
+  - component: {fileID: 6621376198726038682}
   m_Layer: 0
   m_Name: Evangeline
   m_TagString: Untagged
@@ -74,7 +75,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4260682671960547854}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -205,6 +206,43 @@ MonoBehaviour:
   targetLayers:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!70 &6621376198726038682
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4260682671960547854}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.1533252, y: 4.302513}
+  m_Size: {x: 2.9963796, y: 3.9574337}
+  m_Direction: 0
 --- !u!1 &5707585759282594672
 GameObject:
   m_ObjectHideFlags: 0
@@ -523,7 +561,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 31e387a6e29a34303b1383b7851643e2, type: 2}
     - target: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_SortingLayer
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_SortingLayerID
@@ -543,7 +581,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_LocalPosition.z
