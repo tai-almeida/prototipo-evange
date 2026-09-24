@@ -11,23 +11,33 @@ public class EvangelineActions : MonoBehaviour
     public event Action OnTakeDamageTriggered;
     public event Action OnDieTriggered;
 
+    public event Action OnDashTriggered;
+
     private void Update()
     {
-        if (Mouse.current == null) return;
-
-        if (Mouse.current.leftButton.wasPressedThisFrame)
+        // cada dispositivo e checado separado, para a falta de um nao bloquear o outro
+        if (Mouse.current != null)
         {
-            OnAttack();
+            if (Mouse.current.leftButton.wasPressedThisFrame)
+            {
+                OnAttack();
+            }
+
+            if (Mouse.current.rightButton.wasPressedThisFrame)
+            {
+                OnCast();
+            }
         }
 
-        if (Mouse.current.rightButton.wasPressedThisFrame)
+        if (Keyboard.current != null && Keyboard.current.spaceKey.wasPressedThisFrame)
         {
-            OnCast();
+            OnDash();
         }
     }
 
     public void OnAttack() => OnAttackTriggered?.Invoke();
     public void OnCast() => OnCastTriggered?.Invoke();
+    public void OnDash() => OnDashTriggered?.Invoke();
     public void TakeDamage() => OnTakeDamageTriggered?.Invoke();
     public void Die() => OnDieTriggered?.Invoke();
 }

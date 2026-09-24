@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 799376895392497345}
   - component: {fileID: 892163069740989887}
   - component: {fileID: 8154056966180396873}
+  - component: {fileID: 6567104423498749788}
   m_Layer: 0
   m_Name: Evangeline
   m_TagString: Untagged
@@ -126,6 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EvangelineMovement
   moveSpeed: 5
+  dash: {fileID: 6567104423498749788}
 --- !u!114 &2870787450928035737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -205,6 +207,23 @@ MonoBehaviour:
   targetLayers:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &6567104423498749788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4260682671960547854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a81d7fed506754e82a71b1928e881729, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EvangelineDash
+  actions: {fileID: 2870787450928035737}
+  movement: {fileID: 1287063138836036477}
+  distance: 6
+  duration: 0.2
+  cooldown: 0.5
 --- !u!1 &5707585759282594672
 GameObject:
   m_ObjectHideFlags: 0
@@ -523,7 +542,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 31e387a6e29a34303b1383b7851643e2, type: 2}
     - target: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_SortingLayer
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_SortingLayerID
@@ -584,10 +603,18 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -2253911629886400664, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1368295538663128146}
+    - targetCorrespondingSourceObject: {fileID: -2253911629886400664, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5055509286879261491}
   m_SourcePrefab: {fileID: -8435245712485981826, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
 --- !u!95 &1370814643283310271 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 1160356261127867848, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
+  m_PrefabInstance: {fileID: 224183242346167159}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &3551387681815554963 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
   m_PrefabInstance: {fileID: 224183242346167159}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &7179874876706827295 stripped
@@ -610,6 +637,21 @@ MonoBehaviour:
   movementScript: {fileID: 1287063138836036477}
   wandAttack: {fileID: 8154056966180396873}
   animator: {fileID: 1370814643283310271}
+--- !u!114 &5055509286879261491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7179874876706827295}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29c4c83f01774e4abac9656ddf8fed2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DashVisualizer
+  dash: {fileID: 6567104423498749788}
+  spriteRenderer: {fileID: 3551387681815554963}
+  alpha: 0.35
 --- !u!4 &7947147619461694586 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
