@@ -34,7 +34,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.65, y: 0.65, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7947147619461694586}
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95d9ad00fef0a406aa7d73733530acf5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EvangelineMovement
-  moveSpeed: 5
+  moveSpeed: 10
 --- !u!114 &2870787450928035737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -561,7 +561,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 31e387a6e29a34303b1383b7851643e2, type: 2}
     - target: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_SortingLayer
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3626916397498700004, guid: 21444f1cb0f504b3ead21d7382fba03d, type: 3}
       propertyPath: m_SortingLayerID
