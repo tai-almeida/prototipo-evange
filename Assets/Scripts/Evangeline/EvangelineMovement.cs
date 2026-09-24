@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class EvangelineMovement : MonoBehaviour
 {
     // esse script cuida apenas da leitura do inputo e dispara um evento para informar a direcao e velocidade
-    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float moveSpeed = 15f;
 
     public event Action<Vector2> OnMoveVectorChanged;
 

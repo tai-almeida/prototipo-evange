@@ -57,8 +57,8 @@ public class DamageFeedback : MonoBehaviour
         var text = popup.AddComponent<TextMesh>();
         text.text = "-" + amount;
         text.font = font;
-        text.fontSize = 64;
-        text.characterSize = 0.05f;
+        text.fontSize = 128;
+        text.characterSize = 0.1f;
         text.anchor = TextAnchor.MiddleCenter;
         var textRenderer = popup.GetComponent<MeshRenderer>();
         textRenderer.material = font.material;
