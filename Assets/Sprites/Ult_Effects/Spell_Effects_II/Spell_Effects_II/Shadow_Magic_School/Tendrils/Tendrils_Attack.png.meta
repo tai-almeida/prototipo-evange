@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: c54916f5390af4f2f833202d78c17c79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5341650549020061112
+    second: Tendrils_Attack_0
+  - first:
+      213: -1799440305476175992
+    second: Tendrils_Attack_1
+  - first:
+      213: 5987793619746325658
+    second: Tendrils_Attack_2
+  - first:
+      213: 5166103809492698374
+    second: Tendrils_Attack_3
+  - first:
+      213: 6428126933166411898
+    second: Tendrils_Attack_4
+  - first:
+      213: -447115771160215288
+    second: Tendrils_Attack_5
+  - first:
+      213: 6284529481404342932
+    second: Tendrils_Attack_6
+  - first:
+      213: -3297125491581066268
+    second: Tendrils_Attack_7
+  - first:
+      213: -6314419690849091574
+    second: Tendrils_Attack_8
+  - first:
+      213: 2300244678609140703
+    second: Tendrils_Attack_9
+  - first:
+      213: -2459250180473701841
+    second: Tendrils_Attack_10
+  - first:
+      213: 5022152105126813541
+    second: Tendrils_Attack_11
+  - first:
+      213: -5421503438296892306
+    second: Tendrils_Attack_12
+  - first:
+      213: 1800395717096773539
+    second: Tendrils_Attack_13
+  - first:
+      213: -6583951639891556761
+    second: Tendrils_Attack_14
+  - first:
+      213: -7882131763993135517
+    second: Tendrils_Attack_15
+  - first:
+      213: 2464421188350281641
+    second: Tendrils_Attack_16
+  - first:
+      213: 8823774125553360259
+    second: Tendrils_Attack_17
+  - first:
+      213: -4822844947050452108
+    second: Tendrils_Attack_18
+  - first:
+      213: -3006743148313963030
+    second: Tendrils_Attack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tendrils_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 113
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd6c908fda512a40800000000000000
+      internalID: 5341650549020061112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 161
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877295739a1707e0800000000000000
+      internalID: -1799440305476175992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94845d829ae81350800000000000000
+      internalID: 5987793619746325658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 17
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ca952b00b1b740800000000000000
+      internalID: 5166103809492698374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705186536b453950800000000000000
+      internalID: 6428126933166411898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801458633968bc9f0800000000000000
+      internalID: -447115771160215288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 113
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49263973442273750800000000000000
+      internalID: 6284529481404342932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3ec6695d14e32d0800000000000000
+      internalID: -3297125491581066268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 113
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0045341fbcae58a0800000000000000
+      internalID: -6314419690849091574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 17
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbfaf4195c1cef10800000000000000
+      internalID: 2300244678609140703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 161
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2abc039dfcfeddd0800000000000000
+      internalID: -2459250180473701841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 49
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f501a2bb442b540800000000000000
+      internalID: 5022152105126813541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c31c3e853f2c4b0800000000000000
+      internalID: -5421503438296892306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 161
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a710b4ad5a4cf810800000000000000
+      internalID: 1800395717096773539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 17
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766c9e5edda11a4a0800000000000000
+      internalID: -6583951639891556761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366bd560cea0d9290800000000000000
+      internalID: -7882131763993135517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 113
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a780948302633220800000000000000
+      internalID: 2464421188350281641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d14eb11d7547a70800000000000000
+      internalID: 8823774125553360259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 50
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b254cb210d11db0800000000000000
+      internalID: -4822844947050452108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tendrils_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae518e97907e546d0800000000000000
+      internalID: -3006743148313963030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tendrils_Attack_0: 5341650549020061112
+      Tendrils_Attack_1: -1799440305476175992
+      Tendrils_Attack_10: -2459250180473701841
+      Tendrils_Attack_11: 5022152105126813541
+      Tendrils_Attack_12: -5421503438296892306
+      Tendrils_Attack_13: 1800395717096773539
+      Tendrils_Attack_14: -6583951639891556761
+      Tendrils_Attack_15: -7882131763993135517
+      Tendrils_Attack_16: 2464421188350281641
+      Tendrils_Attack_17: 8823774125553360259
+      Tendrils_Attack_18: -4822844947050452108
+      Tendrils_Attack_19: -3006743148313963030
+      Tendrils_Attack_2: 5987793619746325658
+      Tendrils_Attack_3: 5166103809492698374
+      Tendrils_Attack_4: 6428126933166411898
+      Tendrils_Attack_5: -447115771160215288
+      Tendrils_Attack_6: 6284529481404342932
+      Tendrils_Attack_7: -3297125491581066268
+      Tendrils_Attack_8: -6314419690849091574
+      Tendrils_Attack_9: 2300244678609140703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

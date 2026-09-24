@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 420cc648c866e4a5ab51d4dce5157c26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6904603839256042128
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_0
+  - first:
+      213: -3711892878727453149
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_1
+  - first:
+      213: -274193696752926516
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_2
+  - first:
+      213: -7399356569219044912
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_3
+  - first:
+      213: -6257972416249292767
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_4
+  - first:
+      213: 6856379237952337976
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_5
+  - first:
+      213: -1608536175823148451
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_6
+  - first:
+      213: -2868744661879729483
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_7
+  - first:
+      213: 4196714928909505062
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_8
+  - first:
+      213: -4391909184778825658
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_9
+  - first:
+      213: -6374146933344214435
+    second: Minifantasy_MagicAndSorceryFireExplosionThrowing_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a97a11c9412df50800000000000000
+      internalID: 6904603839256042128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e52fd715bc7cc0800000000000000
+      internalID: -3711892878727453149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00469194ed13cf0800000000000000
+      internalID: -274193696752926516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 11
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9ee3d5764305990800000000000000
+      internalID: -7399356569219044912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128944b5e373729a0800000000000000
+      internalID: -6257972416249292767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 18
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838338b1790c62f50800000000000000
+      internalID: 6856379237952337976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a22b7ded45da9e0800000000000000
+      internalID: -1608536175823148451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25c55edeb2038d0800000000000000
+      internalID: -2868744661879729483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622da312ef9bd3a30800000000000000
+      internalID: 4196714928909505062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6409b73adddcc03c0800000000000000
+      internalID: -4391909184778825658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireExplosionThrowing_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d526fd3c22b7a87a0800000000000000
+      internalID: -6374146933344214435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_0: 6904603839256042128
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_1: -3711892878727453149
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_10: -6374146933344214435
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_2: -274193696752926516
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_3: -7399356569219044912
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_4: -6257972416249292767
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_5: 6856379237952337976
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_6: -1608536175823148451
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_7: -2868744661879729483
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_8: 4196714928909505062
+      Minifantasy_MagicAndSorceryFireExplosionThrowing_9: -4391909184778825658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

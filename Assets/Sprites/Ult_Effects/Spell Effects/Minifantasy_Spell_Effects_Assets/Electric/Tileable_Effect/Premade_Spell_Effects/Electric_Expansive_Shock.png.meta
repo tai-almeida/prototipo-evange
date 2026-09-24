@@ -1,0 +1,3614 @@
+fileFormatVersion: 2
+guid: bbfdab2f7cc334b71a25e56a2fa08814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7021359413861459355
+    second: Electric_Expansive_Shock_0
+  - first:
+      213: 7478581215424321624
+    second: Electric_Expansive_Shock_1
+  - first:
+      213: -8189558063157037965
+    second: Electric_Expansive_Shock_2
+  - first:
+      213: -6661121061247255727
+    second: Electric_Expansive_Shock_3
+  - first:
+      213: -3895048615238883954
+    second: Electric_Expansive_Shock_4
+  - first:
+      213: 2117378107675215938
+    second: Electric_Expansive_Shock_5
+  - first:
+      213: 8911230039853562446
+    second: Electric_Expansive_Shock_6
+  - first:
+      213: 4973088866169183664
+    second: Electric_Expansive_Shock_7
+  - first:
+      213: -4555407415999127958
+    second: Electric_Expansive_Shock_8
+  - first:
+      213: 4255424054880731734
+    second: Electric_Expansive_Shock_9
+  - first:
+      213: 7410344364523535837
+    second: Electric_Expansive_Shock_10
+  - first:
+      213: 1224482415127285258
+    second: Electric_Expansive_Shock_11
+  - first:
+      213: 3490574844851880154
+    second: Electric_Expansive_Shock_12
+  - first:
+      213: 7956620187921875796
+    second: Electric_Expansive_Shock_13
+  - first:
+      213: 8747259872327474116
+    second: Electric_Expansive_Shock_14
+  - first:
+      213: -4748823608293790936
+    second: Electric_Expansive_Shock_15
+  - first:
+      213: -5966613024966383232
+    second: Electric_Expansive_Shock_16
+  - first:
+      213: -4994821546862360850
+    second: Electric_Expansive_Shock_17
+  - first:
+      213: 7015497431344428234
+    second: Electric_Expansive_Shock_18
+  - first:
+      213: 8724000908739788195
+    second: Electric_Expansive_Shock_19
+  - first:
+      213: -4936630654899287063
+    second: Electric_Expansive_Shock_20
+  - first:
+      213: -3473626776686310784
+    second: Electric_Expansive_Shock_21
+  - first:
+      213: -5947540187741521881
+    second: Electric_Expansive_Shock_22
+  - first:
+      213: -2062018789345729404
+    second: Electric_Expansive_Shock_23
+  - first:
+      213: 7466776231175636215
+    second: Electric_Expansive_Shock_24
+  - first:
+      213: 6266385049994782791
+    second: Electric_Expansive_Shock_25
+  - first:
+      213: -8998415415856422587
+    second: Electric_Expansive_Shock_26
+  - first:
+      213: 4385428187311880615
+    second: Electric_Expansive_Shock_27
+  - first:
+      213: 4079244840320967348
+    second: Electric_Expansive_Shock_28
+  - first:
+      213: 746286717385897513
+    second: Electric_Expansive_Shock_29
+  - first:
+      213: -2710178008818524195
+    second: Electric_Expansive_Shock_30
+  - first:
+      213: -7408910751616231906
+    second: Electric_Expansive_Shock_31
+  - first:
+      213: -2999431161923181608
+    second: Electric_Expansive_Shock_32
+  - first:
+      213: -7065361494225710080
+    second: Electric_Expansive_Shock_33
+  - first:
+      213: 8757441506322919690
+    second: Electric_Expansive_Shock_34
+  - first:
+      213: -852200222228493712
+    second: Electric_Expansive_Shock_35
+  - first:
+      213: 4752351900293502879
+    second: Electric_Expansive_Shock_36
+  - first:
+      213: -6403197282889406577
+    second: Electric_Expansive_Shock_37
+  - first:
+      213: 6561979172202168300
+    second: Electric_Expansive_Shock_38
+  - first:
+      213: 6927769393854165504
+    second: Electric_Expansive_Shock_39
+  - first:
+      213: 2491659919002533986
+    second: Electric_Expansive_Shock_40
+  - first:
+      213: 8427477761751662514
+    second: Electric_Expansive_Shock_41
+  - first:
+      213: -6299172107580335740
+    second: Electric_Expansive_Shock_42
+  - first:
+      213: -1808207819645601571
+    second: Electric_Expansive_Shock_43
+  - first:
+      213: -5239327376460723659
+    second: Electric_Expansive_Shock_44
+  - first:
+      213: -3553889094266695157
+    second: Electric_Expansive_Shock_45
+  - first:
+      213: 6452286629871616212
+    second: Electric_Expansive_Shock_46
+  - first:
+      213: -4648382826274804709
+    second: Electric_Expansive_Shock_47
+  - first:
+      213: -8323633528212907360
+    second: Electric_Expansive_Shock_48
+  - first:
+      213: 4333235573640251976
+    second: Electric_Expansive_Shock_49
+  - first:
+      213: 3251281821002170270
+    second: Electric_Expansive_Shock_50
+  - first:
+      213: -7695584001828391514
+    second: Electric_Expansive_Shock_51
+  - first:
+      213: -1401653248777931808
+    second: Electric_Expansive_Shock_52
+  - first:
+      213: -3559578108937563893
+    second: Electric_Expansive_Shock_53
+  - first:
+      213: -4666073414854962586
+    second: Electric_Expansive_Shock_54
+  - first:
+      213: -7944665755880103090
+    second: Electric_Expansive_Shock_55
+  - first:
+      213: -1098628344118130563
+    second: Electric_Expansive_Shock_56
+  - first:
+      213: 6413486466307903418
+    second: Electric_Expansive_Shock_57
+  - first:
+      213: 1782797875926902116
+    second: Electric_Expansive_Shock_58
+  - first:
+      213: 7442680325739536771
+    second: Electric_Expansive_Shock_59
+  - first:
+      213: -2162600555016726637
+    second: Electric_Expansive_Shock_60
+  - first:
+      213: 3435628231446083465
+    second: Electric_Expansive_Shock_61
+  - first:
+      213: 1871517244712059122
+    second: Electric_Expansive_Shock_62
+  - first:
+      213: -8945749804107140752
+    second: Electric_Expansive_Shock_63
+  - first:
+      213: -3897226051182258455
+    second: Electric_Expansive_Shock_64
+  - first:
+      213: 8222330684246645470
+    second: Electric_Expansive_Shock_65
+  - first:
+      213: -9128335272053482018
+    second: Electric_Expansive_Shock_66
+  - first:
+      213: 728975575767306912
+    second: Electric_Expansive_Shock_67
+  - first:
+      213: -5491401963919295578
+    second: Electric_Expansive_Shock_68
+  - first:
+      213: 6306778369988201768
+    second: Electric_Expansive_Shock_69
+  - first:
+      213: -7342615389650428192
+    second: Electric_Expansive_Shock_70
+  - first:
+      213: 5608106112148303630
+    second: Electric_Expansive_Shock_71
+  - first:
+      213: -6921208122162142784
+    second: Electric_Expansive_Shock_72
+  - first:
+      213: -971980490417115956
+    second: Electric_Expansive_Shock_73
+  - first:
+      213: 8839894765006512961
+    second: Electric_Expansive_Shock_74
+  - first:
+      213: -2442171671394445682
+    second: Electric_Expansive_Shock_75
+  - first:
+      213: 232016008172812921
+    second: Electric_Expansive_Shock_76
+  - first:
+      213: 40114968920348517
+    second: Electric_Expansive_Shock_77
+  - first:
+      213: -8807076605773917968
+    second: Electric_Expansive_Shock_78
+  - first:
+      213: -1815339694186202569
+    second: Electric_Expansive_Shock_79
+  - first:
+      213: -3121764966419431861
+    second: Electric_Expansive_Shock_80
+  - first:
+      213: 8496185790734429416
+    second: Electric_Expansive_Shock_81
+  - first:
+      213: 5311453847753153578
+    second: Electric_Expansive_Shock_82
+  - first:
+      213: -1145190069955352593
+    second: Electric_Expansive_Shock_83
+  - first:
+      213: 4173655098319169502
+    second: Electric_Expansive_Shock_84
+  - first:
+      213: 6661082720487039405
+    second: Electric_Expansive_Shock_85
+  - first:
+      213: -6773556379764251194
+    second: Electric_Expansive_Shock_86
+  - first:
+      213: 1291263891393274850
+    second: Electric_Expansive_Shock_87
+  - first:
+      213: -2314566936717578450
+    second: Electric_Expansive_Shock_88
+  - first:
+      213: -5229785260125533613
+    second: Electric_Expansive_Shock_89
+  - first:
+      213: 7915504340853580041
+    second: Electric_Expansive_Shock_90
+  - first:
+      213: -5154195869714776959
+    second: Electric_Expansive_Shock_91
+  - first:
+      213: 1419948726928479253
+    second: Electric_Expansive_Shock_92
+  - first:
+      213: -4505403855058154932
+    second: Electric_Expansive_Shock_93
+  - first:
+      213: 8095537956088201011
+    second: Electric_Expansive_Shock_94
+  - first:
+      213: -3417125094024672322
+    second: Electric_Expansive_Shock_95
+  - first:
+      213: -8954106053161042332
+    second: Electric_Expansive_Shock_96
+  - first:
+      213: 654051841069691881
+    second: Electric_Expansive_Shock_97
+  - first:
+      213: 6248497768879912439
+    second: Electric_Expansive_Shock_98
+  - first:
+      213: -6422930739216746794
+    second: Electric_Expansive_Shock_99
+  - first:
+      213: 3616780857735820339
+    second: Electric_Expansive_Shock_100
+  - first:
+      213: -8826357317917504604
+    second: Electric_Expansive_Shock_101
+  - first:
+      213: 4983173776953708033
+    second: Electric_Expansive_Shock_102
+  - first:
+      213: 8202780178162722801
+    second: Electric_Expansive_Shock_103
+  - first:
+      213: -7555481763574151333
+    second: Electric_Expansive_Shock_104
+  - first:
+      213: 1291801354420930690
+    second: Electric_Expansive_Shock_105
+  - first:
+      213: 2436248305910637533
+    second: Electric_Expansive_Shock_106
+  - first:
+      213: 638168340698233440
+    second: Electric_Expansive_Shock_107
+  - first:
+      213: -4551778584548889411
+    second: Electric_Expansive_Shock_108
+  - first:
+      213: -5807021730631386296
+    second: Electric_Expansive_Shock_109
+  - first:
+      213: -5906480486999130850
+    second: Electric_Expansive_Shock_110
+  - first:
+      213: 9044070384270926622
+    second: Electric_Expansive_Shock_111
+  - first:
+      213: -5589868247377606997
+    second: Electric_Expansive_Shock_112
+  - first:
+      213: -4817013406704863598
+    second: Electric_Expansive_Shock_113
+  - first:
+      213: 5943967058166213882
+    second: Electric_Expansive_Shock_114
+  - first:
+      213: -7787878024680609302
+    second: Electric_Expansive_Shock_115
+  - first:
+      213: 1756438589964797500
+    second: Electric_Expansive_Shock_116
+  - first:
+      213: -5927082702190885775
+    second: Electric_Expansive_Shock_117
+  - first:
+      213: -5766304602342556704
+    second: Electric_Expansive_Shock_118
+  - first:
+      213: 5735430479751650153
+    second: Electric_Expansive_Shock_119
+  - first:
+      213: -979323134561719004
+    second: Electric_Expansive_Shock_120
+  - first:
+      213: -3372187042917530061
+    second: Electric_Expansive_Shock_121
+  - first:
+      213: 9199397016369065948
+    second: Electric_Expansive_Shock_122
+  - first:
+      213: -8842317700245111322
+    second: Electric_Expansive_Shock_123
+  - first:
+      213: -1961514412165601025
+    second: Electric_Expansive_Shock_124
+  - first:
+      213: 8972216894636894872
+    second: Electric_Expansive_Shock_125
+  - first:
+      213: -7963031050279922274
+    second: Electric_Expansive_Shock_126
+  - first:
+      213: -963653439892380800
+    second: Electric_Expansive_Shock_127
+  - first:
+      213: -3629704668419345564
+    second: Electric_Expansive_Shock_128
+  - first:
+      213: 5690911919857538883
+    second: Electric_Expansive_Shock_129
+  - first:
+      213: 5313777017433297595
+    second: Electric_Expansive_Shock_130
+  - first:
+      213: -3721385900987032506
+    second: Electric_Expansive_Shock_131
+  - first:
+      213: -1536405454141274554
+    second: Electric_Expansive_Shock_132
+  - first:
+      213: -6182070009401893290
+    second: Electric_Expansive_Shock_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_0
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95ae87af21e07160800000000000000
+      internalID: 7021359413861459355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85896410ef149c760800000000000000
+      internalID: 7478581215424321624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_2
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b61ae458d85e80800000000000000
+      internalID: -8189558063157037965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bfb7adfa1fe83a0800000000000000
+      internalID: -6661121061247255727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e852fc9dbe102f9c0800000000000000
+      internalID: -3895048615238883954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488b2bab20726d10800000000000000
+      internalID: 2117378107675215938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 15
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af24de18c0bab70800000000000000
+      internalID: 8911230039853562446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 31
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd678a9f5f30540800000000000000
+      internalID: 4973088866169183664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_8
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 31
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e113a3711f7c0c0800000000000000
+      internalID: -4555407415999127958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2
+        width: 120
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65281d7b1ad4e0b30800000000000000
+      internalID: 4255424054880731734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_10
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd3eb610f4d6d660800000000000000
+      internalID: 7410344364523535837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_11
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 48
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ecf5bd44c3ef010800000000000000
+      internalID: 1224482415127285258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_12
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 48
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad08f49d353017030800000000000000
+      internalID: 3490574844851880154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_13
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 48
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45309c9a7e79b6e60800000000000000
+      internalID: 7956620187921875796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_14
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb9b184282846970800000000000000
+      internalID: 8747259872327474116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_15
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82be8aea61ac81eb0800000000000000
+      internalID: -4748823608293790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_16
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 48
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e8a6f015523da0800000000000000
+      internalID: -5966613024966383232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_17
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee64dce4444deaab0800000000000000
+      internalID: -4994821546862360850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_18
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac433fd7ebd0c5160800000000000000
+      internalID: 7015497431344428234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_19
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 40
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adbe91da90e11970800000000000000
+      internalID: 8724000908739788195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_20
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb8c6323909d7bb0800000000000000
+      internalID: -4936630654899287063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_21
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ac355c9d23bcfc0800000000000000
+      internalID: -3473626776686310784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_22
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 47
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287e4ee5b7167da0800000000000000
+      internalID: -5947540187741521881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_23
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 47
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484eddc06dc3263e0800000000000000
+      internalID: -2062018789345729404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_24
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4cd8ceb615f9760800000000000000
+      internalID: 7466776231175636215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_25
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748e1c2900ca6f650800000000000000
+      internalID: 6266385049994782791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_26
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 39
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541aa7cdad43f1380800000000000000
+      internalID: -8998415415856422587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_27
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 47
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9b5bc83bb2cdc30800000000000000
+      internalID: 4385428187311880615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_28
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b22d2bc1936c9830800000000000000
+      internalID: 4079244840320967348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 18
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926f062c0d75b5a00800000000000000
+      internalID: 746286717385897513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_30
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 18
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfdb4ac573836ad0800000000000000
+      internalID: -2710178008818524195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_31
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 32
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16975dece24e2990800000000000000
+      internalID: -7408910751616231906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_32
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e459ff31ef56d0800000000000000
+      internalID: -2999431161923181608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00414f6a72bc2fd90800000000000000
+      internalID: -7065361494225710080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_34
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b3ada6aea88970800000000000000
+      internalID: 8757441506322919690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 10
+        width: 175
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07acf8cb9606c24f0800000000000000
+      internalID: -852200222228493712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_36
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 32
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9795a0dfdeb3f140800000000000000
+      internalID: 4752351900293502879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_37
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 32
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8761ae2ff54327a0800000000000000
+      internalID: -6403197282889406577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_38
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 32
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef3f9e4a45d01b50800000000000000
+      internalID: 6561979172202168300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_39
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 32
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002308e0f81642060800000000000000
+      internalID: 6927769393854165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_40
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2608935be77249220800000000000000
+      internalID: 2491659919002533986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_41
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 24
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf36b5af5a64f470800000000000000
+      internalID: 8427477761751662514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_42
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 7
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48910a4b758d498a0800000000000000
+      internalID: -6299172107580335740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_43
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 36
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b0fd7194f7e6e0800000000000000
+      internalID: -1808207819645601571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_44
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 39
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a4410a28b2a47b0800000000000000
+      internalID: -5239327376460723659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_45
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 32
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b025915b2bc0eaec0800000000000000
+      internalID: -3553889094266695157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_46
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0008211802b8950800000000000000
+      internalID: 6452286629871616212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_47
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 32
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2ddb9270ad7fb0800000000000000
+      internalID: -4648382826274804709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_48
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 15
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa965618638c7c80800000000000000
+      internalID: -8323633528212907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_49
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ac9e6bbceb22c30800000000000000
+      internalID: 4333235573640251976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_50
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff485179fde1d20800000000000000
+      internalID: 3251281821002170270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_51
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f6df8f1bc33590800000000000000
+      internalID: -7695584001828391514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3b158ebc35c8ce0800000000000000
+      internalID: -1401653248777931808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011582c196d99ec0800000000000000
+      internalID: -3559578108937563893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6621dab73f6ce3fb0800000000000000
+      internalID: -4666073414854962586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_55
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e436e817690eeb190800000000000000
+      internalID: -7944665755880103090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c9a08753e0c0f0800000000000000
+      internalID: -1098628344118130563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfce0406f7410950800000000000000
+      internalID: 6413486466307903418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_58
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465a1f4f835cdb810800000000000000
+      internalID: 1782797875926902116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_59
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 24
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816e70c256b94760800000000000000
+      internalID: 7442680325739536771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_60
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3975a2fc046ecf1e0800000000000000
+      internalID: -2162600555016726637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_61
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b5ab7cadcdaf20800000000000000
+      internalID: 3435628231446083465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_62
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f08412b407f8f910800000000000000
+      internalID: 1871517244712059122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_63
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 23
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0717ca423ff4ad380800000000000000
+      internalID: -8945749804107140752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_64
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e612e90e854ae9c0800000000000000
+      internalID: -3897226051182258455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_65
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad05c81369b1270800000000000000
+      internalID: 8222330684246645470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_66
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd559e1f63a15180800000000000000
+      internalID: -9128335272053482018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_67
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2db838c67dd1a00800000000000000
+      internalID: 728975575767306912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_68
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab35bd220f9ac3b0800000000000000
+      internalID: -5491401963919295578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_69
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 26
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d8344438d268750800000000000000
+      internalID: 6306778369988201768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_70
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eed199b43ac91a90800000000000000
+      internalID: -7342615389650428192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_71
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 26
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0feb45cbcef3dd40800000000000000
+      internalID: 5608106112148303630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_72
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 24
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c12afd02ede2ff90800000000000000
+      internalID: -6921208122162142784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_73
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 24
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce31cc4e4d282f0800000000000000
+      internalID: -971980490417115956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_74
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436c08f37d9daa70800000000000000
+      internalID: 8839894765006512961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_75
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e861306ddc9ab1ed0800000000000000
+      internalID: -2442171671394445682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a38558459483300800000000000000
+      internalID: 232016008172812921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_77
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 16
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5675ca80a548e8000800000000000000
+      internalID: 40114968920348517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_78
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0513b2d7af6c580800000000000000
+      internalID: -8807076605773917968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_79
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 15
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7d5d8a2e9ec6e0800000000000000
+      internalID: -1815339694186202569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_80
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e7f488d434da4d0800000000000000
+      internalID: -3121764966419431861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_81
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec627246f388e570800000000000000
+      internalID: 8496185790734429416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_82
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c553c122316b940800000000000000
+      internalID: 5311453847753153578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_83
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7a108e2b77b10f0800000000000000
+      internalID: -1145190069955352593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_84
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 16
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ef4ee23dcbe930800000000000000
+      internalID: 4173655098319169502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_85
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da16f1e317be07c50800000000000000
+      internalID: 6661082720487039405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_86
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 8
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c522164c5e7ff1a0800000000000000
+      internalID: -6773556379764251194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_87
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e8c5faad7be110800000000000000
+      internalID: 1291263891393274850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_88
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fa51852a101efd0800000000000000
+      internalID: -2314566936717578450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_89
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ac4a6b3021c67b0800000000000000
+      internalID: -5229785260125533613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_90
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901e3a6824589dd60800000000000000
+      internalID: 7915504340853580041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_91
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 15
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7dd22a2e9878b0800000000000000
+      internalID: -5154195869714776959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_92
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51417db08dba4b310800000000000000
+      internalID: 1419948726928479253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_93
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 17
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a459180179971c0800000000000000
+      internalID: -4505403855058154932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_94
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 16
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f345a01e0295070800000000000000
+      internalID: 8095537956088201011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_95
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb0699e4dee390d0800000000000000
+      internalID: -3417125094024672322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_96
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e392c4cff9cb380800000000000000
+      internalID: -8954106053161042332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_97
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e336a32fa8a31900800000000000000
+      internalID: 654051841069691881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_98
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 15
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f578e56d9f17b650800000000000000
+      internalID: 6248497768879912439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_99
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d67c08d58a2dd6a0800000000000000
+      internalID: -6422930739216746794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_100
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334b6cf0703613230800000000000000
+      internalID: 3616780857735820339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_101
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab8bdc88ca728580800000000000000
+      internalID: -8826357317917504604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_102
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0e5de52ac72540800000000000000
+      internalID: 4983173776953708033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_103
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 7
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f72102ac1126d170800000000000000
+      internalID: 8202780178162722801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_104
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57883fdd59852790800000000000000
+      internalID: -7555481763574151333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_105
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288c0a2dc766de110800000000000000
+      internalID: 1291801354420930690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_106
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3637a2dea4fc120800000000000000
+      internalID: 2436248305910637533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_107
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 9
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af73689ba3bd800800000000000000
+      internalID: 638168340698233440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_108
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 15
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcabb36e75d4d0c0800000000000000
+      internalID: -4551778584548889411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_109
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bfdbeb080596fa0800000000000000
+      internalID: -5807021730631386296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_110
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 8
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1df3ab7a47f70ea0800000000000000
+      internalID: -5906480486999130850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_111
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 8
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136912d81ef28d70800000000000000
+      internalID: 9044070384270926622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_112
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 8
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba682d5027ccc62b0800000000000000
+      internalID: -5589868247377606997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_113
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296ff0704d7862db0800000000000000
+      internalID: -4817013406704863598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_114
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcee920c863d7250800000000000000
+      internalID: 5943967058166213882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_115
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 7
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae967d0d236ebe390800000000000000
+      internalID: -7787878024680609302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_116
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c3a0779f106810800000000000000
+      internalID: 1756438589964797500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_117
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174cc857fa5cebda0800000000000000
+      internalID: -5927082702190885775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_118
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebfbaee388f9ffa0800000000000000
+      internalID: -5766304602342556704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_119
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9b8b32a7589f40800000000000000
+      internalID: 5735430479751650153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_120
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d602c3cceb862f0800000000000000
+      internalID: -979323134561719004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_121
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c9b640c59331d0800000000000000
+      internalID: -3372187042917530061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_122
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf677c88d2daaf70800000000000000
+      internalID: 9199397016369065948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_123
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edbdb576e6c94580800000000000000
+      internalID: -8842317700245111322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_124
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff86f01e80d47c4e0800000000000000
+      internalID: -1961514412165601025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_125
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a27949ab7b38c70800000000000000
+      internalID: 8972216894636894872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_126
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95d8a02371ad7190800000000000000
+      internalID: -7963031050279922274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_127
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a1a45d4a60a2f0800000000000000
+      internalID: -963653439892380800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_128
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463b947c5d2b0adc0800000000000000
+      internalID: -3629704668419345564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_129
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34715274d3e2afe40800000000000000
+      internalID: 5690911919857538883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_130
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb21fb33b045eb940800000000000000
+      internalID: 5313777017433297595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_131
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 0
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c55836d3bfa5cc0800000000000000
+      internalID: -3721385900987032506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_132
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646cfe231679daae0800000000000000
+      internalID: -1536405454141274554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Expansive_Shock_133
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e11099410e43aa0800000000000000
+      internalID: -6182070009401893290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electric_Expansive_Shock_0: 7021359413861459355
+      Electric_Expansive_Shock_1: 7478581215424321624
+      Electric_Expansive_Shock_10: 7410344364523535837
+      Electric_Expansive_Shock_100: 3616780857735820339
+      Electric_Expansive_Shock_101: -8826357317917504604
+      Electric_Expansive_Shock_102: 4983173776953708033
+      Electric_Expansive_Shock_103: 8202780178162722801
+      Electric_Expansive_Shock_104: -7555481763574151333
+      Electric_Expansive_Shock_105: 1291801354420930690
+      Electric_Expansive_Shock_106: 2436248305910637533
+      Electric_Expansive_Shock_107: 638168340698233440
+      Electric_Expansive_Shock_108: -4551778584548889411
+      Electric_Expansive_Shock_109: -5807021730631386296
+      Electric_Expansive_Shock_11: 1224482415127285258
+      Electric_Expansive_Shock_110: -5906480486999130850
+      Electric_Expansive_Shock_111: 9044070384270926622
+      Electric_Expansive_Shock_112: -5589868247377606997
+      Electric_Expansive_Shock_113: -4817013406704863598
+      Electric_Expansive_Shock_114: 5943967058166213882
+      Electric_Expansive_Shock_115: -7787878024680609302
+      Electric_Expansive_Shock_116: 1756438589964797500
+      Electric_Expansive_Shock_117: -5927082702190885775
+      Electric_Expansive_Shock_118: -5766304602342556704
+      Electric_Expansive_Shock_119: 5735430479751650153
+      Electric_Expansive_Shock_12: 3490574844851880154
+      Electric_Expansive_Shock_120: -979323134561719004
+      Electric_Expansive_Shock_121: -3372187042917530061
+      Electric_Expansive_Shock_122: 9199397016369065948
+      Electric_Expansive_Shock_123: -8842317700245111322
+      Electric_Expansive_Shock_124: -1961514412165601025
+      Electric_Expansive_Shock_125: 8972216894636894872
+      Electric_Expansive_Shock_126: -7963031050279922274
+      Electric_Expansive_Shock_127: -963653439892380800
+      Electric_Expansive_Shock_128: -3629704668419345564
+      Electric_Expansive_Shock_129: 5690911919857538883
+      Electric_Expansive_Shock_13: 7956620187921875796
+      Electric_Expansive_Shock_130: 5313777017433297595
+      Electric_Expansive_Shock_131: -3721385900987032506
+      Electric_Expansive_Shock_132: -1536405454141274554
+      Electric_Expansive_Shock_133: -6182070009401893290
+      Electric_Expansive_Shock_14: 8747259872327474116
+      Electric_Expansive_Shock_15: -4748823608293790936
+      Electric_Expansive_Shock_16: -5966613024966383232
+      Electric_Expansive_Shock_17: -4994821546862360850
+      Electric_Expansive_Shock_18: 7015497431344428234
+      Electric_Expansive_Shock_19: 8724000908739788195
+      Electric_Expansive_Shock_2: -8189558063157037965
+      Electric_Expansive_Shock_20: -4936630654899287063
+      Electric_Expansive_Shock_21: -3473626776686310784
+      Electric_Expansive_Shock_22: -5947540187741521881
+      Electric_Expansive_Shock_23: -2062018789345729404
+      Electric_Expansive_Shock_24: 7466776231175636215
+      Electric_Expansive_Shock_25: 6266385049994782791
+      Electric_Expansive_Shock_26: -8998415415856422587
+      Electric_Expansive_Shock_27: 4385428187311880615
+      Electric_Expansive_Shock_28: 4079244840320967348
+      Electric_Expansive_Shock_29: 746286717385897513
+      Electric_Expansive_Shock_3: -6661121061247255727
+      Electric_Expansive_Shock_30: -2710178008818524195
+      Electric_Expansive_Shock_31: -7408910751616231906
+      Electric_Expansive_Shock_32: -2999431161923181608
+      Electric_Expansive_Shock_33: -7065361494225710080
+      Electric_Expansive_Shock_34: 8757441506322919690
+      Electric_Expansive_Shock_35: -852200222228493712
+      Electric_Expansive_Shock_36: 4752351900293502879
+      Electric_Expansive_Shock_37: -6403197282889406577
+      Electric_Expansive_Shock_38: 6561979172202168300
+      Electric_Expansive_Shock_39: 6927769393854165504
+      Electric_Expansive_Shock_4: -3895048615238883954
+      Electric_Expansive_Shock_40: 2491659919002533986
+      Electric_Expansive_Shock_41: 8427477761751662514
+      Electric_Expansive_Shock_42: -6299172107580335740
+      Electric_Expansive_Shock_43: -1808207819645601571
+      Electric_Expansive_Shock_44: -5239327376460723659
+      Electric_Expansive_Shock_45: -3553889094266695157
+      Electric_Expansive_Shock_46: 6452286629871616212
+      Electric_Expansive_Shock_47: -4648382826274804709
+      Electric_Expansive_Shock_48: -8323633528212907360
+      Electric_Expansive_Shock_49: 4333235573640251976
+      Electric_Expansive_Shock_5: 2117378107675215938
+      Electric_Expansive_Shock_50: 3251281821002170270
+      Electric_Expansive_Shock_51: -7695584001828391514
+      Electric_Expansive_Shock_52: -1401653248777931808
+      Electric_Expansive_Shock_53: -3559578108937563893
+      Electric_Expansive_Shock_54: -4666073414854962586
+      Electric_Expansive_Shock_55: -7944665755880103090
+      Electric_Expansive_Shock_56: -1098628344118130563
+      Electric_Expansive_Shock_57: 6413486466307903418
+      Electric_Expansive_Shock_58: 1782797875926902116
+      Electric_Expansive_Shock_59: 7442680325739536771
+      Electric_Expansive_Shock_6: 8911230039853562446
+      Electric_Expansive_Shock_60: -2162600555016726637
+      Electric_Expansive_Shock_61: 3435628231446083465
+      Electric_Expansive_Shock_62: 1871517244712059122
+      Electric_Expansive_Shock_63: -8945749804107140752
+      Electric_Expansive_Shock_64: -3897226051182258455
+      Electric_Expansive_Shock_65: 8222330684246645470
+      Electric_Expansive_Shock_66: -9128335272053482018
+      Electric_Expansive_Shock_67: 728975575767306912
+      Electric_Expansive_Shock_68: -5491401963919295578
+      Electric_Expansive_Shock_69: 6306778369988201768
+      Electric_Expansive_Shock_7: 4973088866169183664
+      Electric_Expansive_Shock_70: -7342615389650428192
+      Electric_Expansive_Shock_71: 5608106112148303630
+      Electric_Expansive_Shock_72: -6921208122162142784
+      Electric_Expansive_Shock_73: -971980490417115956
+      Electric_Expansive_Shock_74: 8839894765006512961
+      Electric_Expansive_Shock_75: -2442171671394445682
+      Electric_Expansive_Shock_76: 232016008172812921
+      Electric_Expansive_Shock_77: 40114968920348517
+      Electric_Expansive_Shock_78: -8807076605773917968
+      Electric_Expansive_Shock_79: -1815339694186202569
+      Electric_Expansive_Shock_8: -4555407415999127958
+      Electric_Expansive_Shock_80: -3121764966419431861
+      Electric_Expansive_Shock_81: 8496185790734429416
+      Electric_Expansive_Shock_82: 5311453847753153578
+      Electric_Expansive_Shock_83: -1145190069955352593
+      Electric_Expansive_Shock_84: 4173655098319169502
+      Electric_Expansive_Shock_85: 6661082720487039405
+      Electric_Expansive_Shock_86: -6773556379764251194
+      Electric_Expansive_Shock_87: 1291263891393274850
+      Electric_Expansive_Shock_88: -2314566936717578450
+      Electric_Expansive_Shock_89: -5229785260125533613
+      Electric_Expansive_Shock_9: 4255424054880731734
+      Electric_Expansive_Shock_90: 7915504340853580041
+      Electric_Expansive_Shock_91: -5154195869714776959
+      Electric_Expansive_Shock_92: 1419948726928479253
+      Electric_Expansive_Shock_93: -4505403855058154932
+      Electric_Expansive_Shock_94: 8095537956088201011
+      Electric_Expansive_Shock_95: -3417125094024672322
+      Electric_Expansive_Shock_96: -8954106053161042332
+      Electric_Expansive_Shock_97: 654051841069691881
+      Electric_Expansive_Shock_98: 6248497768879912439
+      Electric_Expansive_Shock_99: -6422930739216746794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

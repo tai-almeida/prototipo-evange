@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 6e9f8d49df42b43cbada50dd2a3c677c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -450884278795835652
+    second: _Missile_Diagonal_0
+  - first:
+      213: 6030692817165924967
+    second: _Missile_Diagonal_1
+  - first:
+      213: 7552789493916793980
+    second: _Missile_Diagonal_2
+  - first:
+      213: 2227028889183874760
+    second: _Missile_Diagonal_3
+  - first:
+      213: -3194741835733061438
+    second: _Missile_Diagonal_4
+  - first:
+      213: 3409597851514436382
+    second: _Missile_Diagonal_5
+  - first:
+      213: -1075799104068662291
+    second: _Missile_Diagonal_6
+  - first:
+      213: 1137728298228691913
+    second: _Missile_Diagonal_7
+  - first:
+      213: 3023044141643245831
+    second: _Missile_Diagonal_8
+  - first:
+      213: 5528169642717714488
+    second: _Missile_Diagonal_9
+  - first:
+      213: 1147991855179392087
+    second: _Missile_Diagonal_10
+  - first:
+      213: -699016737043740250
+    second: _Missile_Diagonal_11
+  - first:
+      213: -2439040978773013452
+    second: _Missile_Diagonal_12
+  - first:
+      213: -8371788272434054800
+    second: _Missile_Diagonal_13
+  - first:
+      213: -3660847116209540972
+    second: _Missile_Diagonal_14
+  - first:
+      213: 4271601139888569575
+    second: _Missile_Diagonal_15
+  - first:
+      213: 529763903789751454
+    second: _Missile_Diagonal_16
+  - first:
+      213: 309944393063184551
+    second: _Missile_Diagonal_17
+  - first:
+      213: 8380504825660991757
+    second: _Missile_Diagonal_18
+  - first:
+      213: 7637913076139894530
+    second: _Missile_Diagonal_19
+  - first:
+      213: 818803539992784839
+    second: _Missile_Diagonal_20
+  - first:
+      213: 7558204926517186755
+    second: _Missile_Diagonal_21
+  - first:
+      213: -7127557201243215084
+    second: _Missile_Diagonal_22
+  - first:
+      213: 8636252995416510960
+    second: _Missile_Diagonal_23
+  - first:
+      213: 5809982515462174479
+    second: _Missile_Diagonal_24
+  - first:
+      213: -9126529922484590684
+    second: _Missile_Diagonal_25
+  - first:
+      213: -6907406479690366911
+    second: _Missile_Diagonal_26
+  - first:
+      213: -926308021565944789
+    second: _Missile_Diagonal_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _Missile_Diagonal_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 111
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6e09723232eb9f0800000000000000
+      internalID: -450884278795835652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 119
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76abcac4a2351b350800000000000000
+      internalID: 6030692817165924967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c76304706e0d860800000000000000
+      internalID: 7552789493916793980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce6654b9fef7ee10800000000000000
+      internalID: 2227028889183874760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03d041a3ff9a3d0800000000000000
+      internalID: -3194741835733061438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_5
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 97
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bf37e5e23515f20800000000000000
+      internalID: 3409597851514436382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 19
+        width: 113
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debcd482a6ef111f0800000000000000
+      internalID: -1075799104068662291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b4dafbd50acf00800000000000000
+      internalID: 1137728298228691913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709a8fa41a204f920800000000000000
+      internalID: 3023044141643245831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 54
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389944200108bc40800000000000000
+      internalID: 5528169642717714488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754620d828c7eef00800000000000000
+      internalID: 1147991855179392087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a984703bf79c46f0800000000000000
+      internalID: -699016737043740250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c0d930729c62ed0800000000000000
+      internalID: -2439040978773013452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07979cefbee61db80800000000000000
+      internalID: -8371788272434054800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 87
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490315d91fe023dc0800000000000000
+      internalID: -3660847116209540972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec3635da96c74b30800000000000000
+      internalID: 4271601139888569575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5634b6791a5700800000000000000
+      internalID: 529763903789751454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b7a888c42d4400800000000000000
+      internalID: 309944393063184551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0968f3bcb88d4470800000000000000
+      internalID: 8380504825660991757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20721a0b9715ff960800000000000000
+      internalID: 7637913076139894530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf2a1e3b79fc5b00800000000000000
+      internalID: 818803539992784839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c01aa8e55324e860800000000000000
+      internalID: 7558204926517186755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bee972d74d51d90800000000000000
+      internalID: -7127557201243215084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1543ea7522ad770800000000000000
+      internalID: 8636252995416510960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_24
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 38
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f077a51b05431a050800000000000000
+      internalID: 5809982515462174479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a72552d36d085180800000000000000
+      internalID: -9126529922484590684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14003da5766f320a0800000000000000
+      internalID: -6907406479690366911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Missile_Diagonal_27
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c87fd13c71523f0800000000000000
+      internalID: -926308021565944789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _Missile_Diagonal_0: -450884278795835652
+      _Missile_Diagonal_1: 6030692817165924967
+      _Missile_Diagonal_10: 1147991855179392087
+      _Missile_Diagonal_11: -699016737043740250
+      _Missile_Diagonal_12: -2439040978773013452
+      _Missile_Diagonal_13: -8371788272434054800
+      _Missile_Diagonal_14: -3660847116209540972
+      _Missile_Diagonal_15: 4271601139888569575
+      _Missile_Diagonal_16: 529763903789751454
+      _Missile_Diagonal_17: 309944393063184551
+      _Missile_Diagonal_18: 8380504825660991757
+      _Missile_Diagonal_19: 7637913076139894530
+      _Missile_Diagonal_2: 7552789493916793980
+      _Missile_Diagonal_20: 818803539992784839
+      _Missile_Diagonal_21: 7558204926517186755
+      _Missile_Diagonal_22: -7127557201243215084
+      _Missile_Diagonal_23: 8636252995416510960
+      _Missile_Diagonal_24: 5809982515462174479
+      _Missile_Diagonal_25: -9126529922484590684
+      _Missile_Diagonal_26: -6907406479690366911
+      _Missile_Diagonal_27: -926308021565944789
+      _Missile_Diagonal_3: 2227028889183874760
+      _Missile_Diagonal_4: -3194741835733061438
+      _Missile_Diagonal_5: 3409597851514436382
+      _Missile_Diagonal_6: -1075799104068662291
+      _Missile_Diagonal_7: 1137728298228691913
+      _Missile_Diagonal_8: 3023044141643245831
+      _Missile_Diagonal_9: 5528169642717714488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

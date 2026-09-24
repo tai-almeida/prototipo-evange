@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 160bc91afbbd44006bc5c9b49768be78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -708667116419742568
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_0
+  - first:
+      213: 597615431395068583
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_1
+  - first:
+      213: 2511242746146738250
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_2
+  - first:
+      213: -6082469379365396117
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_3
+  - first:
+      213: -8504862898775266111
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_4
+  - first:
+      213: 5434371753950340275
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_5
+  - first:
+      213: 1783575707147791503
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_6
+  - first:
+      213: -6234074722176458926
+    second: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940dc5230f4a26f0800000000000000
+      internalID: -708667116419742568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa489c81182b4800800000000000000
+      internalID: 597615431395068583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a405ad4f8f9b9d220800000000000000
+      internalID: 2511242746146738250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b612cb5635ab69ba0800000000000000
+      internalID: -6082469379365396117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 14
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cce9171148a8f980800000000000000
+      internalID: -8504862898775266111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 14
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b460a35154ca6b40800000000000000
+      internalID: 5434371753950340275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6f86e7a880c810800000000000000
+      internalID: 1783575707147791503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryDwarfPowerChargingStart_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 13
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f1e69d11e1c79a0800000000000000
+      internalID: -6234074722176458926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_0: -708667116419742568
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_1: 597615431395068583
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_2: 2511242746146738250
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_3: -6082469379365396117
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_4: -8504862898775266111
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_5: 5434371753950340275
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_6: 1783575707147791503
+      Minifantasy_MagicAndSorceryDwarfPowerChargingStart_7: -6234074722176458926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

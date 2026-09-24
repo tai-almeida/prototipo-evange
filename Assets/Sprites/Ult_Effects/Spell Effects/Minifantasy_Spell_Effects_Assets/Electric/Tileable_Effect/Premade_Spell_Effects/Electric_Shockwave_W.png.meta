@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: eda228f4106724dc2bbd33f66dfa874d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2659071577371437649
+    second: Electric_Shockwave_W_0
+  - first:
+      213: 6899685620698366369
+    second: Electric_Shockwave_W_1
+  - first:
+      213: -4010642365953123304
+    second: Electric_Shockwave_W_2
+  - first:
+      213: 3992220964466945197
+    second: Electric_Shockwave_W_3
+  - first:
+      213: 860742117554922429
+    second: Electric_Shockwave_W_4
+  - first:
+      213: 7623725180462710284
+    second: Electric_Shockwave_W_5
+  - first:
+      213: 3984103000370984
+    second: Electric_Shockwave_W_6
+  - first:
+      213: 7827594324448730357
+    second: Electric_Shockwave_W_7
+  - first:
+      213: 788037742276008862
+    second: Electric_Shockwave_W_8
+  - first:
+      213: -8605033243826248892
+    second: Electric_Shockwave_W_9
+  - first:
+      213: -5557549937712345420
+    second: Electric_Shockwave_W_10
+  - first:
+      213: -811101596186897721
+    second: Electric_Shockwave_W_11
+  - first:
+      213: -2328814824394557015
+    second: Electric_Shockwave_W_12
+  - first:
+      213: -6110663502341521528
+    second: Electric_Shockwave_W_13
+  - first:
+      213: -4286672891516520386
+    second: Electric_Shockwave_W_14
+  - first:
+      213: 8997040815105422836
+    second: Electric_Shockwave_W_15
+  - first:
+      213: 665463614738150917
+    second: Electric_Shockwave_W_16
+  - first:
+      213: -8199614341877679758
+    second: Electric_Shockwave_W_17
+  - first:
+      213: 5045362609674861716
+    second: Electric_Shockwave_W_18
+  - first:
+      213: 5879740605398613678
+    second: Electric_Shockwave_W_19
+  - first:
+      213: 5474030020863587330
+    second: Electric_Shockwave_W_20
+  - first:
+      213: 7598207569710696183
+    second: Electric_Shockwave_W_21
+  - first:
+      213: -3974027697142146712
+    second: Electric_Shockwave_W_22
+  - first:
+      213: 7708918831338737635
+    second: Electric_Shockwave_W_23
+  - first:
+      213: 4978118754156874149
+    second: Electric_Shockwave_W_24
+  - first:
+      213: 1653339662849745299
+    second: Electric_Shockwave_W_25
+  - first:
+      213: 5079093577086341331
+    second: Electric_Shockwave_W_26
+  - first:
+      213: -4609840420882321177
+    second: Electric_Shockwave_W_27
+  - first:
+      213: -9068977248252729572
+    second: Electric_Shockwave_W_28
+  - first:
+      213: 677754785574203028
+    second: Electric_Shockwave_W_29
+  - first:
+      213: 2334699700910465722
+    second: Electric_Shockwave_W_30
+  - first:
+      213: -7117676060724572997
+    second: Electric_Shockwave_W_31
+  - first:
+      213: -40837947185848276
+    second: Electric_Shockwave_W_32
+  - first:
+      213: 893578579559182776
+    second: Electric_Shockwave_W_33
+  - first:
+      213: 4122213896006658677
+    second: Electric_Shockwave_W_34
+  - first:
+      213: 4215563738673405790
+    second: Electric_Shockwave_W_35
+  - first:
+      213: 6214542505057651655
+    second: Electric_Shockwave_W_36
+  - first:
+      213: 1119814429329882321
+    second: Electric_Shockwave_W_37
+  - first:
+      213: -305326042483314025
+    second: Electric_Shockwave_W_38
+  - first:
+      213: 2072742038697098451
+    second: Electric_Shockwave_W_39
+  - first:
+      213: -5832182191903212240
+    second: Electric_Shockwave_W_40
+  - first:
+      213: -607028767480792730
+    second: Electric_Shockwave_W_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 86
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aef81e28be6e420800000000000000
+      internalID: 2659071577371437649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c893148b90cf50800000000000000
+      internalID: 6899685620698366369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c5b3874065758c0800000000000000
+      internalID: -4010642365953123304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac6be3c0d7376730800000000000000
+      internalID: 3992220964466945197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db324104568f1fb00800000000000000
+      internalID: 860742117554922429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e3eaec8a9ecc960800000000000000
+      internalID: 7623725180462710284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe51445872e0000800000000000000
+      internalID: 3984103000370984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc51a2d09331ac60800000000000000
+      internalID: 7827594324448730357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b56f1c62cafea00800000000000000
+      internalID: 788037742276008862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4432f4d2bd7c49880800000000000000
+      internalID: -8605033243826248892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be492dd6cd9fd2b0800000000000000
+      internalID: -5557549937712345420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_11
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2178a45636eb4f0800000000000000
+      internalID: -811101596186897721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_12
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a97c4c71436eafd0800000000000000
+      internalID: -2328814824394557015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f3df89bef823ba0800000000000000
+      internalID: -6110663502341521528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_14
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e387cd887bda284c0800000000000000
+      internalID: -4286672891516520386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_15
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5bc06f3f8ebdc70800000000000000
+      internalID: 8997040815105422836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_16
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063a6fb1a33c3900800000000000000
+      internalID: 665463614738150917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_17
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279be21133e153e80800000000000000
+      internalID: -8199614341877679758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c35b0ef8ab40640800000000000000
+      internalID: 5045362609674861716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_19
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae793cade8099150800000000000000
+      internalID: 5879740605398613678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_20
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204f5632d49a7fb40800000000000000
+      internalID: 5474030020863587330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_21
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f64a421781427960800000000000000
+      internalID: 7598207569710696183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_22
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86957406dda69d8c0800000000000000
+      internalID: -3974027697142146712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_23
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc34065d49bfa60800000000000000
+      internalID: 7708918831338737635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_24
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a90b37b1a4d51540800000000000000
+      internalID: 4978118754156874149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_25
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3912931e9a7d1f610800000000000000
+      internalID: 1653339662849745299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_26
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0133bb2b09c7640800000000000000
+      internalID: 5079093577086341331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_27
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0721aaf8e8600c0800000000000000
+      internalID: -4609840420882321177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_28
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ebc10e35842280800000000000000
+      internalID: -9068977248252729572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_29
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea8f6f26ed76900800000000000000
+      internalID: 677754785574203028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2aaf91205866020800000000000000
+      internalID: 2334699700910465722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_31
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcc536755fe83d90800000000000000
+      internalID: -7117676060724572997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_32
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 0
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a1a87a1aee6ff0800000000000000
+      internalID: -40837947185848276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_33
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f585dbf0a66c00800000000000000
+      internalID: 893578579559182776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae7afa2bb053930800000000000000
+      internalID: 4122213896006658677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_35
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f55a3a2e0b08a30800000000000000
+      internalID: 4215563738673405790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_36
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb07877b7d7e3650800000000000000
+      internalID: 6214542505057651655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_37
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc709a5a416a8f00800000000000000
+      internalID: 1119814429329882321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_38
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7923b11059343cbf0800000000000000
+      internalID: -305326042483314025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_39
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 0
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc3f8ff6ebd3cc10800000000000000
+      internalID: 2072742038697098451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_40
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dff3a523def0fa0800000000000000
+      internalID: -5832182191903212240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric_Shockwave_W_41
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 0
+        width: 167
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6693dd95d866397f0800000000000000
+      internalID: -607028767480792730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Electric_Shockwave_W_0: 2659071577371437649
+      Electric_Shockwave_W_1: 6899685620698366369
+      Electric_Shockwave_W_10: -5557549937712345420
+      Electric_Shockwave_W_11: -811101596186897721
+      Electric_Shockwave_W_12: -2328814824394557015
+      Electric_Shockwave_W_13: -6110663502341521528
+      Electric_Shockwave_W_14: -4286672891516520386
+      Electric_Shockwave_W_15: 8997040815105422836
+      Electric_Shockwave_W_16: 665463614738150917
+      Electric_Shockwave_W_17: -8199614341877679758
+      Electric_Shockwave_W_18: 5045362609674861716
+      Electric_Shockwave_W_19: 5879740605398613678
+      Electric_Shockwave_W_2: -4010642365953123304
+      Electric_Shockwave_W_20: 5474030020863587330
+      Electric_Shockwave_W_21: 7598207569710696183
+      Electric_Shockwave_W_22: -3974027697142146712
+      Electric_Shockwave_W_23: 7708918831338737635
+      Electric_Shockwave_W_24: 4978118754156874149
+      Electric_Shockwave_W_25: 1653339662849745299
+      Electric_Shockwave_W_26: 5079093577086341331
+      Electric_Shockwave_W_27: -4609840420882321177
+      Electric_Shockwave_W_28: -9068977248252729572
+      Electric_Shockwave_W_29: 677754785574203028
+      Electric_Shockwave_W_3: 3992220964466945197
+      Electric_Shockwave_W_30: 2334699700910465722
+      Electric_Shockwave_W_31: -7117676060724572997
+      Electric_Shockwave_W_32: -40837947185848276
+      Electric_Shockwave_W_33: 893578579559182776
+      Electric_Shockwave_W_34: 4122213896006658677
+      Electric_Shockwave_W_35: 4215563738673405790
+      Electric_Shockwave_W_36: 6214542505057651655
+      Electric_Shockwave_W_37: 1119814429329882321
+      Electric_Shockwave_W_38: -305326042483314025
+      Electric_Shockwave_W_39: 2072742038697098451
+      Electric_Shockwave_W_4: 860742117554922429
+      Electric_Shockwave_W_40: -5832182191903212240
+      Electric_Shockwave_W_41: -607028767480792730
+      Electric_Shockwave_W_5: 7623725180462710284
+      Electric_Shockwave_W_6: 3984103000370984
+      Electric_Shockwave_W_7: 7827594324448730357
+      Electric_Shockwave_W_8: 788037742276008862
+      Electric_Shockwave_W_9: -8605033243826248892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

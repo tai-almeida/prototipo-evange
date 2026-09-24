@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: 0a541761e286d432e86375cc908e7928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6898062136480745078
+    second: Orb_Only_Orb_0
+  - first:
+      213: -335550545056013286
+    second: Orb_Only_Orb_1
+  - first:
+      213: -6878689553646791905
+    second: Orb_Only_Orb_2
+  - first:
+      213: 2986393100451095587
+    second: Orb_Only_Orb_3
+  - first:
+      213: 3228480027124947790
+    second: Orb_Only_Orb_4
+  - first:
+      213: -4132554322476183077
+    second: Orb_Only_Orb_5
+  - first:
+      213: -3181233086429182757
+    second: Orb_Only_Orb_6
+  - first:
+      213: -2858186065622643331
+    second: Orb_Only_Orb_7
+  - first:
+      213: -4563994511835439048
+    second: Orb_Only_Orb_8
+  - first:
+      213: -8102947984991132485
+    second: Orb_Only_Orb_9
+  - first:
+      213: -8505339658627704120
+    second: Orb_Only_Orb_10
+  - first:
+      213: -8281998923664668764
+    second: Orb_Only_Orb_11
+  - first:
+      213: 7714789016671380545
+    second: Orb_Only_Orb_12
+  - first:
+      213: -7983547607262183080
+    second: Orb_Only_Orb_13
+  - first:
+      213: 632091368721908843
+    second: Orb_Only_Orb_14
+  - first:
+      213: -3479865435061888731
+    second: Orb_Only_Orb_15
+  - first:
+      213: 2629275893942077012
+    second: Orb_Only_Orb_16
+  - first:
+      213: 4350333693677470348
+    second: Orb_Only_Orb_17
+  - first:
+      213: 2678871685095370070
+    second: Orb_Only_Orb_18
+  - first:
+      213: -6951992035499988223
+    second: Orb_Only_Orb_19
+  - first:
+      213: 8924290889529338049
+    second: Orb_Only_Orb_20
+  - first:
+      213: -6871530671485927526
+    second: Orb_Only_Orb_21
+  - first:
+      213: 861096603119063085
+    second: Orb_Only_Orb_22
+  - first:
+      213: -9173459067369107595
+    second: Orb_Only_Orb_23
+  - first:
+      213: 1323021503121765393
+    second: Orb_Only_Orb_24
+  - first:
+      213: 6202377128320735437
+    second: Orb_Only_Orb_25
+  - first:
+      213: 1298752970150590426
+    second: Orb_Only_Orb_26
+  - first:
+      213: 4692455458668004638
+    second: Orb_Only_Orb_27
+  - first:
+      213: 2061171571846300004
+    second: Orb_Only_Orb_28
+  - first:
+      213: -7741715201999189163
+    second: Orb_Only_Orb_29
+  - first:
+      213: -5202224421285086001
+    second: Orb_Only_Orb_30
+  - first:
+      213: 3231047614354182736
+    second: Orb_Only_Orb_31
+  - first:
+      213: -6163244085557866596
+    second: Orb_Only_Orb_32
+  - first:
+      213: -6737907480161419576
+    second: Orb_Only_Orb_33
+  - first:
+      213: -2354876082195576900
+    second: Orb_Only_Orb_34
+  - first:
+      213: 6850695003274440391
+    second: Orb_Only_Orb_35
+  - first:
+      213: -193906088682415677
+    second: Orb_Only_Orb_36
+  - first:
+      213: -5035520135682247767
+    second: Orb_Only_Orb_37
+  - first:
+      213: -8445234508472345308
+    second: Orb_Only_Orb_38
+  - first:
+      213: -2693739278845672879
+    second: Orb_Only_Orb_39
+  - first:
+      213: 4479310440224379526
+    second: Orb_Only_Orb_40
+  - first:
+      213: 9025329028508908025
+    second: Orb_Only_Orb_41
+  - first:
+      213: -4251253225889772031
+    second: Orb_Only_Orb_42
+  - first:
+      213: 8960656921454373133
+    second: Orb_Only_Orb_43
+  - first:
+      213: 9046465318050343243
+    second: Orb_Only_Orb_44
+  - first:
+      213: 2624120393576738328
+    second: Orb_Only_Orb_45
+  - first:
+      213: -953311137584033239
+    second: Orb_Only_Orb_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orb_Only_Orb_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c18337f6dabf50800000000000000
+      internalID: 6898062136480745078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a146fbd9e82e75bf0800000000000000
+      internalID: -335550545056013286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1351babb4cf980a0800000000000000
+      internalID: -6878689553646791905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a018c3bcc17920800000000000000
+      internalID: 2986393100451095587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bd93dba7dddcc20800000000000000
+      internalID: 3228480027124947790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15dc92db736a6c0800000000000000
+      internalID: -4132554322476183077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44bafdc5df9d3d0800000000000000
+      internalID: -3181233086429182757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4798aaeea558d0800000000000000
+      internalID: -2858186065622643331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830673d2c2f69a0c0800000000000000
+      internalID: -4563994511835439048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e2292dbb8c8f80800000000000000
+      internalID: -8102947984991132485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1479c4a6f6f980800000000000000
+      internalID: -8505339658627704120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ccccdbdd601d80800000000000000
+      internalID: -8281998923664668764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14468c76cbf601b60800000000000000
+      internalID: 7714789016671380545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 74
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c7b5ffbdb43190800000000000000
+      internalID: -7983547607262183080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64824a30c3a5c800800000000000000
+      internalID: 632091368721908843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529d9fce2d805bfc0800000000000000
+      internalID: -3479865435061888731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564aeabe701d7420800000000000000
+      internalID: 2629275893942077012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c820f02027d7f5c30800000000000000
+      internalID: 4350333693677470348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d26f4ba934d2520800000000000000
+      internalID: 2678871685095370070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bada2b310958f90800000000000000
+      internalID: -6951992035499988223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a6a6f74379db70800000000000000
+      internalID: 8924290889529338049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f31eed24b63a0a0800000000000000
+      internalID: -6871530671485927526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20153a5cca33fb00800000000000000
+      internalID: 861096603119063085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc0efc49351b080800000000000000
+      internalID: -9173459067369107595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114b6c32c015c5210800000000000000
+      internalID: 1323021503121765393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc89098f225431650800000000000000
+      internalID: 6202377128320735437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad73fccf1f8160210800000000000000
+      internalID: 1298752970150590426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15cf32c063fe1140800000000000000
+      internalID: 4692455458668004638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4614801cf90ca9c10800000000000000
+      internalID: 2061171571846300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc8988a07ef8490800000000000000
+      internalID: -7741715201999189163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb07f837cfdc7b0800000000000000
+      internalID: -5202224421285086001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05254f9bfacf6dc20800000000000000
+      internalID: 3231047614354182736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fcb409822c77aa0800000000000000
+      internalID: -6163244085557866596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef78388d42e72a0800000000000000
+      internalID: -6737907480161419576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74bae0eacc15fd0800000000000000
+      internalID: -2354876082195576900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce67b61fce821f50800000000000000
+      internalID: 6850695003274440391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c99c40907b1f4df0800000000000000
+      internalID: -193906088682415677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3355dad1d3e1ab0800000000000000
+      internalID: -5035520135682247767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d92a595ff7cca80800000000000000
+      internalID: -8445234508472345308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15203eed56aed9ad0800000000000000
+      internalID: -2693739278845672879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682d54cec15b92e30800000000000000
+      internalID: 4479310440224379526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f97b45eee8604d70800000000000000
+      internalID: 9025329028508908025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e4b9417b38005c0800000000000000
+      internalID: -4251253225889772031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09ee659ef5aa5c70800000000000000
+      internalID: 8960656921454373133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_44
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49284bc6408b8d70800000000000000
+      internalID: 9046465318050343243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_45
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eeff2489fba6420800000000000000
+      internalID: 2624120393576738328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orb_Only_Orb_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92251eb329825c2f0800000000000000
+      internalID: -953311137584033239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orb_Only_Orb_0: 6898062136480745078
+      Orb_Only_Orb_1: -335550545056013286
+      Orb_Only_Orb_10: -8505339658627704120
+      Orb_Only_Orb_11: -8281998923664668764
+      Orb_Only_Orb_12: 7714789016671380545
+      Orb_Only_Orb_13: -7983547607262183080
+      Orb_Only_Orb_14: 632091368721908843
+      Orb_Only_Orb_15: -3479865435061888731
+      Orb_Only_Orb_16: 2629275893942077012
+      Orb_Only_Orb_17: 4350333693677470348
+      Orb_Only_Orb_18: 2678871685095370070
+      Orb_Only_Orb_19: -6951992035499988223
+      Orb_Only_Orb_2: -6878689553646791905
+      Orb_Only_Orb_20: 8924290889529338049
+      Orb_Only_Orb_21: -6871530671485927526
+      Orb_Only_Orb_22: 861096603119063085
+      Orb_Only_Orb_23: -9173459067369107595
+      Orb_Only_Orb_24: 1323021503121765393
+      Orb_Only_Orb_25: 6202377128320735437
+      Orb_Only_Orb_26: 1298752970150590426
+      Orb_Only_Orb_27: 4692455458668004638
+      Orb_Only_Orb_28: 2061171571846300004
+      Orb_Only_Orb_29: -7741715201999189163
+      Orb_Only_Orb_3: 2986393100451095587
+      Orb_Only_Orb_30: -5202224421285086001
+      Orb_Only_Orb_31: 3231047614354182736
+      Orb_Only_Orb_32: -6163244085557866596
+      Orb_Only_Orb_33: -6737907480161419576
+      Orb_Only_Orb_34: -2354876082195576900
+      Orb_Only_Orb_35: 6850695003274440391
+      Orb_Only_Orb_36: -193906088682415677
+      Orb_Only_Orb_37: -5035520135682247767
+      Orb_Only_Orb_38: -8445234508472345308
+      Orb_Only_Orb_39: -2693739278845672879
+      Orb_Only_Orb_4: 3228480027124947790
+      Orb_Only_Orb_40: 4479310440224379526
+      Orb_Only_Orb_41: 9025329028508908025
+      Orb_Only_Orb_42: -4251253225889772031
+      Orb_Only_Orb_43: 8960656921454373133
+      Orb_Only_Orb_44: 9046465318050343243
+      Orb_Only_Orb_45: 2624120393576738328
+      Orb_Only_Orb_46: -953311137584033239
+      Orb_Only_Orb_5: -4132554322476183077
+      Orb_Only_Orb_6: -3181233086429182757
+      Orb_Only_Orb_7: -2858186065622643331
+      Orb_Only_Orb_8: -4563994511835439048
+      Orb_Only_Orb_9: -8102947984991132485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

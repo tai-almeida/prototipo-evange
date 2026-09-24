@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: cd96270c2c8574b43a7feb4181538af5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4785196752814234047
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_0
+  - first:
+      213: -3964306113611174771
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_1
+  - first:
+      213: 8047365612134141033
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_2
+  - first:
+      213: 12482249378603545
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_3
+  - first:
+      213: 6336839347912128957
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_4
+  - first:
+      213: -4531064631615739531
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_5
+  - first:
+      213: 7323163629565612677
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_6
+  - first:
+      213: -5373161595509483087
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_7
+  - first:
+      213: -7417040864021824373
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_8
+  - first:
+      213: 4810118500091928586
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_9
+  - first:
+      213: -9083480502600350936
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_10
+  - first:
+      213: -4239035886809311739
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_11
+  - first:
+      213: 6371816310395382145
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_12
+  - first:
+      213: -6377271862631364507
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_13
+  - first:
+      213: -2597544197169781835
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_14
+  - first:
+      213: -1511638452811425808
+    second: Minifantasy_MagicAndSorceryHumanProjectileHolding_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a72808e0979db0800000000000000
+      internalID: -4785196752814234047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ceb4de794fbf8c0800000000000000
+      internalID: -3964306113611174771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c03f0336cfdaf60800000000000000
+      internalID: 8047365612134141033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912a5382a885c2000800000000000000
+      internalID: 12482249378603545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9350b10d9f0f750800000000000000
+      internalID: 6336839347912128957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579253269bc6e11c0800000000000000
+      internalID: -4531064631615739531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5829154758a11a560800000000000000
+      internalID: 7323163629565612677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9d2e24ff1be65b0800000000000000
+      internalID: -5373161595509483087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c3c6f91a0611990800000000000000
+      internalID: -7417040864021824373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a38d6a49f0c240800000000000000
+      internalID: 4810118500091928586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c156fb9ef0f180800000000000000
+      internalID: -9083480502600350936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5061990025beb25c0800000000000000
+      internalID: -4239035886809311739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189282bcc2d3d6850800000000000000
+      internalID: 6371816310395382145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56883c777016f77a0800000000000000
+      internalID: -6377271862631364507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b36157a05ba3fbd0800000000000000
+      internalID: -2597544197169781835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryHumanProjectileHolding_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f79a5f06d4950be0800000000000000
+      internalID: -1511638452811425808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_0: -4785196752814234047
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_1: -3964306113611174771
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_10: -9083480502600350936
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_11: -4239035886809311739
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_12: 6371816310395382145
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_13: -6377271862631364507
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_14: -2597544197169781835
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_15: -1511638452811425808
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_2: 8047365612134141033
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_3: 12482249378603545
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_4: 6336839347912128957
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_5: -4531064631615739531
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_6: 7323163629565612677
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_7: -5373161595509483087
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_8: -7417040864021824373
+      Minifantasy_MagicAndSorceryHumanProjectileHolding_9: 4810118500091928586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

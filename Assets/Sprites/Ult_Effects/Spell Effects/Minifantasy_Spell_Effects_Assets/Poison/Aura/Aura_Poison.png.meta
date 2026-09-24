@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c0b1c52690022497eaab59ab0e241892
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5675404959631273747
+    second: Aura_Poison_0
+  - first:
+      213: 3083984672672429162
+    second: Aura_Poison_1
+  - first:
+      213: -762290904115737539
+    second: Aura_Poison_2
+  - first:
+      213: -8400307659174827239
+    second: Aura_Poison_3
+  - first:
+      213: 4427358809597000222
+    second: Aura_Poison_4
+  - first:
+      213: 2589710018437896505
+    second: Aura_Poison_5
+  - first:
+      213: 650455816549396454
+    second: Aura_Poison_6
+  - first:
+      213: 3835641381392182647
+    second: Aura_Poison_7
+  - first:
+      213: 5612966152364639190
+    second: Aura_Poison_8
+  - first:
+      213: -8839645768620212164
+    second: Aura_Poison_9
+  - first:
+      213: -6873679099008711102
+    second: Aura_Poison_10
+  - first:
+      213: 630599453551806527
+    second: Aura_Poison_11
+  - first:
+      213: 62174781289079345
+    second: Aura_Poison_12
+  - first:
+      213: -1110346725370281259
+    second: Aura_Poison_13
+  - first:
+      213: -4071147655215156797
+    second: Aura_Poison_14
+  - first:
+      213: 4425921317234538203
+    second: Aura_Poison_15
+  - first:
+      213: -5251815567437811152
+    second: Aura_Poison_16
+  - first:
+      213: 6782812440039399578
+    second: Aura_Poison_17
+  - first:
+      213: 2509288547218353103
+    second: Aura_Poison_18
+  - first:
+      213: 4029302907898729217
+    second: Aura_Poison_19
+  - first:
+      213: -829254029287175138
+    second: Aura_Poison_20
+  - first:
+      213: 6597158251699756451
+    second: Aura_Poison_21
+  - first:
+      213: 1059863883399553342
+    second: Aura_Poison_22
+  - first:
+      213: -2892081936973592174
+    second: Aura_Poison_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_Poison_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fef4fbdb613ce40800000000000000
+      internalID: 5675404959631273747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b36b58b38cca20800000000000000
+      internalID: 3083984672672429162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8ba4267ccb65f0800000000000000
+      internalID: -762290904115737539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 51
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b24e2d0bc1c6b80800000000000000
+      internalID: -8400307659174827239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab9335163217d30800000000000000
+      internalID: 4427358809597000222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 75
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939d2487a8f70f320800000000000000
+      internalID: 2589710018437896505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef638f6e12e60900800000000000000
+      internalID: 650455816549396454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 47
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6ba7a38fea3530800000000000000
+      internalID: 3835641381392182647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d34cff0af245ed40800000000000000
+      internalID: 5612966152364639190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308b150205435580800000000000000
+      internalID: -8839645768620212164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 44
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2460f8b1749cb90a0800000000000000
+      internalID: -6873679099008711102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 75
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38c288acd650c800800000000000000
+      internalID: 630599453551806527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 56
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13229b852a3ecd000800000000000000
+      internalID: 62174781289079345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 24
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d249c049814790f0800000000000000
+      internalID: -1110346725370281259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 77
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17cb607c06087c0800000000000000
+      internalID: -4071147655215156797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6f79d0df70c6d30800000000000000
+      internalID: 4425921317234538203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b005119dcd17b0800000000000000
+      internalID: -5251815567437811152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9026a23af3612e50800000000000000
+      internalID: 6782812440039399578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe7ef83a8c2d220800000000000000
+      internalID: 2509288547218353103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10390c585a5fae730800000000000000
+      internalID: 4029302907898729217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 23
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cc6cb9ad5ed74f0800000000000000
+      internalID: -829254029287175138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 15
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add9970a70dd8b50800000000000000
+      internalID: 6597158251699756451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 23
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31eb48269465be00800000000000000
+      internalID: 1059863883399553342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_Poison_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 23
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2998d5d1dc24dd7d0800000000000000
+      internalID: -2892081936973592174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_Poison_0: 5675404959631273747
+      Aura_Poison_1: 3083984672672429162
+      Aura_Poison_10: -6873679099008711102
+      Aura_Poison_11: 630599453551806527
+      Aura_Poison_12: 62174781289079345
+      Aura_Poison_13: -1110346725370281259
+      Aura_Poison_14: -4071147655215156797
+      Aura_Poison_15: 4425921317234538203
+      Aura_Poison_16: -5251815567437811152
+      Aura_Poison_17: 6782812440039399578
+      Aura_Poison_18: 2509288547218353103
+      Aura_Poison_19: 4029302907898729217
+      Aura_Poison_2: -762290904115737539
+      Aura_Poison_20: -829254029287175138
+      Aura_Poison_21: 6597158251699756451
+      Aura_Poison_22: 1059863883399553342
+      Aura_Poison_23: -2892081936973592174
+      Aura_Poison_3: -8400307659174827239
+      Aura_Poison_4: 4427358809597000222
+      Aura_Poison_5: 2589710018437896505
+      Aura_Poison_6: 650455816549396454
+      Aura_Poison_7: 3835641381392182647
+      Aura_Poison_8: 5612966152364639190
+      Aura_Poison_9: -8839645768620212164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

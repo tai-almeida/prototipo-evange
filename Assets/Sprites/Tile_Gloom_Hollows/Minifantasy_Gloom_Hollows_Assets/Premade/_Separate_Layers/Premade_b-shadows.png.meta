@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 82249359ef9d540f69346774083405ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8579938550360333594
+    second: Premade_b-shadows_0
+  - first:
+      213: 2105842571050516700
+    second: Premade_b-shadows_1
+  - first:
+      213: -3082917925644999297
+    second: Premade_b-shadows_2
+  - first:
+      213: -8155655444887286159
+    second: Premade_b-shadows_3
+  - first:
+      213: 2107187894761651005
+    second: Premade_b-shadows_4
+  - first:
+      213: -1185423936111700726
+    second: Premade_b-shadows_5
+  - first:
+      213: -6984680841813301812
+    second: Premade_b-shadows_6
+  - first:
+      213: -3179950681394410361
+    second: Premade_b-shadows_7
+  - first:
+      213: -4356343497555581893
+    second: Premade_b-shadows_8
+  - first:
+      213: 4418530272797087564
+    second: Premade_b-shadows_9
+  - first:
+      213: -2030752974535634304
+    second: Premade_b-shadows_10
+  - first:
+      213: -8643365267369029345
+    second: Premade_b-shadows_11
+  - first:
+      213: -3849880507880407844
+    second: Premade_b-shadows_12
+  - first:
+      213: -7418716403616555284
+    second: Premade_b-shadows_13
+  - first:
+      213: 7436518339689444905
+    second: Premade_b-shadows_14
+  - first:
+      213: 2608075184178440485
+    second: Premade_b-shadows_15
+  - first:
+      213: 1148287190517654524
+    second: Premade_b-shadows_16
+  - first:
+      213: 5195415962704921184
+    second: Premade_b-shadows_17
+  - first:
+      213: -1746106726787781082
+    second: Premade_b-shadows_18
+  - first:
+      213: 8043094073114580439
+    second: Premade_b-shadows_19
+  - first:
+      213: 783089884569915736
+    second: Premade_b-shadows_20
+  - first:
+      213: -3834530207573372154
+    second: Premade_b-shadows_21
+  - first:
+      213: 843975911586296862
+    second: Premade_b-shadows_22
+  - first:
+      213: -4543938496783799490
+    second: Premade_b-shadows_23
+  - first:
+      213: 7511523119676079790
+    second: Premade_b-shadows_24
+  - first:
+      213: 1788701397308152259
+    second: Premade_b-shadows_25
+  - first:
+      213: -5893372196707319472
+    second: Premade_b-shadows_26
+  - first:
+      213: 4757158284310764312
+    second: Premade_b-shadows_27
+  - first:
+      213: -4153412731790633954
+    second: Premade_b-shadows_28
+  - first:
+      213: 7994379568451920783
+    second: Premade_b-shadows_29
+  - first:
+      213: -2636941679973317048
+    second: Premade_b-shadows_30
+  - first:
+      213: -2420600023340478546
+    second: Premade_b-shadows_31
+  - first:
+      213: -9154998306571662526
+    second: Premade_b-shadows_32
+  - first:
+      213: -4887910733314358937
+    second: Premade_b-shadows_33
+  - first:
+      213: 3918742252520620650
+    second: Premade_b-shadows_34
+  - first:
+      213: 5613291482606432441
+    second: Premade_b-shadows_35
+  - first:
+      213: 2216314682136761986
+    second: Premade_b-shadows_36
+  - first:
+      213: 8564808420176620421
+    second: Premade_b-shadows_37
+  - first:
+      213: -1645361368786782570
+    second: Premade_b-shadows_38
+  - first:
+      213: -3291084605607875384
+    second: Premade_b-shadows_39
+  - first:
+      213: 5604768266609313529
+    second: Premade_b-shadows_40
+  - first:
+      213: 4885361506278038510
+    second: Premade_b-shadows_41
+  - first:
+      213: -5198159141006699483
+    second: Premade_b-shadows_42
+  - first:
+      213: -5728697331356060535
+    second: Premade_b-shadows_43
+  - first:
+      213: -1977381008167182687
+    second: Premade_b-shadows_44
+  - first:
+      213: -8979522775199401384
+    second: Premade_b-shadows_45
+  - first:
+      213: -1439720946339054640
+    second: Premade_b-shadows_46
+  - first:
+      213: -293230848640560831
+    second: Premade_b-shadows_47
+  - first:
+      213: 40672079967797192
+    second: Premade_b-shadows_48
+  - first:
+      213: 8563135485468533914
+    second: Premade_b-shadows_49
+  - first:
+      213: 6777027402801170054
+    second: Premade_b-shadows_50
+  - first:
+      213: 2545131086072722556
+    second: Premade_b-shadows_51
+  - first:
+      213: 8493064149876963756
+    second: Premade_b-shadows_52
+  - first:
+      213: 1387049623901986697
+    second: Premade_b-shadows_53
+  - first:
+      213: -331430547356758193
+    second: Premade_b-shadows_54
+  - first:
+      213: 6376624711788660305
+    second: Premade_b-shadows_55
+  - first:
+      213: 6785313065911223204
+    second: Premade_b-shadows_56
+  - first:
+      213: -2726544329924682322
+    second: Premade_b-shadows_57
+  - first:
+      213: -857706663937322187
+    second: Premade_b-shadows_58
+  - first:
+      213: 6526139569914617312
+    second: Premade_b-shadows_59
+  - first:
+      213: -4972516068566296010
+    second: Premade_b-shadows_60
+  - first:
+      213: -75125784153604453
+    second: Premade_b-shadows_61
+  - first:
+      213: -1319831774885683296
+    second: Premade_b-shadows_62
+  - first:
+      213: -2256657299684972907
+    second: Premade_b-shadows_63
+  - first:
+      213: -5938437974733425046
+    second: Premade_b-shadows_64
+  - first:
+      213: -6264741466011270387
+    second: Premade_b-shadows_65
+  - first:
+      213: -258872929537899249
+    second: Premade_b-shadows_66
+  - first:
+      213: 5902358577351958804
+    second: Premade_b-shadows_67
+  - first:
+      213: -4411316780392002555
+    second: Premade_b-shadows_68
+  - first:
+      213: -1735712103727919198
+    second: Premade_b-shadows_69
+  - first:
+      213: 5963520493280208106
+    second: Premade_b-shadows_70
+  - first:
+      213: 3154488977422584764
+    second: Premade_b-shadows_71
+  - first:
+      213: 5240060208300546884
+    second: Premade_b-shadows_72
+  - first:
+      213: -4629030049614254971
+    second: Premade_b-shadows_73
+  - first:
+      213: 290881575135619578
+    second: Premade_b-shadows_74
+  - first:
+      213: 2646514702352626443
+    second: Premade_b-shadows_75
+  - first:
+      213: -7547701163060983825
+    second: Premade_b-shadows_76
+  - first:
+      213: 43802358222876009
+    second: Premade_b-shadows_77
+  - first:
+      213: -5721305384127937286
+    second: Premade_b-shadows_78
+  - first:
+      213: 7058675149927982806
+    second: Premade_b-shadows_79
+  - first:
+      213: 5578676332122894578
+    second: Premade_b-shadows_80
+  - first:
+      213: -6949853151505845359
+    second: Premade_b-shadows_81
+  - first:
+      213: 81663167208849635
+    second: Premade_b-shadows_82
+  - first:
+      213: 2343850661846527369
+    second: Premade_b-shadows_83
+  - first:
+      213: -8856833072006677782
+    second: Premade_b-shadows_84
+  - first:
+      213: -109640272301763626
+    second: Premade_b-shadows_85
+  - first:
+      213: -7087781174430939070
+    second: Premade_b-shadows_86
+  - first:
+      213: -2793480298648009218
+    second: Premade_b-shadows_87
+  - first:
+      213: -2817434222827427812
+    second: Premade_b-shadows_88
+  - first:
+      213: 4765424769956309994
+    second: Premade_b-shadows_89
+  - first:
+      213: -774207353424876331
+    second: Premade_b-shadows_90
+  - first:
+      213: -7179348193309461792
+    second: Premade_b-shadows_91
+  - first:
+      213: -8617823679868131125
+    second: Premade_b-shadows_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Premade_b-shadows_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 339
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a71fc85fede880800000000000000
+      internalID: -8579938550360333594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 290
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08c5049a4793d10800000000000000
+      internalID: 2105842571050516700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 312
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ee3a0b764735d0800000000000000
+      internalID: -3082917925644999297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 330
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4309559a41de80800000000000000
+      internalID: -8155655444887286159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 327
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b7546d93c3e3d10800000000000000
+      internalID: 2107187894761651005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 327
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0511d3f5378c8fe0800000000000000
+      internalID: -1185423936111700726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 304
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5ed32e7cd611f90800000000000000
+      internalID: -6984680841813301812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 247
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c893014bb8ed3d0800000000000000
+      internalID: -3179950681394410361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 319
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34ed9c7ba82b83c0800000000000000
+      internalID: -4356343497555581893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 320
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47516b6fd5c15d30800000000000000
+      internalID: 4418530272797087564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 303
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0825c36dde051d3e0800000000000000
+      internalID: -2030752974535634304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 315
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11158675199c0880800000000000000
+      internalID: -8643365267369029345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 311
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc761c531a729ac0800000000000000
+      internalID: -3849880507880407844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 286
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee5219acbc6b0990800000000000000
+      internalID: -7418716403616555284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 305
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926fdd29702d33760800000000000000
+      internalID: 7436518339689444905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 318
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a774df8eb13420800000000000000
+      internalID: 2608075184178440485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 308
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3afeaad198fef00800000000000000
+      internalID: 1148287190517654524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 295
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062cb65aa43d91840800000000000000
+      internalID: 5195415962704921184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 295
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ee4e9ee2594c7e0800000000000000
+      internalID: -1746106726787781082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 289
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55b03027fce9f60800000000000000
+      internalID: 8043094073114580439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 291
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ddfcd9181eda00800000000000000
+      internalID: 783089884569915736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039519a71309cac0800000000000000
+      internalID: -3834530207573372154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 293
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147619be9766bb00800000000000000
+      internalID: 843975911586296862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 280
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3baaf11300b0f0c0800000000000000
+      internalID: -4543938496783799490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 277
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3d66ca7a4e3860800000000000000
+      internalID: 7511523119676079790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91cc3a17eb2d810800000000000000
+      internalID: 1788701397308152259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 255
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051c8162639863ea0800000000000000
+      internalID: -5893372196707319472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 262
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b56ac4142d40240800000000000000
+      internalID: 4757158284310764312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 263
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14d80c402d1c56c0800000000000000
+      internalID: -4153412731790633954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 216
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83a7398cddb1fe60800000000000000
+      internalID: 7994379568451920783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 214
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c4cf5383b76bd0800000000000000
+      internalID: -2636941679973317048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 249
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf0d798a1d486ed0800000000000000
+      internalID: -2420600023340478546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 240
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b4e71ab89e2f080800000000000000
+      internalID: -9154998306571662526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 237
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7618af6d517aa2cb0800000000000000
+      internalID: -4887910733314358937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 242
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a624ec7f05b226630800000000000000
+      internalID: 3918742252520620650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 229
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b07b79ecda66ed40800000000000000
+      internalID: 5613291482606432441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 243
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869e3bf57ee1ce10800000000000000
+      internalID: 2216314682136761986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 215
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58be6ed31ef4cd670800000000000000
+      internalID: 8564808420176620421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 208
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69630567d808a29e0800000000000000
+      internalID: -1645361368786782570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 223
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6cf4fcf7b352d0800000000000000
+      internalID: -3291084605607875384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f641ab0b0328cd40800000000000000
+      internalID: 5604768266609313529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 209
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd11df76a4cc340800000000000000
+      internalID: 4885361506278038510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 151
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52498526dcd6cd7b0800000000000000
+      internalID: -5198159141006699483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 223
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9843bca01249f70b0800000000000000
+      internalID: -5728697331356060535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 202
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae579e137eee84e0800000000000000
+      internalID: -1977381008167182687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 215
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab5bb8c93526380800000000000000
+      internalID: -8979522775199401384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 203
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db75c16d65150ce0800000000000000
+      internalID: -1439720946339054640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 214
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d795c81c3eebf0800000000000000
+      internalID: -293230848640560831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_48
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 215
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfb1ce8a0f709000800000000000000
+      internalID: 40672079967797192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_49
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 136
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e4e6ca5e56d670800000000000000
+      internalID: 8563135485468533914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 202
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6864d014486dc0e50800000000000000
+      internalID: 6777027402801170054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 199
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743b24fc3f125320800000000000000
+      internalID: 2545131086072722556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_52
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 186
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9750c98dc6dd570800000000000000
+      internalID: 8493064149876963756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_53
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 187
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5486b84acf3310800000000000000
+      internalID: 1387049623901986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 206
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f46155ca5866bf0800000000000000
+      internalID: -331430547356758193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 142
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156042cf3625e7850800000000000000
+      internalID: 6376624711788660305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 135
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3847788464a2e50800000000000000
+      internalID: 6785313065911223204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 161
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaddb76b06e592ad0800000000000000
+      internalID: -2726544329924682322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 134
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d78e5550d814f0800000000000000
+      internalID: -857706663937322187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_59
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 152
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed9163ac51819a50800000000000000
+      internalID: 6526139569914617312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 187
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a1f2d2bf21efab0800000000000000
+      internalID: -4972516068566296010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 157
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e3d025f7915fef0800000000000000
+      internalID: -75125784153604453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_62
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 112
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af5aa65ef30fade0800000000000000
+      internalID: -1319831774885683296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_63
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 130
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5962c78642ebea0e0800000000000000
+      internalID: -2256657299684972907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 151
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66f25b002e669da0800000000000000
+      internalID: -5938437974733425046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 138
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d030db424da2f09a0800000000000000
+      internalID: -6264741466011270387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_66
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 127
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05cde0317c486cf0800000000000000
+      internalID: -258872929537899249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 141
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4112b04aad369e150800000000000000
+      internalID: 5902358577351958804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 167
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc309a2cad7c2c0800000000000000
+      internalID: -4411316780392002555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 153
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af83f0b90389e7e0800000000000000
+      internalID: -1735712103727919198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_70
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 175
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4aab4ea4ea2c250800000000000000
+      internalID: 5963520493280208106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_71
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 160
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb8823030ff6cb20800000000000000
+      internalID: 3154488977422584764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_72
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 151
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd9651ffe68b840800000000000000
+      internalID: 5240060208300546884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_73
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 134
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c222e02b162cfb0800000000000000
+      internalID: -4629030049614254971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 170
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af92aad504b690400800000000000000
+      internalID: 290881575135619578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_75
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 177
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03b396991f4ab420800000000000000
+      internalID: 2646514702352626443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_76
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 167
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe782f818cd214790800000000000000
+      internalID: -7547701163060983825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_77
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 119
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96de232430e9b9000800000000000000
+      internalID: 43802358222876009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_78
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 111
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4468fd017d990b0800000000000000
+      internalID: -5721305384127937286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 169
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a55086a375f160800000000000000
+      internalID: 7058675149927982806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_80
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 108
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0701521907b6d40800000000000000
+      internalID: 5578676332122894578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_81
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 165
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937d5f61692d8f90800000000000000
+      internalID: -6949853151505845359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_82
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 110
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e087b8c730222100800000000000000
+      internalID: 81663167208849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_83
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 151
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d2de932c7078020800000000000000
+      internalID: 2343850661846527369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3c1c1f35361580800000000000000
+      internalID: -8856833072006677782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_85
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 46
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d35064d0ca7a7ef0800000000000000
+      internalID: -109640272301763626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_86
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248c754139423ad90800000000000000
+      internalID: -7087781174430939070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_87
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 96
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5880808709b39d0800000000000000
+      internalID: -2793480298648009218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_88
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 110
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a752708676e8d0800000000000000
+      internalID: -2817434222827427812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 87
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebe7197490322240800000000000000
+      internalID: 4765424769956309994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_90
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc6d9493867145f0800000000000000
+      internalID: -774207353424876331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 89
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e272f22bd4dd5c90800000000000000
+      internalID: -7179348193309461792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Premade_b-shadows_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 87
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a288b507576880800000000000000
+      internalID: -8617823679868131125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Premade_b-shadows_0: -8579938550360333594
+      Premade_b-shadows_1: 2105842571050516700
+      Premade_b-shadows_10: -2030752974535634304
+      Premade_b-shadows_11: -8643365267369029345
+      Premade_b-shadows_12: -3849880507880407844
+      Premade_b-shadows_13: -7418716403616555284
+      Premade_b-shadows_14: 7436518339689444905
+      Premade_b-shadows_15: 2608075184178440485
+      Premade_b-shadows_16: 1148287190517654524
+      Premade_b-shadows_17: 5195415962704921184
+      Premade_b-shadows_18: -1746106726787781082
+      Premade_b-shadows_19: 8043094073114580439
+      Premade_b-shadows_2: -3082917925644999297
+      Premade_b-shadows_20: 783089884569915736
+      Premade_b-shadows_21: -3834530207573372154
+      Premade_b-shadows_22: 843975911586296862
+      Premade_b-shadows_23: -4543938496783799490
+      Premade_b-shadows_24: 7511523119676079790
+      Premade_b-shadows_25: 1788701397308152259
+      Premade_b-shadows_26: -5893372196707319472
+      Premade_b-shadows_27: 4757158284310764312
+      Premade_b-shadows_28: -4153412731790633954
+      Premade_b-shadows_29: 7994379568451920783
+      Premade_b-shadows_3: -8155655444887286159
+      Premade_b-shadows_30: -2636941679973317048
+      Premade_b-shadows_31: -2420600023340478546
+      Premade_b-shadows_32: -9154998306571662526
+      Premade_b-shadows_33: -4887910733314358937
+      Premade_b-shadows_34: 3918742252520620650
+      Premade_b-shadows_35: 5613291482606432441
+      Premade_b-shadows_36: 2216314682136761986
+      Premade_b-shadows_37: 8564808420176620421
+      Premade_b-shadows_38: -1645361368786782570
+      Premade_b-shadows_39: -3291084605607875384
+      Premade_b-shadows_4: 2107187894761651005
+      Premade_b-shadows_40: 5604768266609313529
+      Premade_b-shadows_41: 4885361506278038510
+      Premade_b-shadows_42: -5198159141006699483
+      Premade_b-shadows_43: -5728697331356060535
+      Premade_b-shadows_44: -1977381008167182687
+      Premade_b-shadows_45: -8979522775199401384
+      Premade_b-shadows_46: -1439720946339054640
+      Premade_b-shadows_47: -293230848640560831
+      Premade_b-shadows_48: 40672079967797192
+      Premade_b-shadows_49: 8563135485468533914
+      Premade_b-shadows_5: -1185423936111700726
+      Premade_b-shadows_50: 6777027402801170054
+      Premade_b-shadows_51: 2545131086072722556
+      Premade_b-shadows_52: 8493064149876963756
+      Premade_b-shadows_53: 1387049623901986697
+      Premade_b-shadows_54: -331430547356758193
+      Premade_b-shadows_55: 6376624711788660305
+      Premade_b-shadows_56: 6785313065911223204
+      Premade_b-shadows_57: -2726544329924682322
+      Premade_b-shadows_58: -857706663937322187
+      Premade_b-shadows_59: 6526139569914617312
+      Premade_b-shadows_6: -6984680841813301812
+      Premade_b-shadows_60: -4972516068566296010
+      Premade_b-shadows_61: -75125784153604453
+      Premade_b-shadows_62: -1319831774885683296
+      Premade_b-shadows_63: -2256657299684972907
+      Premade_b-shadows_64: -5938437974733425046
+      Premade_b-shadows_65: -6264741466011270387
+      Premade_b-shadows_66: -258872929537899249
+      Premade_b-shadows_67: 5902358577351958804
+      Premade_b-shadows_68: -4411316780392002555
+      Premade_b-shadows_69: -1735712103727919198
+      Premade_b-shadows_7: -3179950681394410361
+      Premade_b-shadows_70: 5963520493280208106
+      Premade_b-shadows_71: 3154488977422584764
+      Premade_b-shadows_72: 5240060208300546884
+      Premade_b-shadows_73: -4629030049614254971
+      Premade_b-shadows_74: 290881575135619578
+      Premade_b-shadows_75: 2646514702352626443
+      Premade_b-shadows_76: -7547701163060983825
+      Premade_b-shadows_77: 43802358222876009
+      Premade_b-shadows_78: -5721305384127937286
+      Premade_b-shadows_79: 7058675149927982806
+      Premade_b-shadows_8: -4356343497555581893
+      Premade_b-shadows_80: 5578676332122894578
+      Premade_b-shadows_81: -6949853151505845359
+      Premade_b-shadows_82: 81663167208849635
+      Premade_b-shadows_83: 2343850661846527369
+      Premade_b-shadows_84: -8856833072006677782
+      Premade_b-shadows_85: -109640272301763626
+      Premade_b-shadows_86: -7087781174430939070
+      Premade_b-shadows_87: -2793480298648009218
+      Premade_b-shadows_88: -2817434222827427812
+      Premade_b-shadows_89: 4765424769956309994
+      Premade_b-shadows_9: 4418530272797087564
+      Premade_b-shadows_90: -774207353424876331
+      Premade_b-shadows_91: -7179348193309461792
+      Premade_b-shadows_92: -8617823679868131125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 0e3d149b3c3774fa899a89cdf91be343
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 754116844755227703
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_0
+  - first:
+      213: -5118502325949521579
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_1
+  - first:
+      213: 165477198916379463
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_2
+  - first:
+      213: 1488241825851083589
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_3
+  - first:
+      213: 7065567968369383761
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_4
+  - first:
+      213: -447557463816784524
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_5
+  - first:
+      213: -1400357968985658618
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_6
+  - first:
+      213: 4346712257166723926
+    second: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 115
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73416ca5649277a00800000000000000
+      internalID: 754116844755227703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 115
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551a4c7e04d67f8b0800000000000000
+      internalID: -5118502325949521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74366dbb2a4eb4200800000000000000
+      internalID: 165477198916379463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b8bb93e0c47a410800000000000000
+      internalID: 1488241825851083589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 83
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159190bd1a0fd0260800000000000000
+      internalID: 7065567968369383761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47530a0abd4f9c9f0800000000000000
+      internalID: -447557463816784524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60be83cb8dde09ce0800000000000000
+      internalID: -1400357968985658618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b424d94cf925c30800000000000000
+      internalID: 4346712257166723926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_0: 754116844755227703
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_1: -5118502325949521579
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_2: 165477198916379463
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_3: 1488241825851083589
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_4: 7065567968369383761
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_5: -447557463816784524
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_6: -1400357968985658618
+      Minifantasy_MagicAndSorceryBoulderThrowingFrontLayer S_7: 4346712257166723926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

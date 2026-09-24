@@ -1,0 +1,5850 @@
+fileFormatVersion: 2
+guid: 4e1ea5958b7fd4552930d2cfc6118d9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2355229113866607097
+    second: Fire_Burning_Hell_0
+  - first:
+      213: -5915319723051417193
+    second: Fire_Burning_Hell_1
+  - first:
+      213: 8554934544493397700
+    second: Fire_Burning_Hell_2
+  - first:
+      213: 3538523962651246205
+    second: Fire_Burning_Hell_3
+  - first:
+      213: -1488269513733771731
+    second: Fire_Burning_Hell_4
+  - first:
+      213: 7920551996239320209
+    second: Fire_Burning_Hell_5
+  - first:
+      213: -1255627203683890643
+    second: Fire_Burning_Hell_6
+  - first:
+      213: -6265317313807567943
+    second: Fire_Burning_Hell_7
+  - first:
+      213: -13395784144313263
+    second: Fire_Burning_Hell_8
+  - first:
+      213: -8272784765114397449
+    second: Fire_Burning_Hell_9
+  - first:
+      213: -3500859767458677455
+    second: Fire_Burning_Hell_10
+  - first:
+      213: -1519427844416877524
+    second: Fire_Burning_Hell_11
+  - first:
+      213: 2107748195924596611
+    second: Fire_Burning_Hell_12
+  - first:
+      213: 414315305857819028
+    second: Fire_Burning_Hell_13
+  - first:
+      213: -6985635319691781087
+    second: Fire_Burning_Hell_14
+  - first:
+      213: -22108709527514750
+    second: Fire_Burning_Hell_15
+  - first:
+      213: 4501930596181783410
+    second: Fire_Burning_Hell_16
+  - first:
+      213: 3664325051364948026
+    second: Fire_Burning_Hell_17
+  - first:
+      213: 1691582875693399464
+    second: Fire_Burning_Hell_18
+  - first:
+      213: -7942982953547167366
+    second: Fire_Burning_Hell_19
+  - first:
+      213: -7209664840378938965
+    second: Fire_Burning_Hell_20
+  - first:
+      213: -6748336843480334305
+    second: Fire_Burning_Hell_21
+  - first:
+      213: 7792216880221795530
+    second: Fire_Burning_Hell_22
+  - first:
+      213: -1141799845419659927
+    second: Fire_Burning_Hell_23
+  - first:
+      213: -9130466667627691573
+    second: Fire_Burning_Hell_24
+  - first:
+      213: 7442862604045254024
+    second: Fire_Burning_Hell_25
+  - first:
+      213: 6558970774657933280
+    second: Fire_Burning_Hell_26
+  - first:
+      213: 7817204040334990500
+    second: Fire_Burning_Hell_27
+  - first:
+      213: 8366278446272364467
+    second: Fire_Burning_Hell_28
+  - first:
+      213: 8081987356303487961
+    second: Fire_Burning_Hell_29
+  - first:
+      213: -8880148745264170127
+    second: Fire_Burning_Hell_30
+  - first:
+      213: -3769128538430156803
+    second: Fire_Burning_Hell_31
+  - first:
+      213: 1459712402909283883
+    second: Fire_Burning_Hell_32
+  - first:
+      213: -1356089081255098297
+    second: Fire_Burning_Hell_33
+  - first:
+      213: 1131681665710936255
+    second: Fire_Burning_Hell_34
+  - first:
+      213: 6407146650180143396
+    second: Fire_Burning_Hell_35
+  - first:
+      213: -6646809080020755898
+    second: Fire_Burning_Hell_36
+  - first:
+      213: 7585563683862702302
+    second: Fire_Burning_Hell_37
+  - first:
+      213: 2760356188329846169
+    second: Fire_Burning_Hell_38
+  - first:
+      213: -8274169250639576442
+    second: Fire_Burning_Hell_39
+  - first:
+      213: 1817682740233280477
+    second: Fire_Burning_Hell_40
+  - first:
+      213: 1364963681643464589
+    second: Fire_Burning_Hell_41
+  - first:
+      213: 3461139089072374464
+    second: Fire_Burning_Hell_42
+  - first:
+      213: -8805333863509259951
+    second: Fire_Burning_Hell_43
+  - first:
+      213: 1530864982994482431
+    second: Fire_Burning_Hell_44
+  - first:
+      213: 5307747054511729712
+    second: Fire_Burning_Hell_45
+  - first:
+      213: -2773148453167865599
+    second: Fire_Burning_Hell_46
+  - first:
+      213: 5006441708909836030
+    second: Fire_Burning_Hell_47
+  - first:
+      213: 5804752180448247004
+    second: Fire_Burning_Hell_48
+  - first:
+      213: -3457391257423093403
+    second: Fire_Burning_Hell_49
+  - first:
+      213: 83183949831118158
+    second: Fire_Burning_Hell_50
+  - first:
+      213: -4874566927362347630
+    second: Fire_Burning_Hell_51
+  - first:
+      213: -5285694994299851253
+    second: Fire_Burning_Hell_52
+  - first:
+      213: -9162899068061319029
+    second: Fire_Burning_Hell_53
+  - first:
+      213: 5913716563508305374
+    second: Fire_Burning_Hell_54
+  - first:
+      213: -1832020691791383528
+    second: Fire_Burning_Hell_55
+  - first:
+      213: 8348631446700696073
+    second: Fire_Burning_Hell_56
+  - first:
+      213: -8989717167807358479
+    second: Fire_Burning_Hell_57
+  - first:
+      213: 7663768850173739721
+    second: Fire_Burning_Hell_58
+  - first:
+      213: 6960881629066417418
+    second: Fire_Burning_Hell_59
+  - first:
+      213: 8424012800657280777
+    second: Fire_Burning_Hell_60
+  - first:
+      213: -8399932840150919545
+    second: Fire_Burning_Hell_61
+  - first:
+      213: -4388576757366951640
+    second: Fire_Burning_Hell_62
+  - first:
+      213: 1605424371104389230
+    second: Fire_Burning_Hell_63
+  - first:
+      213: 630372360550901981
+    second: Fire_Burning_Hell_64
+  - first:
+      213: 583982181137807599
+    second: Fire_Burning_Hell_65
+  - first:
+      213: 6005117765873430613
+    second: Fire_Burning_Hell_66
+  - first:
+      213: 3607273776316670818
+    second: Fire_Burning_Hell_67
+  - first:
+      213: 8369780033955074755
+    second: Fire_Burning_Hell_68
+  - first:
+      213: 2960235021900271717
+    second: Fire_Burning_Hell_69
+  - first:
+      213: -6465335707992281294
+    second: Fire_Burning_Hell_70
+  - first:
+      213: -8631625133151658938
+    second: Fire_Burning_Hell_71
+  - first:
+      213: -8695036380065347804
+    second: Fire_Burning_Hell_72
+  - first:
+      213: -4190364722997660679
+    second: Fire_Burning_Hell_73
+  - first:
+      213: 8514354314192131739
+    second: Fire_Burning_Hell_74
+  - first:
+      213: 8259203422640261892
+    second: Fire_Burning_Hell_75
+  - first:
+      213: -1591103409533649879
+    second: Fire_Burning_Hell_76
+  - first:
+      213: 4448454034162411261
+    second: Fire_Burning_Hell_77
+  - first:
+      213: 5335449848885687115
+    second: Fire_Burning_Hell_78
+  - first:
+      213: -3735696850301740574
+    second: Fire_Burning_Hell_79
+  - first:
+      213: 4383627671564210053
+    second: Fire_Burning_Hell_80
+  - first:
+      213: 8167023719926023446
+    second: Fire_Burning_Hell_81
+  - first:
+      213: -3440419225047715436
+    second: Fire_Burning_Hell_82
+  - first:
+      213: 820144008948871159
+    second: Fire_Burning_Hell_83
+  - first:
+      213: 2960736027370131988
+    second: Fire_Burning_Hell_84
+  - first:
+      213: 5307480083249065715
+    second: Fire_Burning_Hell_85
+  - first:
+      213: 1796014091368507587
+    second: Fire_Burning_Hell_86
+  - first:
+      213: 6296186399052696263
+    second: Fire_Burning_Hell_87
+  - first:
+      213: -6908128008536901480
+    second: Fire_Burning_Hell_88
+  - first:
+      213: 108636546311943066
+    second: Fire_Burning_Hell_89
+  - first:
+      213: -4481365674990414163
+    second: Fire_Burning_Hell_90
+  - first:
+      213: 7708905560737186675
+    second: Fire_Burning_Hell_91
+  - first:
+      213: -813643101378687665
+    second: Fire_Burning_Hell_92
+  - first:
+      213: 1543721666273153745
+    second: Fire_Burning_Hell_93
+  - first:
+      213: -6164095536894290974
+    second: Fire_Burning_Hell_94
+  - first:
+      213: -1988176581459149384
+    second: Fire_Burning_Hell_95
+  - first:
+      213: 6382856743834850799
+    second: Fire_Burning_Hell_96
+  - first:
+      213: -7439829124876977846
+    second: Fire_Burning_Hell_97
+  - first:
+      213: 7839497362257001183
+    second: Fire_Burning_Hell_98
+  - first:
+      213: -3743019222305670609
+    second: Fire_Burning_Hell_99
+  - first:
+      213: -3682979127633584227
+    second: Fire_Burning_Hell_100
+  - first:
+      213: -1124927643602222965
+    second: Fire_Burning_Hell_101
+  - first:
+      213: 7934880286189375446
+    second: Fire_Burning_Hell_102
+  - first:
+      213: 1336040330399368148
+    second: Fire_Burning_Hell_103
+  - first:
+      213: -1361549271673820092
+    second: Fire_Burning_Hell_104
+  - first:
+      213: -4962457313052187289
+    second: Fire_Burning_Hell_105
+  - first:
+      213: -5195968959070598740
+    second: Fire_Burning_Hell_106
+  - first:
+      213: 5505229320619871182
+    second: Fire_Burning_Hell_107
+  - first:
+      213: -725631384461819561
+    second: Fire_Burning_Hell_108
+  - first:
+      213: -4262310088457886848
+    second: Fire_Burning_Hell_109
+  - first:
+      213: -1467361683081592745
+    second: Fire_Burning_Hell_110
+  - first:
+      213: -6722432085550104072
+    second: Fire_Burning_Hell_111
+  - first:
+      213: -2234014209345785897
+    second: Fire_Burning_Hell_112
+  - first:
+      213: -6859421121124495217
+    second: Fire_Burning_Hell_113
+  - first:
+      213: 5364991370121038465
+    second: Fire_Burning_Hell_114
+  - first:
+      213: -4592481488803619478
+    second: Fire_Burning_Hell_115
+  - first:
+      213: -491797643964734270
+    second: Fire_Burning_Hell_116
+  - first:
+      213: -6576272591773340970
+    second: Fire_Burning_Hell_117
+  - first:
+      213: 1800411863688345260
+    second: Fire_Burning_Hell_118
+  - first:
+      213: 5086459260447056704
+    second: Fire_Burning_Hell_119
+  - first:
+      213: -4855285353556624143
+    second: Fire_Burning_Hell_120
+  - first:
+      213: 4563814380067790810
+    second: Fire_Burning_Hell_121
+  - first:
+      213: -3798141760169770981
+    second: Fire_Burning_Hell_122
+  - first:
+      213: 5410591846081033184
+    second: Fire_Burning_Hell_123
+  - first:
+      213: 3980524312817024313
+    second: Fire_Burning_Hell_124
+  - first:
+      213: 7177433455465565982
+    second: Fire_Burning_Hell_125
+  - first:
+      213: -6656151746473796149
+    second: Fire_Burning_Hell_126
+  - first:
+      213: -7347003113378677346
+    second: Fire_Burning_Hell_127
+  - first:
+      213: 5531851165396122499
+    second: Fire_Burning_Hell_128
+  - first:
+      213: -272176928621722094
+    second: Fire_Burning_Hell_129
+  - first:
+      213: 7042689358260140877
+    second: Fire_Burning_Hell_130
+  - first:
+      213: -4475192184606509437
+    second: Fire_Burning_Hell_131
+  - first:
+      213: -6062584348759781063
+    second: Fire_Burning_Hell_132
+  - first:
+      213: -4935241838325547721
+    second: Fire_Burning_Hell_133
+  - first:
+      213: -2416997981884606733
+    second: Fire_Burning_Hell_134
+  - first:
+      213: -4863386733889029253
+    second: Fire_Burning_Hell_135
+  - first:
+      213: 2351690607324213005
+    second: Fire_Burning_Hell_136
+  - first:
+      213: 8132745842574671140
+    second: Fire_Burning_Hell_137
+  - first:
+      213: -4375764430022479607
+    second: Fire_Burning_Hell_138
+  - first:
+      213: -4106194500418731912
+    second: Fire_Burning_Hell_139
+  - first:
+      213: 4870854323042893023
+    second: Fire_Burning_Hell_140
+  - first:
+      213: -25797756305343817
+    second: Fire_Burning_Hell_141
+  - first:
+      213: 2527028813206661535
+    second: Fire_Burning_Hell_142
+  - first:
+      213: 4373702166812101993
+    second: Fire_Burning_Hell_143
+  - first:
+      213: -6290089803722897489
+    second: Fire_Burning_Hell_144
+  - first:
+      213: 2271280720978543717
+    second: Fire_Burning_Hell_145
+  - first:
+      213: 6920493507614176399
+    second: Fire_Burning_Hell_146
+  - first:
+      213: -8978631820623282673
+    second: Fire_Burning_Hell_147
+  - first:
+      213: -1785209388904422291
+    second: Fire_Burning_Hell_148
+  - first:
+      213: 4447116616546169068
+    second: Fire_Burning_Hell_149
+  - first:
+      213: -5068856478056728661
+    second: Fire_Burning_Hell_150
+  - first:
+      213: 6787332564671152185
+    second: Fire_Burning_Hell_151
+  - first:
+      213: -6622910646699660568
+    second: Fire_Burning_Hell_152
+  - first:
+      213: -7667057236688066766
+    second: Fire_Burning_Hell_153
+  - first:
+      213: 6188711396251337379
+    second: Fire_Burning_Hell_154
+  - first:
+      213: 5986794087095795583
+    second: Fire_Burning_Hell_155
+  - first:
+      213: 247266997000067134
+    second: Fire_Burning_Hell_156
+  - first:
+      213: 4106652965662141112
+    second: Fire_Burning_Hell_157
+  - first:
+      213: 4504694109025089390
+    second: Fire_Burning_Hell_158
+  - first:
+      213: -5740823660829046749
+    second: Fire_Burning_Hell_159
+  - first:
+      213: 8205797168112119236
+    second: Fire_Burning_Hell_160
+  - first:
+      213: 3809949530868746550
+    second: Fire_Burning_Hell_161
+  - first:
+      213: 2042065324872237634
+    second: Fire_Burning_Hell_162
+  - first:
+      213: -7988627392236807103
+    second: Fire_Burning_Hell_163
+  - first:
+      213: -9088016518010044139
+    second: Fire_Burning_Hell_164
+  - first:
+      213: 8546746576699591053
+    second: Fire_Burning_Hell_165
+  - first:
+      213: -5471267374064966299
+    second: Fire_Burning_Hell_166
+  - first:
+      213: -4391152072983756962
+    second: Fire_Burning_Hell_167
+  - first:
+      213: -398074650599951009
+    second: Fire_Burning_Hell_168
+  - first:
+      213: -215871473035378288
+    second: Fire_Burning_Hell_169
+  - first:
+      213: 6104296289295352968
+    second: Fire_Burning_Hell_170
+  - first:
+      213: -3446142850128806048
+    second: Fire_Burning_Hell_171
+  - first:
+      213: 3710567496550150012
+    second: Fire_Burning_Hell_172
+  - first:
+      213: -373688385588125263
+    second: Fire_Burning_Hell_173
+  - first:
+      213: -4845885327965346999
+    second: Fire_Burning_Hell_174
+  - first:
+      213: 7601732554346289913
+    second: Fire_Burning_Hell_175
+  - first:
+      213: -3255163327642515878
+    second: Fire_Burning_Hell_176
+  - first:
+      213: 5376832367537087044
+    second: Fire_Burning_Hell_177
+  - first:
+      213: -3123063998355635115
+    second: Fire_Burning_Hell_178
+  - first:
+      213: -6190679354121620525
+    second: Fire_Burning_Hell_179
+  - first:
+      213: -6438234614144518110
+    second: Fire_Burning_Hell_180
+  - first:
+      213: 6367321192136041593
+    second: Fire_Burning_Hell_181
+  - first:
+      213: -1657063355508739746
+    second: Fire_Burning_Hell_182
+  - first:
+      213: 541036407613118385
+    second: Fire_Burning_Hell_183
+  - first:
+      213: -8758945109282440393
+    second: Fire_Burning_Hell_184
+  - first:
+      213: -5852882576638461360
+    second: Fire_Burning_Hell_185
+  - first:
+      213: -1610104582482687992
+    second: Fire_Burning_Hell_186
+  - first:
+      213: 7107472158320279517
+    second: Fire_Burning_Hell_187
+  - first:
+      213: -4378466113728451786
+    second: Fire_Burning_Hell_188
+  - first:
+      213: -604811112517653001
+    second: Fire_Burning_Hell_189
+  - first:
+      213: 1306354809582595993
+    second: Fire_Burning_Hell_190
+  - first:
+      213: -1640980700441820089
+    second: Fire_Burning_Hell_191
+  - first:
+      213: -5868144259338341495
+    second: Fire_Burning_Hell_192
+  - first:
+      213: -4339361700044065590
+    second: Fire_Burning_Hell_193
+  - first:
+      213: 5803333600861670218
+    second: Fire_Burning_Hell_194
+  - first:
+      213: 2865789619526580442
+    second: Fire_Burning_Hell_195
+  - first:
+      213: 5551900744163932689
+    second: Fire_Burning_Hell_196
+  - first:
+      213: -2942203462166420965
+    second: Fire_Burning_Hell_197
+  - first:
+      213: -4785044595530792860
+    second: Fire_Burning_Hell_198
+  - first:
+      213: -3930766187545857220
+    second: Fire_Burning_Hell_199
+  - first:
+      213: -7128935215170618332
+    second: Fire_Burning_Hell_200
+  - first:
+      213: -8409740538917192153
+    second: Fire_Burning_Hell_201
+  - first:
+      213: 3399543557482341719
+    second: Fire_Burning_Hell_202
+  - first:
+      213: 6824942508538452211
+    second: Fire_Burning_Hell_203
+  - first:
+      213: -4939282588366714068
+    second: Fire_Burning_Hell_204
+  - first:
+      213: 9129076940012993730
+    second: Fire_Burning_Hell_205
+  - first:
+      213: -1554534532173800545
+    second: Fire_Burning_Hell_206
+  - first:
+      213: 2310221986670182608
+    second: Fire_Burning_Hell_207
+  - first:
+      213: -7169435830866948111
+    second: Fire_Burning_Hell_208
+  - first:
+      213: -8853364117000376498
+    second: Fire_Burning_Hell_209
+  - first:
+      213: -5309089329867281536
+    second: Fire_Burning_Hell_210
+  - first:
+      213: 3362573347574944340
+    second: Fire_Burning_Hell_211
+  - first:
+      213: 6214808907729215097
+    second: Fire_Burning_Hell_212
+  - first:
+      213: -3258155961692889182
+    second: Fire_Burning_Hell_213
+  - first:
+      213: 5610178478015180627
+    second: Fire_Burning_Hell_214
+  - first:
+      213: 3265432988725669290
+    second: Fire_Burning_Hell_215
+  - first:
+      213: -6830406575357078892
+    second: Fire_Burning_Hell_216
+  - first:
+      213: 737591228025733648
+    second: Fire_Burning_Hell_217
+  - first:
+      213: 590451046479858860
+    second: Fire_Burning_Hell_218
+  - first:
+      213: 6966778589143259273
+    second: Fire_Burning_Hell_219
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_0
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 186
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f95da886647fa020800000000000000
+      internalID: 2355229113866607097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_1
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 186
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79188a67d0098eda0800000000000000
+      internalID: -5915319723051417193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_2
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 186
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c64f3964ab39b670800000000000000
+      internalID: 8554934544493397700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_3
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 4
+        width: 216
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ef80fcbcc5b1130800000000000000
+      internalID: 3538523962651246205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_4
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eeadf23ca985be0800000000000000
+      internalID: -1488269513733771731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_5
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1941bd063147bed60800000000000000
+      internalID: 7920551996239320209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_6
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 177
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aca1af5bd139ee0800000000000000
+      internalID: -1255627203683890643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_7
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b33561291f1d09a0800000000000000
+      internalID: -6265317313807567943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_8
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1542794fa9860dff0800000000000000
+      internalID: -13395784144313263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_9
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcc714561a213d80800000000000000
+      internalID: -8272784765114397449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_10
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d3b2007927a6fc0800000000000000
+      internalID: -3500859767458677455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_11
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cc1bffc68e9eae0800000000000000
+      internalID: -1519427844416877524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_12
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 159
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3875e0e11d9304d10800000000000000
+      internalID: 2107748195924596611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_13
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 159
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491a9a65391ffb500800000000000000
+      internalID: 414315305857819028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_14
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 159
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c595f20b90e0f90800000000000000
+      internalID: -6985635319691781087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_15
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819b2eee3471bff0800000000000000
+      internalID: -22108709527514750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_16
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b0e466021a7e30800000000000000
+      internalID: 4501930596181783410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_17
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383c24483c4ad230800000000000000
+      internalID: 3664325051364948026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_18
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adb6ddb9a5b97710800000000000000
+      internalID: 1691582875693399464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_19
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 169
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7986d4661bd4c190800000000000000
+      internalID: -7942982953547167366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_20
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 170
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9079fa60022fb90800000000000000
+      internalID: -7209664840378938965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_21
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 170
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f108ca325671952a0800000000000000
+      internalID: -6748336843480334305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_22
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac43c66b7f3832c60800000000000000
+      internalID: 7792216880221795530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_23
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d4a2117138720f0800000000000000
+      internalID: -1141799845419659927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_24
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 143
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1c18ae0f01a4180800000000000000
+      internalID: -9130466667627691573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_25
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 143
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88df72aba1c5a4760800000000000000
+      internalID: 7442862604045254024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_26
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 151
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef97ab2b25260b50800000000000000
+      internalID: 6558970774657933280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_27
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 151
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac5ae848a94c7c60800000000000000
+      internalID: 7817204040334990500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_28
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 161
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3212abedfa1470800000000000000
+      internalID: 8366278446272364467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_29
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 161
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3faab2eacf82070800000000000000
+      internalID: 8081987356303487961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 410
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf5e5e3cf53c480800000000000000
+      internalID: -8880148745264170127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 127
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff4512609d51bbc0800000000000000
+      internalID: -3769128538430156803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_32
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 127
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26c3a152b0f14410800000000000000
+      internalID: 1459712402909283883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 127
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748010c5a243e2de0800000000000000
+      internalID: -1356089081255098297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_34
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d583aa7a84bf00800000000000000
+      internalID: 1131681665710936255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_35
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42942db8ee1cae850800000000000000
+      internalID: 6407146650180143396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_36
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a9587ab5ac1c3a0800000000000000
+      internalID: -6646809080020755898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_37
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed86dbdfaf5554960800000000000000
+      internalID: 7585563683862702302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_38
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995a3fa0451ce4620800000000000000
+      internalID: 2760356188329846169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_39
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6820b2ca7ee3c2d80800000000000000
+      internalID: -8274169250639576442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_40
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 127
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb96fd52d4b93910800000000000000
+      internalID: 1817682740233280477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_41
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 119
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d870baf8c3351f210800000000000000
+      internalID: 1364963681643464589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_42
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c062e9af680030800000000000000
+      internalID: 3461139089072374464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_43
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 135
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15900d8f08b2dc580800000000000000
+      internalID: -8805333863509259951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_44
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 135
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff478765799be3510800000000000000
+      internalID: 1530864982994482431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c2ccd03d7e8a940800000000000000
+      internalID: 5307747054511729712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_46
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1016183bc2cc389d0800000000000000
+      internalID: -2773148453167865599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_47
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6354085347a7540800000000000000
+      internalID: 5006441708909836030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_48
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcbacc6a5f9e8050800000000000000
+      internalID: 5804752180448247004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_49
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56161cb28f0e400d0800000000000000
+      internalID: -3457391257423093403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_50
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d92b49c57872100800000000000000
+      internalID: 83183949831118158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d23b4c43f0a5cb0800000000000000
+      internalID: -4874566927362347630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_52
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e62b1586075a6b0800000000000000
+      internalID: -5285694994299851253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_53
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 111
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80827f38d7d6d080800000000000000
+      internalID: -9162899068061319029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_54
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 119
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd914ed1edb11250800000000000000
+      internalID: 5913716563508305374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 119
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814fb9423ea5396e0800000000000000
+      internalID: -1832020691791383528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_56
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 111
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902204d511c4cd370800000000000000
+      internalID: 8348631446700696073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_57
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f99c9d8ddb1e3380800000000000000
+      internalID: -8989717167807358479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c24f433a2d2b5a60800000000000000
+      internalID: 7663768850173739721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_59
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05db0816f40a9060800000000000000
+      internalID: 6960881629066417418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_60
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f4586820b18e470800000000000000
+      internalID: 8424012800657280777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_61
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7869aad26917d6b80800000000000000
+      internalID: -8399932840150919545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8217b9bd0b4a813c0800000000000000
+      internalID: -4388576757366951640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_63
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689e69a5fc974610800000000000000
+      internalID: 1605424371104389230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_64
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd86cd272588fb800800000000000000
+      internalID: 630372360550901981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_65
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe870ed13b8ba1800800000000000000
+      internalID: 583982181137807599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_66
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550f545aac6765350800000000000000
+      internalID: 6005117765873430613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_67
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263efec236c9f0230800000000000000
+      internalID: 3607273776316670818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_68
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c29c0c889e672470800000000000000
+      internalID: 8369780033955074755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_69
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 79
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5605904811ed41920800000000000000
+      internalID: 2960235021900271717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_70
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 79
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa87bad638646a0800000000000000
+      internalID: -6465335707992281294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_71
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 79
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c59287cae463880800000000000000
+      internalID: -8631625133151658938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_72
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 79
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4274b190b76055780800000000000000
+      internalID: -8695036380065347804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_73
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 79
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f375666c75d8d5c0800000000000000
+      internalID: -4190364722997660679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_74
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969c354320192670800000000000000
+      internalID: 8514354314192131739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_75
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc926f0c59e9270800000000000000
+      internalID: 8259203422640261892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_76
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 79
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c75d901e34be9e0800000000000000
+      internalID: -1591103409533649879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_77
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 79
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df667e900651cbd30800000000000000
+      internalID: 4448454034162411261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_78
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 79
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b433ebf7e535b0a40800000000000000
+      internalID: 5335449848885687115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_79
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 79
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91839d183282cc0800000000000000
+      internalID: -3735696850301740574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_80
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f482f4426c5dc30800000000000000
+      internalID: 4383627671564210053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_81
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61541627dc8175170800000000000000
+      internalID: 8167023719926023446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_82
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 79
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4913b9461fc2140d0800000000000000
+      internalID: -3440419225047715436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_83
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 113
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffef0e71acb16b00800000000000000
+      internalID: 820144008948871159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_84
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 113
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4121911fab5a61920800000000000000
+      internalID: 2960736027370131988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_85
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 113
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6586f305f7a940800000000000000
+      internalID: 5307480083249065715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_86
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 113
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8ad97ec49bce810800000000000000
+      internalID: 1796014091368507587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_87
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca8e2bdb2c806750800000000000000
+      internalID: 6296186399052696263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_88
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8983b345d266120a0800000000000000
+      internalID: -6908128008536901480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_89
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937c800d54f18100800000000000000
+      internalID: 108636546311943066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_90
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 114
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6519179adfec1c0800000000000000
+      internalID: -4481365674990414163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_91
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37306c293c88bfa60800000000000000
+      internalID: 7708905560737186675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d406009eb55b4f0800000000000000
+      internalID: -813643101378687665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_93
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2194e2da66c6510800000000000000
+      internalID: 1543721666273153745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_94
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e358d994cbb47aa0800000000000000
+      internalID: -6164095536894290974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_95
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 103
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd7067dee39864e0800000000000000
+      internalID: -1988176581459149384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_96
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe59b740466749850800000000000000
+      internalID: 6382856743834850799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_97
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493a1e24da60c890800000000000000
+      internalID: -7439829124876977846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_98
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdab0f6c05d7bcc60800000000000000
+      internalID: 7839497362257001183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_99
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2af20349df1e0cc0800000000000000
+      internalID: -3743019222305670609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_100
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fd8362ffd63ecc0800000000000000
+      internalID: -3682979127633584227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_101
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80821da4447360f0800000000000000
+      internalID: -1124927643602222965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_102
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4199549b5e1e60800000000000000
+      internalID: 7934880286189375446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_103
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3cc031a919a8210800000000000000
+      internalID: 1336040330399368148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_104
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca0b5b62eca1de0800000000000000
+      internalID: -1361549271673820092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_105
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 87
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652c72bd5fc12bb0800000000000000
+      internalID: -4962457313052187289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_106
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca904aad2c534e7b0800000000000000
+      internalID: -5195968959070598740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_107
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbcc9e26e0866c40800000000000000
+      internalID: 5505229320619871182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_108
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514743b91a0ee5f0800000000000000
+      internalID: -725631384461819561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_109
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08367e6ae8b39d4c0800000000000000
+      internalID: -4262310088457886848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_110
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 106
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75007ead252e2abe0800000000000000
+      internalID: -1467361683081592745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_111
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 106
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1091a92af15b2a0800000000000000
+      internalID: -6722432085550104072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_112
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 106
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe4c4b9ef2ff0e0800000000000000
+      internalID: -2234014209345785897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_113
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 95
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80109645d07ec0a0800000000000000
+      internalID: -6859421121124495217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_114
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 95
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ac917e937447a40800000000000000
+      internalID: 5364991370121038465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_115
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9d4efa6a3440c0800000000000000
+      internalID: -4592481488803619478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_116
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4ab1206a8cc29f0800000000000000
+      internalID: -491797643964734270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_117
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da663d9be26cb4a0800000000000000
+      internalID: -6576272591773340970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_118
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6fa801d095cf810800000000000000
+      internalID: 1800411863688345260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_119
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04361778fbbb69640800000000000000
+      internalID: 5086459260447056704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_120
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb91202bf8e9cb0800000000000000
+      internalID: -4855285353556624143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_121
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf92c0affce55f30800000000000000
+      internalID: 4563814380067790810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_122
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10018a413a4a4bc0800000000000000
+      internalID: -3798141760169770981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_123
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f8421e98461b40800000000000000
+      internalID: 5410591846081033184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_124
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93db345d5c9ad3730800000000000000
+      internalID: 3980524312817024313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_125
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f870833bd5b9360800000000000000
+      internalID: 7177433455465565982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_126
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd555c904990a3a0800000000000000
+      internalID: -6656151746473796149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_127
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 87
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dff5f28933a0a90800000000000000
+      internalID: -7347003113378677346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_128
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 87
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b34cf635515cc40800000000000000
+      internalID: 5531851165396122499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_129
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21602758688093cf0800000000000000
+      internalID: -272176928621722094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_130
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bf48658a8acb160800000000000000
+      internalID: 7042689358260140877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_131
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386bcee2b6ce4e1c0800000000000000
+      internalID: -4475192184606509437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_132
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931945fd7af5ddba0800000000000000
+      internalID: -6062584348759781063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_133
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 89
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73db5f132bf728bb0800000000000000
+      internalID: -4935241838325547721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_134
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 89
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f69eea2429157ed0800000000000000
+      internalID: -2416997981884606733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_135
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 89
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b72396887c18cb0800000000000000
+      internalID: -4863386733889029253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_136
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 89
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fae27c522e2a020800000000000000
+      internalID: 2351690607324213005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_137
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db23331415dd070800000000000000
+      internalID: 8132745842574671140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_138
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90178b74f692643c0800000000000000
+      internalID: -4375764430022479607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_139
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87001ef7bddd307c0800000000000000
+      internalID: -4106194500418731912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_140
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcb5ad2330c89340800000000000000
+      internalID: 4870854323042893023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_141
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bafa6bc31954aff0800000000000000
+      internalID: -25797756305343817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_142
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f992c5c115fc11320800000000000000
+      internalID: 2527028813206661535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_143
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0136a2f282bc30800000000000000
+      internalID: 4373702166812101993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_144
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa74acb56ac15b8a0800000000000000
+      internalID: -6290089803722897489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_145
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5648e1f28c5358f10800000000000000
+      internalID: 2271280720978543717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_146
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f847db7cd288a0060800000000000000
+      internalID: 6920493507614176399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_147
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0efab21eed756380800000000000000
+      internalID: -8978631820623282673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_148
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64e8ace489a937e0800000000000000
+      internalID: -1785209388904422291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_149
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b8fb300557bd30800000000000000
+      internalID: 4447116616546169068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_150
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7bdff93edc7a9b0800000000000000
+      internalID: -5068856478056728661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_151
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9304aa9b103713e50800000000000000
+      internalID: 6787332564671152185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_152
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea60544bd1b614a0800000000000000
+      internalID: -6622910646699660568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_153
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237ae96a014299590800000000000000
+      internalID: -7667057236688066766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_154
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a209f6c938b2e550800000000000000
+      internalID: 6188711396251337379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_155
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ff0c8b08d551350800000000000000
+      internalID: 5986794087095795583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_156
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38ddd016087e6300800000000000000
+      internalID: 247266997000067134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_157
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baa8124d13cdf830800000000000000
+      internalID: 4106652965662141112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_158
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e673c3edc63e38e30800000000000000
+      internalID: 4504694109025089390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_159
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3288022fb4f7450b0800000000000000
+      internalID: -5740823660829046749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_160
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 81
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdaa385c09d0e170800000000000000
+      internalID: 8205797168112119236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_161
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639099f89e8afd430800000000000000
+      internalID: 3809949530868746550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_162
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2420729f79fd65c10800000000000000
+      internalID: 2042065324872237634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_163
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c15ca56b1b22190800000000000000
+      internalID: -7988627392236807103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_164
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51101239021e0e180800000000000000
+      internalID: -9088016518010044139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_165
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8907799ab42c9670800000000000000
+      internalID: 8546746576699591053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_166
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 63
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5656ca1bf472214b0800000000000000
+      internalID: -5471267374064966299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f3517747e7f03c0800000000000000
+      internalID: -4391152072983756962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_168
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55f6e0e631c97af0800000000000000
+      internalID: -398074650599951009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_169
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 63
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091069cf902110df0800000000000000
+      internalID: -215871473035378288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_170
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844f271221d6b450800000000000000
+      internalID: 6104296289295352968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_171
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ff1d41657dc20d0800000000000000
+      internalID: -3446142850128806048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_172
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 63
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f6bfa8a759e7330800000000000000
+      internalID: 3710567496550150012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_173
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1a458a46460daf0800000000000000
+      internalID: -373688385588125263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_174
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943295408f4ffbcb0800000000000000
+      internalID: -4845885327965346999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_175
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa55538b77ce7960800000000000000
+      internalID: 7601732554346289913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_176
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a564df9333653d2d0800000000000000
+      internalID: -3255163327642515878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_177
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442eed3fc885e9a40800000000000000
+      internalID: 5376832367537087044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_178
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554833717d5a8a4d0800000000000000
+      internalID: -3123063998355635115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_179
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d37c335de9461aa0800000000000000
+      internalID: -6190679354121620525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_180
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228ba4bcabbc6a6a0800000000000000
+      internalID: -6438234614144518110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_181
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e51483e44d5850800000000000000
+      internalID: 6367321192136041593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_182
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51b59c58ade009e0800000000000000
+      internalID: -1657063355508739746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_183
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b755560fb5228700800000000000000
+      internalID: 541036407613118385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_184
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b331a74d9f17680800000000000000
+      internalID: -8758945109282440393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_185
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 63
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a34637e4266cea0800000000000000
+      internalID: -5852882576638461360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_186
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80804e5b962c7a9e0800000000000000
+      internalID: -1610104582482687992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_187
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 55
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb8af5540d2a260800000000000000
+      internalID: 7107472158320279517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_188
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 47
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b612684409c33c0800000000000000
+      internalID: -4378466113728451786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_189
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 47
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd2d226f774b97f0800000000000000
+      internalID: -604811112517653001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_190
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 39
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f2bc727ca112210800000000000000
+      internalID: 1306354809582595993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_191
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 39
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c4ea4fb01a39e0800000000000000
+      internalID: -1640980700441820089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_192
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 39
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f36b03e9209ea0800000000000000
+      internalID: -5868144259338341495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_193
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 47
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac430f4568d77c3c0800000000000000
+      internalID: -4339361700044065590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_194
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 31
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bc270a925998050800000000000000
+      internalID: 5803333600861670218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_195
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 31
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad832e0b97455c720800000000000000
+      internalID: 2865789619526580442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_196
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 31
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a3e14cf405c0d40800000000000000
+      internalID: 5551900744163932689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_197
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 23
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1265a42a813b27d0800000000000000
+      internalID: -2942203462166420965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_198
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 23
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4600cf8ea4b189db0800000000000000
+      internalID: -4785044595530792860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_199
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 23
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3376308afc1379c0800000000000000
+      internalID: -3930766187545857220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_200
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c7bf8413fe01d90800000000000000
+      internalID: -7128935215170618332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_201
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e73ac59899a4b80800000000000000
+      internalID: -8409740538917192153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_202
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e33e9ada9d2f20800000000000000
+      internalID: 3399543557482341719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_203
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8d5e92d0117be50800000000000000
+      internalID: 6824942508538452211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_204
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b4123c7a4247bb0800000000000000
+      internalID: -4939282588366714068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_205
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3fa8eb1ff0be70800000000000000
+      internalID: 9129076940012993730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_206
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 25
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bd3ba441f2d6ae0800000000000000
+      internalID: -1554534532173800545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_207
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d006c328ae8f0020800000000000000
+      internalID: 2310221986670182608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_208
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 26
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc73dd81c018c90800000000000000
+      internalID: -7169435830866948111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_209
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fa0032e38822580800000000000000
+      internalID: -8853364117000376498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_210
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba17c12635256b0800000000000000
+      internalID: -5309089329867281536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_211
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529669d4a24aae20800000000000000
+      internalID: 3362573347574944340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_212
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e122c26cf6f3650800000000000000
+      internalID: 6214808907729215097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_213
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af59705a64b8c2d0800000000000000
+      internalID: -3258155961692889182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_214
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fe2ac0a9b5bdd40800000000000000
+      internalID: 5610178478015180627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_215
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade5d29006215d20800000000000000
+      internalID: 3265432988725669290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_216
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4925954a8658531a0800000000000000
+      internalID: -6830406575357078892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_217
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0120bef50537c3a00800000000000000
+      internalID: 737591228025733648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_218
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac80b23914b13800800000000000000
+      internalID: 590451046479858860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Burning_Hell_219
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 10
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885eaa1738fea060800000000000000
+      internalID: 6966778589143259273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fire_Burning_Hell_0: 2355229113866607097
+      Fire_Burning_Hell_1: -5915319723051417193
+      Fire_Burning_Hell_10: -3500859767458677455
+      Fire_Burning_Hell_100: -3682979127633584227
+      Fire_Burning_Hell_101: -1124927643602222965
+      Fire_Burning_Hell_102: 7934880286189375446
+      Fire_Burning_Hell_103: 1336040330399368148
+      Fire_Burning_Hell_104: -1361549271673820092
+      Fire_Burning_Hell_105: -4962457313052187289
+      Fire_Burning_Hell_106: -5195968959070598740
+      Fire_Burning_Hell_107: 5505229320619871182
+      Fire_Burning_Hell_108: -725631384461819561
+      Fire_Burning_Hell_109: -4262310088457886848
+      Fire_Burning_Hell_11: -1519427844416877524
+      Fire_Burning_Hell_110: -1467361683081592745
+      Fire_Burning_Hell_111: -6722432085550104072
+      Fire_Burning_Hell_112: -2234014209345785897
+      Fire_Burning_Hell_113: -6859421121124495217
+      Fire_Burning_Hell_114: 5364991370121038465
+      Fire_Burning_Hell_115: -4592481488803619478
+      Fire_Burning_Hell_116: -491797643964734270
+      Fire_Burning_Hell_117: -6576272591773340970
+      Fire_Burning_Hell_118: 1800411863688345260
+      Fire_Burning_Hell_119: 5086459260447056704
+      Fire_Burning_Hell_12: 2107748195924596611
+      Fire_Burning_Hell_120: -4855285353556624143
+      Fire_Burning_Hell_121: 4563814380067790810
+      Fire_Burning_Hell_122: -3798141760169770981
+      Fire_Burning_Hell_123: 5410591846081033184
+      Fire_Burning_Hell_124: 3980524312817024313
+      Fire_Burning_Hell_125: 7177433455465565982
+      Fire_Burning_Hell_126: -6656151746473796149
+      Fire_Burning_Hell_127: -7347003113378677346
+      Fire_Burning_Hell_128: 5531851165396122499
+      Fire_Burning_Hell_129: -272176928621722094
+      Fire_Burning_Hell_13: 414315305857819028
+      Fire_Burning_Hell_130: 7042689358260140877
+      Fire_Burning_Hell_131: -4475192184606509437
+      Fire_Burning_Hell_132: -6062584348759781063
+      Fire_Burning_Hell_133: -4935241838325547721
+      Fire_Burning_Hell_134: -2416997981884606733
+      Fire_Burning_Hell_135: -4863386733889029253
+      Fire_Burning_Hell_136: 2351690607324213005
+      Fire_Burning_Hell_137: 8132745842574671140
+      Fire_Burning_Hell_138: -4375764430022479607
+      Fire_Burning_Hell_139: -4106194500418731912
+      Fire_Burning_Hell_14: -6985635319691781087
+      Fire_Burning_Hell_140: 4870854323042893023
+      Fire_Burning_Hell_141: -25797756305343817
+      Fire_Burning_Hell_142: 2527028813206661535
+      Fire_Burning_Hell_143: 4373702166812101993
+      Fire_Burning_Hell_144: -6290089803722897489
+      Fire_Burning_Hell_145: 2271280720978543717
+      Fire_Burning_Hell_146: 6920493507614176399
+      Fire_Burning_Hell_147: -8978631820623282673
+      Fire_Burning_Hell_148: -1785209388904422291
+      Fire_Burning_Hell_149: 4447116616546169068
+      Fire_Burning_Hell_15: -22108709527514750
+      Fire_Burning_Hell_150: -5068856478056728661
+      Fire_Burning_Hell_151: 6787332564671152185
+      Fire_Burning_Hell_152: -6622910646699660568
+      Fire_Burning_Hell_153: -7667057236688066766
+      Fire_Burning_Hell_154: 6188711396251337379
+      Fire_Burning_Hell_155: 5986794087095795583
+      Fire_Burning_Hell_156: 247266997000067134
+      Fire_Burning_Hell_157: 4106652965662141112
+      Fire_Burning_Hell_158: 4504694109025089390
+      Fire_Burning_Hell_159: -5740823660829046749
+      Fire_Burning_Hell_16: 4501930596181783410
+      Fire_Burning_Hell_160: 8205797168112119236
+      Fire_Burning_Hell_161: 3809949530868746550
+      Fire_Burning_Hell_162: 2042065324872237634
+      Fire_Burning_Hell_163: -7988627392236807103
+      Fire_Burning_Hell_164: -9088016518010044139
+      Fire_Burning_Hell_165: 8546746576699591053
+      Fire_Burning_Hell_166: -5471267374064966299
+      Fire_Burning_Hell_167: -4391152072983756962
+      Fire_Burning_Hell_168: -398074650599951009
+      Fire_Burning_Hell_169: -215871473035378288
+      Fire_Burning_Hell_17: 3664325051364948026
+      Fire_Burning_Hell_170: 6104296289295352968
+      Fire_Burning_Hell_171: -3446142850128806048
+      Fire_Burning_Hell_172: 3710567496550150012
+      Fire_Burning_Hell_173: -373688385588125263
+      Fire_Burning_Hell_174: -4845885327965346999
+      Fire_Burning_Hell_175: 7601732554346289913
+      Fire_Burning_Hell_176: -3255163327642515878
+      Fire_Burning_Hell_177: 5376832367537087044
+      Fire_Burning_Hell_178: -3123063998355635115
+      Fire_Burning_Hell_179: -6190679354121620525
+      Fire_Burning_Hell_18: 1691582875693399464
+      Fire_Burning_Hell_180: -6438234614144518110
+      Fire_Burning_Hell_181: 6367321192136041593
+      Fire_Burning_Hell_182: -1657063355508739746
+      Fire_Burning_Hell_183: 541036407613118385
+      Fire_Burning_Hell_184: -8758945109282440393
+      Fire_Burning_Hell_185: -5852882576638461360
+      Fire_Burning_Hell_186: -1610104582482687992
+      Fire_Burning_Hell_187: 7107472158320279517
+      Fire_Burning_Hell_188: -4378466113728451786
+      Fire_Burning_Hell_189: -604811112517653001
+      Fire_Burning_Hell_19: -7942982953547167366
+      Fire_Burning_Hell_190: 1306354809582595993
+      Fire_Burning_Hell_191: -1640980700441820089
+      Fire_Burning_Hell_192: -5868144259338341495
+      Fire_Burning_Hell_193: -4339361700044065590
+      Fire_Burning_Hell_194: 5803333600861670218
+      Fire_Burning_Hell_195: 2865789619526580442
+      Fire_Burning_Hell_196: 5551900744163932689
+      Fire_Burning_Hell_197: -2942203462166420965
+      Fire_Burning_Hell_198: -4785044595530792860
+      Fire_Burning_Hell_199: -3930766187545857220
+      Fire_Burning_Hell_2: 8554934544493397700
+      Fire_Burning_Hell_20: -7209664840378938965
+      Fire_Burning_Hell_200: -7128935215170618332
+      Fire_Burning_Hell_201: -8409740538917192153
+      Fire_Burning_Hell_202: 3399543557482341719
+      Fire_Burning_Hell_203: 6824942508538452211
+      Fire_Burning_Hell_204: -4939282588366714068
+      Fire_Burning_Hell_205: 9129076940012993730
+      Fire_Burning_Hell_206: -1554534532173800545
+      Fire_Burning_Hell_207: 2310221986670182608
+      Fire_Burning_Hell_208: -7169435830866948111
+      Fire_Burning_Hell_209: -8853364117000376498
+      Fire_Burning_Hell_21: -6748336843480334305
+      Fire_Burning_Hell_210: -5309089329867281536
+      Fire_Burning_Hell_211: 3362573347574944340
+      Fire_Burning_Hell_212: 6214808907729215097
+      Fire_Burning_Hell_213: -3258155961692889182
+      Fire_Burning_Hell_214: 5610178478015180627
+      Fire_Burning_Hell_215: 3265432988725669290
+      Fire_Burning_Hell_216: -6830406575357078892
+      Fire_Burning_Hell_217: 737591228025733648
+      Fire_Burning_Hell_218: 590451046479858860
+      Fire_Burning_Hell_219: 6966778589143259273
+      Fire_Burning_Hell_22: 7792216880221795530
+      Fire_Burning_Hell_23: -1141799845419659927
+      Fire_Burning_Hell_24: -9130466667627691573
+      Fire_Burning_Hell_25: 7442862604045254024
+      Fire_Burning_Hell_26: 6558970774657933280
+      Fire_Burning_Hell_27: 7817204040334990500
+      Fire_Burning_Hell_28: 8366278446272364467
+      Fire_Burning_Hell_29: 8081987356303487961
+      Fire_Burning_Hell_3: 3538523962651246205
+      Fire_Burning_Hell_30: -8880148745264170127
+      Fire_Burning_Hell_31: -3769128538430156803
+      Fire_Burning_Hell_32: 1459712402909283883
+      Fire_Burning_Hell_33: -1356089081255098297
+      Fire_Burning_Hell_34: 1131681665710936255
+      Fire_Burning_Hell_35: 6407146650180143396
+      Fire_Burning_Hell_36: -6646809080020755898
+      Fire_Burning_Hell_37: 7585563683862702302
+      Fire_Burning_Hell_38: 2760356188329846169
+      Fire_Burning_Hell_39: -8274169250639576442
+      Fire_Burning_Hell_4: -1488269513733771731
+      Fire_Burning_Hell_40: 1817682740233280477
+      Fire_Burning_Hell_41: 1364963681643464589
+      Fire_Burning_Hell_42: 3461139089072374464
+      Fire_Burning_Hell_43: -8805333863509259951
+      Fire_Burning_Hell_44: 1530864982994482431
+      Fire_Burning_Hell_45: 5307747054511729712
+      Fire_Burning_Hell_46: -2773148453167865599
+      Fire_Burning_Hell_47: 5006441708909836030
+      Fire_Burning_Hell_48: 5804752180448247004
+      Fire_Burning_Hell_49: -3457391257423093403
+      Fire_Burning_Hell_5: 7920551996239320209
+      Fire_Burning_Hell_50: 83183949831118158
+      Fire_Burning_Hell_51: -4874566927362347630
+      Fire_Burning_Hell_52: -5285694994299851253
+      Fire_Burning_Hell_53: -9162899068061319029
+      Fire_Burning_Hell_54: 5913716563508305374
+      Fire_Burning_Hell_55: -1832020691791383528
+      Fire_Burning_Hell_56: 8348631446700696073
+      Fire_Burning_Hell_57: -8989717167807358479
+      Fire_Burning_Hell_58: 7663768850173739721
+      Fire_Burning_Hell_59: 6960881629066417418
+      Fire_Burning_Hell_6: -1255627203683890643
+      Fire_Burning_Hell_60: 8424012800657280777
+      Fire_Burning_Hell_61: -8399932840150919545
+      Fire_Burning_Hell_62: -4388576757366951640
+      Fire_Burning_Hell_63: 1605424371104389230
+      Fire_Burning_Hell_64: 630372360550901981
+      Fire_Burning_Hell_65: 583982181137807599
+      Fire_Burning_Hell_66: 6005117765873430613
+      Fire_Burning_Hell_67: 3607273776316670818
+      Fire_Burning_Hell_68: 8369780033955074755
+      Fire_Burning_Hell_69: 2960235021900271717
+      Fire_Burning_Hell_7: -6265317313807567943
+      Fire_Burning_Hell_70: -6465335707992281294
+      Fire_Burning_Hell_71: -8631625133151658938
+      Fire_Burning_Hell_72: -8695036380065347804
+      Fire_Burning_Hell_73: -4190364722997660679
+      Fire_Burning_Hell_74: 8514354314192131739
+      Fire_Burning_Hell_75: 8259203422640261892
+      Fire_Burning_Hell_76: -1591103409533649879
+      Fire_Burning_Hell_77: 4448454034162411261
+      Fire_Burning_Hell_78: 5335449848885687115
+      Fire_Burning_Hell_79: -3735696850301740574
+      Fire_Burning_Hell_8: -13395784144313263
+      Fire_Burning_Hell_80: 4383627671564210053
+      Fire_Burning_Hell_81: 8167023719926023446
+      Fire_Burning_Hell_82: -3440419225047715436
+      Fire_Burning_Hell_83: 820144008948871159
+      Fire_Burning_Hell_84: 2960736027370131988
+      Fire_Burning_Hell_85: 5307480083249065715
+      Fire_Burning_Hell_86: 1796014091368507587
+      Fire_Burning_Hell_87: 6296186399052696263
+      Fire_Burning_Hell_88: -6908128008536901480
+      Fire_Burning_Hell_89: 108636546311943066
+      Fire_Burning_Hell_9: -8272784765114397449
+      Fire_Burning_Hell_90: -4481365674990414163
+      Fire_Burning_Hell_91: 7708905560737186675
+      Fire_Burning_Hell_92: -813643101378687665
+      Fire_Burning_Hell_93: 1543721666273153745
+      Fire_Burning_Hell_94: -6164095536894290974
+      Fire_Burning_Hell_95: -1988176581459149384
+      Fire_Burning_Hell_96: 6382856743834850799
+      Fire_Burning_Hell_97: -7439829124876977846
+      Fire_Burning_Hell_98: 7839497362257001183
+      Fire_Burning_Hell_99: -3743019222305670609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

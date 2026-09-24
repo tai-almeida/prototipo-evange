@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 49653f7d8decd418bb9724d141bb49dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8648609696563749444
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_0
+  - first:
+      213: -7294397629155251834
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_1
+  - first:
+      213: 3380296392253573244
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_2
+  - first:
+      213: 1085993387141024322
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_3
+  - first:
+      213: 8572704105547327485
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_4
+  - first:
+      213: 4472688874592275917
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_5
+  - first:
+      213: 6431562750616199423
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_6
+  - first:
+      213: 1738109530178162089
+    second: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 113
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9153ad47f9f780800000000000000
+      internalID: -8648609696563749444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 113
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689efbfe00815ca90800000000000000
+      internalID: -7294397629155251834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 108
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780fcfb8a939ee20800000000000000
+      internalID: 3380296392253573244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 96
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac6f45b39321f00800000000000000
+      internalID: 1085993387141024322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76eafb6fc58f670800000000000000
+      internalID: 8572704105547327485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd0ae885de221e30800000000000000
+      internalID: 4472688874592275917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0ec1dee30814950800000000000000
+      internalID: 6431562750616199423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad8df6a8610f1810800000000000000
+      internalID: 1738109530178162089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_0: -8648609696563749444
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_1: -7294397629155251834
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_2: 3380296392253573244
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_3: 1085993387141024322
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_4: 8572704105547327485
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_5: 4472688874592275917
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_6: 6431562750616199423
+      Minifantasy_MagicAndSorceryTwisterThrowingFrontLayer S-E S-W_7: 1738109530178162089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

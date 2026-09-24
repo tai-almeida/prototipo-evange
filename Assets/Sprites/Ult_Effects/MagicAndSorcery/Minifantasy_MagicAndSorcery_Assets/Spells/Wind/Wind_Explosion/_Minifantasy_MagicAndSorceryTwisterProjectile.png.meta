@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: d708df892aba240f2ab9faf22126b472
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -443909672783090888
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_0
+  - first:
+      213: -8753648238407911730
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_1
+  - first:
+      213: 1753722892430815915
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_2
+  - first:
+      213: 1596795007503089252
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_3
+  - first:
+      213: 5584251158134086482
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_4
+  - first:
+      213: -739611880932608377
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_5
+  - first:
+      213: 2962705516486540563
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_6
+  - first:
+      213: -4677927805740251399
+    second: _Minifantasy_MagicAndSorceryTwisterProjectile_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6769218ae6d9f0800000000000000
+      internalID: -443909672783090888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f8f45e4bc48680800000000000000
+      internalID: -8753648238407911730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 83
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba23fc5dda9765810800000000000000
+      internalID: 1753722892430815915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb6516994f82610800000000000000
+      internalID: 1596795007503089252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b552977de3f7d40800000000000000
+      internalID: 5584251158134086482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7867a55b9ee5cb5f0800000000000000
+      internalID: -739611880932608377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d354c58f4ad1920800000000000000
+      internalID: 2962705516486540563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Minifantasy_MagicAndSorceryTwisterProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f60ee50279a41fb0800000000000000
+      internalID: -4677927805740251399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _Minifantasy_MagicAndSorceryTwisterProjectile_0: -443909672783090888
+      _Minifantasy_MagicAndSorceryTwisterProjectile_1: -8753648238407911730
+      _Minifantasy_MagicAndSorceryTwisterProjectile_2: 1753722892430815915
+      _Minifantasy_MagicAndSorceryTwisterProjectile_3: 1596795007503089252
+      _Minifantasy_MagicAndSorceryTwisterProjectile_4: 5584251158134086482
+      _Minifantasy_MagicAndSorceryTwisterProjectile_5: -739611880932608377
+      _Minifantasy_MagicAndSorceryTwisterProjectile_6: 2962705516486540563
+      _Minifantasy_MagicAndSorceryTwisterProjectile_7: -4677927805740251399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

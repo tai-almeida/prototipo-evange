@@ -1,0 +1,5512 @@
+fileFormatVersion: 2
+guid: 2ae0fb578d05d4f8ea78659c7dbbba96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 150435677933614780
+    second: Ice_Frostbite_0
+  - first:
+      213: -8966698654729432684
+    second: Ice_Frostbite_1
+  - first:
+      213: -2010675045116829273
+    second: Ice_Frostbite_2
+  - first:
+      213: 4610748792129373201
+    second: Ice_Frostbite_3
+  - first:
+      213: 8796007416346907017
+    second: Ice_Frostbite_4
+  - first:
+      213: 3824946048913199694
+    second: Ice_Frostbite_5
+  - first:
+      213: -6280093222243760376
+    second: Ice_Frostbite_6
+  - first:
+      213: 4935117368905622301
+    second: Ice_Frostbite_7
+  - first:
+      213: -9148574454033497626
+    second: Ice_Frostbite_8
+  - first:
+      213: -53114700486629185
+    second: Ice_Frostbite_9
+  - first:
+      213: 6825578848670528267
+    second: Ice_Frostbite_10
+  - first:
+      213: -7714853338388751735
+    second: Ice_Frostbite_11
+  - first:
+      213: 5878890290258834626
+    second: Ice_Frostbite_12
+  - first:
+      213: -7317670944480421406
+    second: Ice_Frostbite_13
+  - first:
+      213: -1387023694268339179
+    second: Ice_Frostbite_14
+  - first:
+      213: -3863625028718164835
+    second: Ice_Frostbite_15
+  - first:
+      213: -99942024015563783
+    second: Ice_Frostbite_16
+  - first:
+      213: 1754818989890600997
+    second: Ice_Frostbite_17
+  - first:
+      213: 6335084016667240118
+    second: Ice_Frostbite_18
+  - first:
+      213: 5125365433279516390
+    second: Ice_Frostbite_19
+  - first:
+      213: -6945413555237318663
+    second: Ice_Frostbite_20
+  - first:
+      213: -1631883710509383546
+    second: Ice_Frostbite_21
+  - first:
+      213: 4497509101956755958
+    second: Ice_Frostbite_22
+  - first:
+      213: 5505534005368280177
+    second: Ice_Frostbite_23
+  - first:
+      213: -1543697330325870613
+    second: Ice_Frostbite_24
+  - first:
+      213: -6473318414117580931
+    second: Ice_Frostbite_25
+  - first:
+      213: 7174225887013206363
+    second: Ice_Frostbite_26
+  - first:
+      213: -5129757187462852287
+    second: Ice_Frostbite_27
+  - first:
+      213: 2152044817037480991
+    second: Ice_Frostbite_28
+  - first:
+      213: -4611305461477661898
+    second: Ice_Frostbite_29
+  - first:
+      213: 3363530079712228002
+    second: Ice_Frostbite_30
+  - first:
+      213: 4484247198638054698
+    second: Ice_Frostbite_31
+  - first:
+      213: -3914083334387141831
+    second: Ice_Frostbite_32
+  - first:
+      213: -5723672686260171963
+    second: Ice_Frostbite_33
+  - first:
+      213: -3491506677061162990
+    second: Ice_Frostbite_34
+  - first:
+      213: 4905499780455559319
+    second: Ice_Frostbite_35
+  - first:
+      213: 2763098427875069141
+    second: Ice_Frostbite_36
+  - first:
+      213: -8282924112170523384
+    second: Ice_Frostbite_37
+  - first:
+      213: -4633151224078525209
+    second: Ice_Frostbite_38
+  - first:
+      213: 7987160311210583912
+    second: Ice_Frostbite_39
+  - first:
+      213: 7653171712906423743
+    second: Ice_Frostbite_40
+  - first:
+      213: 8892651649172142702
+    second: Ice_Frostbite_41
+  - first:
+      213: -997951361462121585
+    second: Ice_Frostbite_42
+  - first:
+      213: 9182456572695073692
+    second: Ice_Frostbite_43
+  - first:
+      213: -2193651795590251057
+    second: Ice_Frostbite_44
+  - first:
+      213: -8919743078468474235
+    second: Ice_Frostbite_45
+  - first:
+      213: -8138640452830993422
+    second: Ice_Frostbite_46
+  - first:
+      213: 3319601410346937580
+    second: Ice_Frostbite_47
+  - first:
+      213: -792411217818505819
+    second: Ice_Frostbite_48
+  - first:
+      213: -4609058409545396458
+    second: Ice_Frostbite_49
+  - first:
+      213: -4074325313850173719
+    second: Ice_Frostbite_50
+  - first:
+      213: 5053254035224057753
+    second: Ice_Frostbite_51
+  - first:
+      213: 4896393396453196432
+    second: Ice_Frostbite_52
+  - first:
+      213: 617434409638612014
+    second: Ice_Frostbite_53
+  - first:
+      213: -2239569020542791105
+    second: Ice_Frostbite_54
+  - first:
+      213: -7097853665851133360
+    second: Ice_Frostbite_55
+  - first:
+      213: 8477164283384168349
+    second: Ice_Frostbite_56
+  - first:
+      213: -8822210557734444457
+    second: Ice_Frostbite_57
+  - first:
+      213: -437384550421965260
+    second: Ice_Frostbite_58
+  - first:
+      213: 5212917766716495925
+    second: Ice_Frostbite_59
+  - first:
+      213: -1388968787611574406
+    second: Ice_Frostbite_60
+  - first:
+      213: -6453431515715154791
+    second: Ice_Frostbite_61
+  - first:
+      213: 8822524020184030539
+    second: Ice_Frostbite_62
+  - first:
+      213: 4475879388366791232
+    second: Ice_Frostbite_63
+  - first:
+      213: -6511983338886016334
+    second: Ice_Frostbite_64
+  - first:
+      213: 614585552561951646
+    second: Ice_Frostbite_65
+  - first:
+      213: -8125148176034789809
+    second: Ice_Frostbite_66
+  - first:
+      213: 2489026671865958614
+    second: Ice_Frostbite_67
+  - first:
+      213: 9087858915730127598
+    second: Ice_Frostbite_68
+  - first:
+      213: 2828845297296849978
+    second: Ice_Frostbite_69
+  - first:
+      213: -4681596657839815877
+    second: Ice_Frostbite_70
+  - first:
+      213: -3837843407563014370
+    second: Ice_Frostbite_71
+  - first:
+      213: -3451561779823691611
+    second: Ice_Frostbite_72
+  - first:
+      213: -4082960653915226996
+    second: Ice_Frostbite_73
+  - first:
+      213: -4580047710638908499
+    second: Ice_Frostbite_74
+  - first:
+      213: 3504664001590548633
+    second: Ice_Frostbite_75
+  - first:
+      213: -4517338617082913663
+    second: Ice_Frostbite_76
+  - first:
+      213: 3503633967139991732
+    second: Ice_Frostbite_77
+  - first:
+      213: 7158421443125089343
+    second: Ice_Frostbite_78
+  - first:
+      213: 7114457881267625151
+    second: Ice_Frostbite_79
+  - first:
+      213: -1795391232585857843
+    second: Ice_Frostbite_80
+  - first:
+      213: -6386271197542769466
+    second: Ice_Frostbite_81
+  - first:
+      213: -4863114237114448559
+    second: Ice_Frostbite_82
+  - first:
+      213: -1507873430523745102
+    second: Ice_Frostbite_83
+  - first:
+      213: -4014065741188192894
+    second: Ice_Frostbite_84
+  - first:
+      213: -4898358919447484851
+    second: Ice_Frostbite_85
+  - first:
+      213: 6586734087637479317
+    second: Ice_Frostbite_86
+  - first:
+      213: 9085089480398288224
+    second: Ice_Frostbite_87
+  - first:
+      213: -6265776451681475432
+    second: Ice_Frostbite_88
+  - first:
+      213: 7863843075690733053
+    second: Ice_Frostbite_89
+  - first:
+      213: -4040135105752343759
+    second: Ice_Frostbite_90
+  - first:
+      213: -4322002866029331861
+    second: Ice_Frostbite_91
+  - first:
+      213: 8997585211048338237
+    second: Ice_Frostbite_92
+  - first:
+      213: -5067225822442712629
+    second: Ice_Frostbite_93
+  - first:
+      213: 2084144430010036109
+    second: Ice_Frostbite_94
+  - first:
+      213: 7885395269168417506
+    second: Ice_Frostbite_95
+  - first:
+      213: 6649662718218341450
+    second: Ice_Frostbite_96
+  - first:
+      213: -2306656678700565833
+    second: Ice_Frostbite_97
+  - first:
+      213: -2605676818711252283
+    second: Ice_Frostbite_98
+  - first:
+      213: 50636130107264064
+    second: Ice_Frostbite_99
+  - first:
+      213: 1262455141162740735
+    second: Ice_Frostbite_100
+  - first:
+      213: 238437257379484705
+    second: Ice_Frostbite_101
+  - first:
+      213: -868763797274517546
+    second: Ice_Frostbite_102
+  - first:
+      213: -7814609091343529416
+    second: Ice_Frostbite_103
+  - first:
+      213: 1299153540462426418
+    second: Ice_Frostbite_104
+  - first:
+      213: -6812594322603352570
+    second: Ice_Frostbite_105
+  - first:
+      213: -3391755307357722628
+    second: Ice_Frostbite_106
+  - first:
+      213: 2113122975835032559
+    second: Ice_Frostbite_107
+  - first:
+      213: -3714727867965980506
+    second: Ice_Frostbite_108
+  - first:
+      213: 6903145142444303598
+    second: Ice_Frostbite_109
+  - first:
+      213: 7673939620007441534
+    second: Ice_Frostbite_110
+  - first:
+      213: -8820203875415541735
+    second: Ice_Frostbite_111
+  - first:
+      213: -5302004661987970606
+    second: Ice_Frostbite_112
+  - first:
+      213: 5176348804067103536
+    second: Ice_Frostbite_113
+  - first:
+      213: 2909803757469452328
+    second: Ice_Frostbite_114
+  - first:
+      213: -7671460487648851663
+    second: Ice_Frostbite_115
+  - first:
+      213: -5381978218539316896
+    second: Ice_Frostbite_116
+  - first:
+      213: -932891643370527439
+    second: Ice_Frostbite_117
+  - first:
+      213: -8169640471773373577
+    second: Ice_Frostbite_118
+  - first:
+      213: 4428888100152479211
+    second: Ice_Frostbite_119
+  - first:
+      213: -1260349713752897119
+    second: Ice_Frostbite_120
+  - first:
+      213: -3529533615253746442
+    second: Ice_Frostbite_121
+  - first:
+      213: -5305455043182692708
+    second: Ice_Frostbite_122
+  - first:
+      213: 7371821484311247960
+    second: Ice_Frostbite_123
+  - first:
+      213: -9197492173511657843
+    second: Ice_Frostbite_124
+  - first:
+      213: 7609690258478605025
+    second: Ice_Frostbite_125
+  - first:
+      213: -776662568108376618
+    second: Ice_Frostbite_126
+  - first:
+      213: -924606814798618678
+    second: Ice_Frostbite_127
+  - first:
+      213: -8886939687206727930
+    second: Ice_Frostbite_128
+  - first:
+      213: -2235641074041727795
+    second: Ice_Frostbite_129
+  - first:
+      213: -6894745083732618872
+    second: Ice_Frostbite_130
+  - first:
+      213: 3907519257580539995
+    second: Ice_Frostbite_131
+  - first:
+      213: -5295355547409556701
+    second: Ice_Frostbite_132
+  - first:
+      213: 4394899058046917284
+    second: Ice_Frostbite_133
+  - first:
+      213: -272135608294315040
+    second: Ice_Frostbite_134
+  - first:
+      213: 1320232361140850160
+    second: Ice_Frostbite_135
+  - first:
+      213: -660217295871996439
+    second: Ice_Frostbite_136
+  - first:
+      213: -1537221478644291830
+    second: Ice_Frostbite_137
+  - first:
+      213: 1792534051627831376
+    second: Ice_Frostbite_138
+  - first:
+      213: -1443178701712788432
+    second: Ice_Frostbite_139
+  - first:
+      213: -6030930591682667500
+    second: Ice_Frostbite_140
+  - first:
+      213: 8965071346785727781
+    second: Ice_Frostbite_141
+  - first:
+      213: -4505154818727122812
+    second: Ice_Frostbite_142
+  - first:
+      213: -5362241454957708427
+    second: Ice_Frostbite_143
+  - first:
+      213: 5546497656693181581
+    second: Ice_Frostbite_144
+  - first:
+      213: -8393973970224853521
+    second: Ice_Frostbite_145
+  - first:
+      213: 838368850866073456
+    second: Ice_Frostbite_146
+  - first:
+      213: -614550856154140989
+    second: Ice_Frostbite_147
+  - first:
+      213: -4435919692774767754
+    second: Ice_Frostbite_148
+  - first:
+      213: 5097045544561532069
+    second: Ice_Frostbite_149
+  - first:
+      213: 8579336825829336125
+    second: Ice_Frostbite_150
+  - first:
+      213: 953081085741191701
+    second: Ice_Frostbite_151
+  - first:
+      213: 2324304474972477889
+    second: Ice_Frostbite_152
+  - first:
+      213: -3584115896922044615
+    second: Ice_Frostbite_153
+  - first:
+      213: 8989517486814978851
+    second: Ice_Frostbite_154
+  - first:
+      213: 1597965952397840762
+    second: Ice_Frostbite_155
+  - first:
+      213: -5252710279332411787
+    second: Ice_Frostbite_156
+  - first:
+      213: -3944071246176757565
+    second: Ice_Frostbite_157
+  - first:
+      213: 7492522162947370187
+    second: Ice_Frostbite_158
+  - first:
+      213: 3920608179732546486
+    second: Ice_Frostbite_159
+  - first:
+      213: -9063846199689532667
+    second: Ice_Frostbite_160
+  - first:
+      213: 7993111277050062399
+    second: Ice_Frostbite_161
+  - first:
+      213: -3253925178389770315
+    second: Ice_Frostbite_162
+  - first:
+      213: 6690990925654017522
+    second: Ice_Frostbite_163
+  - first:
+      213: -5200210628373037122
+    second: Ice_Frostbite_164
+  - first:
+      213: -3906616712481770546
+    second: Ice_Frostbite_165
+  - first:
+      213: -6365630290828961446
+    second: Ice_Frostbite_166
+  - first:
+      213: 7541025137264389903
+    second: Ice_Frostbite_167
+  - first:
+      213: -5648624244477019091
+    second: Ice_Frostbite_168
+  - first:
+      213: -5276791949837748252
+    second: Ice_Frostbite_169
+  - first:
+      213: -7540523185683870822
+    second: Ice_Frostbite_170
+  - first:
+      213: -1187499773842490303
+    second: Ice_Frostbite_171
+  - first:
+      213: 6140573475725600627
+    second: Ice_Frostbite_172
+  - first:
+      213: -8191189316476120468
+    second: Ice_Frostbite_173
+  - first:
+      213: 779254652883337924
+    second: Ice_Frostbite_174
+  - first:
+      213: -5783905184833282857
+    second: Ice_Frostbite_175
+  - first:
+      213: 2012935183262323627
+    second: Ice_Frostbite_176
+  - first:
+      213: -4049194809180161780
+    second: Ice_Frostbite_177
+  - first:
+      213: 7224768816667940177
+    second: Ice_Frostbite_178
+  - first:
+      213: 1200133850878729023
+    second: Ice_Frostbite_179
+  - first:
+      213: -2018798876216065257
+    second: Ice_Frostbite_180
+  - first:
+      213: 144727815086340195
+    second: Ice_Frostbite_181
+  - first:
+      213: 3837303118554417335
+    second: Ice_Frostbite_182
+  - first:
+      213: 8998246568416678921
+    second: Ice_Frostbite_183
+  - first:
+      213: 6923837910845341759
+    second: Ice_Frostbite_184
+  - first:
+      213: -4037286574493560598
+    second: Ice_Frostbite_185
+  - first:
+      213: 3250495890765704356
+    second: Ice_Frostbite_186
+  - first:
+      213: -1976858335352584497
+    second: Ice_Frostbite_187
+  - first:
+      213: 7683077637376053068
+    second: Ice_Frostbite_188
+  - first:
+      213: -75975763884783835
+    second: Ice_Frostbite_189
+  - first:
+      213: -733340421997221633
+    second: Ice_Frostbite_190
+  - first:
+      213: 6093993135875211656
+    second: Ice_Frostbite_191
+  - first:
+      213: -81763926258455824
+    second: Ice_Frostbite_192
+  - first:
+      213: -5023226049427585310
+    second: Ice_Frostbite_193
+  - first:
+      213: -6482635695861785489
+    second: Ice_Frostbite_194
+  - first:
+      213: -1982193829289582916
+    second: Ice_Frostbite_195
+  - first:
+      213: 7006221830507681129
+    second: Ice_Frostbite_196
+  - first:
+      213: -8159604355957947651
+    second: Ice_Frostbite_197
+  - first:
+      213: 3741331054557714091
+    second: Ice_Frostbite_198
+  - first:
+      213: 5823517102015904506
+    second: Ice_Frostbite_199
+  - first:
+      213: -8771840442117977910
+    second: Ice_Frostbite_200
+  - first:
+      213: 4418971153389766349
+    second: Ice_Frostbite_201
+  - first:
+      213: 8728886277344207431
+    second: Ice_Frostbite_202
+  - first:
+      213: -7721962445093126572
+    second: Ice_Frostbite_203
+  - first:
+      213: -1113314335839671802
+    second: Ice_Frostbite_204
+  - first:
+      213: -36896605150513966
+    second: Ice_Frostbite_205
+  - first:
+      213: 5686014010590337723
+    second: Ice_Frostbite_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice_Frostbite_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb637c8b374761200800000000000000
+      internalID: 150435677933614780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49111e4c413ef8380800000000000000
+      internalID: -8966698654729432684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a11113b5a814e0800000000000000
+      internalID: -2010675045116829273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114ce6ff89bacff30800000000000000
+      internalID: 4610748792129373201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 71
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9811f055422b11a70800000000000000
+      internalID: 8796007416346907017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4251828a20f41530800000000000000
+      internalID: 3824946048913199694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 118
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80782dbdc70a8d8a0800000000000000
+      internalID: -6280093222243760376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 71
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ea72891f0d7440800000000000000
+      internalID: 4935117368905622301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1ce1a510cb90180800000000000000
+      internalID: -9148574454033497626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a429167c434ff0800000000000000
+      internalID: -53114700486629185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b033d65acc359be50800000000000000
+      internalID: 6825578848670528267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a1a1783c55fe490800000000000000
+      internalID: -7714853338388751735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 66
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4fe504293069150800000000000000
+      internalID: 5878890290258834626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 71
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91c03fb09627a90800000000000000
+      internalID: -7317670944480421406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ce5108c4d40cce0800000000000000
+      internalID: -1387023694268339179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9402f9b185a16ac0800000000000000
+      internalID: -3863625028718164835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_16
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 71
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f33b68324fec9ef0800000000000000
+      internalID: -99942024015563783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200a89e29e5a5810800000000000000
+      internalID: 1754818989890600997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a4b3395dbae750800000000000000
+      internalID: 6335084016667240118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 47
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee01bac4b4f02740800000000000000
+      internalID: 5125365433279516390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_20
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff85ed7b2fec9f90800000000000000
+      internalID: -6945413555237318663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_21
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680875059626a59e0800000000000000
+      internalID: -1631883710509383546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f73c03bc5a6e30800000000000000
+      internalID: 4497509101956755958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_23
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1745fc02206976c40800000000000000
+      internalID: 5505534005368280177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_24
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 63
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be72539f47fa39ae0800000000000000
+      internalID: -1543697330325870613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_25
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fc68013372a26a0800000000000000
+      internalID: -6473318414117580931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5975ddfe68ff8360800000000000000
+      internalID: 7174225887013206363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_27
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 47
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141154144017fc8b0800000000000000
+      internalID: -5129757187462852287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_28
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f145d3ceb599ddd10800000000000000
+      internalID: 2152044817037480991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_29
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 71
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6332ec15d1a5100c0800000000000000
+      internalID: -4611305461477661898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_30
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 63
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b69869c8adae20800000000000000
+      internalID: 3363530079712228002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d9cdf811f3b3e30800000000000000
+      internalID: 4484247198638054698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f390f1f16ea9c0800000000000000
+      internalID: -3914083334387141831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b4bd4640e6190b0800000000000000
+      internalID: -5723672686260171963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186dde0d2dab8fc0800000000000000
+      internalID: -3491506677061162990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 55
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7907fc35f06d31440800000000000000
+      internalID: 4905499780455559319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc0fe0716f785620800000000000000
+      internalID: 2763098427875069141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_37
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 47
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805ee80a7642d0d80800000000000000
+      internalID: -8282924112170523384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 39
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec122a528db3bfb0800000000000000
+      internalID: -4633151224078525209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 47
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8672ec93cf718de60800000000000000
+      internalID: 7987160311210583912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_40
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 47
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdead8ef17853a60800000000000000
+      internalID: 7653171712906423743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 47
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a72344f8b096b70800000000000000
+      internalID: 8892651649172142702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 15
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bceec26809622f0800000000000000
+      internalID: -997951361462121585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_43
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93d0f42a93ae6f70800000000000000
+      internalID: 9182456572695073692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_44
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 47
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf1fa70559e81e0800000000000000
+      internalID: -2193651795590251057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_45
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 23
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a2320dde4b63480800000000000000
+      internalID: -8919743078468474235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_46
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36266e0adbd0f80800000000000000
+      internalID: -8138640452830993422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_47
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec6d9b05e7911e20800000000000000
+      internalID: 3319601410346937580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_48
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada4ed123ac005f0800000000000000
+      internalID: -792411217818505819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_49
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f050edbc55900c0800000000000000
+      internalID: -4609058409545396458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_50
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61498b6b61577c0800000000000000
+      internalID: -4074325313850173719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_51
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997d65195c3c02640800000000000000
+      internalID: 5053254035224057753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_52
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 55
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09249241adb73f340800000000000000
+      internalID: 4896393396453196432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_53
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 55
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ccc920351919800800000000000000
+      internalID: 617434409638612014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_54
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 63
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32d39077d37be0e0800000000000000
+      internalID: -2239569020542791105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_55
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0523d3b62bb5f7d90800000000000000
+      internalID: -7097853665851133360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_56
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 55
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffdb57000f4a570800000000000000
+      internalID: 8477164283384168349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_57
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 63
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752a9846d36319580800000000000000
+      internalID: -8822210557734444457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_58
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 55
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436dad991191ee9f0800000000000000
+      internalID: -437384550421965260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_59
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5389570f611085840800000000000000
+      internalID: 5212917766716495925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_60
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f9e4a2f3469bce0800000000000000
+      internalID: -1388968787611574406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_61
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ccc7b6a3ec076a0800000000000000
+      internalID: -6453431515715154791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_62
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d9b654ad6ef6a70800000000000000
+      internalID: 8822524020184030539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_63
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 56
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0426819e6948d1e30800000000000000
+      internalID: 4475879388366791232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_64
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 40
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2df6eb7a9c0a5a0800000000000000
+      internalID: -6511983338886016334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_65
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93da88cd42778800800000000000000
+      internalID: 614585552561951646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_66
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 58
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46880468ccad3f80800000000000000
+      internalID: -8125148176034789809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_67
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 50
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d01b05129cca8220800000000000000
+      internalID: 2489026671865958614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_68
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 64
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaf5f8c88f8e1e70800000000000000
+      internalID: 9087858915730127598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_69
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 64
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb9ed5fc3124720800000000000000
+      internalID: 2828845297296849978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_70
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 0
+        width: 183
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334dc3d4a0a70fb0800000000000000
+      internalID: -4681596657839815877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb1ac21cd3dbac0800000000000000
+      internalID: -3837843407563014370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a83b4139d69910d0800000000000000
+      internalID: -3451561779823691611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c7c7feae86657c0800000000000000
+      internalID: -4082960653915226996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabd6019fd66070c0800000000000000
+      internalID: -4580047710638908499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_75
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99857e7475113a030800000000000000
+      internalID: 3504664001590548633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_76
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 47
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5e9e26703f41c0800000000000000
+      internalID: -4517338617082913663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b03f52b7886f9030800000000000000
+      internalID: 3503633967139991732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_78
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 42
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3492062062d75360800000000000000
+      internalID: 7158421443125089343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_79
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 47
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc5f6ebfb1abb260800000000000000
+      internalID: 7114457881267625151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_80
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 47
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc48ed4bf2d7517e0800000000000000
+      internalID: -1795391232585857843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_81
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 47
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc97278e286f57a0800000000000000
+      internalID: -6386271197542769466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_82
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15506a20e5fb28cb0800000000000000
+      internalID: -4863114237114448559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_83
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 56
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bce16f9a15f21be0800000000000000
+      internalID: -1507873430523745102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a96fc97c2b48c0800000000000000
+      internalID: -4014065741188192894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4667ffe388850cb0800000000000000
+      internalID: -4898358919447484851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa69331c7c86b50800000000000000
+      internalID: 6586734087637479317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06537cf5fb8b41e70800000000000000
+      internalID: 9085089480398288224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a483c38d7b09a0800000000000000
+      internalID: -6265776451681475432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd16f7ec9bf12d60800000000000000
+      internalID: 7863843075690733053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_90
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 31
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bdb01e68e8ee7c0800000000000000
+      internalID: -4040135105752343759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_91
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6af914da492504c0800000000000000
+      internalID: -4322002866029331861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_92
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 39
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3328d40418dddc70800000000000000
+      internalID: 8997585211048338237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_93
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 39
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc19d9836f89da9b0800000000000000
+      internalID: -5067225822442712629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_94
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 23
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f6b5b115e5cec10800000000000000
+      internalID: 2084144430010036109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_95
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 39
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea445cf73d8e6d60800000000000000
+      internalID: 7885395269168417506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_96
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 23
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0093c209584c50800000000000000
+      internalID: 6649662718218341450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_97
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 39
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba354fc8fb1dffd0800000000000000
+      internalID: -2306656678700565833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_98
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 23
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2fe352db6c6dbd0800000000000000
+      internalID: -2605676818711252283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_99
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 39
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c08d3ca45e3b000800000000000000
+      internalID: 50636130107264064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_100
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 39
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbeed91344258110800000000000000
+      internalID: 1262455141162740735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_101
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124925b1c691f4300800000000000000
+      internalID: 238437257379484705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_102
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df9bb5ede781f3f0800000000000000
+      internalID: -868763797274517546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_103
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a4eeb5f6eec8390800000000000000
+      internalID: -7814609091343529416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23934f70345870210800000000000000
+      internalID: 1299153540462426418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_105
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e526aee8dc471a0800000000000000
+      internalID: -6812594322603352570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_106
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 39
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a5eba4801ee0d0800000000000000
+      internalID: -3391755307357722628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_107
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 39
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb0d559622535d10800000000000000
+      internalID: 2113122975835032559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_108
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 39
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0c4a08fa2a27cc0800000000000000
+      internalID: -3714727867965980506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_109
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42b50cee5eccf50800000000000000
+      internalID: 6903145142444303598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_110
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 39
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f6561d6f4f7a60800000000000000
+      internalID: 7673939620007441534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_111
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 39
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91835578e47589580800000000000000
+      internalID: -8820203875415541735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_112
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 39
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1fdb4e9de7b66b0800000000000000
+      internalID: -5302004661987970606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_113
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 39
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03310f3dfc516d740800000000000000
+      internalID: 5176348804067103536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_114
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 39
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8284012c913b16820800000000000000
+      internalID: 2909803757469452328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_115
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 39
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ce35e45f798590800000000000000
+      internalID: -7671460487648851663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_116
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 39
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069031f335f5f45b0800000000000000
+      internalID: -5381978218539316896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_117
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13528f63ef3bd03f0800000000000000
+      internalID: -932891643370527439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_118
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1b49864b9f9e80800000000000000
+      internalID: -8169640471773373577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_119
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 48
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed0b870342967d30800000000000000
+      internalID: 4428888100152479211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a94efaec96528ee0800000000000000
+      internalID: -1260349713752897119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_121
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 23
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc000090e3940fc0800000000000000
+      internalID: -3529533615253746442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_122
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967a4b6fbc3f56b0800000000000000
+      internalID: -5305455043182692708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_123
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf6f71598fd4660800000000000000
+      internalID: 7371821484311247960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_124
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86f66d3991fb5080800000000000000
+      internalID: -9197492173511657843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_125
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 23
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e22e53e8fc0b9960800000000000000
+      internalID: 7609690258478605025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_126
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddbe8d528db835f0800000000000000
+      internalID: -776662568108376618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_127
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 39
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfd50f20032b23f0800000000000000
+      internalID: -924606814798618678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_128
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fc8b3807f3ba480800000000000000
+      internalID: -8886939687206727930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_129
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 31
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc45870c94869f0e0800000000000000
+      internalID: -2235641074041727795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_130
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 23
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8811f3350e1f050a0800000000000000
+      internalID: -6894745083732618872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_131
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 18
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b501615df0c4a3630800000000000000
+      internalID: 3907519257580539995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_132
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 31
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b52458f2e1386b0800000000000000
+      internalID: -5295355547409556701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_133
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad59a7861ddfc30800000000000000
+      internalID: 4394899058046917284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_134
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe1e82b1e293cf0800000000000000
+      internalID: -272135608294315040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_135
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 15
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd86ca6658625210800000000000000
+      internalID: 1320232361140850160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_136
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 31
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed0bfc0edf66d6f0800000000000000
+      internalID: -660217295871996439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_137
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 16
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a076e40b531baaae0800000000000000
+      internalID: -1537221478644291830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_138
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 24
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0509113093c50e810800000000000000
+      internalID: 1792534051627831376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_139
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 39
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034fff8fd9cc8fbe0800000000000000
+      internalID: -1443178701712788432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_140
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 26
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cd7b18494dd4ca0800000000000000
+      internalID: -6030930591682667500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_141
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 39
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525323314e45a6c70800000000000000
+      internalID: 8965071346785727781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_142
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 40
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48861abcf897a71c0800000000000000
+      internalID: -4505154818727122812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_143
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3f5d9ecd7595b0800000000000000
+      internalID: -5362241454957708427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ccbbe6b3e19fc40800000000000000
+      internalID: 5546497656693181581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_145
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 23
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed4fd2b52d928b80800000000000000
+      internalID: -8393973970224853521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_146
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 23
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fef9a270c72ab00800000000000000
+      internalID: 838368850866073456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_147
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 23
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce258a904da877f0800000000000000
+      internalID: -614550856154140989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_148
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 23
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673000cba827072c0800000000000000
+      internalID: -4435919692774767754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_149
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 23
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd39fdae75cb640800000000000000
+      internalID: 5097045544561532069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_150
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 31
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d342cf7436def0770800000000000000
+      internalID: 8579336825829336125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_151
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125fb5a2360a3d00800000000000000
+      internalID: 953081085741191701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_152
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 23
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d594fa96914020800000000000000
+      internalID: 2324304474972477889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_153
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 23
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937812ac499a24ec0800000000000000
+      internalID: -3584115896922044615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_154
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 23
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e4c7968e21cc70800000000000000
+      internalID: 8989517486814978851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_155
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 23
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7197db319d1d2610800000000000000
+      internalID: 1597965952397840762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_156
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 18
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576495cb4df9a17b0800000000000000
+      internalID: -5252710279332411787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_157
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 32
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c85dc22918d349c0800000000000000
+      internalID: -3944071246176757565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_158
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 32
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc283ac539caf760800000000000000
+      internalID: 7492522162947370187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_159
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b303700e5cc86630800000000000000
+      internalID: 3920608179732546486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b2bb857efb63280800000000000000
+      internalID: -9063846199689532667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_161
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ecbe6b5c3dee60800000000000000
+      internalID: 7993111277050062399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_162
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfc0605a4cb7d2d0800000000000000
+      internalID: -3253925178389770315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_163
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f548f6ebcc2bdc50800000000000000
+      internalID: 6690990925654017522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_164
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf3d924cf325d7b0800000000000000
+      internalID: -5200210628373037122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_165
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37be25cc8e8c9c0800000000000000
+      internalID: -3906616712481770546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_166
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 7
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a595caf1afcb8a7a0800000000000000
+      internalID: -6365630290828961446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_167
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f6fe4886a17a860800000000000000
+      internalID: 7541025137264389903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_168
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 0
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cb9466d2e0c91b0800000000000000
+      internalID: -5648624244477019091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_169
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b744eda115c6b0800000000000000
+      internalID: -5276791949837748252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_170
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b47b03d1eaa5790800000000000000
+      internalID: -7540523185683870822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_171
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf2415f37258fe0800000000000000
+      internalID: -1187499773842490303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_172
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3776fc1ca03b73550800000000000000
+      internalID: 6140573475725600627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_173
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62577727bc035e80800000000000000
+      internalID: -8191189316476120468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_174
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c28ea66af770da00800000000000000
+      internalID: 779254652883337924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_175
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd87bf0e07bbfa0800000000000000
+      internalID: -5783905184833282857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_176
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba39c3a52e16feb10800000000000000
+      internalID: 2012935183262323627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_177
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f57c46ce5ec7c0800000000000000
+      internalID: -4049194809180161780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_178
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155dfc5d5f8834460800000000000000
+      internalID: 7224768816667940177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_179
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b5c88f06bb7a010800000000000000
+      internalID: 1200133850878729023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_180
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 24
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7130f2e3e19cbf3e0800000000000000
+      internalID: -2018798876216065257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368f6575e2d220200800000000000000
+      internalID: 144727815086340195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84fecfad6d04530800000000000000
+      internalID: 3837303118554417335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_183
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9049ad7449130ec70800000000000000
+      internalID: 8998246568416678921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_184
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c15655e9661060800000000000000
+      internalID: 6923837910845341759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_185
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09bde304da8f7c0800000000000000
+      internalID: -4037286574493560598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_186
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ace4f07ac41c1d20800000000000000
+      internalID: 3250495890765704356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_187
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60a0e51d9c094e0800000000000000
+      internalID: -1976858335352584497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_188
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0c8d8766cf9a60800000000000000
+      internalID: 7683077637376053068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_189
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527cb1ef17412fef0800000000000000
+      internalID: -75975763884783835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_190
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ab6785c6a2d5f0800000000000000
+      internalID: -733340421997221633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_191
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c28f3876329450800000000000000
+      internalID: 6093993135875211656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_192
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa6ceb64248ddef0800000000000000
+      internalID: -81763926258455824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_193
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e64161b58ae94ab0800000000000000
+      internalID: -5023226049427585310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_194
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c14eb5e2d0906a0800000000000000
+      internalID: -6482635695861785489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_195
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe1931e635dd74e0800000000000000
+      internalID: -1982193829289582916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_196
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9655ff062a91b3160800000000000000
+      internalID: 7006221830507681129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_197
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df28567d11343ce80800000000000000
+      internalID: -8159604355957947651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_198
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6dc0e85c0ebe330800000000000000
+      internalID: 3741331054557714091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_199
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 7
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaf11133f941d050800000000000000
+      internalID: 5823517102015904506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_200
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 15
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac80725d799244680800000000000000
+      internalID: -8771840442117977910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_201
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 16
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ce7ee9d6535d30800000000000000
+      internalID: 4418971153389766349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_202
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 0
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74222e552db332970800000000000000
+      internalID: 8728886277344207431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_203
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e3153a11416d490800000000000000
+      internalID: -7721962445093126572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_204
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 0
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a2de89286bc80f0800000000000000
+      internalID: -1113314335839671802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_205
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f59cabbaec7ff0800000000000000
+      internalID: -36896605150513966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice_Frostbite_206
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba9129ed97c8ee40800000000000000
+      internalID: 5686014010590337723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ice_Frostbite_0: 150435677933614780
+      Ice_Frostbite_1: -8966698654729432684
+      Ice_Frostbite_10: 6825578848670528267
+      Ice_Frostbite_100: 1262455141162740735
+      Ice_Frostbite_101: 238437257379484705
+      Ice_Frostbite_102: -868763797274517546
+      Ice_Frostbite_103: -7814609091343529416
+      Ice_Frostbite_104: 1299153540462426418
+      Ice_Frostbite_105: -6812594322603352570
+      Ice_Frostbite_106: -3391755307357722628
+      Ice_Frostbite_107: 2113122975835032559
+      Ice_Frostbite_108: -3714727867965980506
+      Ice_Frostbite_109: 6903145142444303598
+      Ice_Frostbite_11: -7714853338388751735
+      Ice_Frostbite_110: 7673939620007441534
+      Ice_Frostbite_111: -8820203875415541735
+      Ice_Frostbite_112: -5302004661987970606
+      Ice_Frostbite_113: 5176348804067103536
+      Ice_Frostbite_114: 2909803757469452328
+      Ice_Frostbite_115: -7671460487648851663
+      Ice_Frostbite_116: -5381978218539316896
+      Ice_Frostbite_117: -932891643370527439
+      Ice_Frostbite_118: -8169640471773373577
+      Ice_Frostbite_119: 4428888100152479211
+      Ice_Frostbite_12: 5878890290258834626
+      Ice_Frostbite_120: -1260349713752897119
+      Ice_Frostbite_121: -3529533615253746442
+      Ice_Frostbite_122: -5305455043182692708
+      Ice_Frostbite_123: 7371821484311247960
+      Ice_Frostbite_124: -9197492173511657843
+      Ice_Frostbite_125: 7609690258478605025
+      Ice_Frostbite_126: -776662568108376618
+      Ice_Frostbite_127: -924606814798618678
+      Ice_Frostbite_128: -8886939687206727930
+      Ice_Frostbite_129: -2235641074041727795
+      Ice_Frostbite_13: -7317670944480421406
+      Ice_Frostbite_130: -6894745083732618872
+      Ice_Frostbite_131: 3907519257580539995
+      Ice_Frostbite_132: -5295355547409556701
+      Ice_Frostbite_133: 4394899058046917284
+      Ice_Frostbite_134: -272135608294315040
+      Ice_Frostbite_135: 1320232361140850160
+      Ice_Frostbite_136: -660217295871996439
+      Ice_Frostbite_137: -1537221478644291830
+      Ice_Frostbite_138: 1792534051627831376
+      Ice_Frostbite_139: -1443178701712788432
+      Ice_Frostbite_14: -1387023694268339179
+      Ice_Frostbite_140: -6030930591682667500
+      Ice_Frostbite_141: 8965071346785727781
+      Ice_Frostbite_142: -4505154818727122812
+      Ice_Frostbite_143: -5362241454957708427
+      Ice_Frostbite_144: 5546497656693181581
+      Ice_Frostbite_145: -8393973970224853521
+      Ice_Frostbite_146: 838368850866073456
+      Ice_Frostbite_147: -614550856154140989
+      Ice_Frostbite_148: -4435919692774767754
+      Ice_Frostbite_149: 5097045544561532069
+      Ice_Frostbite_15: -3863625028718164835
+      Ice_Frostbite_150: 8579336825829336125
+      Ice_Frostbite_151: 953081085741191701
+      Ice_Frostbite_152: 2324304474972477889
+      Ice_Frostbite_153: -3584115896922044615
+      Ice_Frostbite_154: 8989517486814978851
+      Ice_Frostbite_155: 1597965952397840762
+      Ice_Frostbite_156: -5252710279332411787
+      Ice_Frostbite_157: -3944071246176757565
+      Ice_Frostbite_158: 7492522162947370187
+      Ice_Frostbite_159: 3920608179732546486
+      Ice_Frostbite_16: -99942024015563783
+      Ice_Frostbite_160: -9063846199689532667
+      Ice_Frostbite_161: 7993111277050062399
+      Ice_Frostbite_162: -3253925178389770315
+      Ice_Frostbite_163: 6690990925654017522
+      Ice_Frostbite_164: -5200210628373037122
+      Ice_Frostbite_165: -3906616712481770546
+      Ice_Frostbite_166: -6365630290828961446
+      Ice_Frostbite_167: 7541025137264389903
+      Ice_Frostbite_168: -5648624244477019091
+      Ice_Frostbite_169: -5276791949837748252
+      Ice_Frostbite_17: 1754818989890600997
+      Ice_Frostbite_170: -7540523185683870822
+      Ice_Frostbite_171: -1187499773842490303
+      Ice_Frostbite_172: 6140573475725600627
+      Ice_Frostbite_173: -8191189316476120468
+      Ice_Frostbite_174: 779254652883337924
+      Ice_Frostbite_175: -5783905184833282857
+      Ice_Frostbite_176: 2012935183262323627
+      Ice_Frostbite_177: -4049194809180161780
+      Ice_Frostbite_178: 7224768816667940177
+      Ice_Frostbite_179: 1200133850878729023
+      Ice_Frostbite_18: 6335084016667240118
+      Ice_Frostbite_180: -2018798876216065257
+      Ice_Frostbite_181: 144727815086340195
+      Ice_Frostbite_182: 3837303118554417335
+      Ice_Frostbite_183: 8998246568416678921
+      Ice_Frostbite_184: 6923837910845341759
+      Ice_Frostbite_185: -4037286574493560598
+      Ice_Frostbite_186: 3250495890765704356
+      Ice_Frostbite_187: -1976858335352584497
+      Ice_Frostbite_188: 7683077637376053068
+      Ice_Frostbite_189: -75975763884783835
+      Ice_Frostbite_19: 5125365433279516390
+      Ice_Frostbite_190: -733340421997221633
+      Ice_Frostbite_191: 6093993135875211656
+      Ice_Frostbite_192: -81763926258455824
+      Ice_Frostbite_193: -5023226049427585310
+      Ice_Frostbite_194: -6482635695861785489
+      Ice_Frostbite_195: -1982193829289582916
+      Ice_Frostbite_196: 7006221830507681129
+      Ice_Frostbite_197: -8159604355957947651
+      Ice_Frostbite_198: 3741331054557714091
+      Ice_Frostbite_199: 5823517102015904506
+      Ice_Frostbite_2: -2010675045116829273
+      Ice_Frostbite_20: -6945413555237318663
+      Ice_Frostbite_200: -8771840442117977910
+      Ice_Frostbite_201: 4418971153389766349
+      Ice_Frostbite_202: 8728886277344207431
+      Ice_Frostbite_203: -7721962445093126572
+      Ice_Frostbite_204: -1113314335839671802
+      Ice_Frostbite_205: -36896605150513966
+      Ice_Frostbite_206: 5686014010590337723
+      Ice_Frostbite_21: -1631883710509383546
+      Ice_Frostbite_22: 4497509101956755958
+      Ice_Frostbite_23: 5505534005368280177
+      Ice_Frostbite_24: -1543697330325870613
+      Ice_Frostbite_25: -6473318414117580931
+      Ice_Frostbite_26: 7174225887013206363
+      Ice_Frostbite_27: -5129757187462852287
+      Ice_Frostbite_28: 2152044817037480991
+      Ice_Frostbite_29: -4611305461477661898
+      Ice_Frostbite_3: 4610748792129373201
+      Ice_Frostbite_30: 3363530079712228002
+      Ice_Frostbite_31: 4484247198638054698
+      Ice_Frostbite_32: -3914083334387141831
+      Ice_Frostbite_33: -5723672686260171963
+      Ice_Frostbite_34: -3491506677061162990
+      Ice_Frostbite_35: 4905499780455559319
+      Ice_Frostbite_36: 2763098427875069141
+      Ice_Frostbite_37: -8282924112170523384
+      Ice_Frostbite_38: -4633151224078525209
+      Ice_Frostbite_39: 7987160311210583912
+      Ice_Frostbite_4: 8796007416346907017
+      Ice_Frostbite_40: 7653171712906423743
+      Ice_Frostbite_41: 8892651649172142702
+      Ice_Frostbite_42: -997951361462121585
+      Ice_Frostbite_43: 9182456572695073692
+      Ice_Frostbite_44: -2193651795590251057
+      Ice_Frostbite_45: -8919743078468474235
+      Ice_Frostbite_46: -8138640452830993422
+      Ice_Frostbite_47: 3319601410346937580
+      Ice_Frostbite_48: -792411217818505819
+      Ice_Frostbite_49: -4609058409545396458
+      Ice_Frostbite_5: 3824946048913199694
+      Ice_Frostbite_50: -4074325313850173719
+      Ice_Frostbite_51: 5053254035224057753
+      Ice_Frostbite_52: 4896393396453196432
+      Ice_Frostbite_53: 617434409638612014
+      Ice_Frostbite_54: -2239569020542791105
+      Ice_Frostbite_55: -7097853665851133360
+      Ice_Frostbite_56: 8477164283384168349
+      Ice_Frostbite_57: -8822210557734444457
+      Ice_Frostbite_58: -437384550421965260
+      Ice_Frostbite_59: 5212917766716495925
+      Ice_Frostbite_6: -6280093222243760376
+      Ice_Frostbite_60: -1388968787611574406
+      Ice_Frostbite_61: -6453431515715154791
+      Ice_Frostbite_62: 8822524020184030539
+      Ice_Frostbite_63: 4475879388366791232
+      Ice_Frostbite_64: -6511983338886016334
+      Ice_Frostbite_65: 614585552561951646
+      Ice_Frostbite_66: -8125148176034789809
+      Ice_Frostbite_67: 2489026671865958614
+      Ice_Frostbite_68: 9087858915730127598
+      Ice_Frostbite_69: 2828845297296849978
+      Ice_Frostbite_7: 4935117368905622301
+      Ice_Frostbite_70: -4681596657839815877
+      Ice_Frostbite_71: -3837843407563014370
+      Ice_Frostbite_72: -3451561779823691611
+      Ice_Frostbite_73: -4082960653915226996
+      Ice_Frostbite_74: -4580047710638908499
+      Ice_Frostbite_75: 3504664001590548633
+      Ice_Frostbite_76: -4517338617082913663
+      Ice_Frostbite_77: 3503633967139991732
+      Ice_Frostbite_78: 7158421443125089343
+      Ice_Frostbite_79: 7114457881267625151
+      Ice_Frostbite_8: -9148574454033497626
+      Ice_Frostbite_80: -1795391232585857843
+      Ice_Frostbite_81: -6386271197542769466
+      Ice_Frostbite_82: -4863114237114448559
+      Ice_Frostbite_83: -1507873430523745102
+      Ice_Frostbite_84: -4014065741188192894
+      Ice_Frostbite_85: -4898358919447484851
+      Ice_Frostbite_86: 6586734087637479317
+      Ice_Frostbite_87: 9085089480398288224
+      Ice_Frostbite_88: -6265776451681475432
+      Ice_Frostbite_89: 7863843075690733053
+      Ice_Frostbite_9: -53114700486629185
+      Ice_Frostbite_90: -4040135105752343759
+      Ice_Frostbite_91: -4322002866029331861
+      Ice_Frostbite_92: 8997585211048338237
+      Ice_Frostbite_93: -5067225822442712629
+      Ice_Frostbite_94: 2084144430010036109
+      Ice_Frostbite_95: 7885395269168417506
+      Ice_Frostbite_96: 6649662718218341450
+      Ice_Frostbite_97: -2306656678700565833
+      Ice_Frostbite_98: -2605676818711252283
+      Ice_Frostbite_99: 50636130107264064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

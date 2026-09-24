@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 294400bb9c08b471a9489efa76c64cb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2921285941695769893
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_0
+  - first:
+      213: -7092224845179573098
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_1
+  - first:
+      213: 8751979049061146880
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_2
+  - first:
+      213: -2807137188942853035
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_3
+  - first:
+      213: 4871330900770996839
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_4
+  - first:
+      213: -8473046133052638541
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_5
+  - first:
+      213: -6101160199149055512
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_6
+  - first:
+      213: -3690527943440196953
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_7
+  - first:
+      213: -4926037728517857747
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_8
+  - first:
+      213: -8441815116671243760
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_9
+  - first:
+      213: -1034617926431989220
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_10
+  - first:
+      213: -7539072773369200171
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_11
+  - first:
+      213: -574917835827058906
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_12
+  - first:
+      213: -3949781873976796496
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_13
+  - first:
+      213: 7095397752406787012
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_14
+  - first:
+      213: 3909502334378018904
+    second: Minifantasy_MagicAndSorceryFireShield1Ball_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd291e5e9e18577d0800000000000000
+      internalID: -2921285941695769893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c2fdb541b539d90800000000000000
+      internalID: -7092224845179573098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00163fc3396457970800000000000000
+      internalID: 8751979049061146880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cc549799b0b09d0800000000000000
+      internalID: -2807137188942853035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c6d315a17a9340800000000000000
+      internalID: 4871330900770996839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba76e12f61b96a80800000000000000
+      internalID: -8473046133052638541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e118fbcf13545ba0800000000000000
+      internalID: -6101160199149055512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa1891836c98ccc0800000000000000
+      internalID: -3690527943440196953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e558109c233abb0800000000000000
+      internalID: -4926037728517857747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa947c0e5a8da80800000000000000
+      internalID: -8441815116671243760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1225c04a7c44a1f0800000000000000
+      internalID: -1034617926431989220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1828f9145df5790800000000000000
+      internalID: -7539072773369200171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627ed7c364b7508f0800000000000000
+      internalID: -574917835827058906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba165dff4e8f29c0800000000000000
+      internalID: -3949781873976796496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3cf4ca9aae77260800000000000000
+      internalID: 7095397752406787012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_MagicAndSorceryFireShield1Ball_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588921e8a7514630800000000000000
+      internalID: 3909502334378018904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Minifantasy_MagicAndSorceryFireShield1Ball_0: -2921285941695769893
+      Minifantasy_MagicAndSorceryFireShield1Ball_1: -7092224845179573098
+      Minifantasy_MagicAndSorceryFireShield1Ball_10: -1034617926431989220
+      Minifantasy_MagicAndSorceryFireShield1Ball_11: -7539072773369200171
+      Minifantasy_MagicAndSorceryFireShield1Ball_12: -574917835827058906
+      Minifantasy_MagicAndSorceryFireShield1Ball_13: -3949781873976796496
+      Minifantasy_MagicAndSorceryFireShield1Ball_14: 7095397752406787012
+      Minifantasy_MagicAndSorceryFireShield1Ball_15: 3909502334378018904
+      Minifantasy_MagicAndSorceryFireShield1Ball_2: 8751979049061146880
+      Minifantasy_MagicAndSorceryFireShield1Ball_3: -2807137188942853035
+      Minifantasy_MagicAndSorceryFireShield1Ball_4: 4871330900770996839
+      Minifantasy_MagicAndSorceryFireShield1Ball_5: -8473046133052638541
+      Minifantasy_MagicAndSorceryFireShield1Ball_6: -6101160199149055512
+      Minifantasy_MagicAndSorceryFireShield1Ball_7: -3690527943440196953
+      Minifantasy_MagicAndSorceryFireShield1Ball_8: -4926037728517857747
+      Minifantasy_MagicAndSorceryFireShield1Ball_9: -8441815116671243760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

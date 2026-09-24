@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 13d6d260ebada4a1882aaa0a952165a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7333273921935146941
+    second: Aura_To_Sting_0
+  - first:
+      213: -7585021066173212428
+    second: Aura_To_Sting_1
+  - first:
+      213: 7345138847881613581
+    second: Aura_To_Sting_2
+  - first:
+      213: -4136115882248809801
+    second: Aura_To_Sting_3
+  - first:
+      213: -4388538819748032840
+    second: Aura_To_Sting_4
+  - first:
+      213: -4361192404842389685
+    second: Aura_To_Sting_5
+  - first:
+      213: 8548657494251546846
+    second: Aura_To_Sting_6
+  - first:
+      213: -3054134553904617837
+    second: Aura_To_Sting_7
+  - first:
+      213: 559844776123864704
+    second: Aura_To_Sting_8
+  - first:
+      213: 8215008301040470147
+    second: Aura_To_Sting_9
+  - first:
+      213: 5420912905575720420
+    second: Aura_To_Sting_10
+  - first:
+      213: 1441527343355124193
+    second: Aura_To_Sting_11
+  - first:
+      213: -1022993186860572718
+    second: Aura_To_Sting_12
+  - first:
+      213: -214002422810883570
+    second: Aura_To_Sting_13
+  - first:
+      213: 3809110647929425534
+    second: Aura_To_Sting_14
+  - first:
+      213: -295248671849923037
+    second: Aura_To_Sting_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aura_To_Sting_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 123
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf749557c505c560800000000000000
+      internalID: 7333273921935146941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f814e807879cb690800000000000000
+      internalID: -7585021066173212428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01d7edaddc2fe560800000000000000
+      internalID: 7345138847881613581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 108
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b255b8e4809996c0800000000000000
+      internalID: -4136115882248809801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be08e5e137c813c0800000000000000
+      internalID: -4388538819748032840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fdc384d9ee973c0800000000000000
+      internalID: -4361192404842389685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed82853c2bee2a670800000000000000
+      internalID: 8548657494251546846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e4420ec88d95d0800000000000000
+      internalID: -3054134553904617837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08698329bd7f4c700800000000000000
+      internalID: 559844776123864704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388076a5682910270800000000000000
+      internalID: 8215008301040470147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 19
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5eb2ff093fa3b40800000000000000
+      internalID: 5420912905575720420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d1b23b75510410800000000000000
+      internalID: 1441527343355124193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 21
+        width: 166
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfd789dd199dc1f0800000000000000
+      internalID: -1022993186860572718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac8472ee5b70df0800000000000000
+      internalID: -214002422810883570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ecdf7e3fdacd430800000000000000
+      internalID: 3809110647929425534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aura_To_Sting_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ebaf1b5e017ebf0800000000000000
+      internalID: -295248671849923037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aura_To_Sting_0: 7333273921935146941
+      Aura_To_Sting_1: -7585021066173212428
+      Aura_To_Sting_10: 5420912905575720420
+      Aura_To_Sting_11: 1441527343355124193
+      Aura_To_Sting_12: -1022993186860572718
+      Aura_To_Sting_13: -214002422810883570
+      Aura_To_Sting_14: 3809110647929425534
+      Aura_To_Sting_15: -295248671849923037
+      Aura_To_Sting_2: 7345138847881613581
+      Aura_To_Sting_3: -4136115882248809801
+      Aura_To_Sting_4: -4388538819748032840
+      Aura_To_Sting_5: -4361192404842389685
+      Aura_To_Sting_6: 8548657494251546846
+      Aura_To_Sting_7: -3054134553904617837
+      Aura_To_Sting_8: 559844776123864704
+      Aura_To_Sting_9: 8215008301040470147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
