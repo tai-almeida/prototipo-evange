@@ -38,7 +38,6 @@ public class DashVisualizer : MonoBehaviour
         SetAlpha(originalAlpha);
     }
 
-    // muda so a transparencia, mantendo a cor atual
     private void SetAlpha(float value)
     {
         var color = spriteRenderer.color;
