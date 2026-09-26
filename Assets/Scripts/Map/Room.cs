@@ -8,6 +8,7 @@ using UnityEngine.Tilemaps;
 public class Room : MonoBehaviour
 {
     [SerializeField] private Tilemap tilemap;
+    [SerializeField] private Vector2Int expectedSize = new Vector2Int(58, 34);
 
     public event Action<Room> OnPlayerEntered;
     public event Action<Room> OnPlayerExited;
@@ -35,6 +36,13 @@ public class Room : MonoBehaviour
 
         tilemap.CompressBounds();
         var cells = tilemap.cellBounds;
+
+        // tile pintado fora da sala aumenta o trigger e faz ela "engolir" as vizinhas
+        if (cells.size.x != expectedSize.x || cells.size.y != expectedSize.y)
+        {
+            Debug.LogWarning($"Sala {name} tem {cells.size.x}x{cells.size.y} tiles (esperado {expectedSize.x}x{expectedSize.y}). " +
+                             $"Confira se tem tile pintado fora dela: {cells}", this);
+        }
         Vector3 min = tilemap.CellToWorld(cells.min);
         Vector3 max = tilemap.CellToWorld(cells.max);
 
